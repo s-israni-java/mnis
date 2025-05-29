@@ -14,5 +14,13 @@
     "BATTERY": "89",
     "NETWORK": "M",
     "MSG": "Hl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:54:41",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
