@@ -18,5 +18,25 @@
     "TITLE": "Rummycircle",
     "ID": "16",
     "MSG": "Get ₹11,001* Shubh Welcome Bonus!—Dive into the thrilling world of RummyCircle and Win Exciting Cash Prizes *T&C Apply."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 15:55:33",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 15:56:37",
+    "BATTERY": "95",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
