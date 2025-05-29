@@ -168,5 +168,15 @@
     "TITLE": "Vaibhav Yadav",
     "ID": "No ID",
     "MSG": "hfh"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 15:00:52",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "𝒱𝒶𝒾𝒷𝒽𝒶𝓋 𝒴𝒶𝒹𝒶𝓋",
+    "ID": "No ID",
+    "MSG": "Wants to send you a message."
   }
 ]
