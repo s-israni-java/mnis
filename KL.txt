@@ -22,5 +22,29 @@
     "BATTERY": "89",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:26",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Om"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:26",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Omp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:26",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Ompe"
   }
 ]
