@@ -46,5 +46,29 @@
     "BATTERY": "89",
     "NETWORK": "M",
     "MSG": "Ompe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:27",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Ompet"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:27",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Ompet "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:27",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Ompet "
   }
 ]
