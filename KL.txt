@@ -1,42 +1,18 @@
 [
   {
-    "APP": "com.google.android.documentsui",
+    "APP": "com.android.settings",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 15:47:49",
+    "CDATE": "2025-05-29 15:53:49",
     "BATTERY": "96",
     "NETWORK": "M",
-    "MSG": "y"
+    "MSG": "d"
   },
   {
-    "APP": "com.google.android.documentsui",
+    "APP": "com.android.settings",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 15:47:50",
+    "CDATE": "2025-05-29 15:53:49",
     "BATTERY": "96",
     "NETWORK": "M",
-    "MSG": "yh"
-  },
-  {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 15:47:50",
-    "BATTERY": "96",
-    "NETWORK": "M",
-    "MSG": "yhh"
-  },
-  {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 15:47:52",
-    "BATTERY": "96",
-    "NETWORK": "M",
-    "MSG": "yh"
-  },
-  {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 15:47:53",
-    "BATTERY": "96",
-    "NETWORK": "M",
-    "MSG": "y"
+    "MSG": "de"
   }
 ]
