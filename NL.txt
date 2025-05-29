@@ -228,5 +228,15 @@
     "TITLE": "𝒱𝒶𝒾𝒷𝒽𝒶𝓋 𝒴𝒶𝒹𝒶𝓋",
     "ID": "No ID",
     "MSG": "Uuu"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 15:05:38",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Simriti Basantani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by maui_thegoldenpup"
   }
 ]
