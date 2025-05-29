@@ -134,5 +134,21 @@
     "BATTERY": "91",
     "NETWORK": "M",
     "MSG": "ov"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:00",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "o"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:00",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "Search…"
   }
 ]
