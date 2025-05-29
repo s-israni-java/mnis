@@ -28,5 +28,15 @@
     "TITLE": "Maa",
     "ID": "917620495477@s.whatsapp.net",
     "MSG": "https:\/\/www.instagram.com\/reel\/DKHUHbBSY_V\/?igsh=MTd6NHlqMHh2amM3Mw=="
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 16:17:17",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "TITLE": "Transferring files via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
