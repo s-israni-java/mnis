@@ -1,42 +1,12 @@
 [
   {
-    "APP": "com.phonepe.app.business",
+    "APP": "com.google.android.documentsui",
     "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-05-29 15:54:27",
-    "BATTERY": "96",
-    "NETWORK": "M",
-    "TITLE": "Deal on SmartSpeaker!",
-    "ID": "No ID",
-    "MSG": "🔸One-time Setup Fee: ₹318\n🔸Monthly fee: As low as ₹1*\nOrder Now →"
-  },
-  {
-    "APP": "com.google.android.apps.messaging",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-05-29 15:55:32",
-    "BATTERY": "96",
-    "NETWORK": "M",
-    "TITLE": "Rummycircle",
-    "ID": "16",
-    "MSG": "Get ₹11,001* Shubh Welcome Bonus!—Dive into the thrilling world of RummyCircle and Win Exciting Cash Prizes *T&C Apply."
-  },
-  {
-    "APP": "com.google.android.apps.messaging",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-05-29 15:55:33",
-    "BATTERY": "96",
-    "NETWORK": "M",
-    "TITLE": "No title",
-    "ID": "No ID",
-    "MSG": "Messages is doing work in the background"
-  },
-  {
-    "APP": "com.google.android.apps.messaging",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-05-29 15:56:37",
+    "CDATE": "2025-05-29 16:05:31",
     "BATTERY": "95",
     "NETWORK": "M",
-    "TITLE": "No title",
+    "TITLE": "Deleting files",
     "ID": "No ID",
-    "MSG": "Messages is doing work in the background"
+    "MSG": "Preparing..."
   }
 ]
