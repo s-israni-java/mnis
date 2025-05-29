@@ -38,5 +38,15 @@
     "TITLE": "Transferring files via USB",
     "ID": "No ID",
     "MSG": "Tap for more options"
+  },
+  {
+    "APP": "com.binance.dev",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 16:18:21",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "TITLE": "Binance Market Update: Crypto Market Trends | May 29, 2025",
+    "ID": "No ID",
+    "MSG": "1. Former CFTC Chair Advocates for Enhanced Regulatory Authority in Crypto Markets\n2. Bank of Russia Approves Crypto-Linked Derivatives for Qualified Investors\n3. Crypto Groups Urge SEC to Reconsider DAO Regulation\n4. Elon Musk's Departure from U.S. Government Confirmed by White House\n5. SEC Announces Agenda for Upcoming DeFi Roundtable"
   }
 ]
