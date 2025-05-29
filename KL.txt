@@ -14,5 +14,29 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "de"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:53:49",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "dev"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:53:49",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "devi"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:54:27",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
