@@ -8,5 +8,25 @@
     "TITLE": "Deleting files",
     "ID": "No ID",
     "MSG": "Preparing..."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 16:06:44",
+    "BATTERY": "95",
+    "NETWORK": "M",
+    "TITLE": "Maa",
+    "ID": "917620495477@s.whatsapp.net",
+    "MSG": "https:\/\/www.instagram.com\/reel\/DKHUHbBSY_V\/?igsh=MTd6NHlqMHh2amM3Mw=="
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 16:06:44",
+    "BATTERY": "95",
+    "NETWORK": "M",
+    "TITLE": "Maa",
+    "ID": "917620495477@s.whatsapp.net",
+    "MSG": "https:\/\/www.instagram.com\/reel\/DKHUHbBSY_V\/?igsh=MTd6NHlqMHh2amM3Mw=="
   }
 ]
