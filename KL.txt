@@ -238,5 +238,21 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "h"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:46:58",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "hh"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:47:00",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
