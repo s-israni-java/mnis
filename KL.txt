@@ -190,5 +190,21 @@
     "BATTERY": "91",
     "NETWORK": "M",
     "MSG": "mnisf"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:05",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "mnis"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:44:44",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "n"
   }
 ]
