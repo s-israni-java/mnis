@@ -38,5 +38,29 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "f"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:54:28",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:54:28",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "fil"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:54:35",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
