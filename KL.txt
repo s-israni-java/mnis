@@ -6,5 +6,21 @@
     "BATTERY": "89",
     "NETWORK": "M",
     "MSG": "u"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:35:39",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "ui"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:25",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
