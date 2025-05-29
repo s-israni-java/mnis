@@ -790,5 +790,61 @@
     "BATTERY": "88",
     "NETWORK": "M",
     "MSG": "Htnhhhjyk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:23:37",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:24:45",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykgq"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:24:47",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykgqu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:24:51",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykgquu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:26:21",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykgquug"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:26:33",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykgquugr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:30:46",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Htnhhhjykgquugrk"
   }
 ]
