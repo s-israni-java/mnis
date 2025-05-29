@@ -258,5 +258,15 @@
     "TITLE": "International Call ",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 15:45:23",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "TITLE": "PhonePe POS at ₹1\/month",
+    "ID": "No ID",
+    "MSG": "Order now & accept all modes of payment with one single device."
   }
 ]
