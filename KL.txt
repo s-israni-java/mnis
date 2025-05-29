@@ -78,5 +78,21 @@
     "BATTERY": "89",
     "NETWORK": "M",
     "MSG": "Ompet p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:28",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Ompet pa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:39:29",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Ompet pav"
   }
 ]
