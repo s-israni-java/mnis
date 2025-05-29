@@ -268,5 +268,15 @@
     "TITLE": "PhonePe POS at ₹1\/month",
     "ID": "No ID",
     "MSG": "Order now & accept all modes of payment with one single device."
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 15:47:46",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "TITLE": "Deleting files",
+    "ID": "No ID",
+    "MSG": "Preparing..."
   }
 ]
