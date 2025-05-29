@@ -158,5 +158,37 @@
     "BATTERY": "91",
     "NETWORK": "M",
     "MSG": "m"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:03",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "mn"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:03",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "mni"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:03",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "mnis"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 15:10:04",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "mnisf"
   }
 ]
