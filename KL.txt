@@ -94,5 +94,13 @@
     "BATTERY": "89",
     "NETWORK": "M",
     "MSG": "Ompet pav"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-29 14:50:28",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
