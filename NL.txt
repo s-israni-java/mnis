@@ -148,5 +148,15 @@
     "TITLE": "Vaibhav Yadav",
     "ID": "No ID",
     "MSG": "may"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-29 14:55:16",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Simriti Basantani",
+    "ID": "No ID",
+    "MSG": "Sent a post by instantbollywood"
   }
 ]
