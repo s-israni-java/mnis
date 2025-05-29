@@ -1,106 +1,10 @@
 [
   {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:35:39",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "u"
-  },
-  {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:35:39",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "ui"
-  },
-  {
     "APP": "com.whatsapp",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:25",
+    "CDATE": "2025-05-29 14:54:10",
     "BATTERY": "89",
     "NETWORK": "M",
-    "MSG": "O"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:26",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Om"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:26",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Omp"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:26",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompe"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:27",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompet"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:27",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompet "
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:27",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompet "
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:28",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompet p"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:28",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompet pa"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:39:29",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "Ompet pav"
-  },
-  {
-    "APP": "com.android.launcher",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-29 14:50:28",
-    "BATTERY": "89",
-    "NETWORK": "M",
-    "MSG": "f"
+    "MSG": "H"
   }
 ]
