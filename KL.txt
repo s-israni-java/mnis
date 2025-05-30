@@ -198,5 +198,21 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Disable play protec"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:42",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play protect"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:43",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play protect\n"
   }
 ]
