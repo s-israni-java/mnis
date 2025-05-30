@@ -206,5 +206,37 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "Hi kaisee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:06:02",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Hi kaiseeh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:06:02",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Hi kaiseeho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:56",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:56",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Ma"
   }
 ]
