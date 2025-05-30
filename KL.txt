@@ -1,10 +1,10 @@
 [
   {
-    "APP": "com.google.android.documentsui",
+    "APP": "com.android.launcher",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 10:50:07",
+    "CDATE": "2025-05-30 10:53:51",
     "BATTERY": "51",
     "NETWORK": "M",
-    "MSG": "y"
+    "MSG": "t"
   }
 ]
