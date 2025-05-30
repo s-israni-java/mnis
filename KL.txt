@@ -78,5 +78,21 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:03:09",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "pl"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:03:10",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
