@@ -168,5 +168,15 @@
     "TITLE": "~ pradumn patel",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:57:26",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
