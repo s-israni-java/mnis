@@ -1294,5 +1294,13 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "​Ai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:29:52",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "+91 96998 71877"
   }
 ]
