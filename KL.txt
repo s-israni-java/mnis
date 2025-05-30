@@ -318,5 +318,53 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "May we be h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:58",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "May we be ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:58",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "May we be hap"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:58",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "May we be happ"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:59",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "May we be happy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:59",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "May we be happy "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:11:59",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "May we be happy t"
   }
 ]
