@@ -822,5 +822,69 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "7 da"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:20",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 day"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:20",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:20",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:20",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days i"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:21",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days it"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:22",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days it "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:22",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days it al"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:22",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 days it all"
   }
 ]
