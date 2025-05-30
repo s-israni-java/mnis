@@ -254,5 +254,29 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "f"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:12:32",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:12:32",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "fil"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:13:38",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "i"
   }
 ]
