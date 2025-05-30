@@ -1188,5 +1188,15 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.permissioncontroller",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:21:01",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Review app with full device access",
+    "ID": "No ID",
+    "MSG": "PowerButtonEfficient can view your screen and perform actions on your device. Accessibility apps need this type of access to function as intended."
   }
 ]
