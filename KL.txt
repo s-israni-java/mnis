@@ -1182,5 +1182,45 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "U"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:21:51",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ul"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:21:51",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ulh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:21:51",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ulha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:21:51",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ulhas"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:21:52",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ulhasnagar "
   }
 ]
