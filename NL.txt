@@ -1338,5 +1338,25 @@
     "TITLE": "+91 89769 24742",
     "ID": "918976924742@s.whatsapp.net",
     "MSG": "no worries"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:47:37",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "no worries"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:50:36",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Deleting messages…",
+    "ID": "No ID",
+    "MSG": "11 of 15 (73%)"
   }
 ]
