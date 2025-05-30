@@ -110,5 +110,37 @@
     "BATTERY": "54",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:01:56",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:01:56",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "Oka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:01:56",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "Okay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:03:20",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "K"
   }
 ]
