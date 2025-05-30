@@ -98,5 +98,75 @@
     "TITLE": "WhatsApp",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:51:59",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "+91 89894 45457",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:51:59",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:52:03",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:52:03",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:52:03",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "*nayan's ring"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:52:03",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:52:03",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
