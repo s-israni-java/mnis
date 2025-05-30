@@ -208,5 +208,15 @@
     "TITLE": "+91 89894 45457",
     "ID": "No ID",
     "MSG": "Missed voice call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:39:28",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "Incoming voice call"
   }
 ]
