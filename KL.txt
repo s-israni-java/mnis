@@ -214,5 +214,13 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Disable play protect\n"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:47",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
