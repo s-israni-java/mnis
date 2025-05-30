@@ -1,42 +1,10 @@
 [
   {
-    "APP": "com.android.launcher",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 10:48:21",
-    "BATTERY": "51",
-    "NETWORK": "M",
-    "MSG": "f"
-  },
-  {
-    "APP": "com.android.launcher",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 10:48:23",
-    "BATTERY": "51",
-    "NETWORK": "M",
-    "MSG": "Search for apps on this device"
-  },
-  {
-    "APP": "com.android.launcher",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 10:48:27",
-    "BATTERY": "51",
-    "NETWORK": "M",
-    "MSG": "f"
-  },
-  {
     "APP": "com.google.android.documentsui",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 10:49:00",
+    "CDATE": "2025-05-30 10:50:07",
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "y"
-  },
-  {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 10:49:01",
-    "BATTERY": "51",
-    "NETWORK": "M",
-    "MSG": "Search…"
   }
 ]
