@@ -198,5 +198,29 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Jldi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:28",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Jldi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:28",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Jldi l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:29",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Jldi le"
   }
 ]
