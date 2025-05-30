@@ -30,5 +30,21 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "b"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 10:54:40",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "bi"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 10:54:42",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "bip"
   }
 ]
