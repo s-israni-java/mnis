@@ -78,5 +78,13 @@
     "BATTERY": "55",
     "NETWORK": "M",
     "MSG": "prad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:41:28",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
