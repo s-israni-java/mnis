@@ -486,5 +486,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Phali b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:32",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:32",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:33",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar"
   }
 ]
