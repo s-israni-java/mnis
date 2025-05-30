@@ -206,5 +206,21 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "I love "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:05:00",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "I love you "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:08:41",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "J"
   }
 ]
