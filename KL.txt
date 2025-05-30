@@ -454,5 +454,53 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "Late b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:06",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:06",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:07",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by 1"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:07",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by 1 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:07",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by 1 s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:07",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by 1 se"
   }
 ]
