@@ -2,33 +2,9 @@
   {
     "APP": "com.android.launcher",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 13:55:38",
+    "CDATE": "2025-05-30 13:56:27",
     "BATTERY": "55",
     "NETWORK": "M",
-    "MSG": "f"
-  },
-  {
-    "APP": "com.android.launcher",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 13:55:38",
-    "BATTERY": "55",
-    "NETWORK": "M",
-    "MSG": "fi"
-  },
-  {
-    "APP": "com.android.launcher",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 13:55:39",
-    "BATTERY": "55",
-    "NETWORK": "M",
-    "MSG": "file"
-  },
-  {
-    "APP": "com.google.android.documentsui",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 13:56:11",
-    "BATTERY": "55",
-    "NETWORK": "M",
-    "MSG": "h"
+    "MSG": "c"
   }
 ]
