@@ -1,0 +1,1002 @@
+[
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 13:56:15",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Deleting files",
+    "ID": "No ID",
+    "MSG": "Preparing..."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:14:49",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Pradumn Patel",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:14:50",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Pradumn Patel",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:14:56",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hello"
+  },
+  {
+    "APP": "com.coloros.phonemanager",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:25:16",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "Deep cleanup 🗑",
+    "ID": "No ID",
+    "MSG": "228 MB of WhatsApp data can be cleared."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:27:33",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:27:33",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:27:34",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:27:35",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:57",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:58",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:58",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:58",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:45:58",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:46:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Great Spirit",
+    "ID": "No ID",
+    "MSG": "Armin van Buuren, Vini Vici, Hilight Tribe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:49:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Gettin' Hype",
+    "ID": "No ID",
+    "MSG": "Freebot"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:52:09",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "My Universe",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth, Parker Lm"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:54:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:56:51",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "NoBroker Pay",
+    "ID": "919001302456@s.whatsapp.net",
+    "MSG": "📷 Sagar, Don't miss ₹500 cashback on your rent payment.\n\nPay your upcoming rent payment through NoBroker.\n\nDigital payment ensures fast and secure transfer.\n\nYou may proceed when ready."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:56:52",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "NoBroker Pay",
+    "ID": "919001302456@s.whatsapp.net",
+    "MSG": "📷 Sagar, Don't miss ₹500 cashback on your rent payment.\n\nPay your upcoming rent payment through NoBroker.\n\nDigital payment ensures fast and secure transfer.\n\nYou may proceed when ready."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:29",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:29",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:29",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:29",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:30",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:30",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:30",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:30",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:58:36",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  }
+]
