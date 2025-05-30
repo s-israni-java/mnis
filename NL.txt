@@ -118,5 +118,15 @@
     "TITLE": "Pradumn patel",
     "ID": "No ID",
     "MSG": "Incoming voice call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:33:43",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Pradumn patel",
+    "ID": "No ID",
+    "MSG": "Incoming voice call"
   }
 ]
