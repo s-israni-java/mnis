@@ -150,5 +150,21 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Goli kha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:12",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Goli khai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:13",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Goli khai?"
   }
 ]
