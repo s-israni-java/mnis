@@ -1046,5 +1046,45 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Paka nayan k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Paka nayan ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Paka nayan ki "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Paka nayan ki h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:38",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Paka nayan ki he "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:38",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Paka nayan ki he hai"
   }
 ]
