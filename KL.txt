@@ -222,5 +222,29 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:47",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "ph"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:47",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "pho"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:52:19",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
