@@ -1942,5 +1942,29 @@
     "BATTERY": "60",
     "NETWORK": "M",
     "MSG": "an"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:48:42",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "MSG": "and"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:48:42",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "MSG": "andr"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:48:44",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "MSG": "and"
   }
 ]
