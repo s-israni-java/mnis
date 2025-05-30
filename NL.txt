@@ -1158,5 +1158,25 @@
     "TITLE": "Network sharing activated",
     "ID": "No ID",
     "MSG": "Tap to set up."
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:03:18",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Kommunity",
+    "ID": "No ID",
+    "MSG": "Weekend Birthday Reminder Let’s wish the Birthday Celebrities a beautiful day with good health and happiness forever. Happy Birthday !! Name Birthdate Day Location Email Saroj Chandra Sahu 31-May Saturday Mumbai - Seepz saroj.sahu@kiya.ai Mrinmoy Chakraborty 31-Ma"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:03:18",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Kommunity",
+    "ID": "No ID",
+    "MSG": "Weekend Birthday Reminder • Let’s wish the Birthday Celebrities a beautiful day with good health and happiness forever. Happy Birthday !! Name Birthdate Day Location Email Saroj Chandra Sahu 31-May Saturday Mumbai - Seepz saroj.sahu@kiya.ai Mrinmoy Chakraborty 31-Ma"
   }
 ]
