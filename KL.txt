@@ -670,5 +670,13 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Phali baar uski ring paheni hai😒"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:55",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
