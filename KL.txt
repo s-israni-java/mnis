@@ -166,5 +166,13 @@
     "BATTERY": "54",
     "NETWORK": "M",
     "MSG": "Kiki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:04:59",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "I"
   }
 ]
