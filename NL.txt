@@ -8,5 +8,15 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 13:08:51",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Sagar, remember this?",
+    "ID": "false|Sagar, remember this?|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "Lens Snap from 13 October"
   }
 ]
