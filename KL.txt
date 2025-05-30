@@ -430,5 +430,21 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "lo h"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:25:23",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "lo hu"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:25:23",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "lo huma"
   }
 ]
