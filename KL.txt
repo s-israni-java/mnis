@@ -1470,5 +1470,37 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Khana khan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:13",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:13",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:13",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k ba"
   }
 ]
