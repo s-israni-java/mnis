@@ -1910,5 +1910,21 @@
     "BATTERY": "60",
     "NETWORK": "M",
     "MSG": "fil"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:48:39",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:48:39",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
