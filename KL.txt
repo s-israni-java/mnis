@@ -222,5 +222,29 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Jldi le"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:29",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Jldi lee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:29",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Jldi leee"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:05",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
