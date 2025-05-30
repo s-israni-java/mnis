@@ -238,5 +238,15 @@
     "TITLE": "+91 89894 45457",
     "ID": "No ID",
     "MSG": "2 missed voice calls"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:43:01",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "❤️❤️"
   }
 ]
