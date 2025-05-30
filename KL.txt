@@ -358,5 +358,29 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:14:55",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Hel"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:14:55",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Hell"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:14:55",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Hello"
   }
 ]
