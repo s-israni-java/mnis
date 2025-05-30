@@ -446,5 +446,45 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:31",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Ph"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:31",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:31",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:32",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:32",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali b"
   }
 ]
