@@ -950,5 +950,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Pqp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:34",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Pq"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:35",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:35",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Pa"
   }
 ]
