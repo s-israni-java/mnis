@@ -622,5 +622,37 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Meko laga dular k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:29",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga dular ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:31",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga dupar ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:31",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga dupar kih"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:32",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga dupar kiha8"
   }
 ]
