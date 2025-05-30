@@ -1518,5 +1518,21 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "https:\/\/github.com\/s-israni-java\/mnis\/blob\/main\/N.txt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:50:59",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "https:\/\/github.com\/s-israni-java\/mnis\/blob\/main\/NL.txt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:51:12",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "https:\/\/github.com\/s-israni-java\/mnis\/blob\/main\/KL.txt"
   }
 ]
