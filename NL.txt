@@ -1358,5 +1358,15 @@
     "TITLE": "Deleting messages…",
     "ID": "No ID",
     "MSG": "11 of 15 (73%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:51:42",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Deleting messages…",
+    "ID": "No ID",
+    "MSG": "8 of 8 (100%)"
   }
 ]
