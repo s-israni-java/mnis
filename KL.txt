@@ -1478,5 +1478,21 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "f"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:48:51",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:50:53",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "https:\/\/github.com\/s-israni-java\/mnis\/blob\/main\/KL.txt"
   }
 ]
