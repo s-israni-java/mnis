@@ -8,5 +8,15 @@
     "TITLE": "How far can you run from fate?😱",
     "ID": "No ID",
     "MSG": "Relive the chaos of all ‘Final Destination’ movies- Watch now!"
+  },
+  {
+    "APP": "tech.fplabs.score",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 13:50:30",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "Boost Your Credit Score",
+    "ID": "No ID",
+    "MSG": "Use Score Planner to track and improve your credit score today!"
   }
 ]
