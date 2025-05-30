@@ -1718,5 +1718,37 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Prqdum"
+  },
+  {
+    "APP": "com.google.android.contacts",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:12:43",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Prqdumn"
+  },
+  {
+    "APP": "com.google.android.contacts",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:12:43",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Prqdumn "
+  },
+  {
+    "APP": "com.google.android.contacts",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:12:44",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Prqdumn"
+  },
+  {
+    "APP": "com.google.android.contacts",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:12:45",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Pradumn "
   }
 ]
