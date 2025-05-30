@@ -348,5 +348,25 @@
     "TITLE": "Guggi🩵🩵",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:13:17",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Guggi🩵🩵",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:13:29",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Guggi🩵🩵",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
