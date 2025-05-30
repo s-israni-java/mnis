@@ -798,5 +798,55 @@
     "TITLE": "Volar",
     "ID": "No ID",
     "MSG": "Freebot, Dj SAPPY"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Motivos",
+    "ID": "No ID",
+    "MSG": "Freebot, Aneth"
   }
 ]
