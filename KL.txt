@@ -646,5 +646,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Phali baar uski ring paheni"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:38",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring paheni ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:38",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring paheni hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:40",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring paheni hai😒"
   }
 ]
