@@ -878,13 +878,5 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "7 days it al"
-  },
-  {
-    "APP": "com.instagram.android",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 15:00:22",
-    "BATTERY": "45",
-    "NETWORK": "M",
-    "MSG": "7 days it all"
   }
 ]
