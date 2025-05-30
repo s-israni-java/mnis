@@ -614,5 +614,37 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Phali baar uski ring p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring pa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring pah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring pahen"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:37",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ring paheni"
   }
 ]
