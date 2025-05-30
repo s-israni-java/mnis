@@ -6,5 +6,29 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "t"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 10:53:51",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "te"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 10:53:51",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "tea"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 10:54:39",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "b"
   }
 ]
