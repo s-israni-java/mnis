@@ -1422,5 +1422,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Kh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana "
   }
 ]
