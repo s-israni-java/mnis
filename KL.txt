@@ -70,5 +70,13 @@
     "BATTERY": "55",
     "NETWORK": "M",
     "MSG": "Ok "
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:59:13",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "Ok"
   }
 ]
