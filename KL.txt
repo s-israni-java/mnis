@@ -774,5 +774,29 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Meko laga maine nahi puch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:39",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi pucha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:39",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi pucha h"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:19",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7"
   }
 ]
