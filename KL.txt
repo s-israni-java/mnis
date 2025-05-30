@@ -1582,5 +1582,29 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "f"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 17:06:07",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 17:06:08",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "fil"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 17:07:42",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
