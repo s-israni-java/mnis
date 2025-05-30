@@ -798,5 +798,29 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "7"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:19",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:20",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 d"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:00:20",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "7 da"
   }
 ]
