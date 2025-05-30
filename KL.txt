@@ -1670,5 +1670,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Message"
+  },
+  {
+    "APP": "com.google.android.contacts",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:12:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.google.android.contacts",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:12:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Pr"
   }
 ]
