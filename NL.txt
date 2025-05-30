@@ -148,5 +148,15 @@
     "TITLE": "~ pradumn patel",
     "ID": "No ID",
     "MSG": "Incoming voice call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:35:49",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "+91 89894 45457",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hi"
   }
 ]
