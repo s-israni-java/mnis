@@ -134,5 +134,29 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Disable pla"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:39",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:40",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play "
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:40",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play p"
   }
 ]
