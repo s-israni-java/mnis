@@ -1222,5 +1222,13 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Ulhasnagar "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:29:36",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "m"
   }
 ]
