@@ -710,5 +710,69 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Meko laga maine "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:37",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:37",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:38",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:38",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:38",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:39",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi pu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:39",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi puc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:39",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine nahi puch"
   }
 ]
