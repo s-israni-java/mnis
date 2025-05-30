@@ -982,5 +982,45 @@
     "BATTERY": "44",
     "NETWORK": "M",
     "MSG": "Contra "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:02:35",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "MSG": "Contra"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:02:36",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "MSG": "Contr"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:02:37",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "MSG": "Cont"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:02:37",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "MSG": "Con"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:02:37",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "MSG": "Cong"
   }
 ]
