@@ -318,5 +318,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Calling"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:09:55",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Deleting messages…",
+    "ID": "No ID",
+    "MSG": "14 of 14 (100%)"
   }
 ]
