@@ -1422,5 +1422,45 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Sorry wrongly c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:16",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry wrongly cl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:16",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry wrongly cli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:17",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry wrongly clic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:17",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry wrongly click"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:17",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry wrongly clicke"
   }
 ]
