@@ -1398,5 +1398,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Sham ko milte hai "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:07",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham ko milte hai 6"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:08",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham ko milte hai "
   }
 ]
