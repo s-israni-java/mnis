@@ -1846,5 +1846,37 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "7447218"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:13:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "74472188"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:13:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "744721880"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:13:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "7447218800"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:35:55",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
