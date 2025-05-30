@@ -48,5 +48,15 @@
     "TITLE": "Deleting files",
     "ID": "No ID",
     "MSG": "Preparing..."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:31:19",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Pradumn patel",
+    "ID": "No ID",
+    "MSG": "Incoming voice call"
   }
 ]
