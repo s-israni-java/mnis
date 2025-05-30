@@ -1378,5 +1378,25 @@
     "TITLE": "Vinanti Desai",
     "ID": "No ID",
     "MSG": "Updation of Certification Details on iConnect Hi, Request you to please update your Certification details on iConnect. It won’t take more than 5 mins to update the details. Kindly update the details through the portal initially, in-case if you are unable to update the details through the por"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:55:43",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Vinanti Desai",
+    "ID": "No ID",
+    "MSG": "Updation of Certification Details on iConnect • Hi, Request you to please update your Certification details on iConnect. It won’t take more than 5 mins to update the details. Kindly update the details through the portal initially, in-case if you are unable to update the details through the por"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:58:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Transferring files via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
