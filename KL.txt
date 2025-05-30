@@ -294,5 +294,13 @@
     "BATTERY": "57",
     "NETWORK": "M",
     "MSG": "app"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:23",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "see"
   }
 ]
