@@ -1262,5 +1262,13 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "mukes"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:29:48",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "​A"
   }
 ]
