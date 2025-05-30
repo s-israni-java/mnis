@@ -126,5 +126,29 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Goli "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:11",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Goli k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:11",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Goli kh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:43:12",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Goli kha"
   }
 ]
