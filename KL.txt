@@ -270,5 +270,29 @@
     "BATTERY": "57",
     "NETWORK": "M",
     "MSG": "Search"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:06",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "a"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:07",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "ap"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:07",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "app"
   }
 ]
