@@ -446,5 +446,37 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "lo huma"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:25:24",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "lo humari"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:25:24",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "lo humarim"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:25:24",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "lo humarima"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:25:25",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "lo humarim"
   }
 ]
