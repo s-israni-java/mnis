@@ -1398,5 +1398,25 @@
     "TITLE": "Transferring files via USB",
     "ID": "No ID",
     "MSG": "Tap for more options"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:58:47",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Personal Hotspot Turned Off",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:59:00",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Charging this device via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
