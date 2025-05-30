@@ -28,5 +28,25 @@
     "TITLE": "Kommunity",
     "ID": "No ID",
     "MSG": "Training Calendar - June 2025 Dear All, Please find attached the Training Calendar for the month of June 2025. Requesting all the Reporting Managers to allow your team members to attend the essential trainings, so as to complete the Mandatory Criteria of 3.5 Man-days per employe"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:13:45",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Kommunity",
+    "ID": "No ID",
+    "MSG": "Training Calendar - June 2025 • Dear All, Please find attached the Training Calendar for the month of June 2025. Requesting all the Reporting Managers to allow your team members to attend the essential trainings, so as to complete the Mandatory Criteria of 3.5 Man-days per employe"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:25:56",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Deleting files",
+    "ID": "No ID",
+    "MSG": "Preparing..."
   }
 ]
