@@ -54,5 +54,29 @@
     "BATTERY": "55",
     "NETWORK": "M",
     "MSG": "p"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:34:16",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "pr"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:34:16",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "pra"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:34:16",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "prad"
   }
 ]
