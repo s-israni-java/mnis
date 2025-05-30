@@ -1268,5 +1268,25 @@
     "TITLE": "+91 89769 24742",
     "ID": "918976924742@s.whatsapp.net",
     "MSG": "so we offer"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:42:31",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "home appointment as well"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:42:31",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
