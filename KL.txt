@@ -1534,5 +1534,45 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Khana khane k baad c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k baad ca"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k baad cal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k baad call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:15",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k baad call "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:15",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khane k baad call kr"
   }
 ]
