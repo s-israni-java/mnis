@@ -1218,5 +1218,25 @@
     "TITLE": "+91 89769 24742",
     "ID": "918976924742@s.whatsapp.net",
     "MSG": "ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:22:53",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "ok"
+  },
+  {
+    "APP": "com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:28:30",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "👇 This rate won’t stay high forever📈",
+    "ID": "No ID",
+    "MSG": "Open Kotak FD today at 6.95% & lock in great returns before they drop. T&C"
   }
 ]
