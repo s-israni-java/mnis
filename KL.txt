@@ -734,5 +734,45 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Aaj lai k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:57",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Aaj lai ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:57",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Aaj lai kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:58",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Aaj lai kya v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:58",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Aaj lai kya vo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:58",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Aaj lai kya vo?"
   }
 ]
