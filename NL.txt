@@ -328,5 +328,15 @@
     "TITLE": "Deleting messages…",
     "ID": "No ID",
     "MSG": "14 of 14 (100%)"
+  },
+  {
+    "APP": "com.bt.bms",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:10:19",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "✌️🎤👃🏻🧢😚",
+    "ID": "No ID",
+    "MSG": "HR Fan starter pack 👆 Last few 🎟️s 👉"
   }
 ]
