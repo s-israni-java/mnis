@@ -870,5 +870,45 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Yeh ha kiske l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Yeh ha kiske li"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Yeh ha kiske liye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Yeh ha kiske liyea "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:11",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Yeh ha kiske liyea t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Yeh ha kiske liyea tha"
   }
 ]
