@@ -18,5 +18,25 @@
     "TITLE": "Pradumn Patel",
     "ID": "918989445457@s.whatsapp.net",
     "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:14:50",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Pradumn Patel",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:14:56",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hello"
   }
 ]
