@@ -1358,5 +1358,21 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Sorry w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:12",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry wt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:47:13",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Sorry w"
   }
 ]
