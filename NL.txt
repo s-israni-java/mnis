@@ -28,5 +28,25 @@
     "TITLE": "+91 89894 45457",
     "ID": "No ID",
     "MSG": "3 missed voice calls"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:51:33",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "Incoming voice call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:51:50",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Liya"
   }
 ]
