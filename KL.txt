@@ -1638,5 +1638,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Do you have "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:09:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Do you have an"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:09:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Do you have any"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:09:59",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
