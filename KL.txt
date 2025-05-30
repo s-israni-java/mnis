@@ -6,5 +6,29 @@
     "BATTERY": "55",
     "NETWORK": "M",
     "MSG": "c"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:56:27",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "ch"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:56:28",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "chr"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:56:59",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "t"
   }
 ]
