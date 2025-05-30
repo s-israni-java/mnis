@@ -126,5 +126,29 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "hh"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:04:06",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "hhh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:05:55",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:05:55",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Hi"
   }
 ]
