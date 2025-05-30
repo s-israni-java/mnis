@@ -778,5 +778,25 @@
     "TITLE": "NoBroker Pay",
     "ID": "919001302456@s.whatsapp.net",
     "MSG": "📷 Sagar, Don't miss ₹500 cashback on your rent payment.\n\nPay your upcoming rent payment through NoBroker.\n\nDigital payment ensures fast and secure transfer.\n\nYou may proceed when ready."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:56:52",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "NoBroker Pay",
+    "ID": "919001302456@s.whatsapp.net",
+    "MSG": "📷 Sagar, Don't miss ₹500 cashback on your rent payment.\n\nPay your upcoming rent payment through NoBroker.\n\nDigital payment ensures fast and secure transfer.\n\nYou may proceed when ready."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:57:09",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Volar",
+    "ID": "No ID",
+    "MSG": "Freebot, Dj SAPPY"
   }
 ]
