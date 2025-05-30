@@ -158,5 +158,45 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Disable play p"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:41",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play pr"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:41",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play pro"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:41",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play prot"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:41",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play prote"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:42",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disable play protec"
   }
 ]
