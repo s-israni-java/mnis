@@ -18,5 +18,15 @@
     "TITLE": "Don't forget to mine Pi!",
     "ID": "No ID",
     "MSG": "Your last mining session has ended. Come back to keep mining Pi!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:48:16",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "+91 89894 45457",
+    "ID": "No ID",
+    "MSG": "3 missed voice calls"
   }
 ]
