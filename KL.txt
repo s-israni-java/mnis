@@ -62,5 +62,37 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "D"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:38",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Di"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:38",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Dis"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:38",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disab"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:38",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Disabl"
   }
 ]
