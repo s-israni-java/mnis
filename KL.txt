@@ -542,5 +542,45 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Mek"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:27",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:27",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:27",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko la"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:27",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko lag"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:27",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga "
   }
 ]
