@@ -1830,5 +1830,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "74472"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:13:13",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "744721"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:13:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "7447218"
   }
 ]
