@@ -662,5 +662,13 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Meko laga dupar ki ha8"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:36",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga"
   }
 ]
