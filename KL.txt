@@ -30,5 +30,13 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "y"
+  },
+  {
+    "APP": "com.google.android.documentsui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 10:49:01",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "Search…"
   }
 ]
