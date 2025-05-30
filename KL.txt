@@ -1,18 +1,10 @@
 [
   {
-    "APP": "com.android.settings",
+    "APP": "com.android.launcher",
     "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 13:12:25",
-    "BATTERY": "62",
+    "CDATE": "2025-05-30 13:36:16",
+    "BATTERY": "58",
     "NETWORK": "M",
-    "MSG": "sy"
-  },
-  {
-    "APP": "com.android.settings",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-05-30 13:12:25",
-    "BATTERY": "62",
-    "NETWORK": "M",
-    "MSG": "sys"
+    "MSG": "f"
   }
 ]
