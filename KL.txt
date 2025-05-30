@@ -70,5 +70,13 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "https:\/\/ess.hgsbs.com\/UserDashboard\/Index"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:03:09",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
