@@ -1138,5 +1138,25 @@
     "TITLE": "Charging this device via USB",
     "ID": "No ID",
     "MSG": "Tap for more options"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:00:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "USB debugging enabled",
+    "ID": "No ID",
+    "MSG": "Disable USB debugging"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:01:09",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Network sharing activated",
+    "ID": "No ID",
+    "MSG": "Tap to set up."
   }
 ]
