@@ -288,5 +288,35 @@
     "TITLE": "+91 89894 45457",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:03:06",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "‪+91 89894 45457‬",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:04:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:04:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
   }
 ]
