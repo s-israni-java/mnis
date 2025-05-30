@@ -910,5 +910,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Yeh ha kiske liyea tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Yeh ha kiske liyea tha?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:28",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "😒"
   }
 ]
