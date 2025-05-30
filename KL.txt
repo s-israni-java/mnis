@@ -1270,5 +1270,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Chl kaam kr kaam ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:58",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Chl kaam kr kaam kar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:01",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Chl kaam kr kaam kar😡"
   }
 ]
