@@ -502,5 +502,21 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "Late by 1 se"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:08",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Late by 1 sec"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:12:18",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
