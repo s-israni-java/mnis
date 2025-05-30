@@ -38,5 +38,15 @@
     "TITLE": "You",
     "ID": "918989445457@s.whatsapp.net",
     "MSG": "Hello"
+  },
+  {
+    "APP": "com.coloros.phonemanager",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:25:16",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "Deep cleanup 🗑",
+    "ID": "No ID",
+    "MSG": "228 MB of WhatsApp data can be cleared."
   }
 ]
