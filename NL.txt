@@ -48,5 +48,25 @@
     "TITLE": "Deep cleanup 🗑",
     "ID": "No ID",
     "MSG": "228 MB of WhatsApp data can be cleared."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:27:33",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 14:27:33",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
