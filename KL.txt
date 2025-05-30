@@ -78,5 +78,29 @@
     "BATTERY": "54",
     "NETWORK": "M",
     "MSG": "Ok"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:59:13",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:59:13",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "Type a message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:00:04",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "MSG": "https:\/\/github.com\/s-israni-java\/mnis\/blob\/main\/KL.txt"
   }
 ]
