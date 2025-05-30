@@ -326,5 +326,37 @@
     "BATTERY": "57",
     "NETWORK": "M",
     "MSG": "see y"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:24",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "see "
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:24",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "see"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:25",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "se"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 11:44:25",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "MSG": "s"
   }
 ]
