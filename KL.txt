@@ -1446,5 +1446,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Khana "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana kh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:12",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Khana khan"
   }
 ]
