@@ -934,5 +934,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Pqp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:33",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Pqpa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:34",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Pqp"
   }
 ]
