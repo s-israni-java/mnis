@@ -222,5 +222,21 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "J"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:08:42",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Jahah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:08:42",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "J"
   }
 ]
