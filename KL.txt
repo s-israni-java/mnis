@@ -238,5 +238,21 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "J"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:08:43",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Jajaj"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:12:32",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
