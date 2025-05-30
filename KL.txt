@@ -774,5 +774,13 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Aaj lai kya vo?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:08",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Y"
   }
 ]
