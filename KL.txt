@@ -670,5 +670,37 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "Meko laga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:36",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:37",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga mai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:37",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga main"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:59:37",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "Meko laga maine"
   }
 ]
