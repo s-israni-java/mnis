@@ -1294,5 +1294,53 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:04",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:04",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:04",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:08:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Sham ko "
   }
 ]
