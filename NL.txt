@@ -228,5 +228,15 @@
     "TITLE": "‪+91 89894 45457‬",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:01:23",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "+91 89894 45457"
   }
 ]
