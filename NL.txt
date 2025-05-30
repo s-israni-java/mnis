@@ -1288,5 +1288,15 @@
     "TITLE": "+91 89769 24742",
     "ID": "918976924742@s.whatsapp.net",
     "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:47:19",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Hitesh Kasturi",
+    "ID": "919699706344@s.whatsapp.net",
+    "MSG": "🎥 Video (0:05)"
   }
 ]
