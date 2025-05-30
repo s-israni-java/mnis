@@ -1102,5 +1102,21 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 15:53:28",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "gma"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:00:22",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "t"
   }
 ]
