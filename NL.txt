@@ -1128,5 +1128,15 @@
     "TITLE": "Nilesh Sohanda",
     "ID": "No ID",
     "MSG": "Thank you bhai \nEk baat batau ye jan me hi ho gaya tha story aaj dali hai😂"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 16:00:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Charging this device via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
