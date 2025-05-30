@@ -1058,5 +1058,25 @@
     "TITLE": "GOLDEN opportunity… 🪙",
     "ID": "No ID",
     "MSG": "…for you! Invest in Gold ETFs and make your investments shine✨ T&C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 15:14:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "Hi sagar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 15:14:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "Hi sagar"
   }
 ]
