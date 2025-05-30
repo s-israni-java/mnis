@@ -550,5 +550,21 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Phali baar uski "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:34",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:06:35",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Phali baar uski ri"
   }
 ]
