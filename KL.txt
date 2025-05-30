@@ -1542,5 +1542,21 @@
     "BATTERY": "46",
     "NETWORK": "M",
     "MSG": "f"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:53:56",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 17:05:07",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
