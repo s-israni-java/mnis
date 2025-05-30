@@ -1118,5 +1118,13 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Paka nayan ki he hai na?😒"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 12:07:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
