@@ -1142,5 +1142,29 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "th"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:00:56",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "the"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:00:57",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "thea"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 16:00:58",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "the"
   }
 ]
