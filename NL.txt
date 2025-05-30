@@ -258,5 +258,35 @@
     "TITLE": "+91 89894 45457",
     "ID": "918989445457@s.whatsapp.net",
     "MSG": "Hh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:02:04",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "SOS Child Helping Hands",
+    "ID": "919371512938@s.whatsapp.net",
+    "MSG": "GOOD AFTERNOON Sir \nSir please atlest do small support 500\/-so that arrange 1 time Medicine from your side 🙏"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:02:04",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "919371512938@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:03:06",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "+91 89894 45457",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
