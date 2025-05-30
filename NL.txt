@@ -8,5 +8,15 @@
     "TITLE": "~ pradumn patel",
     "ID": "No ID",
     "MSG": "Incoming voice call"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:48:01",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Don't forget to mine Pi!",
+    "ID": "No ID",
+    "MSG": "Your last mining session has ended. Come back to keep mining Pi!"
   }
 ]
