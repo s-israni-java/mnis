@@ -178,5 +178,55 @@
     "TITLE": "~ pradumn patel",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:57:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:57:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "~ pradumn patel",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:57:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "+91 89894 45457",
+    "ID": "No ID",
+    "MSG": "4 missed calls"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 11:59:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "+91 89894 45457",
+    "ID": "918989445457@s.whatsapp.net",
+    "MSG": "Hh"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 12:01:04",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "‪+91 89894 45457‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
