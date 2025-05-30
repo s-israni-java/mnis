@@ -350,5 +350,13 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "is she fine?"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 14:14:54",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
