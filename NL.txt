@@ -1088,5 +1088,25 @@
     "TITLE": "Bajaj Finance limited",
     "ID": "917666446611@s.whatsapp.net",
     "MSG": "Card Status Updated! Hi Customer,\n\nYour EMI Network Card Limit has been Revised on 29th May.\n\nCheck status now. Bajaj Finance Ltd."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 15:18:15",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "917666446611@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-05-30 15:19:21",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "TITLE": "+91 89769 24742",
+    "ID": "918976924742@s.whatsapp.net",
+    "MSG": "wherre are you based from?"
   }
 ]
