@@ -30,5 +30,37 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "k"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:32",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "ke"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:32",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "kee"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:32",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "keep"
+  },
+  {
+    "APP": "com.google.android.keep",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-05-30 13:50:37",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "D"
   }
 ]
