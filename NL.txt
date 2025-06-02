@@ -398,5 +398,25 @@
     "TITLE": "Taksham Kiya.Ai",
     "ID": "918898764007@s.whatsapp.net",
     "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:11:21",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Welcome"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:11:21",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Welcome"
   }
 ]
