@@ -3008,5 +3008,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:56:15",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "At vikhroli"
   }
 ]
