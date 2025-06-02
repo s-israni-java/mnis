@@ -2288,5 +2288,25 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:08:10",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "More Power",
+    "ID": "No ID",
+    "MSG": "Vini Vici, Diego Miranda, WUANT"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:08:10",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
   }
 ]
