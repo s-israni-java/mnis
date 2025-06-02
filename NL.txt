@@ -1,1 +1,262 @@
-
+[
+  {
+    "APP": "com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:28:50",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "#1 step of growing up ☝️",
+    "ID": "No ID",
+    "MSG": "Invest wisely. Choose from 2500+ recommended mutual funds & start investing at just ₹1000 with Kotak. T&C"
+  },
+  {
+    "APP": "com.jio.myjio",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:27",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Your AI-Powered Jio Assistant Is Here! 🤖",
+    "ID": "No ID",
+    "MSG": "Get smarter replies ✨, chat naturally 🗣️, and speak your language 🌐. Say hello 👋 to the all-new HelloJio!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:27",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Nhi kr skte na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:27",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Nhi kr skte na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "‪+91 88987 64007‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "😘😘❤️❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Going for breakfast"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Phone chrg pe h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:36:28",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "5 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:40",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Hiring IT  Talent - MNC: ~ s",
+    "ID": "120363395272717563@g.us",
+    "MSG": "Looking for Application support \n\nLocation Mumbai \nImmediate to 15days\n\nExperience 4 +\nSkills: Linux,shell scripting or python scripting, monitoring tools \nWith ITIL or NISM certificate \n\nIf interested please contact me 8179037354\nEmail: swathi@akshayaitsolutions.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:40",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Hiring IT  Talent - MNC",
+    "ID": "120363395272717563@g.us",
+    "MSG": "~ s: Looking for Application support \n\nLocation Mumbai \nImmediate to 15days\n\nExperience 4 +\nSkills: Linux,shell scripting or python scripting, monitoring tools \nWith ITIL or NISM certificate \n\nIf interested please contact me 8179037354\nEmail: swathi@akshayaitsolutions.com"
+  },
+  {
+    "APP": "com.bt.bms",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:40",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "The most loved franchise 👇",
+    "ID": "No ID",
+    "MSG": "Housefull 5 is here 😄 Get 🎟️s ASAP!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:40",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "PYTHON JOB POSTING: ~ s",
+    "ID": "120363391934562906@g.us",
+    "MSG": "Looking for Application support \n\nLocation Mumbai \nImmediate to 15days\n\nExperience 4 +\nSkills: Linux,shell scripting or python scripting, monitoring tools \nWith ITIL or NISM certificate \n\nIf interested please contact me 8179037354\nEmail: swathi@akshayaitsolutions.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:40",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "PYTHON JOB POSTING",
+    "ID": "120363391934562906@g.us",
+    "MSG": "~ s: Looking for Application support \n\nLocation Mumbai \nImmediate to 15days\n\nExperience 4 +\nSkills: Linux,shell scripting or python scripting, monitoring tools \nWith ITIL or NISM certificate \n\nIf interested please contact me 8179037354\nEmail: swathi@akshayaitsolutions.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:42",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "JAVA JOBS: ~ s",
+    "ID": "120363394756300341@g.us",
+    "MSG": "Looking for Application support \n\nLocation Mumbai \nImmediate to 15days\n\nExperience 4 +\nSkills: Linux,shell scripting or python scripting, monitoring tools \nWith ITIL or NISM certificate \n\nIf interested please contact me 8179037354\nEmail: swathi@akshayaitsolutions.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:40:42",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "JAVA JOBS",
+    "ID": "120363394756300341@g.us",
+    "MSG": "~ s: Looking for Application support \n\nLocation Mumbai \nImmediate to 15days\n\nExperience 4 +\nSkills: Linux,shell scripting or python scripting, monitoring tools \nWith ITIL or NISM certificate \n\nIf interested please contact me 8179037354\nEmail: swathi@akshayaitsolutions.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:59:32",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 11:59:32",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:03:01",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Hii"
+  }
+]
