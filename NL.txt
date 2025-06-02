@@ -1358,5 +1358,25 @@
     "TITLE": "Google Contacts backing up 1 of 1 contact",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.gms",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:17:25",
+    "BATTERY": "61",
+    "NETWORK": "W",
+    "TITLE": "Google Contacts backing up 1 of 1 contact",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.olacabs.customer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:29:02",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Working late? We’re too!🥹",
+    "ID": "No ID",
+    "MSG": "Get home safe and stress-free! Book your Ola🚗!"
   }
 ]
