@@ -908,5 +908,15 @@
     "TITLE": "VM-ICICIT-S",
     "ID": "308",
     "MSG": "ICICI Bank Acc XX026 debited Rs. 195.00 on 02-Jun-25 InfoBIL*001019235.Avl Bal Rs. 50,200.06.To dispute call 18002662 or SMS BLOCK 026 to 9215676766"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:55:50",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
