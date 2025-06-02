@@ -738,5 +738,15 @@
     "TITLE": "Scratch Card Received",
     "ID": "No ID",
     "MSG": "You have earned Scratch Card(s)! Go to Rewards section for more details."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:31:00",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "false|Sagar Israni|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "1 year ago, on 2 June 2024..."
   }
 ]
