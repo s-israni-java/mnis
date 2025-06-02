@@ -578,5 +578,35 @@
     "TITLE": "Vinita Israni",
     "ID": "918329605971@s.whatsapp.net",
     "MSG": "Kal chutti leke aana"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:38:54",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "Kal chutti leke aana"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:38:55",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "Hawan hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:38:55",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
