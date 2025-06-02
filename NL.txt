@@ -2238,5 +2238,35 @@
     "TITLE": "More Power",
     "ID": "No ID",
     "MSG": "Vini Vici, Diego Miranda, WUANT"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:04:45",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "More Power",
+    "ID": "No ID",
+    "MSG": "Vini Vici, Diego Miranda, WUANT"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:04:45",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "More Power",
+    "ID": "No ID",
+    "MSG": "Vini Vici, Diego Miranda, WUANT"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:07:51",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
