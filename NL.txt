@@ -698,5 +698,15 @@
     "TITLE": "Get clarity on your score fluctuations",
     "ID": "No ID",
     "MSG": "Break down your credit score changes and know exactly what needs your attention."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:18:18",
+    "BATTERY": "95",
+    "NETWORK": "M",
+    "TITLE": "BharatNXT",
+    "ID": "918657885017@s.whatsapp.net",
+    "MSG": "Hey Sagar, \nCongratulations!🍾🎊\nYour transaction of Rs 32757.0 has been successfully 😎 settled to VARSHA JAGDISH ISRAN"
   }
 ]
