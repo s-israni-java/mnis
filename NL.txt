@@ -2008,5 +2008,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:04:39",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "JD-ICICIT-S",
+    "ID": "277",
+    "MSG": "ICICI Bank Acct XX026 debited for Rs 20.00 on 02-Jun-25; PATIL TEA CENTE credited. UPI:384688389113. Call 18002662 for dispute. SMS BLOCK 026 to 9215676766."
   }
 ]
