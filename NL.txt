@@ -3038,5 +3038,25 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "Train mili?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:56:18",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:57:06",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
