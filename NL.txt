@@ -3268,5 +3268,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 20:35:48",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
