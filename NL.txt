@@ -898,5 +898,15 @@
     "TITLE": "JD-ICICIT-S",
     "ID": "277",
     "MSG": "Dear Customer, Acct XX026 is credited with Rs 32757.00 on 02-Jun-25 from VARSHA JAGDISH . UPI:515325143049-ICICI Bank."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:55:45",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "VM-ICICIT-S",
+    "ID": "308",
+    "MSG": "ICICI Bank Acc XX026 debited Rs. 195.00 on 02-Jun-25 InfoBIL*001019235.Avl Bal Rs. 50,200.06.To dispute call 18002662 or SMS BLOCK 026 to 9215676766"
   }
 ]
