@@ -538,5 +538,25 @@
     "TITLE": "‪+91 83296 05971‬",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:37:36",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:37:59",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Vinita Israni"
   }
 ]
