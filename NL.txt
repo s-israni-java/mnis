@@ -528,5 +528,15 @@
     "TITLE": "🧾 Saw something you needed?",
     "ID": "No ID",
     "MSG": "Your electricity, water & gas bills are waiting. Pay now & get rewards!"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:37:36",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "‪+91 83296 05971‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
