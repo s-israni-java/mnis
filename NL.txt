@@ -558,5 +558,25 @@
     "TITLE": "Missed call",
     "ID": "No ID",
     "MSG": "Vinita Israni"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:38:00",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "2600i7ad9ad0188b9ed2a.3789r1061-543A443A502A3A4E4C2A443A",
+    "MSG": "Missed call • On Do Not Disturb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:38:54",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "Kal chutti leke aana"
   }
 ]
