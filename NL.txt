@@ -978,5 +978,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 14:26:59",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing voice call"
   }
 ]
