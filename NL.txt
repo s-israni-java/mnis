@@ -1218,5 +1218,45 @@
     "TITLE": "Vishal Chawla",
     "ID": "917378384318@s.whatsapp.net",
     "MSG": "2310 ujjain tickets"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:44:33",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "AngelOne Loans",
+    "ID": "918097097504@s.whatsapp.net",
+    "MSG": "📷 Loan Status update - More details are available in your account."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:44:33",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918097097504@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:50:38",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Zepto Now",
+    "ID": "340",
+    "MSG": "It’s Here: ₹125 Zepto Cash🎁—Guess what? The FREE cash is now yours💵\nNo strings, no fine print—just pure savings!💰\nUse your FREE cash and save your budget from big bills🤩\nAll delivered in 10 mins🚀"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:50:38",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Zepto Now",
+    "ID": "340",
+    "MSG": "It’s Here: ₹125 Zepto Cash🎁—Guess what? The FREE cash is now yours💵\nNo strings, no fine print—just pure savings!💰\nUse your FREE cash and save your budget from big bills🤩\nAll delivered in 10 mins🚀"
   }
 ]
