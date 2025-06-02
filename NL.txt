@@ -868,5 +868,25 @@
     "TITLE": "Vinita Israni",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:49:14",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:49:14",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "📷 Photo"
   }
 ]
