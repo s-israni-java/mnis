@@ -1378,5 +1378,15 @@
     "TITLE": "Working late? We’re too!🥹",
     "ID": "No ID",
     "MSG": "Get home safe and stress-free! Book your Ola🚗!"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:37:02",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "archangel - Slowed",
+    "ID": "No ID",
+    "MSG": "DJ Anemia, crier, sixnite"
   }
 ]
