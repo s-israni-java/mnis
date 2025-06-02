@@ -2468,5 +2468,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:09:16",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
   }
 ]
