@@ -1258,5 +1258,15 @@
     "TITLE": "Zepto Now",
     "ID": "340",
     "MSG": "It’s Here: ₹125 Zepto Cash🎁—Guess what? The FREE cash is now yours💵\nNo strings, no fine print—just pure savings!💰\nUse your FREE cash and save your budget from big bills🤩\nAll delivered in 10 mins🚀"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:54:00",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Vipin Bharti",
+    "ID": "No ID",
+    "MSG": "aa ja"
   }
 ]
