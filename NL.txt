@@ -518,5 +518,15 @@
     "TITLE": "Don't forget to mine Pi!",
     "ID": "No ID",
     "MSG": "Your last mining session has ended. Come back to keep mining Pi!"
+  },
+  {
+    "APP": "com.fcap.bharatnxt",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:36:34",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "🧾 Saw something you needed?",
+    "ID": "No ID",
+    "MSG": "Your electricity, water & gas bills are waiting. Pay now & get rewards!"
   }
 ]
