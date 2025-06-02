@@ -3148,5 +3148,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:57:23",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Gugu ❤️",
+    "ID": "baf23ea0-514e-5d0f-a8ee-3766c4616ea2",
+    "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:57:23",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 20:04:14",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Pohch gyi na me pehle hi"
   }
 ]
