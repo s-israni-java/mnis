@@ -998,5 +998,25 @@
     "TITLE": "👋 Adding funds made easy👌",
     "ID": "No ID",
     "MSG": "Top up your Kotak811 a\/c in just a few steps using UPI"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:02:26",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Vishal Chawla",
+    "ID": "917378384318@s.whatsapp.net",
+    "MSG": "2310 ujjain tickets"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:02:26",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Vishal Chawla",
+    "ID": "917378384318@s.whatsapp.net",
+    "MSG": "2310 ujjain tickets"
   }
 ]
