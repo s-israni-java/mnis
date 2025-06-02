@@ -888,5 +888,15 @@
     "TITLE": "Vinita Israni",
     "ID": "918329605971@s.whatsapp.net",
     "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:52:02",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "JD-ICICIT-S",
+    "ID": "277",
+    "MSG": "Dear Customer, Acct XX026 is credited with Rs 32757.00 on 02-Jun-25 from VARSHA JAGDISH . UPI:515325143049-ICICI Bank."
   }
 ]
