@@ -1078,5 +1078,25 @@
     "TITLE": "𝘒𝘢𝘭 𝘬𝘪 𝘤𝘩𝘪𝘯𝘵𝘢 𝘮𝘢𝘵 𝘬𝘢𝘳𝘰, magar...",
     "ID": "No ID",
     "MSG": "🎟️s ki karo! Selling out FAST!"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:33:14",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "‪+91 88987 64007‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:33:14",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
