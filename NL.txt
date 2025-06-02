@@ -808,5 +808,25 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "Abi going"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:44:08",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Abi going"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:45:59",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Maa",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
