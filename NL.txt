@@ -2968,5 +2968,25 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "I'm in bus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:41:03",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "I'm in bus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 19:41:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
