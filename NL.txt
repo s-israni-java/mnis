@@ -3198,5 +3198,35 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "Train coming"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 20:15:07",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Train coming"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 20:24:53",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "In train"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 20:24:53",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
