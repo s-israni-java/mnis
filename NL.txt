@@ -2668,5 +2668,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:20:36",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
