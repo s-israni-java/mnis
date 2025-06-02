@@ -778,5 +778,25 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "Khana khaya motu??"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:39:50",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Khana khaya motu??"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:39:57",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Haa tune?"
   }
 ]
