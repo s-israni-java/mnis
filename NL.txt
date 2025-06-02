@@ -848,5 +848,25 @@
     "TITLE": "Vinita Israni",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:46:34",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:46:40",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
