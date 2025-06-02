@@ -1108,5 +1108,45 @@
     "TITLE": "Taksham Kiya.Ai",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:33:17",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Fighter",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:33:17",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:51:17",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "Deal on SmartSpeaker!",
+    "ID": "No ID",
+    "MSG": "🔸One-time Setup Fee: ₹318\n🔸Monthly fee: As low as ₹1*\nOrder Now →"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:51:17",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "PhonePe POS: 1 Device for All Payments!",
+    "ID": "No ID",
+    "MSG": "Order now and accept payments via UPI, Cards & other modes on a single device – it’s fast, simple & hassle-free!"
   }
 ]
