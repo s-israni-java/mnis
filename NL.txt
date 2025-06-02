@@ -488,5 +488,25 @@
     "TITLE": "Taksham Kiya.Ai",
     "ID": "918898764007@s.whatsapp.net",
     "MSG": "Hiiiieeee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:14:17",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.bt.bms",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:17:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "The legend returns💥",
+    "ID": "No ID",
+    "MSG": "Catch Kamal Haasan in his latest → Thug Life 👉"
   }
 ]
