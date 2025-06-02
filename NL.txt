@@ -2478,5 +2478,105 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:10:51",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:10:51",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:10:51",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:10:51",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:11:17",
+    "BATTERY": "55",
+    "NETWORK": "No Connection",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:11:17",
+    "BATTERY": "55",
+    "NETWORK": "No Connection",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:11:18",
+    "BATTERY": "55",
+    "NETWORK": "No Connection",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:11:18",
+    "BATTERY": "55",
+    "NETWORK": "No Connection",
+    "TITLE": "Chakra",
+    "ID": "No ID",
+    "MSG": "W&W, Vini Vici"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:13:50",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Shivani Dhole",
+    "ID": "No ID",
+    "MSG": "Re: [External Email] RE: CIBIL Revised Module in ITL Hi @Aniket Kulkarni, Kindly find below resolved issues. omniNG-1.0.0 2.war 1. Borrowers legal constitution is fetched from customer management module. 2. No. of employee should be blank not '0'. 3. Mobile number is fetched from customer managem"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 18:13:55",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Shivani Dhole",
+    "ID": "No ID",
+    "MSG": "Re: [External Email] RE: CIBIL Revised Module in ITL • Hi @Aniket Kulkarni, Kindly find below resolved issues. omniNG-1.0.0 2.war 1. Borrowers legal constitution is fetched from customer management module. 2. No. of employee should be blank not '0'. 3. Mobile number is fetched from customer managem"
   }
 ]
