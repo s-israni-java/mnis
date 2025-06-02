@@ -918,5 +918,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 14:23:17",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "AD-ICICIT-S",
+    "ID": "261",
+    "MSG": "Dear Customer, Payment of INR 32,361.94 has been received on your ICICI Bank Credit Card Account 6xxx7004 on 02-JUN-25.Thank you."
   }
 ]
