@@ -508,5 +508,15 @@
     "TITLE": "The legend returns💥",
     "ID": "No ID",
     "MSG": "Catch Kamal Haasan in his latest → Thug Life 👉"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:19:01",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Don't forget to mine Pi!",
+    "ID": "No ID",
+    "MSG": "Your last mining session has ended. Come back to keep mining Pi!"
   }
 ]
