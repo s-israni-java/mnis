@@ -1148,5 +1148,35 @@
     "TITLE": "PhonePe POS: 1 Device for All Payments!",
     "ID": "No ID",
     "MSG": "Order now and accept payments via UPI, Cards & other modes on a single device – it’s fast, simple & hassle-free!"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:51:17",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:07:11",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "‪+91 88987 64007‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 16:07:11",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
