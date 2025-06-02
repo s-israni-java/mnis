@@ -1098,5 +1098,15 @@
     "TITLE": "Taksham Kiya.Ai",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:33:16",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
