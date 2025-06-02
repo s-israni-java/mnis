@@ -628,5 +628,15 @@
     "TITLE": "WhatsApp",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:43:51",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Ha done"
   }
 ]
