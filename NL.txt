@@ -988,5 +988,15 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Ongoing voice call"
+  },
+  {
+    "APP": "com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 15:01:14",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "👋 Adding funds made easy👌",
+    "ID": "No ID",
+    "MSG": "Top up your Kotak811 a\/c in just a few steps using UPI"
   }
 ]
