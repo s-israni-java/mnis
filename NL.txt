@@ -1968,5 +1968,25 @@
     "TITLE": "JX-ICICIT-S",
     "ID": "325",
     "MSG": "ICICI Bank Acct XX026 debited for Rs 20.00 on 02-Jun-25; Ranjana Ganesh  credited. UPI:384687438856. Call 18002662 for dispute. SMS BLOCK 026 to 9215676766."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:58:52",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "AD-ICICIT-S",
+    "ID": "261",
+    "MSG": "ICICI Bank Acct XX026 debited for Rs 60.00 on 02-Jun-25; HADISH SHAIKH credited. UPI:384688082783. Call 18002662 for dispute. SMS BLOCK 026 to 9215676766."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:58:52",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
