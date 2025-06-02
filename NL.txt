@@ -768,5 +768,15 @@
     "TITLE": "Scratch Card Received",
     "ID": "No ID",
     "MSG": "You have earned Scratch Card(s)! Go to Rewards section for more details."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:39:49",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Khana khaya motu??"
   }
 ]
