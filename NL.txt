@@ -828,5 +828,25 @@
     "TITLE": "Maa",
     "ID": "No ID",
     "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:46:00",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Maa",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 13:46:34",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
