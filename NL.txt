@@ -468,5 +468,25 @@
     "TITLE": "Do Not Disturb is on",
     "ID": "No ID",
     "MSG": "The phone will be silent with no vibration (except for Always Allowed items)"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:14:07",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:14:17",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Hiiiieeee"
   }
 ]
