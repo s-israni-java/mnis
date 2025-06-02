@@ -958,5 +958,25 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 14:26:42",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 14:26:44",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
   }
 ]
