@@ -648,5 +648,55 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "919322584414@s.whatsapp.net",
     "MSG": "Ha done"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:44:07",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Vinita Israni",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:44:07",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918329605971@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.fcap.bharatnxt",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:44:08",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "💼 Cash flow is tight?",
+    "ID": "No ID",
+    "MSG": "Pay vendors, suppliers, and more with your credit card easily and instantly."
+  },
+  {
+    "APP": "com.fcap.bharatnxt",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:44:08",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "tech.fplabs.score",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 12:57:59",
+    "BATTERY": "95",
+    "NETWORK": "M",
+    "TITLE": "Get clarity on your score fluctuations",
+    "ID": "No ID",
+    "MSG": "Break down your credit score changes and know exactly what needs your attention."
   }
 ]
