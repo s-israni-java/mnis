@@ -1638,5 +1638,45 @@
     "TITLE": "archangel - Slowed",
     "ID": "No ID",
     "MSG": "DJ Anemia, crier, sixnite"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:37:06",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "archangel - Slowed",
+    "ID": "No ID",
+    "MSG": "DJ Anemia, crier, sixnite"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:37:06",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "archangel - Slowed",
+    "ID": "No ID",
+    "MSG": "DJ Anemia, crier, sixnite"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:37:50",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 17:37:50",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Haa"
   }
 ]
