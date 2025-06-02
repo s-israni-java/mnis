@@ -938,5 +938,15 @@
     "TITLE": "AD-ICICIT-S",
     "ID": "261",
     "MSG": "Dear Customer, Payment of INR 195.00 has been received on your ICICI Bank Credit Card Account 6xxx7004 on 02-JUN-25.Thank you."
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-02 14:26:07",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Ready to find your new favorite?✨",
+    "ID": "No ID",
+    "MSG": "Watch 'The Better Sister', 'Overcompensating', 'Motorheads' & more."
   }
 ]
