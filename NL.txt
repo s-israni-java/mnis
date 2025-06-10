@@ -8,5 +8,15 @@
     "TITLE": "JX-HDFCBK-S",
     "ID": "372",
     "MSG": "Sent Rs.110.00\nFrom HDFC Bank A\/C x4829\nTo PRIYANKA AJIT GUPTA\nOn 10\/06\/25\nRef 106267654190\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 21:33:34",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
