@@ -4654,5 +4654,69 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "Muj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:49",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:49",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:49",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:50",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:50",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:50",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b kh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:50",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b kha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:50",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khat"
   }
 ]
