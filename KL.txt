@@ -3934,5 +3934,29 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:13:59",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Ye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:13:59",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Yex"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:14:00",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Ye"
   }
 ]
