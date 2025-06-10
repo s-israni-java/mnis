@@ -934,5 +934,21 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Subah maja jui"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:23",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:23",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja nhi a"
   }
 ]
