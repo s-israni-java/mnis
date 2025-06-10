@@ -1142,5 +1142,37 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Tune hi call "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune hi call k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune hi call ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune hi call kia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune hi call kia "
   }
 ]
