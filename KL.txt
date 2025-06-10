@@ -1646,5 +1646,61 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Tune hi bola tha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:03",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:03",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:03",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:03",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na is"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:03",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na isd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:04",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na is"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:04",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na i"
   }
 ]
