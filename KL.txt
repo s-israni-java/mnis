@@ -2310,5 +2310,13 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "photo bhej "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:55",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Search…"
   }
 ]
