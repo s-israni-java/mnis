@@ -4046,5 +4046,45 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Yes i lov"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:14:04",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Yes i love"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:14:04",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Yes i love "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:14:04",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Yes i love y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:14:04",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Yes i love yo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:14:05",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Yes i love you"
   }
 ]
