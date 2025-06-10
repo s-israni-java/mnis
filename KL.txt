@@ -1206,5 +1206,21 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:19",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "B"
   }
 ]
