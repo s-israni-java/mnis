@@ -30,5 +30,13 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "₹11"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 21:31:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "₹110"
   }
 ]
