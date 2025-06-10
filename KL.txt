@@ -1094,5 +1094,13 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Tune ji"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:05",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune hi "
   }
 ]
