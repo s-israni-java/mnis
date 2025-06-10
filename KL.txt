@@ -3086,5 +3086,69 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Unstable co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:06",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Unstable con"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:07",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Unstable conn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:07",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Unstable connect "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:08",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Unstable connect"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:08",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Unstable connection "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:19",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:20",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Ou"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:20",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Our"
   }
 ]
