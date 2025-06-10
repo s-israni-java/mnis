@@ -318,5 +318,29 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Abi mummy ne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:54",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:55",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:55",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne ph"
   }
 ]
