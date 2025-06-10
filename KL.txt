@@ -5542,5 +5542,93 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "Mere se pucha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:20",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:20",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:20",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:20",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi kr "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:21",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi kr m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:21",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha hi nhi kr me"
   }
 ]
