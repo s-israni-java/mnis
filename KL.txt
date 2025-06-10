@@ -4934,5 +4934,61 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "Muje b khatarnak potty aay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:59",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak potty aayi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:00",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:01",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:02",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:02",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Maka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:03",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Maja "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:03",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Maja a"
   }
 ]
