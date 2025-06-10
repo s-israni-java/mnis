@@ -2726,5 +2726,13 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "Chl me so rhi hu bablu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:06:55",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "G"
   }
 ]
