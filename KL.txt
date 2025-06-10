@@ -3750,5 +3750,133 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Kaha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:34",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:34",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:34",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:35",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se mim"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:36",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se mimd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:37",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:37",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:38",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind pu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:38",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind pur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:38",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind puri"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:38",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind puri "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:38",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind puri h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:39",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind puri ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:39",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind puri hog"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:39",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Kaha se nind puri hogi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:13:46",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "🥺"
   }
 ]
