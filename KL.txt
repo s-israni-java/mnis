@@ -1062,5 +1062,37 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Tune "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:03",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:04",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune ji"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:04",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune ji "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:04",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Tune ji"
   }
 ]
