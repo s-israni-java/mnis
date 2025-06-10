@@ -3454,5 +3454,29 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Chrg pe rkha!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:00",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rkha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:01",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rkha?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:24",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "U"
   }
 ]
