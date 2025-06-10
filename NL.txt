@@ -638,5 +638,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:44",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "replayed your Snap"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:46",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "saved your Snap in Chat"
   }
 ]
