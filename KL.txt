@@ -5414,5 +5414,133 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:14",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:14",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:15",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:15",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mer"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:16",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:17",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:17",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:17",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:17",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:18",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:18",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:18",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se puc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:18",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se puch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:18",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:18",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:18:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Mere se pucha h"
   }
 ]
