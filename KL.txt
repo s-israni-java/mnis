@@ -5062,5 +5062,21 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "Q"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:28",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Q?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:38",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "☹️"
   }
 ]
