@@ -998,5 +998,29 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Subah maja nhi aa rha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja nhi aa rha t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja nhi aa rha th"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:26",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja nhi aa rha tha"
   }
 ]
