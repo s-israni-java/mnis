@@ -5022,5 +5022,29 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:21",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:21",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:23",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Q"
   }
 ]
