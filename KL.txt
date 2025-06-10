@@ -1982,5 +1982,21 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Tune hi bola tha na usdin sone se pehle ph"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:15",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na usdin sone "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:15",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na usdin sone"
   }
 ]
