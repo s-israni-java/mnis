@@ -608,5 +608,15 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:34",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
