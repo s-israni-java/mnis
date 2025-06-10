@@ -870,5 +870,29 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Subah ma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:20",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:20",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah majj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:21",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maj"
   }
 ]
