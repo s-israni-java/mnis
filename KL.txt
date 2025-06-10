@@ -254,5 +254,37 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Abi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:53",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:53",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:53",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mum"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:53",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mumm"
   }
 ]
