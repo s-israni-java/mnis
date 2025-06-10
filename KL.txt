@@ -2054,5 +2054,37 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:21",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Photo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:21",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Photo b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:21",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Photo bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:21",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Photo bhej "
   }
 ]
