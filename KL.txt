@@ -1702,5 +1702,29 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Tune hi bola tha na i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:04",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:04",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na ue"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:05",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Tune hi bola tha na u"
   }
 ]
