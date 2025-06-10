@@ -6622,5 +6622,29 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Haa aise "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:15",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "G"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Go"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:17",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good "
   }
 ]
