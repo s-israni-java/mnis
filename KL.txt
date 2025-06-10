@@ -3342,5 +3342,21 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "🙄"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:54",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "🙄🙄"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:56",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "C"
   }
 ]
