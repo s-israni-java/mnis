@@ -1326,5 +1326,29 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:09",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "D"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Dele"
   }
 ]
