@@ -14,5 +14,21 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "gp"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 21:31:28",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "₹1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 21:31:28",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "₹11"
   }
 ]
