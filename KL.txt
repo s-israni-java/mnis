@@ -894,5 +894,45 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Subah maj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:21",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:22",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:22",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:22",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja ju"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:22",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Subah maja jui"
   }
 ]
