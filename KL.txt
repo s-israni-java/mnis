@@ -1022,5 +1022,13 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Subah maja nhi aa rha tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:02",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
