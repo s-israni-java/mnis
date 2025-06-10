@@ -470,5 +470,37 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Abi mummy ne phone hota"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:00",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone hot"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:00",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:01",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:01",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone "
   }
 ]
