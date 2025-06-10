@@ -2438,5 +2438,69 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "Effor"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:45",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Effort"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:46",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:46",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:46",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:46",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts da"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:47",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts daa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:47",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts daal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:05:47",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Efforts daal "
   }
 ]
