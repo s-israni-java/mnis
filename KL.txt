@@ -6646,5 +6646,21 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Good "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:18",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:19",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night \n"
   }
 ]
