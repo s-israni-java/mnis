@@ -630,5 +630,37 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Abi mummy ne phone gira diya toh de"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:05",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone gira diya toh dek"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:05",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone gira diya toh dekh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:05",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone gira diya toh dekhn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:05",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone gira diya toh dekhne"
   }
 ]
