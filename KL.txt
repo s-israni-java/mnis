@@ -774,5 +774,13 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Ha kia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:25:09",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "G"
   }
 ]
