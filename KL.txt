@@ -4190,5 +4190,37 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:15:54",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:15:55",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ok "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:15:55",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ok j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:15:55",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ok ji"
   }
 ]
