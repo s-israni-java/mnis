@@ -3926,5 +3926,13 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "😘😘❤️❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:13:58",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Y"
   }
 ]
