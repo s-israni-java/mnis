@@ -3414,5 +3414,45 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Chrg pe "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:58",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:58",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:58",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rkh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:59",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rkha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:12:00",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rkha!"
   }
 ]
