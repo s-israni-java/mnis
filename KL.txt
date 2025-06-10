@@ -2190,5 +2190,45 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "sone se p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se pe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se peh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se pehl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se pehle"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:39",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se pehlel"
   }
 ]
