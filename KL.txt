@@ -502,5 +502,13 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Abi mummy ne phone "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:01",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Abi mummy ne phone g"
   }
 ]
