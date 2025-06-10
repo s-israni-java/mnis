@@ -6798,5 +6798,45 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Good night \nTake care \nSweet dreams \nI"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:26",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet dreams \nI "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:26",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet dreams \nI l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:27",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet dreams \nI lo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:27",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet dreams \nI love "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:21:28",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet dreams \nI love you "
   }
 ]
