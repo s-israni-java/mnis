@@ -2686,5 +2686,29 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "Chl me so rhi hu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:06:44",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Chl me so rhi hu n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:06:44",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Chl me so rhi hu na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:06:45",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Chl me so rhi hu nan"
   }
 ]
