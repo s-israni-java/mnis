@@ -710,5 +710,37 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:11",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:20:11",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:24:57",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:24:58",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Ha"
   }
 ]
