@@ -2326,5 +2326,45 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "pi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "pic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "pic "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "pic b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "pic bhej"
   }
 ]
