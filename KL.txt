@@ -2134,5 +2134,61 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "so"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "son"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:32:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "sone se p"
   }
 ]
