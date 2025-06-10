@@ -4774,5 +4774,53 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "Muje b khatarnak l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:53",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak lo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:53",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:54",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:54",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:55",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak i\n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:16:55",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Muje b khatarnak i\nP"
   }
 ]
