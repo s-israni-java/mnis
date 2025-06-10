@@ -1390,5 +1390,29 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "Delete kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:11",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delete kru"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:11",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delete kru?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "?"
   }
 ]
