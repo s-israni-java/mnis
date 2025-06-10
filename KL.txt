@@ -3262,5 +3262,85 @@
     "BATTERY": "71",
     "NETWORK": "M",
     "MSG": "Phone bnd yig"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:25",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd yigy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:25",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd yigya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:25",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:26",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:26",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:26",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:26",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:27",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya kya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:27",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "Phone bnd hogya kya?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:11:54",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "MSG": "🙄"
   }
 ]
