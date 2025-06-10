@@ -1198,5 +1198,13 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Tune hi call kia na😒"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:26:19",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
