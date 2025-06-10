@@ -1478,5 +1478,45 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "? Kon bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:30",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "? Kon bhejt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:31",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "? Kon bhejta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:31",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "? Kon bhejta h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:31",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "? Kon bhejta h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:59",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
