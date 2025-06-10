@@ -1350,5 +1350,45 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "Dele"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delet"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delete"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delete "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:11",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delete k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:31:11",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Delete kr"
   }
 ]
