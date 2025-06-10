@@ -158,5 +158,21 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Chrg pe "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:49",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Chrg pe r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 22:19:50",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Chrg pe rk"
   }
 ]
