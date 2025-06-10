@@ -5294,5 +5294,13 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "May be ande bht kha rha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-10 23:17:51",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
