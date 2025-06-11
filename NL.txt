@@ -31668,5 +31668,15 @@
     "TITLE": "Simi's Wallpapers",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:03:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "52 Bars",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
   }
 ]
