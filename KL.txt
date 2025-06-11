@@ -28622,5 +28622,69 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Bad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi le"
   }
 ]
