@@ -6648,5 +6648,15 @@
     "TITLE": "malvika",
     "ID": "false|malvika|bda6399e-75c8-428f-8cef-921c82f43ec7",
     "MSG": "Thank you baby❣️ | @mr.romeo0077 ❤️"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:30:08",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
