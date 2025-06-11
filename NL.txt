@@ -25538,5 +25538,15 @@
     "TITLE": "Gugu♥️",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
     "MSG": "sent you a chat • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:33:30",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
