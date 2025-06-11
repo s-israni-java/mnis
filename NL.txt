@@ -6128,5 +6128,15 @@
     "TITLE": "AX-HDFCBK-S",
     "ID": "403",
     "MSG": "Sent Rs.27.00\nFrom HDFC Bank A\/C x4829\nTo HungerBox\nOn 11\/06\/25\nRef 106283530632\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:49:48",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Your food is ready!",
+    "ID": "No ID",
+    "MSG": "Chole Puri (5 Puri) is ready!"
   }
 ]
