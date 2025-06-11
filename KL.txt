@@ -32342,5 +32342,101 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:12",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:12",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:12",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Can"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant tal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk o"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk on"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk on "
   }
 ]
