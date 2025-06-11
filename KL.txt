@@ -31430,5 +31430,101 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:52",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:52",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:52",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha bu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but kl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but kl "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but kl k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:55:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ha but kl kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:56:04",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Y"
   }
 ]
