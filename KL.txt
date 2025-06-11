@@ -9118,5 +9118,93 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Connected "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:01",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:01",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected wi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:01",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected wit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:01",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:01",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:02",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:02",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with hos"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:02",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with host"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:02",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with hosts"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:03",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with hostsp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:03",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with hostspo"
   }
 ]
