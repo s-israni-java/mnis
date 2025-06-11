@@ -22598,5 +22598,37 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Me kuch galat nhi kr rhi hu jo mere paa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:15",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:16",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:17",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas con"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:17",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas co"
   }
 ]
