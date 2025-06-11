@@ -26710,5 +26710,109 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Tuje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje bad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje bada"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badani"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:07",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badani "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:07",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badani h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:07",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badani hm"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:08",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badani h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:08",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje badani h?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:13",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "S"
   }
 ]
