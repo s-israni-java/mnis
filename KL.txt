@@ -25966,5 +25966,61 @@
     "BATTERY": "43",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:46",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:47",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:47",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:47",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tu k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:47",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tu ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:47",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tu kais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:45:48",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tu kaisa "
   }
 ]
