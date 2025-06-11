@@ -25854,5 +25854,61 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Good night \nTa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake xa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake xar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake xare "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake xare"
   }
 ]
