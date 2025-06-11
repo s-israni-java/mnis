@@ -29270,5 +29270,85 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Dekh kitna wrong direction me ja rha h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:57",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:57",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h con"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conve"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conver"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h convers"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conversa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:59",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conversati"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:59",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conversatio"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:59",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conversation"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:59",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direction me ja rha h conversation "
   }
 ]
