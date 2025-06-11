@@ -20214,5 +20214,69 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Kons"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:06",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baat v"
   }
 ]
