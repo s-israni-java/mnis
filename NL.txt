@@ -1,0 +1,3062 @@
+[
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 21:31:45",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "JX-HDFCBK-S",
+    "ID": "372",
+    "MSG": "Sent Rs.110.00\nFrom HDFC Bank A\/C x4829\nTo PRIYANKA AJIT GUPTA\nOn 10\/06\/25\nRef 106267654190\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 21:33:34",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 21:33:35",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Giraffe 🦒😂",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674",
+    "MSG": "sent you a Snap"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:12:47",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:12:47",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:12:49",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:13:16",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Sagar❤️"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:13:16",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:14:08",
+    "BATTERY": "63",
+    "NETWORK": "No Connection",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:14:08",
+    "BATTERY": "63",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:14:09",
+    "BATTERY": "63",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:14:28",
+    "BATTERY": "63",
+    "NETWORK": "No Connection",
+    "TITLE": "Missed calls",
+    "ID": "No ID",
+    "MSG": "2 missed calls"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:14:28",
+    "BATTERY": "63",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:04",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:04",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:30",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:30",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:31",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "919323474737@s.whatsapp.net",
+    "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:31",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "919323474737@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "919323474737@s.whatsapp.net",
+    "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:19:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "919323474737@s.whatsapp.net",
+    "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:35",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:37",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aise he call koya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:37",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aise he call koya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Pad change kiya k nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "At gym"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:43",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Tricep"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:43",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:46",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:47",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Full maja"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:21:47",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "5 new messages"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:25:38",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:25:40",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aaya su ha bhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:25:40",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aaya su ha bhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:25:43",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:25:44",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Chl abi gym karne de"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:25:44",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:44:24",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:44:24",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:44:27",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:44:28",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Yaad hai teko🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:44:28",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:45:07",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:45:08",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Waah aaj kal bht chizen yaad rakh rhi hai babluj🥺❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 22:45:08",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:01:16",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:01:54",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a post by theloveromanceee"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:03:37",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a post by golden_future_kennel"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:34",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:34",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:35",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Vc nhi?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:35",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:46",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:48",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Reacted ❤️ to \"Efforts daal rhi hu\""
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:07:48",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sagar❤️: Reacted ❤️ to \"Efforts daal rhi hu\""
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:15",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:16",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Chotu sa vc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:16",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:30",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:34",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:36",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:38",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:44",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "replayed your Snap"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-10 23:08:46",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:00:00",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:15 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:15:00",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "5:15 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:15:16",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:30 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:30:00",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "5:30 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:30:09",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "Alarm will ring again at 5:35 am."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:00",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "5:35 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:00",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:05",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "Alarm will ring again at 5:40 am."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:05",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:36:19",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "Torch",
+    "ID": "No ID",
+    "MSG": "Torch turned on"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:20",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:28",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Mayur",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:28",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Taniya Thakur 🤍",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:28",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Mayur,Ritika",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876",
+    "MSG": "New Snap from Mayur"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:28",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:29",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:30",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "iComply Alert",
+    "ID": "No ID",
+    "MSG": "iComply Alert : Comply Action to be performed Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:31",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "iComply Alert",
+    "ID": "No ID",
+    "MSG": "iComply Alert : Comply Action to be performed • Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:50",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Harsh Beniwal",
+    "ID": "No ID",
+    "MSG": "Rcb vs pbks 🤭"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:00",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:09",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Here is your chance to meet the stars of - Metro… In Dino!",
+    "ID": "No ID",
+    "MSG": "Fill out this form for a chance to meet the cast of \"Metro… In Dino\" and experience a specially curated musical event!"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:11",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by aniiiiiii_16"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:35",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Reacted 😂 to your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:35",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Hum 4🤗❤️: Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by the.fun.company"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:35",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:36",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by the.fun.company"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:54:45",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:54:45",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:54:46",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:23",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:23",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "41",
+    "MSG": "Dear Customer, +918698423278 is now available to take calls."
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:47",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:47",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:47",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:58",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:03:19",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "JM-AUBANK-S",
+    "ID": "384",
+    "MSG": "Credited INR 1,999.00 to A\/c X1248 on 11-JUN-2025 Ref NEFT CR-UTIBN62025061171143159 -PHONEPE. Bal INR 6,000.65.\n-AU Bank"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:06:35",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Settlement completed for 11 JUNE 2025.",
+    "ID": "No ID",
+    "MSG": "The settlement for your transactions has been successfully credited to your bank account. Tap to view the details."
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:33:05",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:33:05",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Weather in Ulhasnagar",
+    "ID": "No ID",
+    "MSG": "34° today · Partly cloudy · See full forecast"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:33",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (1%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (2%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:35",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:37",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "WAR 2 - Hindi Trailer | Hrithik Roshan | Jr NTR | Kiara advani | Aditya Chopra | Ayan Mukerji | 2025",
+    "ID": "No ID",
+    "MSG": "For you: Universal Power Studio"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:37",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "WAR 2 - Hindi Trailer | Hrithik Roshan | Jr NTR | Kiara advani | Aditya Chopra | Ayan Mukerji | 2025",
+    "ID": "No ID",
+    "MSG": "For you: Universal Power Studio"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:39",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (3%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:40",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (4%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:40",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (5%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:40",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (6%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:41",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (7%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:43",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (8%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:43",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (10%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:43",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (12%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:44",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (13%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:44",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (14%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:44",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (15%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:44",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (17%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:44",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (19%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:45",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (21%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:46",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (22%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (23%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (24%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:48",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (25%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:48",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (28%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:48",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (30%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:48",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (32%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:49",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (36%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:49",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (40%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:49",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (44%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:49",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (48%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (52%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (54%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (55%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:54",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (58%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:55",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (59%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:55",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (60%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:55",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (61%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:55",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (63%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:56",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (65%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:56",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (67%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:56",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (68%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:56",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (71%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:57",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (72%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:57",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (73%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:57",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (79%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:58",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (80%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:58",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (81%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:00",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (82%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:01",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (83%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:01",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (84%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:02",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (85%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:04",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (86%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:05",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (87%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:06",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (90%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:08",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (92%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:09",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (93%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:09",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (94%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:10",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (95%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:13",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (96%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:14",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (97%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:14",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (98%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:15",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (99%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:17",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (100%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:25",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 0 kB of 1.3 MB (0%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:26",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 139 kB of 1.3 MB (10%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:27",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 206 kB of 1.3 MB (14%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:30",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 402 kB of 1.3 MB (29%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:31",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 623 kB of 1.3 MB (45%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:33",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 789 kB of 1.3 MB (57%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:33",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 898 kB of 1.3 MB (64%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:34",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 0.90 MB of 1.3 MB (66%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:36",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.0 MB of 1.3 MB (76%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:38",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.2 MB of 1.3 MB (89%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:57:40",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.3 MB of 1.3 MB (96%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:06:50",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:06:50",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:06:50",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:06:50",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:16:53",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Alarm",
+    "ID": "No ID",
+    "MSG": "The 7:30 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:30:00",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "7:30 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:35:00",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Alarm",
+    "ID": "No ID",
+    "MSG": "Alarm will ring again at 7:40 am."
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 08:22:10",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Don't forget to mine Pi!",
+    "ID": "No ID",
+    "MSG": "Your last mining session has ended. Come back to keep mining Pi!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 08:34:53",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Iam down"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 08:34:53",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Iam down"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:01:40",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "📜 Inspirational Quotes for Simi",
+    "ID": "No ID",
+    "MSG": ""
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:24:04",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "Zepto",
+    "ID": "312",
+    "MSG": "₹100 FREE cash expires soon!💸—₹100 FREE cash is yours to save—but not for long⏰⏰\nNo conditions, just spend and save big on Zepto!💵💵\nGrab it before it’s gone and save on all daily needs🛒"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:24:06",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:10",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "malvika",
+    "ID": "false|malvika|bda6399e-75c8-428f-8cef-921c82f43ec7",
+    "MSG": "Thank you baby❣️ | @mr.romeo0077 ❤️"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:24",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:25",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:25",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:25",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:54",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:54",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:54",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:54",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:33",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:34",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:34",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:34",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:38:34",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:42:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:42:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:42:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Tum Mile",
+    "ID": "No ID",
+    "MSG": "Pritam, Neeraj Shridhar"
+  }
+]
