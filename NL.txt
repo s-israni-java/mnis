@@ -6148,5 +6148,25 @@
     "TITLE": "Order Delivered!",
     "ID": "No ID",
     "MSG": "Chole Puri (5 Puri) from your order has been delivered!"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:52:41",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:53:41",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "JX-HDFCBK-S",
+    "ID": "372",
+    "MSG": "Sent Rs.23.00\nFrom HDFC Bank A\/C x4829\nTo HungerBox\nOn 11\/06\/25\nRef 106283728449\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
