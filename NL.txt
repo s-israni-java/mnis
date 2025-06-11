@@ -6758,5 +6758,15 @@
     "TITLE": "Your food is ready!",
     "ID": "No ID",
     "MSG": "Butter Sada Dosa (150Gms) is ready!"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:36:42",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Aditya Birla Capital Finance",
+    "ID": "449",
+    "MSG": "₹ 5,00,000 (5 Lac)* Personal Loan in just 2 Minutes💸🤩📲—Dear Customer,\n\nGet up to ₹5,00,000* Instant Loan credited to your Bank account.\n\nBenefits of Aditya Birla Capital Personal Loan-\n\n✅ No home\/bank visit\n✅ Instant Approval within 5 minutes.\n✅ 100% Paperless.\n\nCheck your offer now"
   }
 ]
