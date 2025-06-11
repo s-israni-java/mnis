@@ -17258,5 +17258,25 @@
     "TITLE": "Sandhiya T",
     "ID": "No ID",
     "MSG": "Please provide with proper inputs to validate"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:31:34",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Tum Prem Ho - Reprise",
+    "ID": "No ID",
+    "MSG": "Mohit Lalwani, Bharat Kamal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:31:34",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Katiya Karun",
+    "ID": "No ID",
+    "MSG": "Harshdeep Kaur"
   }
 ]
