@@ -23782,5 +23782,53 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:03",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "So"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:03",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Soc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:03",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Soch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:03",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:03",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna k"
   }
 ]
