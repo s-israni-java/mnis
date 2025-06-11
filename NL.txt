@@ -6138,5 +6138,15 @@
     "TITLE": "Your food is ready!",
     "ID": "No ID",
     "MSG": "Chole Puri (5 Puri) is ready!"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:52:40",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Order Delivered!",
+    "ID": "No ID",
+    "MSG": "Chole Puri (5 Puri) from your order has been delivered!"
   }
 ]
