@@ -6668,5 +6668,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:30:10",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "TITLE": "Zepto",
+    "ID": "312",
+    "MSG": "₹125 FREE cash on the move!💸—Wait, don’t let it slip away before you use it!😱\nSave now with no strings attached🤩\nShop anything you want and save ₹125 with Zepto Cash💰"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:31:10",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Gautam  Mandal",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
