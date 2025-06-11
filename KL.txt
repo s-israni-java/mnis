@@ -20726,5 +20726,45 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Clearification "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:30",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:31",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification ke "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:31",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification ke l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:31",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification ke li"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:31",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification ke liue"
   }
 ]
