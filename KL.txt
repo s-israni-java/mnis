@@ -20414,5 +20414,21 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Ye sac"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:25",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Ye sa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:26",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Ye sac"
   }
 ]
