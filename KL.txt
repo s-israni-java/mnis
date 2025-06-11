@@ -9310,5 +9310,69 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Nayan "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:06",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:06",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:06",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan aay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:06",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan aayi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:06",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan aayi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:06",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan aayi ab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:07",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan aayi abi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:28",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "H"
   }
 ]
