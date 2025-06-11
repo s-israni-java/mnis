@@ -20190,5 +20190,29 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:03",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Kon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Kons"
   }
 ]
