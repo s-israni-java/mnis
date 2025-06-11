@@ -32168,5 +32168,25 @@
     "TITLE": "Diva's",
     "ID": "120363382492371416@g.us",
     "MSG": "Nisha Tcs: Mera drawer mai mera phone ka charger tha ky?"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:42:32",
+    "BATTERY": "28",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93736 58115‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:42:32",
+    "BATTERY": "28",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
