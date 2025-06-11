@@ -1658,5 +1658,65 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Preparing backup (40%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:49",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (44%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:49",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (48%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:50",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
   }
 ]
