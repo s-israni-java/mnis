@@ -25518,5 +25518,25 @@
     "TITLE": "Gugu♥️",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
     "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:31:07",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "is typing ..."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:31:12",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "sent you a chat • 🔥"
   }
 ]
