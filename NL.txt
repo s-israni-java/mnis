@@ -31088,5 +31088,105 @@
     "TITLE": "9:45",
     "ID": "No ID",
     "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:55:41",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:55:41",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:55:41",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:07",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:08",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Diva's (7 messages): Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Nothing"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:08",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "7 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:14",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:14",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Zaroor",
+    "ID": "No ID",
+    "MSG": "Aparshakti Khurana, Savi Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:15",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Zaroor",
+    "ID": "No ID",
+    "MSG": "Aparshakti Khurana, Savi Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:57:15",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Zaroor",
+    "ID": "No ID",
+    "MSG": "Aparshakti Khurana, Savi Kahlon"
   }
 ]
