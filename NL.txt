@@ -17388,5 +17388,55 @@
     "TITLE": "Sibadutta Mohapatra",
     "ID": "No ID",
     "MSG": "Ok, let me check"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:36:23",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Tum Prem Ho - Reprise",
+    "ID": "No ID",
+    "MSG": "Mohit Lalwani, Bharat Kamal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:36:24",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Khwab",
+    "ID": "No ID",
+    "MSG": "Iqlipse Nova, Aditya A"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:36:24",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Khwab",
+    "ID": "No ID",
+    "MSG": "Iqlipse Nova, Aditya A"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:36:24",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Khwab",
+    "ID": "No ID",
+    "MSG": "Iqlipse Nova, Aditya A"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:36:24",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Khwab",
+    "ID": "No ID",
+    "MSG": "Iqlipse Nova, Aditya A"
   }
 ]
