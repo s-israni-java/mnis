@@ -32038,5 +32038,35 @@
     "TITLE": "Diva's (9 messages): Nisha Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:06:28",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "9 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:25:47",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "TITLE": "Diva's (9 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:25:47",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "TITLE": "Tata Neu Credit",
+    "ID": "918886659269@s.whatsapp.net",
+    "MSG": "Gentle Reminder Simriti,"
   }
 ]
