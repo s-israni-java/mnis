@@ -20958,5 +20958,25 @@
     "TITLE": "VA-FNHREO-P",
     "ID": "452",
     "MSG": "Rs. 1,00,000* loan is ready to be credited to your Bank A\/c. Use OTP 9443 to Apply for loan http:\/\/pu1.in\/FNHREO\/5Nph3V --Finance Hero"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:22:36",
+    "BATTERY": "24",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:22:43",
+    "BATTERY": "24",
+    "NETWORK": "W",
+    "TITLE": "LinkedIn",
+    "ID": "No ID",
+    "MSG": "You may be interested in posts from Air India Limited, because you interacted with their post recently"
   }
 ]
