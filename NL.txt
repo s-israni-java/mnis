@@ -28348,5 +28348,25 @@
     "TITLE": "Insane",
     "ID": "No ID",
     "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:46:07",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Insane",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:46:52",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Insane",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
   }
 ]
