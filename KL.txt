@@ -16094,5 +16094,61 @@
     "BATTERY": "36",
     "NETWORK": "M",
     "MSG": "Cros"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:53",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "MSG": "Crossi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:53",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "MSG": "Crossin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:53",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "MSG": "Crossing"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:54",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "MSG": "Crossing "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:54",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "MSG": "Crossing n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:54",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "MSG": "Crossing no"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:55:54",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "MSG": "Crossing now "
   }
 ]
