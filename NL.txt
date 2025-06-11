@@ -18408,5 +18408,35 @@
     "TITLE": "Trending #1: 'Bhool Chuk Maaf'",
     "ID": "No ID",
     "MSG": "Watch Rajkummar Rao & Wamiqa's hilarious time-loop romance now on Prime Video!⏰🔁"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:22:19",
+    "BATTERY": "16",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:22:21",
+    "BATTERY": "16",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:22:24",
+    "BATTERY": "16",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
   }
 ]
