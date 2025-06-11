@@ -23942,5 +23942,29 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Sochna kya h u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h usme "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:09",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
