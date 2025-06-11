@@ -8768,5 +8768,45 @@
     "TITLE": "Deva Shree Ganesha",
     "ID": "No ID",
     "MSG": "Ajay-Atul, Ajay Gogavale"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:54:27",
+    "BATTERY": "41",
+    "NETWORK": "W",
+    "TITLE": "Deva Shree Ganesha",
+    "ID": "No ID",
+    "MSG": "Ajay-Atul, Ajay Gogavale"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:54:27",
+    "BATTERY": "41",
+    "NETWORK": "W",
+    "TITLE": "Deva Shree Ganesha",
+    "ID": "No ID",
+    "MSG": "Ajay-Atul, Ajay Gogavale"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:54:27",
+    "BATTERY": "41",
+    "NETWORK": "W",
+    "TITLE": "Deva Shree Ganesha",
+    "ID": "No ID",
+    "MSG": "Ajay-Atul, Ajay Gogavale"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:54:42",
+    "BATTERY": "41",
+    "NETWORK": "W",
+    "TITLE": "Shubham Vajpayee",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
