@@ -30014,5 +30014,69 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:29",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:29",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Cho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:29",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Chod"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:29",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Chod d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:30",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Chod de"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:30",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Chod det"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:30",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Chod deti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:30",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Chod deti "
   }
 ]
