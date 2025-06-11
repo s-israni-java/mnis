@@ -6698,5 +6698,15 @@
     "TITLE": "Gautam  Mandal",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:31:18",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Gautam  Mandal",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
