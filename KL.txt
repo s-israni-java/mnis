@@ -26814,5 +26814,53 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:14",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Sn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:14",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Sna"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:14",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Snap"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:14",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Snap dek"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:15",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Snap dekh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:25",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
