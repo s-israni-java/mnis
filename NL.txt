@@ -32238,5 +32238,15 @@
     "TITLE": "You: “𝙄’𝙢 𝙛𝙞𝙣𝙚”",
     "ID": "No ID",
     "MSG": "Also you: Ordering desserts for emotional 𝘴𝘶𝘱𝘱𝘰𝘳𝘵. 🍦🧁"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:13:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Reacted 👍🏻 to \"Dekha nhi\""
   }
 ]
