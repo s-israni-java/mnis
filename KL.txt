@@ -19758,5 +19758,45 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "But thi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But thik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But thik "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But thik h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But thik h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:19:46",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "M"
   }
 ]
