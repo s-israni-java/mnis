@@ -1498,5 +1498,95 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Preparing backup (22%)"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:47",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (23%)"
   }
 ]
