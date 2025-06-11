@@ -11222,5 +11222,37 @@
     "BATTERY": "30",
     "NETWORK": "W",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:01",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:01",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:02",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:02",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Al"
   }
 ]
