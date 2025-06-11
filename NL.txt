@@ -30928,5 +30928,95 @@
     "TITLE": "9:45",
     "ID": "No ID",
     "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:58",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:59",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:59",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:59",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:59",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:59",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:53:59",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:55:36",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Nikla hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:55:36",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
