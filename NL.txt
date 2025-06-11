@@ -32918,5 +32918,25 @@
     "TITLE": "WhatsApp",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:47:32",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:47:44",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Nayan Wanjare",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
+    "MSG": "saved your Snap in Chat"
   }
 ]
