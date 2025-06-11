@@ -8808,5 +8808,15 @@
     "TITLE": "Shubham Vajpayee",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:59:19",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Halkat Jawani",
+    "ID": "No ID",
+    "MSG": "Salim–Sulaiman, Sunidhi Chauhan"
   }
 ]
