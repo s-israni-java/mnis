@@ -33668,5 +33668,25 @@
     "TITLE": "Mayur",
     "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 00:09:15",
+    "BATTERY": "18",
+    "NETWORK": "M",
+    "TITLE": "Mayur,Ritika",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876",
+    "MSG": "New Snap from Mayur"
+  },
+  {
+    "APP": "com.oplus.sos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 00:13:52",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%."
   }
 ]
