@@ -23748,5 +23748,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:38:35",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Bhavna Tcs",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:39:16",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Brown Rang",
+    "ID": "No ID",
+    "MSG": "Yo Yo Honey Singh"
   }
 ]
