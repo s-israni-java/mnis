@@ -21668,5 +21668,15 @@
     "TITLE": "Shubham Vajpayee",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:48:19",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "Shubham Vajpayee",
+    "ID": "No ID",
+    "MSG": "ZIP_PYSTAT_UPD"
   }
 ]
