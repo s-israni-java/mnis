@@ -29350,5 +29350,37 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Dekh kitna wrong direction me ja rha h conversation "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliy"
   }
 ]
