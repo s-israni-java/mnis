@@ -27526,5 +27526,45 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Qki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki cl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki cle"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clea"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearl"
   }
 ]
