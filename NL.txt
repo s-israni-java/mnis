@@ -21268,5 +21268,15 @@
     "TITLE": "Sibadutta Mohapatra",
     "ID": "No ID",
     "MSG": "Hi, ok, let me check"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:37:23",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "TITLE": "Kinni Kinni",
+    "ID": "No ID",
+    "MSG": "Diljit Dosanjh, thiarajxtt"
   }
 ]
