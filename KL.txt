@@ -29102,5 +29102,61 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Dekh kitna wron"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:52",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:53",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:53",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:53",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong dir"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:53",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong direc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:54",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong directi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:54",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekh kitna wrong directio"
   }
 ]
