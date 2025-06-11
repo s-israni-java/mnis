@@ -18438,5 +18438,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.oplus.sos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:23:28",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%."
   }
 ]
