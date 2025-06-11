@@ -22926,5 +22926,37 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Me kuch galat nhi kr rhi hu jo mere paas confess krne ke liye kch "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas confess krne ke liye kch h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:30",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas confess krne ke liye kch ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:30",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "J"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:30",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb"
   }
 ]
