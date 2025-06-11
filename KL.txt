@@ -27230,5 +27230,37 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Toh usme galat kya tha agr mene is int"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:40",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya tha agr mene is inte"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:40",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya tha agr mene is inten"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:40",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya tha agr mene is intenti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:40",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya tha agr mene is intentio"
   }
 ]
