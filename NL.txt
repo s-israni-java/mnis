@@ -32098,5 +32098,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:28:32",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "TITLE": "Tata Neu Credit",
+    "ID": "918886659269@s.whatsapp.net",
+    "MSG": "Gentle Reminder Simriti,"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:28:32",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "TITLE": "Tata Neu Credit",
+    "ID": "918886659269@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
