@@ -31508,5 +31508,45 @@
     "TITLE": "Backbone",
     "ID": "No ID",
     "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:59:57",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:59:57",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:59:57",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:00:26",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
   }
 ]
