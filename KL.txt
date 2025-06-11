@@ -23614,5 +23614,45 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:45",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Si"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:45",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sir"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:45",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:45",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:45",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me "
   }
 ]
