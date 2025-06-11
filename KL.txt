@@ -24534,5 +24534,45 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:28",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:28",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Te"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:28",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Ter"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:28",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera a"
   }
 ]
