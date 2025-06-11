@@ -30382,5 +30382,77 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Badle ki bhavna nhi h mere anda"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:50",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Badle ki bhavna nhi h mere andar "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Py"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:54",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h i"
   }
 ]
