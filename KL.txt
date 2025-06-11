@@ -25830,5 +25830,29 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Good night "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:18",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nT"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTa"
   }
 ]
