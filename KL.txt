@@ -20078,5 +20078,45 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Sachi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:23",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:23",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:23",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:23",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:24",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi "
   }
 ]
