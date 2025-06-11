@@ -9846,5 +9846,117 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "No"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:37",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:37",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:37",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Hus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:38",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Hust"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:38",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Just "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:38",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Just"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:39",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:40",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:40",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Bu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:40",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Bus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:40",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Busy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:41",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Busy "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:41",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Busy u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:34:41",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Busy "
   }
 ]
