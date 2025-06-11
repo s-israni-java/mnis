@@ -32788,5 +32788,25 @@
     "TITLE": "Diva's: Nayan Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:45:56",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Nayan Tcs: Hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:46:22",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Hai"
   }
 ]
