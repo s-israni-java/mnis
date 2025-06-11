@@ -23830,5 +23830,77 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Sochna k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:05",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h ims"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:05",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h im"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:05",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:06",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sochna kya h "
   }
 ]
