@@ -19574,5 +19574,69 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "It"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:48",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:49",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:49",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:49",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:49",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:50",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna dik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:50",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna dik "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:50",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna dik"
   }
 ]
