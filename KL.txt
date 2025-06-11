@@ -11062,5 +11062,53 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "In person "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:13",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:13",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Ne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:14",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:14",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:14",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New ma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:14",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New man"
   }
 ]
