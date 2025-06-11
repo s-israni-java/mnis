@@ -16366,5 +16366,21 @@
     "BATTERY": "31",
     "NETWORK": "M",
     "MSG": "o"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 21:26:07",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "MSG": "ou"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 21:26:08",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "MSG": "o"
   }
 ]
