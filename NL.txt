@@ -2248,5 +2248,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Iam down"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 08:34:53",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Iam down"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:01:40",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "📜 Inspirational Quotes for Simi",
+    "ID": "No ID",
+    "MSG": ""
   }
 ]
