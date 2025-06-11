@@ -24574,5 +24574,45 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Tera a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aaw"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:30",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz a"
   }
 ]
