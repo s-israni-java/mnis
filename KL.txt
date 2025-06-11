@@ -23566,5 +23566,29 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Jb me itna b bol rhi hu ki vo muje tai krke bulata h...uske baad kya doubt aana chahiye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo muje tai krke bulata h...uske baad kya doubt aana chahiye?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo muje tai krke bulata h...uske baad kya doubt aana chahiye??"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:22",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "N"
   }
 ]
