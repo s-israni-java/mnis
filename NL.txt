@@ -14068,5 +14068,25 @@
     "TITLE": "hiteshlund",
     "ID": "No ID",
     "MSG": "Sent a reel by official_vastram"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:43:12",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Sagar Mom",
+    "ID": "917620495477@s.whatsapp.net",
+    "MSG": "🔗 Sarpanch Poonam Giri on Instagram: \"बहु संस्कारी सास को पड़ी भारी🤣🤣\" (www.instagram.com)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:43:12",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Sagar Mom",
+    "ID": "917620495477@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
