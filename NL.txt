@@ -17088,5 +17088,25 @@
     "TITLE": "WhatsApp",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "11 messages from 3 chats"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:26:14",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "Sibadutta Mohapatra",
+    "ID": "No ID",
+    "MSG": "Hi Smriti, regarding this issue,📷Call?"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:26:15",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
