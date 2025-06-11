@@ -9374,5 +9374,45 @@
     "BATTERY": "43",
     "NETWORK": "W",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:28",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:29",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:29",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "La"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:29",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Lat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:30",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Late"
   }
 ]
