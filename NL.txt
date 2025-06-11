@@ -31798,5 +31798,55 @@
     "TITLE": "52 Bars",
     "ID": "No ID",
     "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:03:40",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "52 Bars",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:03:40",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "52 Bars",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:03:41",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "52 Bars",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:04:06",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "52 Bars",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:04:07",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
   }
 ]
