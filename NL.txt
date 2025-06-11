@@ -25558,5 +25558,45 @@
     "TITLE": "Gugu♥️",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
     "MSG": "sent you a chat • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:36:29",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Bolll"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:36:29",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "8 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:37:51",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:37:52",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
   }
 ]
