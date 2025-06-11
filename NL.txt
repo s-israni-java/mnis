@@ -32848,5 +32848,75 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:46:44",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:46:45",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Nayan Tcs",
+    "ID": "919769312110@s.whatsapp.net",
+    "MSG": "Photu bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:46:45",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sort karna hai toh kar nhi toh chod"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:46:45",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 messages from 3 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:47:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:47:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:47:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
   }
 ]
