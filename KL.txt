@@ -26630,5 +26630,85 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Qki muje baat badani "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:01",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:02",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:02",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:02",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:02",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:02",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:03",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki muje baat badani nhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Tuje"
   }
 ]
