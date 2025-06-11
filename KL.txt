@@ -29382,5 +29382,69 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Isliy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:04",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye bola"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye bola "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye bola b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye bola be"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:50:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Isliye bola bet"
   }
 ]
