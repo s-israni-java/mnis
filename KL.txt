@@ -22310,5 +22310,53 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Me kuch "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch g"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch ga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch gal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch gala"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:07",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat "
   }
 ]
