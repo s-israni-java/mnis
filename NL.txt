@@ -24288,25 +24288,5 @@
     "TITLE": "WhatsApp",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "6 messages from 2 chats"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-06-11 18:48:51",
-    "BATTERY": "58",
-    "NETWORK": "W",
-    "TITLE": "Sagar❤️",
-    "ID": "918698423278@s.whatsapp.net",
-    "MSG": "Vc?"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-06-11 18:48:51",
-    "BATTERY": "58",
-    "NETWORK": "W",
-    "TITLE": "WhatsApp",
-    "ID": "918698423278@s.whatsapp.net",
-    "MSG": "7 messages from 2 chats"
   }
 ]
