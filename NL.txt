@@ -828,5 +828,25 @@
     "TITLE": "iComply Alert",
     "ID": "No ID",
     "MSG": "iComply Alert : Comply Action to be performed Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:31",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "iComply Alert",
+    "ID": "No ID",
+    "MSG": "iComply Alert : Comply Action to be performed • Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:50",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Harsh Beniwal",
+    "ID": "No ID",
+    "MSG": "Rcb vs pbks 🤭"
   }
 ]
