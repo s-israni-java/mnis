@@ -15288,5 +15288,25 @@
     "TITLE": "Diva's (2 messages): Nayan Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Bitlocker and laptop cha password please"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:59:06",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:59:08",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Tum Prem Ho - Reprise",
+    "ID": "No ID",
+    "MSG": "Mohit Lalwani, Bharat Kamal"
   }
 ]
