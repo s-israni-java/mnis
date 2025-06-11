@@ -23710,5 +23710,69 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Sirf me or sumi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit rhe "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit rhe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit the "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:26:49",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Sirf me or sumit the!"
   }
 ]
