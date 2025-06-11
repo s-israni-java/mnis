@@ -11110,5 +11110,53 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "New man"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:14",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New mana"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:14",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manag"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:15",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manage"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:15",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:16",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:16",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne "
   }
 ]
