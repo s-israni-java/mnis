@@ -25070,5 +25070,77 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Dekh mene try kia sort kru "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:17",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Dekh mene try kia sort kru a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:17",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Dekh mene try kia sort kru aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:18",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Dekh mene try kia sort kru aak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:18",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Dekh mene try kia sort kru aake "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Nu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Nut"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:19",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But t"
   }
 ]
