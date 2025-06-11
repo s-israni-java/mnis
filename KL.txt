@@ -30494,5 +30494,61 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Pyaar h isliye y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb "
   }
 ]
