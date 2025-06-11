@@ -15926,5 +15926,69 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Abi pohcha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:52",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Abi pohcha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:53",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Abi pohcha h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:53",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Abi pohcha h me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:53",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Abi pohcha h ms"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:54",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Abi pohcha h msg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:54",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Abi pohcha h msg "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:32",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:32",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Oy"
   }
 ]
