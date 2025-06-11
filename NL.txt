@@ -18328,5 +18328,85 @@
     "TITLE": "JX-HDFCBK-S",
     "ID": "372",
     "MSG": "Credit Alert!\nRs.25.00 credited to HDFC Bank A\/c xx4829 on 11-06-25 from VPA sumitkalelkar@sbi (UPI 100191524819)"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:18:11",
+    "BATTERY": "18",
+    "NETWORK": "M",
+    "TITLE": "Syncing new emails",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:19:17",
+    "BATTERY": "17",
+    "NETWORK": "M",
+    "TITLE": "HDFC Bank InstaAlerts",
+    "ID": "No ID",
+    "MSG": "View: Account update for your HDFC Bank A\/c"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:19:17",
+    "BATTERY": "17",
+    "NETWORK": "M",
+    "TITLE": "HDFC Bank InstaAlerts",
+    "ID": "No ID",
+    "MSG": "View: Account update for your HDFC Bank A\/c"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:20:13",
+    "BATTERY": "17",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:20:13",
+    "BATTERY": "17",
+    "NETWORK": "M",
+    "TITLE": "SUMIT DHARMENDRA KALELKAR paid you ₹25.00",
+    "ID": "No ID",
+    "MSG": "Pay to simritibasantani1319-1@okhdfcbank"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:22:00",
+    "BATTERY": "16",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:22:01",
+    "BATTERY": "16",
+    "NETWORK": "W",
+    "TITLE": "Reflections ✨",
+    "ID": "No ID",
+    "MSG": "Similar shots of Simriti Basantani"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:22:18",
+    "BATTERY": "16",
+    "NETWORK": "W",
+    "TITLE": "Trending #1: 'Bhool Chuk Maaf'",
+    "ID": "No ID",
+    "MSG": "Watch Rajkummar Rao & Wamiqa's hilarious time-loop romance now on Prime Video!⏰🔁"
   }
 ]
