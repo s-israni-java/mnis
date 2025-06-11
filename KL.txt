@@ -16558,5 +16558,29 @@
     "BATTERY": "30",
     "NETWORK": "M",
     "MSG": "​Mil rha h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 21:30:32",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "​Mil rha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:06:59",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "D"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:06:59",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dek"
   }
 ]
