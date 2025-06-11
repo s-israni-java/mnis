@@ -9614,5 +9614,29 @@
     "BATTERY": "34",
     "NETWORK": "W",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:42",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Oi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:42",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Oii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:42",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "H"
   }
 ]
