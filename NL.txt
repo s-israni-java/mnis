@@ -17108,5 +17108,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:26:31",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "Nimish Amin",
+    "ID": "No ID",
+    "MSG": "Console Reco_Europe branches_Citibank (May 25)  Dear All, Kindly clear reco entries which pertains to you. Thanks & Regards, Nimish Amin AP Finance Olympus, 13th Floor, ODC 13B Tata Consultancy Services Mailto: nimish.amin@tcs.com Website: http:\/\/www.tcs.com For Call \/ Discussion: Availabl"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:26:31",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "Nimish Amin",
+    "ID": "No ID",
+    "MSG": "Console Reco_Europe branches_Citibank (May 25)  • Dear All, Kindly clear reco entries which pertains to you. Thanks & Regards, Nimish Amin AP Finance Olympus, 13th Floor, ODC 13B Tata Consultancy Services Mailto: nimish.amin@tcs.com Website: http:\/\/www.tcs.com For Call \/ Discussion: Availabl"
   }
 ]
