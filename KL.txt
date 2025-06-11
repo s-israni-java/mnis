@@ -19558,5 +19558,21 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "What?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:48",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:48",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "It"
   }
 ]
