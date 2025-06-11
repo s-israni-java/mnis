@@ -14038,5 +14038,45 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "Ha"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:57",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Ha "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:57",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Ha b"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:57",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Ha ba"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:58",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Ha bay"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:58",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Ha bayi"
   }
 ]
