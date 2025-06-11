@@ -14098,5 +14098,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:44:38",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:45:40",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "Aise Kyun",
+    "ID": "No ID",
+    "MSG": "Anurag Saikia, Raghav Chaitanya, Raj Shekhar, Nikhita Gandhi"
   }
 ]
