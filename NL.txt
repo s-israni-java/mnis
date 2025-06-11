@@ -15998,5 +15998,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:46",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Diva's (6 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Bitlocker phone no"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:46",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "120363382492371416@g.us",
+    "MSG": "7 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:46",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Diva's (6 messages): Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Dhanyawaad"
   }
 ]
