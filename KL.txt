@@ -28566,5 +28566,37 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Le"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Len"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Lena"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Lena "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:00",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
