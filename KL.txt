@@ -32182,5 +32182,77 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "I'm "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:34",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:35",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm ti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:35",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tir"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:35",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tire"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:36",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tired "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:36",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tired o"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:36",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tired of"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:37",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tired of t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:37",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm tired of the"
   }
 ]
