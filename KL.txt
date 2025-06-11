@@ -32086,5 +32086,45 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Sachi m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:30",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Sachi me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:30",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Sachi me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:31",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:32",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:32",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Im"
   }
 ]
