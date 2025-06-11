@@ -1038,5 +1038,25 @@
     "TITLE": "Settlement completed for 11 JUNE 2025.",
     "ID": "No ID",
     "MSG": "The settlement for your transactions has been successfully credited to your bank account. Tap to view the details."
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:33:05",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:33:05",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Weather in Ulhasnagar",
+    "ID": "No ID",
+    "MSG": "34° today · Partly cloudy · See full forecast"
   }
 ]
