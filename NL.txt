@@ -20838,5 +20838,25 @@
     "TITLE": "Jinat Sayyed",
     "ID": "No ID",
     "MSG": "Felicitation Ceremony : Cawasi Jokhi Dear Team, We are excited to invite you to a special celebration in honor of Mr. Cawasi Jokhi. Please join us as we celebrate his remarkable journey. Your presence will mean a lot to him We look forward to seeing you there! Warm re"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:17:17",
+    "BATTERY": "23",
+    "NETWORK": "W",
+    "TITLE": "Jinat Sayyed",
+    "ID": "No ID",
+    "MSG": "Felicitation Ceremony : Cawasi Jokhi • Dear Team, We are excited to invite you to a special celebration in honor of Mr. Cawasi Jokhi. Please join us as we celebrate his remarkable journey. Your presence will mean a lot to him We look forward to seeing you there! Warm re"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:19:48",
+    "BATTERY": "24",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
