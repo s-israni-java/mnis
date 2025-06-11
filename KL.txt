@@ -19686,5 +19686,29 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Itna dil se bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna dil se bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Itna dil se bola"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:57",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "B"
   }
 ]
