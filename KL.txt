@@ -25534,5 +25534,21 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Chl me so rhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:41",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Chl me so rhi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:00",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "M"
   }
 ]
