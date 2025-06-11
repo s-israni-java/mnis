@@ -24648,5 +24648,35 @@
     "TITLE": "Ve Haaniyaan",
     "ID": "No ID",
     "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:56:31",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:56:31",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:57:06",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Elections heat up in Phulera 🗳️",
+    "ID": "No ID",
+    "MSG": "Watch the ‘Panchayat’ new season trailer. Power games unfold on 24th June!"
   }
 ]
