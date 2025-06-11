@@ -24830,5 +24830,29 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Ur wish "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:11",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "D"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:11",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Dk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:12",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Dkg"
   }
 ]
