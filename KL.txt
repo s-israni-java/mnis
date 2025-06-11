@@ -16942,5 +16942,53 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "I'm sorry for my words n anger today \nIt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt wa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was n"
   }
 ]
