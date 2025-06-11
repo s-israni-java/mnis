@@ -20978,5 +20978,25 @@
     "TITLE": "LinkedIn",
     "ID": "No ID",
     "MSG": "You may be interested in posts from Air India Limited, because you interacted with their post recently"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:23:45",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:23:46",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
   }
 ]
