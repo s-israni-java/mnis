@@ -25934,5 +25934,29 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Good night \nTake care "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:24",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:24",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:27",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
