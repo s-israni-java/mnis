@@ -23628,5 +23628,125 @@
     "TITLE": "WhatsApp",
     "ID": "120363382492371416@g.us",
     "MSG": "12 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:20:57",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Diva's (5 messages): Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Aise monthly hoga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:20:57",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "120363382492371416@g.us",
+    "MSG": "13 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:20:58",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:26:50",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "InternalIS Wintel",
+    "ID": "No ID",
+    "MSG": "Your India.tcs.com password will expire tomorrow. Dear Associate, Your India.tcs.com domain account password will expire tomorrow.. Please change your India.tcs.com domain password before it expires! If you are unable to access the link in Ultimatix, please contact your local IS team or GHD."
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:26:50",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "InternalIS Wintel",
+    "ID": "No ID",
+    "MSG": "Your India.tcs.com password will expire tomorrow. • Dear Associate, Your India.tcs.com domain account password will expire tomorrow.. Please change your India.tcs.com domain password before it expires! If you are unable to access the link in Ultimatix, please contact your local IS team or GHD."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:27:12",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:27:13",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:29:15",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Brown Rang",
+    "ID": "No ID",
+    "MSG": "Yo Yo Honey Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:29:16",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Brown Rang",
+    "ID": "No ID",
+    "MSG": "Yo Yo Honey Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:29:16",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Brown Rang",
+    "ID": "No ID",
+    "MSG": "Yo Yo Honey Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:29:16",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Brown Rang",
+    "ID": "No ID",
+    "MSG": "Yo Yo Honey Singh"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:38:34",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
