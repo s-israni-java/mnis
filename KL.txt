@@ -9742,5 +9742,53 @@
     "BATTERY": "34",
     "NETWORK": "W",
     "MSG": "Hdfc se ca"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:46",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se cal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:46",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:46",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:46",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:47",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:47",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call aa "
   }
 ]
