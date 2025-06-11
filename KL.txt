@@ -11158,5 +11158,69 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "New manager ne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:18",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:18",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rkh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:18",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rkhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:18",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rkhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:18",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rkhi th"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:19",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rkhi thi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:19",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "New manager ne rkhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:01",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "N"
   }
 ]
