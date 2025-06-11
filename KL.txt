@@ -24782,5 +24782,53 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "U"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ur "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ur w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ur wis"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:09",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ur wish"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:09",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ur wish "
   }
 ]
