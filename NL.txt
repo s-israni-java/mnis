@@ -20058,5 +20058,15 @@
     "TITLE": "Update your GST details✅",
     "ID": "No ID",
     "MSG": "Complete your Full KYC now! Accept unlimited payments & become our priority merchant."
+  },
+  {
+    "APP": "com.realmestore.app",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 15:06:27",
+    "BATTERY": "23",
+    "NETWORK": "W",
+    "TITLE": "End Of Season Sale Is Live!🔥",
+    "ID": "No ID",
+    "MSG": "Click. Grab. Save."
   }
 ]
