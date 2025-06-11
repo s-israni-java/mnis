@@ -2268,5 +2268,495 @@
     "TITLE": "📜 Inspirational Quotes for Simi",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:24:04",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "Zepto",
+    "ID": "312",
+    "MSG": "₹100 FREE cash expires soon!💸—₹100 FREE cash is yours to save—but not for long⏰⏰\nNo conditions, just spend and save big on Zepto!💵💵\nGrab it before it’s gone and save on all daily needs🛒"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:24:06",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:33:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:01",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:10",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "malvika",
+    "ID": "false|malvika|bda6399e-75c8-428f-8cef-921c82f43ec7",
+    "MSG": "Thank you baby❣️ | @mr.romeo0077 ❤️"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:16",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:24",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:25",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:25",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:34:25",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:37",
+    "BATTERY": "69",
+    "NETWORK": "No Connection",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 09:35:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sahiba",
+    "ID": "No ID",
+    "MSG": "Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma"
   }
 ]
