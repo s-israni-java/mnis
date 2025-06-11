@@ -11302,5 +11302,93 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "Offici"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:10",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Officia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:10",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:10",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:10",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:10",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:11",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official mee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:11",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official meet"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:11",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official meeti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:11",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official meeting"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:11",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official meeting "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:11",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Official meeting n"
   }
 ]
