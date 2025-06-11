@@ -22214,5 +22214,45 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:04",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:05",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me k"
   }
 ]
