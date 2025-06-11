@@ -14606,5 +14606,85 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "Last month k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:08",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:08",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:08",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:09",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki te"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:09",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki tes"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:09",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki test"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:09",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:09",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:10",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:10",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing "
   }
 ]
