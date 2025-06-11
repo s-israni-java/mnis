@@ -28054,5 +28054,29 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Chod mtlb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:34",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:35",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:35",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb do"
   }
 ]
