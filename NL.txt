@@ -8818,5 +8818,45 @@
     "TITLE": "Halkat Jawani",
     "ID": "No ID",
     "MSG": "Salim–Sulaiman, Sunidhi Chauhan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:59:19",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Deva Shree Ganesha",
+    "ID": "No ID",
+    "MSG": "Ajay-Atul, Ajay Gogavale"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:59:19",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Halkat Jawani",
+    "ID": "No ID",
+    "MSG": "Salim–Sulaiman, Sunidhi Chauhan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:59:19",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Halkat Jawani",
+    "ID": "No ID",
+    "MSG": "Salim–Sulaiman, Sunidhi Chauhan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:59:27",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Halkat Jawani",
+    "ID": "No ID",
+    "MSG": "Salim–Sulaiman, Sunidhi Chauhan"
   }
 ]
