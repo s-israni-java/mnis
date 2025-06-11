@@ -24270,5 +24270,53 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Tb tk vo aaya nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:10",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nhi t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:10",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nhi th"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:10",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nhi tha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:10",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nhi tha y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:11",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nhi tha yr "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:18",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Ne"
   }
 ]
