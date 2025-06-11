@@ -28774,5 +28774,53 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Badla hi lena hota toh t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:18",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka l"
   }
 ]
