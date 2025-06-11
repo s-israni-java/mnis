@@ -10486,5 +10486,53 @@
     "BATTERY": "27",
     "NETWORK": "W",
     "MSG": "Ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:38:51",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "MSG": "Kay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:38:51",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "MSG": "Kay "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:38:51",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "MSG": "Kay k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:38:51",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "MSG": "Kay ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:38:51",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "MSG": "Kay kar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:38:52",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "MSG": "Kay karu"
   }
 ]
