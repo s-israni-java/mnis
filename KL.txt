@@ -25318,5 +25318,53 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "But tuje attitude me rehna h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:28",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "To"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:28",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:28",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:28",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:29",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh te"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:29",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri"
   }
 ]
