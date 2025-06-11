@@ -20118,5 +20118,69 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Sach hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:24",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:24",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:24",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:24",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bola"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:25",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bola "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:25",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bola s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:25",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bola sb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:25",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sach hi bola sb "
   }
 ]
