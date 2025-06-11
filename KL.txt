@@ -11254,5 +11254,53 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "Al"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:02",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "All"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:09",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:09",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Of"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:09",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Off"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:09",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Offic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:51:09",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Offici"
   }
 ]
