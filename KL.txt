@@ -20686,5 +20686,45 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Clearific"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:29",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearifica"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:29",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearificati"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:30",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearificatio"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:30",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:30",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clearification "
   }
 ]
