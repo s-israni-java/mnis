@@ -9598,5 +9598,21 @@
     "BATTERY": "37",
     "NETWORK": "W",
     "MSG": "Kaam h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:29:42",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Kaam h🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:41",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "O"
   }
 ]
