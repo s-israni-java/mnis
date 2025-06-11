@@ -19328,5 +19328,55 @@
     "TITLE": "Softly",
     "ID": "No ID",
     "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:38:26",
+    "BATTERY": "14",
+    "NETWORK": "W",
+    "TITLE": "Softly",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:40:52",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "Softly",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:40:52",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:40:52",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:40:52",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
   }
 ]
