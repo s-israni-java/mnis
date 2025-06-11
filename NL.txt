@@ -32148,5 +32148,25 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:41:52",
+    "BATTERY": "28",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Mera drawer mai mera phone ka charger tha ky?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:41:52",
+    "BATTERY": "28",
+    "NETWORK": "M",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Nisha Tcs: Mera drawer mai mera phone ka charger tha ky?"
   }
 ]
