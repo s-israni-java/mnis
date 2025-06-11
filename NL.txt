@@ -31988,5 +31988,55 @@
     "TITLE": "Old Money",
     "ID": "No ID",
     "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:04:08",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:04:08",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:04:08",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:04:08",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:06:27",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "Diva's (9 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Ok"
   }
 ]
