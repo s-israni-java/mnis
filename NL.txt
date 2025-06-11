@@ -25638,5 +25638,95 @@
     "TITLE": "WhatsApp",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "9 messages from 2 chats"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:42:09",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "Enjoy Naan-judgemental…",
+    "ID": "No ID",
+    "MSG": "…treats at FLAT 65% OFF! 😉"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:42:17",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "AX-HDFCBK-S",
+    "ID": "403",
+    "MSG": "Sent Rs.20.00\nFrom HDFC Bank A\/C x4829\nTo HungerBox\nOn 11\/06\/25\nRef 106311060356\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:42:17",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:42:20",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "Your food is ready!",
+    "ID": "No ID",
+    "MSG": "Bisleri Water 1l is ready!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:45:45",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Diva's (6 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Ky hua metting mai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:45:45",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:45:45",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "7 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:46:12",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:50:23",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "8.01 pakad any how"
   }
 ]
