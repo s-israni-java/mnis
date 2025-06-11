@@ -25366,5 +25366,69 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Toh teri"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:29",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:29",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:30",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri ma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:30",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri mar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:30",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri marz"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:30",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Toh teri marzi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:37",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:38",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Ch"
   }
 ]
