@@ -26998,5 +26998,101 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Toh usme g"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:32",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme ga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:32",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme gala"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:33",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:33",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galay "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:33",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:33",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:34",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:34",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:34",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:34",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:35",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:47:35",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Toh usme galat kya th"
   }
 ]
