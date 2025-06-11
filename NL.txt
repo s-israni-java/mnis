@@ -2228,5 +2228,15 @@
     "TITLE": "Alarm",
     "ID": "No ID",
     "MSG": "Alarm will ring again at 7:40 am."
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 08:22:10",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Don't forget to mine Pi!",
+    "ID": "No ID",
+    "MSG": "Your last mining session has ended. Come back to keep mining Pi!"
   }
 ]
