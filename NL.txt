@@ -1338,5 +1338,25 @@
     "TITLE": "WAR 2 - Hindi Trailer | Hrithik Roshan | Jr NTR | Kiara advani | Aditya Chopra | Ayan Mukerji | 2025",
     "ID": "No ID",
     "MSG": "For you: Universal Power Studio"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:37",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "WAR 2 - Hindi Trailer | Hrithik Roshan | Jr NTR | Kiara advani | Aditya Chopra | Ayan Mukerji | 2025",
+    "ID": "No ID",
+    "MSG": "For you: Universal Power Studio"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:56:39",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (3%)"
   }
 ]
