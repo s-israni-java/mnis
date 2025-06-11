@@ -30550,5 +30550,45 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Pyaar h isliye ye sb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb fl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb flt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb fltu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:07",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb fltu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:07",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb fltu so"
   }
 ]
