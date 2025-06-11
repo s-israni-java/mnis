@@ -10966,5 +10966,101 @@
     "BATTERY": "29",
     "NETWORK": "W",
     "MSG": "Call "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:52",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Call n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:52",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Call nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:52",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "Call nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:59",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:59",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:59",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:44:59",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In oe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:00",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In oer"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:00",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In oers"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:00",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In oerso"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:00",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In oerson"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 16:45:01",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "MSG": "In person "
   }
 ]
