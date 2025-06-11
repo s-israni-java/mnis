@@ -9206,5 +9206,77 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Connected with hostspo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:03",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected with hotspot "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:04",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:04",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Naya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:04",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:04",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:04",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaan "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:04",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaan a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:05",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaan "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:05",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaan"
   }
 ]
