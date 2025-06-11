@@ -19934,5 +19934,37 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Mene jhuth nhi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:19:52",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Mene jhuth nhi bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:19:52",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Mene jhuth nhi bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:19:53",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Mene jhuth nhi bola"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:20:11",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
