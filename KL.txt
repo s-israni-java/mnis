@@ -14686,5 +14686,13 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "Last month ki testing "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:12",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing k"
   }
 ]
