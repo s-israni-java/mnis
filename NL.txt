@@ -32068,5 +32068,35 @@
     "TITLE": "Tata Neu Credit",
     "ID": "918886659269@s.whatsapp.net",
     "MSG": "Gentle Reminder Simriti,"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:25:47",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918886659269@s.whatsapp.net",
+    "MSG": "10 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:28:07",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "TITLE": "JD-HDFCBK-S",
+    "ID": "371",
+    "MSG": "Sent Rs.30.00\nFrom HDFC Bank A\/C x4829\nTo Vrindavan Ben\nOn 11\/06\/25\nRef 106319377949\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 21:28:07",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
