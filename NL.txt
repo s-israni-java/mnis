@@ -11498,5 +11498,25 @@
     "TITLE": "Khwab",
     "ID": "No ID",
     "MSG": "Iqlipse Nova, Aditya A"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:22:25",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Khwab",
+    "ID": "No ID",
+    "MSG": "Iqlipse Nova, Aditya A"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:22:26",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Khwab",
+    "ID": "No ID",
+    "MSG": "Iqlipse Nova, Aditya A"
   }
 ]
