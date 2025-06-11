@@ -20278,5 +20278,29 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Konsi baat v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:06",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baat vt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:06",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baat v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:08",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Konsi baat "
   }
 ]
