@@ -27958,5 +27958,77 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Chod mt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:28",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:28",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:28",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:29",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:29",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:29",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb baat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:29",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb baat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:30",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb baat t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:30",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb baat th"
   }
 ]
