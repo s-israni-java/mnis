@@ -24678,5 +24678,25 @@
     "TITLE": "Elections heat up in Phulera 🗳️",
     "ID": "No ID",
     "MSG": "Watch the ‘Panchayat’ new season trailer. Power games unfold on 24th June!"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:59:00",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:59:01",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
   }
 ]
