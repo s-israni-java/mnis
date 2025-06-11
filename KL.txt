@@ -24614,5 +24614,69 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Tera aawaz a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:30",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz at"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:31",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz ata"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:31",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:31",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:31",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak at"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:31",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak ata"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:31",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak atak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:32",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak atak "
   }
 ]
