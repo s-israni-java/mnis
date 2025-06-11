@@ -6118,5 +6118,15 @@
     "TITLE": "Tum Tak (From \"Raanjhanaa\")",
     "ID": "No ID",
     "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:49:46",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "AX-HDFCBK-S",
+    "ID": "403",
+    "MSG": "Sent Rs.27.00\nFrom HDFC Bank A\/C x4829\nTo HungerBox\nOn 11\/06\/25\nRef 106283530632\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
