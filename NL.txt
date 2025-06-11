@@ -8758,5 +8758,15 @@
     "TITLE": "Shubham Vajpayee",
     "ID": "No ID",
     "MSG": "Call?"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:54:26",
+    "BATTERY": "41",
+    "NETWORK": "W",
+    "TITLE": "Deva Shree Ganesha",
+    "ID": "No ID",
+    "MSG": "Ajay-Atul, Ajay Gogavale"
   }
 ]
