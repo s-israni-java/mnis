@@ -12622,5 +12622,101 @@
     "BATTERY": "52",
     "NETWORK": "W",
     "MSG": "Muje late hoga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:37:09",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "MSG": "Muje late hoga a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:37:09",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "MSG": "Muje late hoga aaj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:37:09",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "MSG": "Muje late hoga aaj "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:29",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:29",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kis"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:29",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:29",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:29",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisko "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:29",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisko b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:30",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisko bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:30",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisko bhej "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 18:56:30",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "MSG": "Kisko bhej r"
   }
 ]
