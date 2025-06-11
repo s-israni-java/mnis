@@ -24318,5 +24318,61 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Ne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:18",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:18",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:18",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:18",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:18",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:19",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:19",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi ch"
   }
 ]
