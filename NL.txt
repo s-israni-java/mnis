@@ -26818,5 +26818,55 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "In titwala"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:03:03",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:03:03",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Tu pohochi?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:03:04",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:03:11",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Love Dose",
+    "ID": "No ID",
+    "MSG": "Yo Yo Honey Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:03:12",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Jee Ni Lagda",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
   }
 ]
