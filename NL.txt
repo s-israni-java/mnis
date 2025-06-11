@@ -658,5 +658,115 @@
     "TITLE": "Gugu♥️",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
     "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:00:00",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:15 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:15:00",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "5:15 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:15:16",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:30 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:30:00",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "5:30 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:30:09",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "Alarm will ring again at 5:35 am."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:00",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "5:35 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:00",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:05",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "Alarm will ring again at 5:40 am."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:35:05",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:36:19",
+    "BATTERY": "61",
+    "NETWORK": "No Connection",
+    "TITLE": "Torch",
+    "ID": "No ID",
+    "MSG": "Torch turned on"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:20",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
