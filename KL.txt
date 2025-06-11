@@ -16630,5 +16630,29 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Dekha nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:01",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Dekha nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:09",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:09",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Im"
   }
 ]
