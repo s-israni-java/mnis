@@ -22862,5 +22862,21 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Me kuch galat nhi kr rhi hu jo mere paas confess krne ke liye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:24",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas confess krne ke liye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:27",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mere paas confess krne ke liye k"
   }
 ]
