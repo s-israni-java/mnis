@@ -16902,5 +16902,29 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "I'm sorry for my words n anger today "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:17",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:17",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \n\n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:18",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \n"
   }
 ]
