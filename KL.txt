@@ -24526,5 +24526,13 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Net nhi chl rhi thi isliye bola"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:27",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
