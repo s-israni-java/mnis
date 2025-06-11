@@ -25590,5 +25590,45 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Muje s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:03",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Muje st"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:03",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Muje sto"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:03",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Muje stom"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:03",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Muje stoma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:31:04",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Muje stomach"
   }
 ]
