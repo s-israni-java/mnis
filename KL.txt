@@ -28686,5 +28686,93 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Badla hi le"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi len"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hot"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:07",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:18",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:18",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh t"
   }
 ]
