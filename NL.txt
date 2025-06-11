@@ -858,5 +858,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:09",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Here is your chance to meet the stars of - Metro… In Dino!",
+    "ID": "No ID",
+    "MSG": "Fill out this form for a chance to meet the cast of \"Metro… In Dino\" and experience a specially curated musical event!"
   }
 ]
