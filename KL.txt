@@ -9790,5 +9790,37 @@
     "BATTERY": "34",
     "NETWORK": "W",
     "MSG": "Hdfc se call aa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:47",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call aa rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:47",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call aa rha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:47",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se call aa rha h"
+  },
+  {
+    "APP": "com.azure.authenticator",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 13:03:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "7"
   }
 ]
