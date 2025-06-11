@@ -20068,5 +20068,55 @@
     "TITLE": "End Of Season Sale Is Live!🔥",
     "ID": "No ID",
     "MSG": "Click. Grab. Save."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 15:58:41",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 15:58:43",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Yogesh Chandwani",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 15:59:28",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "TITLE": "20% battery",
+    "ID": "No ID",
+    "MSG": "Turn on Power Saving Mode?"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:04:10",
+    "BATTERY": "21",
+    "NETWORK": "W",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:04:10",
+    "BATTERY": "21",
+    "NETWORK": "W",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
   }
 ]
