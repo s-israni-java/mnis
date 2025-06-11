@@ -10538,5 +10538,25 @@
     "TITLE": "Studies show: 🔍",
     "ID": "No ID",
     "MSG": "10% scroll for fun, 90% scroll to save with FLAT 65% OFF! 😉"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:14:27",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Shendur Laal Chadhayo (Aarti)",
+    "ID": "No ID",
+    "MSG": "Ravindra Sathe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:14:28",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Do Dhaari Talwaar",
+    "ID": "No ID",
+    "MSG": "Sohail Sen, Shahid Mallya, Shweta Pandit, Irshad Kamil"
   }
 ]
