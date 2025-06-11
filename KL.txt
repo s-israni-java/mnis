@@ -30182,5 +30182,53 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:43",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Bad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:44",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Badl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:44",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Badle"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:45",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Badle "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:46",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Badle k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:51:47",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Badle ki"
   }
 ]
