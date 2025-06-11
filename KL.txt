@@ -15678,5 +15678,45 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Cro"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Cros"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Cross"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Crossw"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Crosswd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:48:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Crosswd "
   }
 ]
