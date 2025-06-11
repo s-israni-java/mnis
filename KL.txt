@@ -21070,5 +21070,53 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Clarification ke liye kch h hi nhi usne d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:52",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dek"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:52",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dekh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:52",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dekha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:53",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dekha me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:53",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dekha me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:22:54",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dekha me j"
   }
 ]
