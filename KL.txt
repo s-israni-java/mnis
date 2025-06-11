@@ -21318,5 +21318,13 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Clarification ke liye kch h hi nhi usne dekha me kha rhi thi usne pucha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:23:03",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Clarification ke liye kch h hi nhi usne dekha me kha rhi thi usne pucha g"
   }
 ]
