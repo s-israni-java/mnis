@@ -20182,5 +20182,13 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Sach hi bola sb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:21:03",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "K"
   }
 ]
