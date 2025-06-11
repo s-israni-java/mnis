@@ -23158,5 +23158,53 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Jb me itna b bol rhi hu ki vo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:35",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:35",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo mu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:36",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo muj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:36",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo muje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:36",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo muje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:25:37",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jb me itna b bol rhi hu ki vo muje t"
   }
 ]
