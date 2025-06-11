@@ -10348,5 +10348,35 @@
     "TITLE": "Shendur Laal Chadhayo (Aarti)",
     "ID": "No ID",
     "MSG": "Ravindra Sathe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:12:06",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Shendur Laal Chadhayo (Aarti)",
+    "ID": "No ID",
+    "MSG": "Ravindra Sathe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:12:06",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Shendur Laal Chadhayo (Aarti)",
+    "ID": "No ID",
+    "MSG": "Ravindra Sathe"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:12:45",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Shendur Laal Chadhayo (Aarti)",
+    "ID": "No ID",
+    "MSG": "Ravindra Sathe"
   }
 ]
