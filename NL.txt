@@ -19808,5 +19808,75 @@
     "TITLE": "Excuses",
     "ID": "No ID",
     "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:58:15",
+    "BATTERY": "20",
+    "NETWORK": "W",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:58:15",
+    "BATTERY": "20",
+    "NETWORK": "W",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:58:15",
+    "BATTERY": "20",
+    "NETWORK": "W",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:59:52",
+    "BATTERY": "21",
+    "NETWORK": "W",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:59:52",
+    "BATTERY": "21",
+    "NETWORK": "W",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:59:52",
+    "BATTERY": "21",
+    "NETWORK": "W",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:59:52",
+    "BATTERY": "21",
+    "NETWORK": "W",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
   }
 ]
