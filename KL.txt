@@ -23774,5 +23774,13 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Sirf me or sumit the!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:02",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "S"
   }
 ]
