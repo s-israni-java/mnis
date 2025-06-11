@@ -15990,5 +15990,61 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "Oy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:32",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:37",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "R"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:37",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Re"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:37",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Rea"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:37",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Reac"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:37",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Reached "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:52:38",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "Reached kalyan "
   }
 ]
