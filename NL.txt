@@ -14088,5 +14088,15 @@
     "TITLE": "Sagar Mom",
     "ID": "917620495477@s.whatsapp.net",
     "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:44:37",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
