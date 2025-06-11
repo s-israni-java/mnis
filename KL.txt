@@ -19374,5 +19374,53 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "I'm sorry 🥺 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:09:54",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I'm sorry 🥺 e"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:09:54",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I'm sorry 🥺 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:09:55",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I'm sorry 🥺 a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:09:55",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I'm sorry 🥺 an"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:09:55",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I'm sorry 🥺 and"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:09:56",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I'm sorry 🥺 and "
   }
 ]
