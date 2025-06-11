@@ -30718,5 +30718,29 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "But tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:17",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But tuj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:17",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But tuje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:20",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But tuje y"
   }
 ]
