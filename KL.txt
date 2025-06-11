@@ -28142,5 +28142,61 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Chod mtlb dono ka gus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:37",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka guss"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:38",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka gussa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:38",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka gussa s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:38",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka gussa se"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:39",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka gussa setl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:39",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka gussa setll"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:39",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Chod mtlb dono ka gussa setlle"
   }
 ]
