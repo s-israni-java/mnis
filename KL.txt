@@ -13734,5 +13734,37 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "Nayan l"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:53:37",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Nayan lay"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:53:38",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "Nayan layi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:57:25",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "Y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:57:26",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "Y "
   }
 ]
