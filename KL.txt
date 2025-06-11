@@ -14270,5 +14270,29 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "Tu ja"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:37",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Tu jaak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:37",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Tu jaake "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:42",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Tu jaake"
   }
 ]
