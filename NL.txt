@@ -18448,5 +18448,35 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:25:27",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "Diva's (7 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:25:27",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sory sory"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 14:25:27",
+    "BATTERY": "15",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "8 messages from 2 chats"
   }
 ]
