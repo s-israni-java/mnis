@@ -21528,5 +21528,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:44:40",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Meeting thi na? 4 bjhe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:44:40",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:45:04",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Finance Fun Week",
+    "ID": "No ID",
+    "MSG": "5:00 pm - 5:30 pm, Microsoft Teams"
   }
 ]
