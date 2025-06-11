@@ -13974,5 +13974,61 @@
     "BATTERY": "50",
     "NETWORK": "M",
     "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:08",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:08",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:08",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:09",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At vi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:09",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At vik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:09",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At vikr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:07:10",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "MSG": "At vikhroli "
   }
 ]
