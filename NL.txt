@@ -1018,5 +1018,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 06:03:19",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "JM-AUBANK-S",
+    "ID": "384",
+    "MSG": "Credited INR 1,999.00 to A\/c X1248 on 11-JUN-2025 Ref NEFT CR-UTIBN62025061171143159 -PHONEPE. Bal INR 6,000.65.\n-AU Bank"
   }
 ]
