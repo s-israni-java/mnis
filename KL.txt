@@ -24118,5 +24118,37 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Jo h vohi bta rhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:14",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jo h vohi bta rhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:14",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jo h vohi bta rhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:27:14",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Jo h vohi bta rhi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:06",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
