@@ -27358,5 +27358,115 @@
     "TITLE": "Saadi Galli Aaja",
     "ID": "No ID",
     "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:10:54",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:10:54",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:10:54",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:25",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:25",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:26",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:26",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:26",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:26",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:26",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:11:40",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
