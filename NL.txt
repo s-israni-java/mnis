@@ -16198,5 +16198,65 @@
     "TITLE": "WhatsApp",
     "ID": "917620495477@s.whatsapp.net",
     "MSG": "10 messages from 3 chats"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:12:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Mera Bhola Hai Bhandari",
+    "ID": "No ID",
+    "MSG": "Hansraj Raghuwanshi, Suresh Verma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:12:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Sweetheart",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Dev Negi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:12:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Mera Bhola Hai Bhandari",
+    "ID": "No ID",
+    "MSG": "Hansraj Raghuwanshi, Suresh Verma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:12:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Mera Bhola Hai Bhandari",
+    "ID": "No ID",
+    "MSG": "Hansraj Raghuwanshi, Suresh Verma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:12:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Mera Bhola Hai Bhandari",
+    "ID": "No ID",
+    "MSG": "Hansraj Raghuwanshi, Suresh Verma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:12:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Mera Bhola Hai Bhandari",
+    "ID": "No ID",
+    "MSG": "Hansraj Raghuwanshi, Suresh Verma"
   }
 ]
