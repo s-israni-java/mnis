@@ -978,5 +978,15 @@
     "TITLE": "Sagar❤️",
     "ID": "41",
     "MSG": "Dear Customer, +918698423278 is now available to take calls."
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:55:47",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
