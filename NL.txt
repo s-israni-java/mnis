@@ -32938,5 +32938,25 @@
     "TITLE": "Nayan Wanjare",
     "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
     "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:47:46",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Nayan Wanjare",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
+    "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:50:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "tamanna_2810_",
+    "ID": "No ID",
+    "MSG": "Sent a reel by official_thejunkies"
   }
 ]
