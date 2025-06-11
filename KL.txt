@@ -24430,5 +24430,77 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Net nhi chl rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:20",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isliy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isliye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isliye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isliye b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isliye bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:22",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Net nhi chl rhi thi isliye bol"
   }
 ]
