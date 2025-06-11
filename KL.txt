@@ -28822,5 +28822,93 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Badla hi lena hota toh kbka l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:19",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuki "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuki h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuki hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuki h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:49:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Badla hi lena hota toh kbka le chuki hot"
   }
 ]
