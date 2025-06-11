@@ -868,5 +868,15 @@
     "TITLE": "Here is your chance to meet the stars of - Metro… In Dino!",
     "ID": "No ID",
     "MSG": "Fill out this form for a chance to meet the cast of \"Metro… In Dino\" and experience a specially curated musical event!"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:11",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by aniiiiiii_16"
   }
 ]
