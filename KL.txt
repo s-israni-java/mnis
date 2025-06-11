@@ -30678,5 +30678,45 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Pyaar h isliye ye sb fltu sochti nhi ju"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:10",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pyaar h isliye ye sb fltu sochti nhi hu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:16",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:16",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Bu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:17",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:52:17",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "But tu"
   }
 ]
