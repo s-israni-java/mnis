@@ -27654,5 +27654,61 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Qki clearly dikh rha h t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:07",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:07",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:08",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:09",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu st"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:09",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu str"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:09",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu stre"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:09",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Qki clearly dikh rha h tu stret"
   }
 ]
