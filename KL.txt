@@ -14310,5 +14310,77 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "Q"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:44",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:45",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:45",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:45",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:45",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki hana"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:46",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki hana "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:46",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki hana l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:46",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki hana li"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:08:46",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Qki hana liv"
   }
 ]
