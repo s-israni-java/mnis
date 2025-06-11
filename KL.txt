@@ -19518,5 +19518,13 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "I'm sorry 🥺 and i love you🥺❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:10:36",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "W"
   }
 ]
