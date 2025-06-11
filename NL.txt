@@ -28448,5 +28448,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:49:01",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:49:02",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:49:05",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing voice call"
   }
 ]
