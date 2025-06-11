@@ -848,5 +848,15 @@
     "TITLE": "Harsh Beniwal",
     "ID": "No ID",
     "MSG": "Rcb vs pbks 🤭"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:00",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
