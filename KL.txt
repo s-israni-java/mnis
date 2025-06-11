@@ -9278,5 +9278,37 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Nayaan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:05",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayaa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:05",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Naya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:05",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:05",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Nayan "
   }
 ]
