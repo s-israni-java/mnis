@@ -15978,5 +15978,25 @@
     "TITLE": "Diva's (4 messages): Nisha Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Waghela@30"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:13",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "120363382492371416@g.us",
+    "MSG": "6 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
