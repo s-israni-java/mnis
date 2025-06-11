@@ -6168,5 +6168,45 @@
     "TITLE": "JX-HDFCBK-S",
     "ID": "372",
     "MSG": "Sent Rs.23.00\nFrom HDFC Bank A\/C x4829\nTo HungerBox\nOn 11\/06\/25\nRef 106283728449\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:53:41",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:53:43",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Order confirmed!",
+    "ID": "No ID",
+    "MSG": "Your order for Butter Sada Dosa (150Gms) has been confirmed!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:54:16",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 10:54:16",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
