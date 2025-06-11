@@ -32738,5 +32738,55 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "🙏"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:45:29",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "🙏"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:45:32",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "41",
+    "MSG": "Jisko genuinly sort karna hota h vo manata h...try kr k ofline nhi ho jata"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:45:32",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:45:32",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "41",
+    "MSG": "Iam also trying so many things at a time...i should also go ofline?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 22:45:56",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Hai"
   }
 ]
