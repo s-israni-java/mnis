@@ -24088,5 +24088,25 @@
     "TITLE": "Follow request",
     "ID": "No ID",
     "MSG": "Deepesh Motwani 🧢 (dippeshhh_) has requested to follow you."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:46:56",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 18:47:34",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
   }
 ]
