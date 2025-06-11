@@ -20548,5 +20548,15 @@
     "TITLE": "New Ultimatix Login",
     "ID": "No ID",
     "MSG": "View EasyAuth"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:10:09",
+    "BATTERY": "22",
+    "NETWORK": "W",
+    "TITLE": "Wavy",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Jay Trak"
   }
 ]
