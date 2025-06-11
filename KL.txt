@@ -26390,5 +26390,77 @@
     "BATTERY": "43",
     "NETWORK": "M",
     "MSG": "Tune hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:11",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:11",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:12",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bna"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:12",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bnaya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:12",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bnaya h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:12",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bnaya h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:12",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bnaya h m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:13",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bnaya h mu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:46:13",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Tune hi bnaya h muj"
   }
 ]
