@@ -14774,5 +14774,45 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "Last month ki testing ko sign off d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:14",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing ko sign off den"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:14",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing ko sign off dena "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:14",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing ko sign off dena h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:14",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Last month ki testing ko sign off dena h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 20:09:23",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Ch"
   }
 ]
