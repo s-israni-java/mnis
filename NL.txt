@@ -14798,5 +14798,35 @@
     "TITLE": "Tum Prem Ho - Reprise",
     "ID": "No ID",
     "MSG": "Mohit Lalwani, Bharat Kamal"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:51:35",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "+91 80 4306 0489"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:51:35",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "+91 80 4306 0489",
+    "ID": "No ID",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:51:36",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Tum Prem Ho - Reprise",
+    "ID": "No ID",
+    "MSG": "Mohit Lalwani, Bharat Kamal"
   }
 ]
