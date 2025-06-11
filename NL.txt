@@ -21568,5 +21568,25 @@
     "TITLE": "Sibadutta Mohapatra",
     "ID": "No ID",
     "MSG": "Shubham will connect with you regarding this"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:45:37",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 16:45:39",
+    "BATTERY": "29",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "One to one?"
   }
 ]
