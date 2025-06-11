@@ -6748,5 +6748,15 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "🥺"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:35:27",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Your food is ready!",
+    "ID": "No ID",
+    "MSG": "Butter Sada Dosa (150Gms) is ready!"
   }
 ]
