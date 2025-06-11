@@ -818,5 +818,15 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:45:30",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "iComply Alert",
+    "ID": "No ID",
+    "MSG": "iComply Alert : Comply Action to be performed Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A"
   }
 ]
