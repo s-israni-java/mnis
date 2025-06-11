@@ -32126,5 +32126,61 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Im"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:33",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:33",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:33",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm rr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:33",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm rri"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:33",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm rr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:34",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:58:34",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "I'm "
   }
 ]
