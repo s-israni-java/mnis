@@ -13166,5 +13166,29 @@
     "BATTERY": "58",
     "NETWORK": "W",
     "MSG": "Kaa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:30",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Kaam"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:30",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Kaam "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:30",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Kaam k"
   }
 ]
