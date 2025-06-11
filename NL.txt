@@ -27648,5 +27648,165 @@
     "TITLE": "Saadi Galli Aaja",
     "ID": "No ID",
     "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:16:00",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:16:00",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:16:01",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:28",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Enjoy Naan-judgemental…",
+    "ID": "No ID",
+    "MSG": "…treats at FLAT 65% OFF! 😉"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:33",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:36",
+    "BATTERY": "47",
+    "NETWORK": "No Connection",
+    "TITLE": "🔴 Tanmay Bhat: Premiere",
+    "ID": "No ID",
+    "MSG": "VIJAY MALLYA EXPOSED"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:36",
+    "BATTERY": "47",
+    "NETWORK": "No Connection",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "You may have new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:36",
+    "BATTERY": "47",
+    "NETWORK": "No Connection",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:36",
+    "BATTERY": "47",
+    "NETWORK": "No Connection",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:37",
+    "BATTERY": "47",
+    "NETWORK": "No Connection",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:20:37",
+    "BATTERY": "47",
+    "NETWORK": "No Connection",
+    "TITLE": "Saadi Galli Aaja",
+    "ID": "No ID",
+    "MSG": "Ayushmann Khurrana, Neeti Mohan"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:21:15",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:21:15",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Cooling over next 5 days",
+    "ID": "No ID",
+    "MSG": "See full forecast for Ulhasnagar"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:21:15",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:21:15",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:21:49",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
