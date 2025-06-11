@@ -24766,5 +24766,21 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Tera aawaz atak atak ke aa rha tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:33",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tera aawaz atak atak ke aa rha tha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "U"
   }
 ]
