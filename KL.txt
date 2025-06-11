@@ -25142,5 +25142,61 @@
     "BATTERY": "37",
     "NETWORK": "M",
     "MSG": "But t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tuj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tuje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:20",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tuje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:23",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tuje a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:23",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tuje at"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:30:23",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "MSG": "But tuje att"
   }
 ]
