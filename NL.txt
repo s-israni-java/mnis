@@ -6638,5 +6638,15 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 11:29:34",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "TITLE": "malvika",
+    "ID": "false|malvika|bda6399e-75c8-428f-8cef-921c82f43ec7",
+    "MSG": "Thank you baby❣️ | @mr.romeo0077 ❤️"
   }
 ]
