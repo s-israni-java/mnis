@@ -26648,5 +26648,55 @@
     "TITLE": "Diva's (6 messages): Nisha Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Ky hua metting mai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:58:40",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ac aa gai chaka gaya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:58:40",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "7 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:58:40",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Asangoan mis ho gai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:58:40",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "8 messages from 2 chats"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 20:00:52",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "TITLE": "Jee Ni Lagda",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
   }
 ]
