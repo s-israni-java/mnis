@@ -22542,5 +22542,21 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Me kuch galat nhi kr rhi hu jo m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:13",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:24:14",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Me kuch galat nhi kr rhi hu jo mer"
   }
 ]
