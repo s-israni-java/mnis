@@ -9462,5 +9462,69 @@
     "BATTERY": "43",
     "NETWORK": "W",
     "MSG": "Ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:31:02",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Chl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:31:02",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Chlo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:31:02",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Chlo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:31:02",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Chlo b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:31:03",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Chlo by"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:31:03",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "MSG": "Chlo bye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:42:21",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:42:22",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "MSG": "Ky"
   }
 ]
