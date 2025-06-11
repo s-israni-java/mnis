@@ -9086,5 +9086,37 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Connec"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:00",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connect"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:00",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connecte"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:00",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 11:30:00",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Connected "
   }
 ]
