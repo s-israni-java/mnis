@@ -32438,5 +32438,149 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Cant talk on "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk on c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk on cal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Cant talk on call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:16",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:16",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:18",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat krti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:18",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat krt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:18",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat krte"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat krte "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Kl baat krte h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:45",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:45",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Si"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:59:46",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Sit"
   }
 ]
