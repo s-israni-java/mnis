@@ -17214,5 +17214,37 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "I'm sorry for my words n anger today \nIt was not my intention to be rude"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:30",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was not my intention to be rude."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:30",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was not my intention to be rude.."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:30",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was not my intention to be rude..."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:07:31",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "I'm sorry for my words n anger today \nIt was not my intention to be rude...i"
   }
 ]
