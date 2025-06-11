@@ -13814,5 +13814,21 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "Y late tod"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:57:28",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "Y late today"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:57:32",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "N"
   }
 ]
