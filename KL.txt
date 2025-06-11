@@ -12862,5 +12862,61 @@
     "BATTERY": "58",
     "NETWORK": "W",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:00",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:00",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Has"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:00",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Hass"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:01",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Hasss"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:01",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Hasssk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:01",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Hassskk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 19:02:02",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "MSG": "Hassskkk"
   }
 ]
