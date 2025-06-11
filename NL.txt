@@ -25378,5 +25378,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Bye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:02:44",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "7 messages from 2 chats"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 19:03:44",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
   }
 ]
