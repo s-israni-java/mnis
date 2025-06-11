@@ -33718,5 +33718,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 00:27:28",
+    "BATTERY": "22",
+    "NETWORK": "M",
+    "TITLE": "Nayan Wanjare",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 00:28:10",
+    "BATTERY": "22",
+    "NETWORK": "M",
+    "TITLE": "Spotify",
+    "ID": "No ID",
+    "MSG": "Play it back with Spotify Premium. Get 3 months for ₹119."
   }
 ]
