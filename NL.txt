@@ -15278,5 +15278,15 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:59:06",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Diva's (2 messages): Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Bitlocker and laptop cha password please"
   }
 ]
