@@ -28550,5 +28550,21 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Chod mtlb dono ka gussa settle hone de abi baat mt kr ye mtlb tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "L"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:48:58",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Le"
   }
 ]
