@@ -11968,5 +11968,25 @@
     "TITLE": "Sweetheart",
     "ID": "No ID",
     "MSG": "Amit Trivedi, Dev Negi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:26:16",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Sweetheart",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Dev Negi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 12:26:16",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Sweetheart",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Dev Negi"
   }
 ]
