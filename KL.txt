@@ -24190,5 +24190,85 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "Tb tk "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:08",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:08",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:08",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:08",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:09",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:09",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:09",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya no"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:09",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:10",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 22:28:10",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tb tk vo aaya nhi"
   }
 ]
