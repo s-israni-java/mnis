@@ -2188,5 +2188,25 @@
     "TITLE": "Bilionera - Radio Edit",
     "ID": "No ID",
     "MSG": "Otilia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:06:50",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Bilionera - Radio Edit",
+    "ID": "No ID",
+    "MSG": "Otilia"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 07:16:53",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Alarm",
+    "ID": "No ID",
+    "MSG": "The 7:30 am alarm will ring soon."
   }
 ]
