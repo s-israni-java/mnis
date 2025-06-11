@@ -888,5 +888,25 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Reacted 😂 to your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:35",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Hum 4🤗❤️: Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by the.fun.company"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 05:46:35",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
