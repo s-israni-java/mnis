@@ -16028,5 +16028,45 @@
     "TITLE": "Diva's (6 messages): Nayan Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Dhanyawaad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:46",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "120363382492371416@g.us",
+    "MSG": "8 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:47",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Diva's (7 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:06:47",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "120363382492371416@g.us",
+    "MSG": "9 messages from 2 chats"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-11 13:08:27",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Sweetheart",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Dev Negi"
   }
 ]
