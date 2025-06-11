@@ -9638,5 +9638,109 @@
     "BATTERY": "34",
     "NETWORK": "W",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:43",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:43",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:43",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:44",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdf"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:44",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:44",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:44",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:45",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:45",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:45",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:45",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:45",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-11 12:53:45",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hdfc se ca"
   }
 ]
