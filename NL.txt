@@ -44878,5 +44878,25 @@
     "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
     "ID": "No ID",
     "MSG": "EU- Germany, Swiss, Finland, Denmark & Slovakia are pending Sonia Shrungare"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:14:22",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Germany ,Finland yesterday you mentioned some issue what about other countries"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:16:04",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Kar Gayi Chull",
+    "ID": "No ID",
+    "MSG": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar"
   }
 ]
