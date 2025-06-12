@@ -326,5 +326,21 @@
     "BATTERY": "70",
     "NETWORK": "M - JIO 4G",
     "MSG": "Mil rha ha"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:09:31",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil rha hai"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:09:32",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil rha hai "
   }
 ]
