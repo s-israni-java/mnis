@@ -55238,5 +55238,35 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 02:55:26",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.oplus.battery",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 04:09:03",
+    "BATTERY": "46",
+    "NETWORK": "No Connection",
+    "TITLE": "Optimise battery use",
+    "ID": "No ID",
+    "MSG": "\"PhonePe Business\" is draining battery in the background. Optimise it now."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 04:36:34",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
