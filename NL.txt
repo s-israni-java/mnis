@@ -44468,5 +44468,125 @@
     "TITLE": "Ranjha (From \"Shershaah\")",
     "ID": "No ID",
     "MSG": "Jasleen Royal, B Praak, Romy"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:37",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:37",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:38",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:38",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:38",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:38",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:38",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:38",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:39",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:39",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:04:39",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:08:04",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: MANJUSHRI KUDALKAR",
+    "ID": "No ID",
+    "MSG": "NZ done"
   }
 ]
