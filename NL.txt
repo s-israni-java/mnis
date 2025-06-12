@@ -44008,5 +44008,25 @@
     "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
     "ID": "No ID",
     "MSG": "Japan,Taiwan,NZ outbounds status pls - Velu Mani K ask your team once"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:55:33",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Proper Patola",
+    "ID": "No ID",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:55:34",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Proper Patola",
+    "ID": "No ID",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
   }
 ]
