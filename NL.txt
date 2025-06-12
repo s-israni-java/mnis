@@ -58,5 +58,15 @@
     "TITLE": "Taksham Kiya.Ai",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:18:13",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Deleting messages…",
+    "ID": "No ID",
+    "MSG": "4 of 4 (100%)"
   }
 ]
