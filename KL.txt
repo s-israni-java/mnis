@@ -1934,5 +1934,37 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "In 5 mon"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:44",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "In 5 mont"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:44",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "In 5 month"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:44",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "In 5 months"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:45:34",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "H"
   }
 ]
