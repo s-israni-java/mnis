@@ -526,5 +526,21 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "I already have told aniket"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:54",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have told aniket "
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:55",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have told aniket f"
   }
 ]
