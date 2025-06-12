@@ -1670,5 +1670,45 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Tu pata"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pata "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pata n"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pata na"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pata na "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pata na a"
   }
 ]
