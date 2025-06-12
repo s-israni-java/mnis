@@ -48178,5 +48178,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:25:31",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "New message",
+    "ID": "No ID",
+    "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:25:31",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Mahendra Pasi",
+    "ID": "No ID",
+    "MSG": "Re: TCS Q1 JE WT & TOC Samples FY 25 - 26 • Dear Team, Please find attached supporting and workings as per your request. Thanks & Regards, Mahendra Pasi Corporate Taxation Tata Consultancy Services Limited Email : mahendra.pasi@tcs.com From:"
   }
 ]
