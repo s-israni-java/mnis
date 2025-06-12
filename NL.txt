@@ -42988,5 +42988,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:06:50",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "TITLE": "🗣️ We need to talk…",
+    "ID": "No ID",
+    "MSG": "…about FLAT 65% OFF on your fav treats. 🤭"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:12:37",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "TITLE": "PUSHPA 3: The Rampage - Trailer | Allu Arjun | Rashmika Mandanna | Vijay Davarakonda |SuKumar | 2028",
+    "ID": "No ID",
+    "MSG": "For you: Universal Power Studio"
   }
 ]
