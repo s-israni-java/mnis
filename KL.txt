@@ -918,5 +918,21 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Kab nikleg"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:17",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Kab niklegi"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:19",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "?"
   }
 ]
