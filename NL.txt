@@ -50818,5 +50818,75 @@
     "TITLE": "Bijlee Bijlee",
     "ID": "No ID",
     "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:33",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:03:35",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok"
   }
 ]
