@@ -238,5 +238,15 @@
     "TITLE": "Amod Manohar",
     "ID": "No ID",
     "MSG": "have you tested it ?"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:22:59",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Charging this device via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
