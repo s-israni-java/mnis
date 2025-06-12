@@ -46568,5 +46568,45 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:52:06",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Sagar Mom",
+    "ID": "917620495477@s.whatsapp.net",
+    "MSG": "🔗 Bablu Kumar Sharma on Instagram (www.instagram.com)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:52:06",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Bahar h?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:52:06",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:52:10",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
