@@ -118,5 +118,21 @@
     "BATTERY": "69",
     "NETWORK": "M - JIO 4G",
     "MSG": "Ch"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:00:54",
+    "BATTERY": "69",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Che"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:02:09",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "H"
   }
 ]
