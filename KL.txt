@@ -1582,5 +1582,37 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Nhi "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:17",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Nhi h"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:17",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Nhi hu"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:17",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Nhi hui"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:19",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Nhi hui🤣"
   }
 ]
