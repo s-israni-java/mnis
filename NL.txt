@@ -54858,5 +54858,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by sahana.v01"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 00:04:50",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a reel by dr.dumpling_patiala"
   }
 ]
