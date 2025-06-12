@@ -42858,5 +42858,75 @@
     "TITLE": "New bill from Mahavitaran - Maharashtra Electricity (MSEDCL)",
     "ID": "No ID",
     "MSG": "₹2,050.00 due on Jul 1, 2025."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:26:04",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Follow request",
+    "ID": "No ID",
+    "MSG": "Hemanshu Bhoir (hemanshubhoir) has requested to follow you."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:26:04",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:29:43",
+    "BATTERY": "61",
+    "NETWORK": "W",
+    "TITLE": "Sasikala Ande",
+    "ID": "No ID",
+    "MSG": "Okay"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:31:35",
+    "BATTERY": "61",
+    "NETWORK": "W",
+    "TITLE": "New Ultimatix Login",
+    "ID": "No ID",
+    "MSG": "View EasyAuth"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:31:51",
+    "BATTERY": "61",
+    "NETWORK": "W",
+    "TITLE": "Prashant Yadav",
+    "ID": "No ID",
+    "MSG": "amt sir ko bhejna yaha"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:31:52",
+    "BATTERY": "61",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:32:04",
+    "BATTERY": "61",
+    "NETWORK": "W",
+    "TITLE": "Prashant Yadav",
+    "ID": "No ID",
+    "MSG": "ok"
   }
 ]
