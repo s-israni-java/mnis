@@ -45218,5 +45218,65 @@
     "TITLE": "Acko Insurance",
     "ID": "207",
     "MSG": "Car Insurance Starting at Rs. 2094* Only—Get your car insurance on ACKO!\n\n🔹 Instant policy\n🔹 No commission\n🔹 Quick and stress-free claim process\n🔹 24\/7 customer support"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:23:24",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Harshad Jadhav",
+    "ID": "No ID",
+    "MSG": "For Japan, some issues still remain to be resolved. checking with Sasikala and Sandhiya."
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:25:10",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:25:31",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Sonia Shrungare Velu Mani K-Pls cross check which all countries pending"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:25:46",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Prashant Yadav",
+    "ID": "No ID",
+    "MSG": "Swiss completed"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:25:48",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Today is the last day"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:26:09",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "For closing May’25 payroll and to provide sign off then we need to start Jun’25 payroll ."
   }
 ]
