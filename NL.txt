@@ -41518,5 +41518,35 @@
     "TITLE": "Finding Her",
     "ID": "No ID",
     "MSG": "Kushagra, Bharath, Saaheal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 10:03:23",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Finding Her",
+    "ID": "No ID",
+    "MSG": "Kushagra, Bharath, Saaheal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 10:03:23",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Finding Her",
+    "ID": "No ID",
+    "MSG": "Kushagra, Bharath, Saaheal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 10:05:26",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
