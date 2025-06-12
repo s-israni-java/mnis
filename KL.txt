@@ -574,5 +574,29 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "I already have told aniket fot"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:56",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have told aniket for"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:56",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have told aniket for "
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:57",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have told aniket for t"
   }
 ]
