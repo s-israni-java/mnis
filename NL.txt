@@ -398,5 +398,35 @@
     "TITLE": "Guggi❤️❤️",
     "ID": "No ID",
     "MSG": "Calling"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:32:12",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Muje b time lgega"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:32:12",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "919322584414@s.whatsapp.net",
+    "MSG": "Muje b time lgega"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:32:29",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Guggi❤️❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
