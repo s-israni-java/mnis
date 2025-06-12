@@ -35288,5 +35288,55 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Kya malum"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:55:34",
+    "BATTERY": "97",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Kya malum"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:56:09",
+    "BATTERY": "97",
+    "NETWORK": "M",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:56:10",
+    "BATTERY": "97",
+    "NETWORK": "M",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:56:10",
+    "BATTERY": "97",
+    "NETWORK": "M",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:56:10",
+    "BATTERY": "97",
+    "NETWORK": "M",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
   }
 ]
