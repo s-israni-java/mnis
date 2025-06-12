@@ -37748,5 +37748,45 @@
     "TITLE": "Hasti Rahe Tu",
     "ID": "No ID",
     "MSG": "Paradox"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:26:26",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Hasti Rahe Tu",
+    "ID": "No ID",
+    "MSG": "Paradox"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:26:47",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:26:47",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:29:31",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Finding Her",
+    "ID": "No ID",
+    "MSG": "Kushagra, Bharath, Saaheal"
   }
 ]
