@@ -48248,5 +48248,25 @@
     "TITLE": "New message",
     "ID": "No ID",
     "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:44:58",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Lokesh Mahajan",
+    "ID": "No ID",
+    "MSG": "Unaccounted entries in Citibank Denmark 39238 • Dear all, Please check for below open debits and credits in Denmark 39238, respective team please identify and pass necessary entries. BANK DEBITS NOT ACCOUNTED Date Name\/Description Ref # Amount Status Remarks 25-Apr-25 FR:WIRE PYMT - D"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:47:44",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Sandhiya T",
+    "ID": "No ID",
+    "MSG": "I am working on Japan for Harshad issues"
   }
 ]
