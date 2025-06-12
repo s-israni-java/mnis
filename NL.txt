@@ -36298,5 +36298,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Hmm?"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:16:36",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Daru Badnaam",
+    "ID": "No ID",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:16:36",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
   }
 ]
