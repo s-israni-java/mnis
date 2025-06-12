@@ -942,5 +942,53 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Mek"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:24",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Meko"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:24",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Meko "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Meko a"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Meko aa"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Meko aaj"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:30:25",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Meko aaj "
   }
 ]
