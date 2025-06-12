@@ -48078,5 +48078,15 @@
     "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
     "ID": "No ID",
     "MSG": "Ok"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:56:34",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Sonia Shrungare",
+    "ID": "No ID",
+    "MSG": "Understand Slovaika Sasikala is checking on issue. Understand Finland issues are also pending"
   }
 ]
