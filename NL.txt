@@ -50778,5 +50778,45 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Thane pe just abhi aay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:33",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:01:33",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
   }
 ]
