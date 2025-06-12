@@ -48438,5 +48438,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:32:03",
+    "BATTERY": "98",
+    "NETWORK": "W",
+    "TITLE": "Remember when…",
+    "ID": "No ID",
+    "MSG": "Similar shots"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:47:00",
+    "BATTERY": "98",
+    "NETWORK": "W",
+    "TITLE": "Finance Fun Week",
+    "ID": "No ID",
+    "MSG": "5:00 pm - 5:30 pm, Microsoft Teams"
   }
 ]
