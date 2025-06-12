@@ -638,5 +638,37 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "An"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:29:02",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Ani"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:29:02",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Anike"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:29:02",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Aniket"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:29:02",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Aniket "
   }
 ]
