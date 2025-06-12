@@ -34898,5 +34898,25 @@
     "TITLE": "Tata Neu Credit",
     "ID": "918886659269@s.whatsapp.net",
     "MSG": "Congrats Simriti, You made the Shortlist!\nYour Tata NeuCard is approved, but your application is still pending. \nSubmit your application TODAY & avail Free Lenskart Gold membership & benefits of Taj InnerCircle Silver Tier on Card Issuance.\nT&C apply."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:12:50",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Tata Neu Credit",
+    "ID": "918886659269@s.whatsapp.net",
+    "MSG": "Congrats Simriti, You made the Shortlist!\nYour Tata NeuCard is approved, but your application is still pending. \nSubmit your application TODAY & avail Free Lenskart Gold membership & benefits of Taj InnerCircle Silver Tier on Card Issuance.\nT&C apply."
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:29:10",
+    "BATTERY": "100",
+    "NETWORK": "M",
+    "TITLE": "Charging Complete",
+    "ID": "No ID",
+    "MSG": "The battery is full"
   }
 ]
