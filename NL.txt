@@ -40638,5 +40638,205 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:49:14",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Tera vo number wala email kaha h?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:49:14",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:49:47",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ha vo 25588866@tcs.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:49:47",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ha vo 25588866@tcs.com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:49:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:54",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:55",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:55",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:56",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Hale Dil",
+    "ID": "No ID",
+    "MSG": "Harshit Saxena"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:56",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Teri Deewani",
+    "ID": "No ID",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:56",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Hale Dil",
+    "ID": "No ID",
+    "MSG": "Harshit Saxena"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:57",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Hale Dil",
+    "ID": "No ID",
+    "MSG": "Harshit Saxena"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:57",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Hale Dil",
+    "ID": "No ID",
+    "MSG": "Harshit Saxena"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:57",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Hale Dil",
+    "ID": "No ID",
+    "MSG": "Harshit Saxena"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:50:57",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Hale Dil",
+    "ID": "No ID",
+    "MSG": "Harshit Saxena"
   }
 ]
