@@ -48338,5 +48338,35 @@
     "TITLE": "Vasanti More",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:02:46",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:02:54",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:02:55",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Recharge and get 100% cashback on Gift card",
+    "ID": "No ID",
+    "MSG": "Recharge your mobile for ₹149+ and get 100% cashback up to ₹299 on Amazon Prime gift card"
   }
 ]
