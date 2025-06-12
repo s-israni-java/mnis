@@ -478,5 +478,21 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "https:\/\/www.instagram.com\/reel\/DAe5CN7h5AN\/"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:18:56",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "https:\/\/www.instagram.com\/reel\/"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:18:56",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "https:\/\/www.instagram.com\/re"
   }
 ]
