@@ -44028,5 +44028,35 @@
     "TITLE": "Proper Patola",
     "ID": "No ID",
     "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:55:34",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Proper Patola",
+    "ID": "No ID",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:55:34",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Proper Patola",
+    "ID": "No ID",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:56:15",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Proper Patola",
+    "ID": "No ID",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
   }
 ]
