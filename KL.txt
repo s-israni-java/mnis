@@ -3150,5 +3150,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-12 19:08:28",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ap",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:08:28",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "app",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:08:28",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ap",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:08:29",
+    "BATTERY": "71"
   }
 ]
