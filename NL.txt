@@ -43138,5 +43138,25 @@
     "TITLE": "New message",
     "ID": "No ID",
     "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:39:37",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Anuj Sharma",
+    "ID": "No ID",
+    "MSG": "Re: Payment reminder - 1001 - FULHEALTH CZECH REPUBLIC PLAN - Care Health • External Email : Be cautious while opening any links or attachments. Dear Team, Greetings for the day. Please provide an update on the trailing mail for overdue premiums. Kindly share the SWIFT Advice or other bank generated transaction details"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:40:02",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "How many countries not completed ?"
   }
 ]
