@@ -2894,5 +2894,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-12 19:00:36",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:00:36",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:00:36",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dighag",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:00:37",
+    "BATTERY": "71"
   }
 ]
