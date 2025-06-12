@@ -2350,5 +2350,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-12 18:56:16",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhavesh..",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:16",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhavesh..t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:17",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhavesh..te",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:17",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhavesh..ter",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:17",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhavesh..tera",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:17",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhavesh..tera ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:18",
+    "BATTERY": "71"
   }
 ]
