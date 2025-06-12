@@ -46478,5 +46478,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:49:34",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "📷 Photo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:49:34",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "5 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:49:37",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Sagar Mom",
+    "ID": "917620495477@s.whatsapp.net",
+    "MSG": "🔗 Bablu Kumar Sharma on Instagram (www.instagram.com)"
   }
 ]
