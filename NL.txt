@@ -48378,5 +48378,25 @@
     "TITLE": "New message",
     "ID": "No ID",
     "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:12:19",
+    "BATTERY": "99",
+    "NETWORK": "W",
+    "TITLE": "Jinat Sayyed",
+    "ID": "No ID",
+    "MSG": "Bingo\/ Housie Ticket  • Dear Simriti, Please find the ticket : Warm regards, Zinath Sayyed Human Resource-Corporate Finance\/ Enterprise Risk Management Tata Consultancy Services Email: jinat.sayyed@tcs.com Website: http:\/\/www.tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:13:52",
+    "BATTERY": "99",
+    "NETWORK": "W",
+    "TITLE": "New message",
+    "ID": "No ID",
+    "MSG": "simriti.basantani@tcs.com"
   }
 ]
