@@ -126,5 +126,13 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "•••••a•"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:52:28",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "••••••m•"
   }
 ]
