@@ -51948,5 +51948,35 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:45:54",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:45:54",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:45:55",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
   }
 ]
