@@ -53598,5 +53598,15 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Reacted 😢 to your message."
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 21:24:03",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "DECLINED: Bad vibes ❎",
+    "ID": "No ID",
+    "MSG": "APPROVED: Good desserts! 😋"
   }
 ]
