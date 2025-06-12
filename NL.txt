@@ -34878,5 +34878,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:11:42",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Profile appearances",
+    "ID": "No ID",
+    "MSG": "1 searches included you."
   }
 ]
