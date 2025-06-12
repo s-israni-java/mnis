@@ -52158,5 +52158,55 @@
     "TITLE": "Jugnu",
     "ID": "No ID",
     "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:47:19",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:47:20",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:47:20",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:47:32",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:47:32",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Jugnu",
+    "ID": "No ID",
+    "MSG": "Badshah, Nikhita Gandhi"
   }
 ]
