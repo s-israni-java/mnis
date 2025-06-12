@@ -6,5 +6,29 @@
     "BATTERY": "69",
     "NETWORK": "M - JIO 4G",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 16:54:37",
+    "BATTERY": "69",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Ka"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 16:54:37",
+    "BATTERY": "69",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Kab"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 16:54:38",
+    "BATTERY": "69",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Ka"
   }
 ]
