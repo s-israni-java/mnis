@@ -48208,5 +48208,35 @@
     "TITLE": "Dhoka Dekho with The Traitors 🔪",
     "ID": "No ID",
     "MSG": "Dhoka Khao with Swiggy Drops 🍔"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:34:52",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Germany Slovakia  Finland pls update who is supporting user from our team"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:40:51",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:40:51",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Due date for Mahavitaran - Maharashtra Electricity (MSEDCL) bill approaching",
+    "ID": "No ID",
+    "MSG": "₹4,270.00 due on Jun 16, 2025."
   }
 ]
