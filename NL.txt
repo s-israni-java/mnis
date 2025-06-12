@@ -44338,5 +44338,15 @@
     "TITLE": "Screen Feeling Blah?",
     "ID": "No ID",
     "MSG": "Time for a glow-up—Zedge’s got what you need! ✨"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:00:47",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
   }
 ]
