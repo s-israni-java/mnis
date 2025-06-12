@@ -52508,5 +52508,35 @@
     "TITLE": "Saada Pyaar",
     "ID": "No ID",
     "MSG": "AP Dhillon, Gurinder Gill, Money Musik"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:50:43",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Saada Pyaar",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Money Musik"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:50:43",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Saada Pyaar",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Money Musik"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:50:44",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Jaani Tera Naa",
+    "ID": "No ID",
+    "MSG": "Sunanda Sharma"
   }
 ]
