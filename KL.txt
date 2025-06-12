@@ -1654,5 +1654,21 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Tu pa"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:24",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pat"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:44:24",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Tu pata"
   }
 ]
