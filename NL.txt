@@ -46608,5 +46608,35 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:52:13",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Nour Al Bakaa",
+    "ID": "No ID",
+    "MSG": "RE: Expats On-call input, Feriekonto & Payment Tracker file for June 2025 payroll input Dear Simriti, I hereby confirm the below amounts are based on the shared hours from the project. Yours Sincerely _____ Nour Al-Bakaa I HR Executive – DK TATA CONSULTANCY SERVICES E: nour.albakaa@tcs.com P: + 45 26727329 From: Simriti Basan"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:52:13",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Nour Al Bakaa",
+    "ID": "No ID",
+    "MSG": "RE: Expats On-call input, Feriekonto & Payment Tracker file for June 2025 payroll input • Dear Simriti, I hereby confirm the below amounts are based on the shared hours from the project. Yours Sincerely _____ Nour Al-Bakaa I HR Executive – DK TATA CONSULTANCY SERVICES E: nour.albakaa@tcs.com P: + 45 26727329 From: Simriti Basan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:53:04",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
