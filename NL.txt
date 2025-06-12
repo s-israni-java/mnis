@@ -47568,5 +47568,35 @@
     "TITLE": "Divii",
     "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
     "MSG": "sent you a Snap • 🔥⏳"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:19:14",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:19:14",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:19:27",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
   }
 ]
