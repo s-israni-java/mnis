@@ -44298,5 +44298,45 @@
     "TITLE": "Ik Tera",
     "ID": "No ID",
     "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:53",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:53",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:53",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:00:15",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Screen Feeling Blah?",
+    "ID": "No ID",
+    "MSG": "Time for a glow-up—Zedge’s got what you need! ✨"
   }
 ]
