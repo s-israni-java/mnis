@@ -48368,5 +48368,15 @@
     "TITLE": "Recharge and get 100% cashback on Gift card",
     "ID": "No ID",
     "MSG": "Recharge your mobile for ₹149+ and get 100% cashback up to ₹299 on Amazon Prime gift card"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:12:19",
+    "BATTERY": "99",
+    "NETWORK": "W",
+    "TITLE": "New message",
+    "ID": "No ID",
+    "MSG": "simriti.basantani@tcs.com"
   }
 ]
