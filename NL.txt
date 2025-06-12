@@ -48088,5 +48088,15 @@
     "TITLE": "Discussion on CHN integration Testing: Sonia Shrungare",
     "ID": "No ID",
     "MSG": "Understand Slovaika Sasikala is checking on issue. Understand Finland issues are also pending"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:57:14",
+    "BATTERY": "87",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Ujwal Kasare",
+    "ID": "No ID",
+    "MSG": "hi Team, any update on the below, as for Brazil payroll only the Expensing Dr\/Cr. report amount is reflecting incorrect..."
   }
 ]
