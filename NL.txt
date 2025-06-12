@@ -48118,5 +48118,15 @@
     "TITLE": "Discussion on CHN integration Testing: Sibadutta Mohapatra",
     "ID": "No ID",
     "MSG": "Ujwal, pls check below message"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:07:08",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Sambhavna Seth",
+    "ID": "No ID",
+    "MSG": "just made a post."
   }
 ]
