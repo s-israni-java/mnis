@@ -53568,5 +53568,15 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 21:17:43",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Reacted 😢 to your message."
   }
 ]
