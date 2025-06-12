@@ -38,5 +38,25 @@
     "TITLE": "Taksham Kiya.Ai",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:15:25",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:15:39",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
