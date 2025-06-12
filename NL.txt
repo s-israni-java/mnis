@@ -54808,5 +54808,15 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 23:28:28",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Khushboo_goklani",
+    "ID": "false|Khushboo_goklani|02ff7905-e940-46f2-bc39-1af355c8c1f8",
+    "MSG": "New Story "
   }
 ]
