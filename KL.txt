@@ -70,5 +70,21 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "​Ask Meta AI or Search"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:52:25",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "•"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:52:25",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "T•"
   }
 ]
