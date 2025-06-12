@@ -45298,5 +45298,35 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:30:22",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Instant Credit",
+    "ID": "453",
+    "MSG": "💸LOAN AMOUNT UPGRADED💹!!—Check your updated loan amount with Up to Rs.5,00,000\/- !!\n\nEnjoy Quick disbursal of funds, Anywhere & Anytime with Instant Credit."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:30:22",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:30:23",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Instant Credit",
+    "ID": "453",
+    "MSG": "💸LOAN AMOUNT UPGRADED💹!!—Check your updated loan amount with Up to Rs.5,00,000\/- !!\n\nEnjoy Quick disbursal of funds, Anywhere & Anytime with Instant Credit."
   }
 ]
