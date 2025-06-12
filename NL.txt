@@ -43128,5 +43128,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:39:37",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "New message",
+    "ID": "No ID",
+    "MSG": "simriti.basantani@tcs.com"
   }
 ]
