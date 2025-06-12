@@ -2286,5 +2286,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-12 18:56:14",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:14",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:14",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:14",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhav",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:15",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsa bhave",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:15",
+    "BATTERY": "71"
   }
 ]
