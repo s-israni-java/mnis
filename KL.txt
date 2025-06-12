@@ -70,5 +70,13 @@
     "BATTERY": "69",
     "NETWORK": "M - JIO 4G",
     "MSG": "​Kab"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 16:56:11",
+    "BATTERY": "69",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "​Ka"
   }
 ]
