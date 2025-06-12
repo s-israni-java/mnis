@@ -368,5 +368,15 @@
     "TITLE": "NeuCard",
     "ID": "74",
     "MSG": "💳 India’s BEST RuPay Card! Get 1.5% BACK on UPI – No Catch!—Save 10% every time you shop*\n\nUnlock BIG savings with the Tata Neu HDFC Bank Credit Card – ZERO joining fee, MAXIMUM rewards!\n\n💰 1.5% cashback on UPI payments 💳\n💸 10% savings on Tata Brands 🛍\n🧾 5% off on Bills & Insurance 💡\n🛫 12 FREE Airport Lounge Access per year ✈\n🌟 EXCLUSIVE BONUS! Get a FREE 1-Year Lenskart Gold Membership 👓\n⏳ Hurry! Apply Now & Start Earning!"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:25:04",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
