@@ -55108,5 +55108,25 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 00:45:09",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 00:45:43",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
