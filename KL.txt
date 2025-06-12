@@ -150,5 +150,29 @@
     "BATTERY": "70",
     "NETWORK": "M - JIO 4G",
     "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:05:52",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mi"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:05:53",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:05:53",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil "
   }
 ]
