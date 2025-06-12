@@ -34148,5 +34148,15 @@
     "TITLE": "Pairing request",
     "ID": "No ID",
     "MSG": "Tap to pair with SFD BT-456"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 07:02:06",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
   }
 ]
