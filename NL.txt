@@ -44258,5 +44258,45 @@
     "TITLE": "Ik Tera",
     "ID": "No ID",
     "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:16",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:17",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:17",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:59:52",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
   }
 ]
