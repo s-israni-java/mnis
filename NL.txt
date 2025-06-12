@@ -848,5 +848,15 @@
     "CDATE": "2025-06-12 19:03:19",
     "BATTERY": "71",
     "ID": "74"
+  },
+  {
+    "APP": "com.bt.bms",
+    "SERVICE": "NL",
+    "MSG": "This crazy new set, LIVE in your city! 🤣",
+    "TITLE": "The (Solan)𝙠𝙚𝙮 to hilarity?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:07:46",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
