@@ -45488,5 +45488,15 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:48:34",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Media uploading…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
