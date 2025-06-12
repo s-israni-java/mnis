@@ -49998,5 +49998,45 @@
     "TITLE": "Tere Bina Na Guzara E",
     "ID": "No ID",
     "MSG": "Josh Brar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:07",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:07",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:08",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:54",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Tere Bina Na Guzara E",
+    "ID": "No ID",
+    "MSG": "Josh Brar"
   }
 ]
