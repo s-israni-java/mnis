@@ -34848,5 +34848,15 @@
     "TITLE": "Alarm",
     "ID": "No ID",
     "MSG": "The 7:30 am alarm will ring soon."
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 08:04:08",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
