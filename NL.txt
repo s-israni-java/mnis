@@ -45288,5 +45288,15 @@
     "TITLE": "Sambhavna Seth Entertainment",
     "ID": "No ID",
     "MSG": "SAB KUCHH LUT GAYA🙄"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:30:17",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
