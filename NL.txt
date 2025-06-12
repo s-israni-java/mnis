@@ -50148,5 +50148,55 @@
     "TITLE": "She Move It Like",
     "ID": "No ID",
     "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:55",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:55",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:55",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:54:56",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:56:36",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
   }
 ]
