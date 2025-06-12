@@ -178,5 +178,25 @@
     "TITLE": "Charging this device via USB",
     "ID": "No ID",
     "MSG": "Tap for more options"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:19:51",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "USB debugging enabled",
+    "ID": "No ID",
+    "MSG": "Disable USB debugging"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:20:49",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "IDFC WHATSAPP API",
+    "ID": "919555555555@s.whatsapp.net",
+    "MSG": "Thank you for choosing IDFC First Bank. Hoping to hear from you soon! Have a good day."
   }
 ]
