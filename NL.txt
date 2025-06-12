@@ -48,5 +48,15 @@
     "TITLE": "USB debugging enabled",
     "ID": "No ID",
     "MSG": "Disable USB debugging"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:16:01",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Charging this device via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
