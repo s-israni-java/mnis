@@ -36998,5 +36998,55 @@
     "TITLE": "Jaadugar",
     "ID": "No ID",
     "MSG": "Paradox"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:19:20",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Jaadugar",
+    "ID": "No ID",
+    "MSG": "Paradox"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:19:21",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Jaadugar",
+    "ID": "No ID",
+    "MSG": "Paradox"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:19:37",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:19:40",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Waah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:19:40",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Waah"
   }
 ]
