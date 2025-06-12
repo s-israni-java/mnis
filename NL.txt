@@ -43878,5 +43878,25 @@
     "TITLE": "LinkedIn",
     "ID": "No ID",
     "MSG": "Trending post from Deloitte: ✨ Cheers to the memories we make when exceptional people gather together! 🎵 Last week we truly enjoyed the latest edition of #DLuxNights, our exclusive annual gathering with live music, delicious food and— most importantly—spent time with our wonderful clients and colleagues. 🎆 Thank you for attending and making these two nights unforgettable. It would not have been the same without you. #DeloitteLU #DLuxLife"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:53:49",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Proper Patola",
+    "ID": "No ID",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 12:53:50",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Softly",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
   }
 ]
