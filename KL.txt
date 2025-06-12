@@ -422,5 +422,37 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "I already "
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:51",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already ha"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:51",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have"
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:51",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have "
+  },
+  {
+    "APP": "com.microsoft.teams_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:28:52",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "I already have to"
   }
 ]
