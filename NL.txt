@@ -808,5 +808,25 @@
     "CDATE": "2025-06-12 19:02:46",
     "BATTERY": "71",
     "ID": "918793630800@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Kunal Dawani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:02:46",
+    "BATTERY": "71",
+    "ID": "918793630800@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "(morning)8 wali train leta hu for vashi fir 11(morning )wali vashi se wapas",
+    "TITLE": "Kunal Dawani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:02:57",
+    "BATTERY": "71",
+    "ID": "918793630800@s.whatsapp.net"
   }
 ]
