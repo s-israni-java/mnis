@@ -55298,5 +55298,15 @@
     "TITLE": "Wake up",
     "ID": "No ID",
     "MSG": "Alarm will ring again at 5:25 am."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 05:25:02",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "5:25 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
   }
 ]
