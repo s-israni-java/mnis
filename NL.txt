@@ -218,5 +218,25 @@
     "TITLE": "IDFC WHATSAPP API",
     "ID": "919555555555@s.whatsapp.net",
     "MSG": "This current conversation has ended. If you want to resume the conversation with me, please send \"Chat with RM\" in this window. Thank you for using IDFC FIRST Bank."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:20:51",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "IDFC WHATSAPP API",
+    "ID": "919555555555@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:21:59",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Amod Manohar",
+    "ID": "No ID",
+    "MSG": "have you tested it ?"
   }
 ]
