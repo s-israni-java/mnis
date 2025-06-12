@@ -858,5 +858,15 @@
     "CDATE": "2025-06-12 19:07:46",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Tap for more options",
+    "TITLE": "Transferring files via USB",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 19:07:53",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
