@@ -51288,5 +51288,25 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:21:06",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:21:06",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "Cooling over next 3 days",
+    "ID": "No ID",
+    "MSG": "See full forecast for Ulhasnagar"
   }
 ]
