@@ -158,5 +158,37 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "a"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:23:58",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "an"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:23:59",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "ani"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:23:59",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "anik"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:23:59",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "anike"
   }
 ]
