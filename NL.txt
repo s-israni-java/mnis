@@ -328,5 +328,35 @@
     "TITLE": "Aniket Kurkarni",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:24:14",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Aniket Kurkarni",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:24:14",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Aniket Kurkarni",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:24:17",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Aniket Kurkarni",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
