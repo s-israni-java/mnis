@@ -48848,5 +48848,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 18:33:08",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 18:33:08",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "TITLE": "A reward needs your action in 7 days",
+    "ID": "No ID",
+    "MSG": "Scratch, pick and redeem your reward now!"
   }
 ]
