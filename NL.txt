@@ -53438,5 +53438,25 @@
     "TITLE": "Yaarr Ni Milyaa",
     "ID": "No ID",
     "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:57:59",
+    "BATTERY": "63",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:58:29",
+    "BATTERY": "63",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
   }
 ]
