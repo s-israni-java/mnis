@@ -48068,5 +48068,15 @@
     "TITLE": "Discussion on CHN integration Testing: Sonia Shrungare",
     "ID": "No ID",
     "MSG": "Kiran, Germany , Slovakia n Finland is pending"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:56:03",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Ok"
   }
 ]
