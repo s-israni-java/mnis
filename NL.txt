@@ -248,5 +248,35 @@
     "TITLE": "Charging this device via USB",
     "ID": "No ID",
     "MSG": "Tap for more options"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:22:59",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "USB debugging enabled",
+    "ID": "No ID",
+    "MSG": "Disable USB debugging"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:23:30",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Charging this device via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:23:30",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "USB debugging enabled",
+    "ID": "No ID",
+    "MSG": "Disable USB debugging"
   }
 ]
