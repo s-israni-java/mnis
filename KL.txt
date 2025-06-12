@@ -2590,5 +2590,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-12 18:56:43",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nhi nhi b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:43",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nhi nhi bh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:43",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nhi nhi bha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:44",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nhi nhi bhai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:56:44",
+    "BATTERY": "71"
   }
 ]
