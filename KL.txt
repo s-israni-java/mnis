@@ -1294,5 +1294,37 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Etna"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:50",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Etna "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:50",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Etna j"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:50",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Etna jl"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:50",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Etna jld"
   }
 ]
