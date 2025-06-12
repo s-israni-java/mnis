@@ -294,5 +294,37 @@
     "BATTERY": "70",
     "NETWORK": "M - JIO 4G",
     "MSG": "Mil "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:09:27",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil rh"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:09:28",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil rha "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:09:29",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil rha h"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:09:30",
+    "BATTERY": "70",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Mil rha ha"
   }
 ]
