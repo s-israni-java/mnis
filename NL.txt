@@ -47488,5 +47488,85 @@
     "TITLE": "Admirin' You (feat. Preston Pablo)",
     "ID": "No ID",
     "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:24",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:25",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:28",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:34",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:35",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:18:35",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:19:07",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥⏳"
   }
 ]
