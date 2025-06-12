@@ -54408,5 +54408,15 @@
     "TITLE": "NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 22:42:02",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Gym pe hu"
   }
 ]
