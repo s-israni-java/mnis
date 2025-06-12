@@ -48018,5 +48018,45 @@
     "TITLE": "Diva's: Nisha ❤️",
     "ID": "No ID",
     "MSG": "Sent a reel by fitnessfundawithjyoti"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:47:13",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Nisha ❤️",
+    "ID": "No ID",
+    "MSG": "liked your story."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:47:13",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:53:53",
+    "BATTERY": "82",
+    "NETWORK": "W",
+    "TITLE": "New message",
+    "ID": "No ID",
+    "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:53:53",
+    "BATTERY": "82",
+    "NETWORK": "W",
+    "TITLE": "Lokesh Mahajan",
+    "ID": "No ID",
+    "MSG": "Re: Console Reco_Europe branches_Citibank (Jun 25)  • Dear all, Please find attached herewith console Reco for Europe branches Citibank. Kindly check updated remarks in the \"Remarks column\" and account your respective entries on priority. If not pertains to you please confirm on mail. Thanks"
   }
 ]
