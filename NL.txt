@@ -48418,5 +48418,15 @@
     "TITLE": "IceSense in Action❄️",
     "ID": "No ID",
     "MSG": "Experience the Cool Power of GT 7T!"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:21:04",
+    "BATTERY": "99",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
