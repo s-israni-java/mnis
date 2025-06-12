@@ -68,5 +68,25 @@
     "TITLE": "Deleting messages…",
     "ID": "No ID",
     "MSG": "4 of 4 (100%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:19:48",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "IDFC WHATSAPP API",
+    "ID": "919555555555@s.whatsapp.net",
+    "MSG": "📷 💬 Skip the wait. Chat with your RM instantly!\n\nHi Sagar Israni,\n\nTired of long hold times? Let your dedicated Relationship Manager, Chandan Kumar, take care of it - instantly.\n\nHere’s what you get with just one tap:\n✅ Quick solutions to your queries\n✅ Expert guidance tailored to you\n✅ No more waiting or back-and-forth\n\n📲 Tap “Get Advice from RM” to chat now and experience smarter, faster banking\n🕒 Chandan Kumar is available from 9:30 AM to 6:00 PM on bank working days\n\nReal help. Real fast. Just for you.\n\nAlways you FIRST,\nTeam IDFC FIRST Bank\n*T&C Apply"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:19:48",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Taksham Kiya.Ai",
+    "ID": "918898764007@s.whatsapp.net",
+    "MSG": "Haaa"
   }
 ]
