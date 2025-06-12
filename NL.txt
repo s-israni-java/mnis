@@ -35978,5 +35978,35 @@
     "TITLE": "Hawa Banke",
     "ID": "No ID",
     "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:10:05",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:10:05",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "High Rated Gabru (From \"High Rated Gabru\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:10:05",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "High Rated Gabru (From \"High Rated Gabru\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
   }
 ]
