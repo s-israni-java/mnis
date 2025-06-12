@@ -48428,5 +48428,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:32:02",
+    "BATTERY": "98",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
