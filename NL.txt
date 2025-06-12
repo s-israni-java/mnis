@@ -44588,5 +44588,25 @@
     "TITLE": "Discussion on CHN integration Testing: MANJUSHRI KUDALKAR",
     "ID": "No ID",
     "MSG": "NZ done"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:08:06",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:08:07",
+    "BATTERY": "55",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
   }
 ]
