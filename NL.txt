@@ -48658,5 +48658,25 @@
     "TITLE": "Screen Upgrade Time",
     "ID": "No ID",
     "MSG": "Bold wallpapers = instant vibe boost! 🔥"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 18:11:07",
+    "BATTERY": "90",
+    "NETWORK": "W",
+    "TITLE": "Nisha Kadam",
+    "ID": "No ID",
+    "MSG": "FW: Global Provisioning Report - May 2025 Thanks & Regards, Nisha Kadam Finance,Overseas Payroll From: Amit Bandekar <amit.rbandekar@tcs.com> Sent: 31 May 2025 13:43 To: Nisha Kadam <kadam.nisha@tcs.com> Subject: FW: Global Provisioning Report - May 2025 TCS Confidential F"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 18:11:07",
+    "BATTERY": "90",
+    "NETWORK": "W",
+    "TITLE": "Nisha Kadam",
+    "ID": "No ID",
+    "MSG": "FW: Global Provisioning Report - May 2025 • Thanks & Regards, Nisha Kadam Finance,Overseas Payroll From: Amit Bandekar <amit.rbandekar@tcs.com> Sent: 31 May 2025 13:43 To: Nisha Kadam <kadam.nisha@tcs.com> Subject: FW: Global Provisioning Report - May 2025 TCS Confidential F"
   }
 ]
