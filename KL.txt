@@ -1422,5 +1422,37 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Teri ho ga"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:58",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Teri ho gai"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:58",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Teri ho gai "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:58",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Teri ho gai k"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:58",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Teri ho gai ky"
   }
 ]
