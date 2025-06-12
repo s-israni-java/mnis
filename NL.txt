@@ -48238,5 +48238,15 @@
     "TITLE": "Due date for Mahavitaran - Maharashtra Electricity (MSEDCL) bill approaching",
     "ID": "No ID",
     "MSG": "₹4,270.00 due on Jun 16, 2025."
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:44:58",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "New message",
+    "ID": "No ID",
+    "MSG": "simriti.basantani@tcs.com"
   }
 ]
