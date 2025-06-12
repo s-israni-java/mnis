@@ -718,5 +718,25 @@
     "CDATE": "2025-06-12 18:58:31",
     "BATTERY": "71",
     "ID": "918793630800@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Kidhar hai",
+    "TITLE": "Kunal Dawani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:58:36",
+    "BATTERY": "71",
+    "ID": "918793630800@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Kunal Dawani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-12 18:58:36",
+    "BATTERY": "71",
+    "ID": "918793630800@s.whatsapp.net"
   }
 ]
