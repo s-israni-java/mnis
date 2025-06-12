@@ -30,5 +30,29 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "sa"
+  },
+  {
+    "APP": "com.coloros.filemanager_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:47:14",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "s"
+  },
+  {
+    "APP": "com.coloros.filemanager_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:47:15",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Search"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:47:49",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "A"
   }
 ]
