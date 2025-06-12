@@ -44798,5 +44798,55 @@
     "TITLE": "Dil Nu",
     "ID": "No ID",
     "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:12:32",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:12:33",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:12:33",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:14:09",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:14:09",
+    "BATTERY": "54",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
   }
 ]
