@@ -54818,5 +54818,25 @@
     "TITLE": "Khushboo_goklani",
     "ID": "false|Khushboo_goklani|02ff7905-e940-46f2-bc39-1af355c8c1f8",
     "MSG": "New Story "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 23:32:47",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 23:32:47",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 new messages"
   }
 ]
