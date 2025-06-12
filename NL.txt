@@ -8,5 +8,25 @@
     "TITLE": "Deleting messages…",
     "ID": "No ID",
     "MSG": "3 of 3 (100%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:52:48",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "XYXX",
+    "ID": "916358729768@s.whatsapp.net",
+    "MSG": "Order in Transit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 17:52:48",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "XYXX",
+    "ID": "916358729768@s.whatsapp.net",
+    "MSG": "Order in Transit"
   }
 ]
