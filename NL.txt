@@ -48398,5 +48398,25 @@
     "TITLE": "New message",
     "ID": "No ID",
     "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:13:53",
+    "BATTERY": "99",
+    "NETWORK": "W",
+    "TITLE": "Amit Bandekar",
+    "ID": "No ID",
+    "MSG": "FW: Europe _ Forex clearance pending cases as on 11 Jun 25 • Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Complex, LBS Marg Vikhroli (West) Mumbai - 400079,Maharashtra India. Email : amit.rbandekar@tcs.com From: Dipesh Gudhk"
+  },
+  {
+    "APP": "com.realmestore.app",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 16:20:18",
+    "BATTERY": "99",
+    "NETWORK": "W",
+    "TITLE": "IceSense in Action❄️",
+    "ID": "No ID",
+    "MSG": "Experience the Cool Power of GT 7T!"
   }
 ]
