@@ -46788,5 +46788,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:57:47",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Simran Jhamtani",
+    "ID": "No ID",
+    "MSG": "liked your story."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 13:57:47",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
