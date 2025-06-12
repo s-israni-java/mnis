@@ -50358,5 +50358,75 @@
     "TITLE": "She Move It Like",
     "ID": "No ID",
     "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:04",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:05",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:05",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "TERE TE",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "She Move It Like",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "TERE TE",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:00:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "TERE TE",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill"
   }
 ]
