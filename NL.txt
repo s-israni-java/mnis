@@ -48978,5 +48978,45 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:20:27",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Sasikala Ande",
+    "ID": "No ID",
+    "MSG": "No problem 🙂"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:20:48",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Swapna Chaudankar",
+    "ID": "No ID",
+    "MSG": "ok.."
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:20:48",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 19:36:54",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Dhoka Dekho with The Traitors 🔪",
+    "ID": "No ID",
+    "MSG": "Dhoka Khao with Swiggy Drops 🍔"
   }
 ]
