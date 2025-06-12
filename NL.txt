@@ -51308,5 +51308,15 @@
     "TITLE": "Cooling over next 3 days",
     "ID": "No ID",
     "MSG": "See full forecast for Ulhasnagar"
+  },
+  {
+    "APP": "com.ludo.king",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:29:02",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "1 billion playing Ludo King!",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
