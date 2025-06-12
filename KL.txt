@@ -1158,5 +1158,53 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Pgl "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:39",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Pgl h"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:39",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Pgl h "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:40",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Pgl h k"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:40",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Pgl h ky"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:40",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Pgl h kya"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:41",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Y"
   }
 ]
