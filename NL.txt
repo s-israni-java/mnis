@@ -42968,5 +42968,15 @@
     "TITLE": "Prashant Yadav",
     "ID": "No ID",
     "MSG": "?"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 11:36:42",
+    "BATTERY": "60",
+    "NETWORK": "W",
+    "TITLE": "Prashant Yadav",
+    "ID": "No ID",
+    "MSG": "vo dikh rha h"
   }
 ]
