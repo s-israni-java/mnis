@@ -55268,5 +55268,25 @@
     "TITLE": "Aadi Ochani",
     "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 05:01:33",
+    "BATTERY": "45",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:15 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 05:15:02",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "5:15 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
   }
 ]
