@@ -48298,5 +48298,15 @@
     "TITLE": "Discussion on CHN integration Testing: Leelawati Kurmi",
     "ID": "No ID",
     "MSG": "Venkatesh working on FI"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:48:42",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Gangaraju Kiran",
+    "ID": "No ID",
+    "MSG": "Ok"
   }
 ]
