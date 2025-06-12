@@ -36108,5 +36108,35 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Aare ek mail dundna tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:11:38",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aare ek mail dundna tha"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:13:39",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 09:13:40",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "High Rated Gabru (From \"High Rated Gabru\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
   }
 ]
