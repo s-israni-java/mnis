@@ -48098,5 +48098,25 @@
     "TITLE": "Discussion on CHN integration Testing: Ujwal Kasare",
     "ID": "No ID",
     "MSG": "hi Team, any update on the below, as for Brazil payroll only the Expensing Dr\/Cr. report amount is reflecting incorrect..."
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 14:59:39",
+    "BATTERY": "90",
+    "NETWORK": "W",
+    "TITLE": "Anjali Udasi",
+    "ID": "No ID",
+    "MSG": "You have a notification from Anjali Udasi and 21 other updates on LinkedIn"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:01:05",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "TITLE": "Discussion on CHN integration Testing: Sibadutta Mohapatra",
+    "ID": "No ID",
+    "MSG": "Ujwal, pls check below message"
   }
 ]
