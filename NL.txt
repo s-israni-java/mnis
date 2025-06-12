@@ -48128,5 +48128,25 @@
     "TITLE": "Sambhavna Seth",
     "ID": "No ID",
     "MSG": "just made a post."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:07:08",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 15:07:48",
+    "BATTERY": "100",
+    "NETWORK": "W",
+    "TITLE": "Charging Complete",
+    "ID": "No ID",
+    "MSG": "The battery is full"
   }
 ]
