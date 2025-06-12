@@ -34118,5 +34118,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 06:33:05",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 06:33:05",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Weather in Ulhasnagar",
+    "ID": "No ID",
+    "MSG": "33° today · Mostly cloudy · See full forecast"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 07:01:39",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Pairing request",
+    "ID": "No ID",
+    "MSG": "Tap to pair with SFD BT-456"
   }
 ]
