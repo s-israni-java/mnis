@@ -102,5 +102,29 @@
     "BATTERY": "72",
     "NETWORK": "M - JIO 4G",
     "MSG": "••k•"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:52:26",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "•••s•"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:52:26",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "••••h•"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 17:52:27",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "•••••a•"
   }
 ]
