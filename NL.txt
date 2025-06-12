@@ -50888,5 +50888,15 @@
     "TITLE": "You",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Ok"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-12 20:05:05",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
   }
 ]
