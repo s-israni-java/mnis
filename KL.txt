@@ -1326,5 +1326,21 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Etna jld"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:51",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Etna jldi"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:43:52",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Etna jldi?"
   }
 ]
