@@ -108,5 +108,15 @@
     "TITLE": "Taksham Jiwane",
     "ID": "No ID",
     "MSG": "Re: Update on Project Mudra – Latest WAR File and VAPT Issues • omniNG-1.0.0 2.war Hi @Aniket Kulkarni, Kindly find the attached updated war file and text file for the issue of CicAccount generation During the loan Disbursement. Please use the insert query mentioned in the text file and then test the for the CicA"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "CDATE": "2025-06-12 18:18:04",
+    "BATTERY": "72",
+    "NETWORK": "M - JIO 4G",
+    "TITLE": "Charging this device via USB",
+    "ID": "No ID",
+    "MSG": "Tap for more options"
   }
 ]
