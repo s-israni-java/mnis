@@ -2094,5 +2094,37 @@
     "BATTERY": "71",
     "NETWORK": "M - JIO 4G",
     "MSG": "Haa bai..yeh kais"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:45:46",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Haa bai..yeh kaisi"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:45:46",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Haa bai..yeh kaisi "
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:45:46",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Haa bai..yeh kaisi b"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "CDATE": "2025-06-12 18:45:46",
+    "BATTERY": "71",
+    "NETWORK": "M - JIO 4G",
+    "MSG": "Haa bai..yeh kaisi ba"
   }
 ]
