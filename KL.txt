@@ -1678,5 +1678,45 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "Vapas "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:22",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:22",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:22",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:23",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:23",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya bol"
   }
 ]
