@@ -1758,5 +1758,77 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "Vapas kya bolke bai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:24",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya bolke bait"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:24",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya bolke baith"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:24",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Vapas kya bolke baitha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:57",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "D"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:58",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:58",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Dis"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:58",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:58",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:58",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayi"
   }
 ]
