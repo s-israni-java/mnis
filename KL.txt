@@ -15574,5 +15574,37 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Sonia swapna "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:56",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:56",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna am"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna ami"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna amit"
   }
 ]
