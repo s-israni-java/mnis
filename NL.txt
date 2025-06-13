@@ -18668,5 +18668,95 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Nazar na lage 🧿"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:40:53",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:45:08",
+    "BATTERY": "63",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:50:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Finally"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:50:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:50:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Underwear received"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:50:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:52:16",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:52:19",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Taniya Thakur 🤍",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:54:18",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
