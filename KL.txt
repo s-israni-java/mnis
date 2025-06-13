@@ -16214,5 +16214,29 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Aishwarya saurabh sumit prashant aisha in di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saurabh sumit prashant aisha in dif"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:23",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saurabh sumit prashant aisha in diff "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:56",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
