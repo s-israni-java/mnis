@@ -18054,5 +18054,77 @@
     "BATTERY": "56",
     "NETWORK": "M",
     "MSG": "Cros"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:00",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Cross"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:00",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crosse"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:00",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crossed"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:00",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crossed "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:01",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crossed k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:01",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crossed ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:01",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crossed kal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:16:02",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "MSG": "Crossed kalyan "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:23:17",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "S"
   }
 ]
