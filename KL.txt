@@ -18510,5 +18510,29 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "●3"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:46:52",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "●●1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:46:53",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "●●●9"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:56",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "9"
   }
 ]
