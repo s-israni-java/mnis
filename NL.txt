@@ -19238,5 +19238,15 @@
     "TITLE": "AX-HDFCBK-S",
     "ID": "403",
     "MSG": "Sent Rs.90.00\nFrom HDFC Bank A\/C x4829\nTo Nirmala Pintu Juice And Fast Food Centre\nOn 13\/06\/25\nRef 106427028943\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:21:47",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Reacted 😮 to your message."
   }
 ]
