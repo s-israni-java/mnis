@@ -4038,5 +4038,475 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:11",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Better toh hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:11",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Better toh hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:11",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Haa aram aram se ayi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:11",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Akh Lad Jaave (From \"Loveyatri - A Journey Of Love\")",
+    "ID": "No ID",
+    "MSG": "Badshah, Asees Kaur, Jubin Nautiyal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:27:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:52",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:52",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:52",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:52",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:58",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:58",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:58",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:28:58",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:00",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:00",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:00",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:00",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:06",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:06",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:06",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:06",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:07",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:29:08",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Backbone",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
   }
 ]
