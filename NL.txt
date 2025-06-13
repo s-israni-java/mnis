@@ -6088,5 +6088,35 @@
     "TITLE": "Tata Neu Credit",
     "ID": "918886659269@s.whatsapp.net",
     "MSG": "You have successfully opted out. As per WhatsApp guidelines, this may take up to 24 hours to take effect, during which you may still receive messages. To opt back in, reply with START."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:57:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Nhi yrr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:57:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:57:28",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
