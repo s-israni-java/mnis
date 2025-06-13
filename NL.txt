@@ -9428,5 +9428,65 @@
     "TITLE": "Dil Nu",
     "ID": "No ID",
     "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:46:28",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:46:28",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:46:29",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Dil Nu",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:47:17",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Dekhta hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:47:17",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Yes yes"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:47:17",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
   }
 ]
