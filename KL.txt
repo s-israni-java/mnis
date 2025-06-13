@@ -4886,5 +4886,53 @@
     "BATTERY": "49",
     "NETWORK": "W",
     "MSG": "Iska mtl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:51",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:51",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:52",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:52",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb kch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:52",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb kch "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:53",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb kch o"
   }
 ]
