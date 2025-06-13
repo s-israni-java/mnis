@@ -9558,5 +9558,109 @@
     "BATTERY": "38",
     "NETWORK": "W",
     "MSG": "Konsi baat pe trust nhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:12:39",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Konsi baat pe trust nhi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:12:39",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Konsi baat pe trust nhi hua"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:12:39",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Konsi baat pe trust nhi hua?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:48",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:48",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:48",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Cor"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:49",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Corr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:49",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Corre"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:49",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Correc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:49",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Correct"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:49",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Correct "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:50",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:16:52",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "MSG": "V"
   }
 ]
