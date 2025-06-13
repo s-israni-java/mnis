@@ -670,5 +670,29 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Tunje phone "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:07",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje phone me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:51",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:51",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Sha "
   }
 ]
