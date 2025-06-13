@@ -508,5 +508,25 @@
     "TITLE": "Nisha Tcs",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "Thik hu bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:22",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:02",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
