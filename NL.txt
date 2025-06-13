@@ -10528,5 +10528,65 @@
     "TITLE": "Afsos",
     "ID": "No ID",
     "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:04:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "TITLE": "Afsos",
+    "ID": "No ID",
+    "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:05:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:05:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:07:13",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Afsos",
+    "ID": "No ID",
+    "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:07:13",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Afsos",
+    "ID": "No ID",
+    "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:07:13",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Afsos",
+    "ID": "No ID",
+    "MSG": "Anuv Jain, AP Dhillon"
   }
 ]
