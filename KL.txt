@@ -4998,5 +4998,21 @@
     "BATTERY": "49",
     "NETWORK": "W",
     "MSG": "Iska mtlb kch or tja kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:54",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb kch or tja kya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:56",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtlb kch or ta kya"
   }
 ]
