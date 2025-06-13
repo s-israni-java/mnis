@@ -798,5 +798,61 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Pur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:22",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:22",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:23",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:23",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura pa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:23",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:24",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:24",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padh t"
   }
 ]
