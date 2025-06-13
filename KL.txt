@@ -18918,5 +18918,69 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:20:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Id"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:20:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:20:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:20:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:00",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:00",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr baa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:00",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr baat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:00",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Idr baat "
   }
 ]
