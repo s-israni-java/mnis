@@ -12806,5 +12806,45 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Abi me s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:14",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Abi me sw"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:14",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Abi me swa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:14",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Abi me swap"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:14",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Abi me swapn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:14",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Abi me swapna "
   }
 ]
