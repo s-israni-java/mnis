@@ -17662,5 +17662,101 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Fito"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:05",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fitoos"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:05",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fitooss"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:43",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:44",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "In"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:44",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "In "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:44",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "In 7"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:44",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "In 7."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:44",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "In 7.2"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:45",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "In 7.24 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:43:51",
+    "BATTERY": "64",
+    "NETWORK": "No Connection",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:54:14",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "MSG": "G"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:54:14",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "MSG": "Go"
   }
 ]
