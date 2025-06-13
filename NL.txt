@@ -19028,5 +19028,35 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:24:53",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:24:54",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:26:21",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
