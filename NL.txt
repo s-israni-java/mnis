@@ -55398,5 +55398,15 @@
     "TITLE": "5:40 am",
     "ID": "No ID",
     "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:06:02",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
