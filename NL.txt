@@ -19088,5 +19088,25 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:43:33",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "EY",
+    "ID": "No ID",
+    "MSG": "Just published: 5 must reads for the weekend"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:58:48",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "JD-HDFCBK-S",
+    "ID": "371",
+    "MSG": "Sent Rs.330.00\nFrom HDFC Bank A\/C x4829\nTo GAUTAMKEMPEGOWDA\nOn 13\/06\/25\nRef 106423921702\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
