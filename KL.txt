@@ -17278,5 +17278,45 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Train is le"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:24",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Train is let"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:25",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Train is le"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:25",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Train is l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:26",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Train is la"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:26",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Train is lat"
   }
 ]
