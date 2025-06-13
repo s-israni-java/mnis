@@ -16718,5 +16718,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 16:59:32",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "+91 83569 64078",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "Ma'am ye mail I'd se na,..aap apni mail id send kar do na ma'am"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 16:59:32",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "5 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:02:06",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
