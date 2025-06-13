@@ -968,5 +968,55 @@
     "TITLE": "Yaarr Ni Milyaa",
     "ID": "No ID",
     "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:30",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
