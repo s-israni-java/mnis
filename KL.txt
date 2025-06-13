@@ -17862,5 +17862,53 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Criss"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crisse"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:52",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:52",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:52",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed do"
   }
 ]
