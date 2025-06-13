@@ -766,5 +766,37 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Sha kaaye iy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:57",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Sha kaaye iyo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:58",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Sha kaaye iyo?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:22",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:22",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pur"
   }
 ]
