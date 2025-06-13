@@ -18774,5 +18774,53 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:05",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Kid"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Kidr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Kidr "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:06",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Kidr h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "N"
   }
 ]
