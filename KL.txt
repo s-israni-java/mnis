@@ -16510,5 +16510,61 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Trai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train me h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Train me h?"
   }
 ]
