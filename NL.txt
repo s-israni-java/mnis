@@ -18528,5 +18528,25 @@
     "TITLE": "Unbelievable Deal Alert! 😮",
     "ID": "No ID",
     "MSG": "Get Burgers at just ₹19 from Wendy's 🥳"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:38:24",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Kya khayegi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:38:24",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Kya khayegi"
   }
 ]
