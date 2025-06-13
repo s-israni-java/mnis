@@ -19622,5 +19622,125 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Aane ke liye hi bola "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Babl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:57",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:57",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:57",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu tov"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu tp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu tp "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu tp m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:00",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Bablu tp mj"
   }
 ]
