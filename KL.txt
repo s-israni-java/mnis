@@ -20478,5 +20478,29 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Yehi bolne ke liye msg kia tha mej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:26:00",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne ke liye msg kia tha meje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:26:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne ke liye msg kia tha mene "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:26:46",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
