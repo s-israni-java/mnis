@@ -18438,5 +18438,45 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:19:03",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "●3"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:19:03",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "●●1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:19:03",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "●●●9"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:46:31",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:46:32",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "gp"
   }
 ]
