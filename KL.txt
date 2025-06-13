@@ -14806,5 +14806,101 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "Ami"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:58",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:58",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:59",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:59",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit si"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:59",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit sir "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:59",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit sir na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:00",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit sir naya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:00",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit sir nayan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:00",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Amit sir nayan "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Shes"
   }
 ]
