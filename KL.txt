@@ -21422,5 +21422,93 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "G"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:28:59",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:00",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:02",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:03",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nT"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:03",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:04",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:05",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:06",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:09",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nS"
   }
 ]
