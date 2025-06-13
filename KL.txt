@@ -21566,5 +21566,13 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "🥺"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:37",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "B"
   }
 ]
