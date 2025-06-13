@@ -17088,5 +17088,45 @@
     "TITLE": "WhatsApp",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "8 messages from 2 chats"
+  },
+  {
+    "APP": "com.ludo.king",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 18:01:13",
+    "BATTERY": "71",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Play"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 18:12:03",
+    "BATTERY": "73",
+    "NETWORK": "No Connection",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "You may have new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 18:12:07",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 18:12:09",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Hello🤣"
   }
 ]
