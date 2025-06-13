@@ -55518,5 +55518,95 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Preparing backup (8%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:38",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (10%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:38",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (11%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:39",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (12%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:39",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (13%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:39",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (14%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:40",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (15%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:40",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (16%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:40",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (18%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:25:41",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (19%)"
   }
 ]
