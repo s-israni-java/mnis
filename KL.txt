@@ -14902,5 +14902,61 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Shes"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's do"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's doi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's doin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:51",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's doing"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:52",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's doing "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:17:52",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "She's doing w"
   }
 ]
