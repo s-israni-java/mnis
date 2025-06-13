@@ -2662,5 +2662,37 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:41",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Pg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:41",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Pgl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:42",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Pgl😂"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:42",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Pgl😂😂"
   }
 ]
