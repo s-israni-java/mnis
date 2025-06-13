@@ -17038,5 +17038,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:41:02",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "TITLE": "+91 83569 64078",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "For the verified your office address,once you provide me this email so your physicaly office address varification is waived off mam"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:41:03",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "7 messages from 2 chats"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:51:15",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "It's THAT Friday 😱",
+    "ID": "No ID",
+    "MSG": "Superstitious? Or stylish? Set the look! 🧛‍♂️ 📲"
   }
 ]
