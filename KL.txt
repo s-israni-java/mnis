@@ -10166,5 +10166,53 @@
     "BATTERY": "32",
     "NETWORK": "W",
     "MSG": "Sha"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:36",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shama"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:36",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shama "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:37",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shama"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:37",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Sham"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:37",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Sha"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:37",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Sh"
   }
 ]
