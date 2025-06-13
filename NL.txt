@@ -9498,5 +9498,35 @@
     "TITLE": "Nisha Tcs",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "Ha toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:47:19",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:47:33",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ha toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:47:33",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Diva's: Replied to you",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Nisha Tcs: Laaga he🤣"
   }
 ]
