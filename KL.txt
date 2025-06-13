@@ -19390,5 +19390,45 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:39",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Pu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:39",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Puj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:40",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Puje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:40",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Puje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:40",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Puje t"
   }
 ]
