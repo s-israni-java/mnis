@@ -15606,5 +15606,29 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Sonia swapna amit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna amit "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:57",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna amit s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:58",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Sonia swapna amit "
   }
 ]
