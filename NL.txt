@@ -12028,5 +12028,35 @@
     "TITLE": "WhatsApp",
     "ID": "120363382492371416@g.us",
     "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:33:24",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:33:24",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:33:24",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
   }
 ]
