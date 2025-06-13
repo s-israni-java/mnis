@@ -18278,5 +18278,45 @@
     "BATTERY": "52",
     "NETWORK": "M",
     "MSG": "₹330"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:40",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:40",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "●3"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:40",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "●●1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:40",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "●●●9"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:06:14",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "v"
   }
 ]
