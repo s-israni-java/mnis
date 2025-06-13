@@ -15688,5 +15688,55 @@
     "TITLE": "Hawa Banke",
     "ID": "No ID",
     "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:41:25",
+    "BATTERY": "22",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.realmestore.app",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:42:58",
+    "BATTERY": "22",
+    "NETWORK": "W",
+    "TITLE": "Block Noise, Pump Beat🎶",
+    "ID": "No ID",
+    "MSG": "realme Buds T200x First Sale Price- ₹1,399* Only"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:43:54",
+    "BATTERY": "23",
+    "NETWORK": "W",
+    "TITLE": "Noo-dull moments! 🍝",
+    "ID": "No ID",
+    "MSG": "Coz you’ll get FLAT 65% on your fav snacks. 🥳"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:51:26",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:51:26",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
   }
 ]
