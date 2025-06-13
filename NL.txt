@@ -4028,5 +4028,15 @@
     "TITLE": "Akh Lad Jaave (From \"Loveyatri - A Journey Of Love\")",
     "ID": "No ID",
     "MSG": "Badshah, Asees Kaur, Jubin Nautiyal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:26:48",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
