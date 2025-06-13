@@ -4838,5 +4838,21 @@
     "BATTERY": "49",
     "NETWORK": "W",
     "MSG": "300 ke cups h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:17",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "300 ke cups h bc "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:50",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "I"
   }
 ]
