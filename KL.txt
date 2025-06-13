@@ -18822,5 +18822,53 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Ni"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:20",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Nin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Nini"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Nini "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Nini c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:18:21",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "Nini co"
   }
 ]
