@@ -230,5 +230,13 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "b"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:52",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "ba"
   }
 ]
