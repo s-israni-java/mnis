@@ -5030,5 +5030,29 @@
     "BATTERY": "49",
     "NETWORK": "W",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:48:13",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:48:13",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Kya"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:48:55",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "1"
   }
 ]
