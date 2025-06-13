@@ -17948,5 +17948,35 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Sumit nhi?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:17:38",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:18:37",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Obsessed",
+    "ID": "No ID",
+    "MSG": "Riar Saab, Abhijay Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:18:37",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
   }
 ]
