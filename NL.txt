@@ -1038,5 +1038,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:35",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
