@@ -24974,5 +24974,21 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Thik h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:24",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:25",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "To"
   }
 ]
