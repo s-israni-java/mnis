@@ -11990,5 +11990,61 @@
     "BATTERY": "50",
     "NETWORK": "W",
     "MSG": "C"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:31",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Cr"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:31",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Cre"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:31",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Cred"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:31",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credi"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:31",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credit"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:31",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credit "
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:32",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credit ca"
   }
 ]
