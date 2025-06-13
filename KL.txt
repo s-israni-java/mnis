@@ -18366,5 +18366,53 @@
     "BATTERY": "49",
     "NETWORK": "M",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:40",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "pq"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:41",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:41",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "Search for apps on this device"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:41",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:42",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "gpa"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:52",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "₹1"
   }
 ]
