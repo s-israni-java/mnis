@@ -18222,5 +18222,61 @@
     "BATTERY": "55",
     "NETWORK": "M",
     "MSG": "Blue pehna"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:23:23",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "Blue pehna "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:23:23",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "Blue pehna h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:23:23",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "Blue pehna h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:23:23",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "MSG": "Blue pehna h na "
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:35",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "₹3"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:35",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "₹33"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:58:35",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "MSG": "₹330"
   }
 ]
