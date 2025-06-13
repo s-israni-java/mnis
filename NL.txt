@@ -15618,5 +15618,25 @@
     "TITLE": "NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Reacted 😭 to your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:31:25",
+    "BATTERY": "17",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:31:25",
+    "BATTERY": "17",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
   }
 ]
