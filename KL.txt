@@ -10694,5 +10694,149 @@
     "BATTERY": "32",
     "NETWORK": "W",
     "MSG": "Subah ko akele jaati hu "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:51",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qk"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:51",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:52",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:52",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki v"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:52",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:53",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:53",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo la"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:53",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo lat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:53",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:53",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:53",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late a"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:54",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late aat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:54",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late aati"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:54",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late aati "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:54",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late aati h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:54",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Subah ko akele jaati hu qki vo late aati h "
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:34:13",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "₹6"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:34:13",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "₹60"
   }
 ]
