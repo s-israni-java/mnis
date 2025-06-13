@@ -478,5 +478,15 @@
     "TITLE": "WhatsApp",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
