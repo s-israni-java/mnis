@@ -10430,5 +10430,93 @@
     "BATTERY": "32",
     "NETWORK": "W",
     "MSG": "Shaam ko toh nisha hotu h "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hotu h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hotu "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hotu"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hot"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:44",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hoti"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:44",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hoti "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:44",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hoti h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:44",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hoti h "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:44",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hoti h n"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:45",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Shaam ko toh nisha hoti h na "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:45",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "S"
   }
 ]
