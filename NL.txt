@@ -56408,5 +56408,95 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:35:15",
+    "BATTERY": "82",
+    "NETWORK": "No Connection",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:35:16",
+    "BATTERY": "82",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:35:16",
+    "BATTERY": "82",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:35:46",
+    "BATTERY": "83",
+    "NETWORK": "No Connection",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Sagar❤️"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:35:46",
+    "BATTERY": "83",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:36:02",
+    "BATTERY": "83",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:36:02",
+    "BATTERY": "83",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:36:07",
+    "BATTERY": "83",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:40:49",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
