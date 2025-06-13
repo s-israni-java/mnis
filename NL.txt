@@ -11918,5 +11918,15 @@
     "TITLE": "Kya Baat Ay",
     "ID": "No ID",
     "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:31:47",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
   }
 ]
