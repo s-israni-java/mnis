@@ -1830,5 +1830,53 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "Disayi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:19:59",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:00",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayito"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:00",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayitoh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:00",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayitoh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:00",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayitoh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:01",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayito"
   }
 ]
