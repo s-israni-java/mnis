@@ -21574,5 +21574,309 @@
     "BATTERY": "38",
     "NETWORK": "M",
     "MSG": "B"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:38",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "By"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:38",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:38",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:38",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye b"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:38",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye by"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:39",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:39",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:39",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye r"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:39",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye ro"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:40",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye r"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:40",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:40",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye t"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:41",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:41",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:41",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dh"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhir"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:42",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhira"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:43",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhiraj"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:43",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhiraj "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:43",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhiraj g"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:43",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhiraj gy"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:44",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Bye bye to dhiraj gym"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:47",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tg"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tga"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tgar"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tgarw"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tgarwa"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:48",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tgarwan"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:49",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tgarwani"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:49",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tharani "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:50",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Thar"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:51",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tharw"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:51",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tharwa"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:52",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tharwan"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:32:52",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "MSG": "Tharwani"
   }
 ]
