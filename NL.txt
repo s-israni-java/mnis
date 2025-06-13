@@ -18188,5 +18188,55 @@
     "TITLE": "With You",
     "ID": "No ID",
     "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:21:23",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:21:23",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Amplifier",
+    "ID": "No ID",
+    "MSG": "Imran Khan"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:21:23",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Amplifier",
+    "ID": "No ID",
+    "MSG": "Imran Khan"
   }
 ]
