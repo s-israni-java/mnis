@@ -550,5 +550,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-13 17:39:42",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he hota",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he hota ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he hota h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he hota hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:43",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he hota hai ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:43",
+    "BATTERY": "11"
   }
 ]
