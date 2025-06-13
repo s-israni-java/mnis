@@ -262,5 +262,37 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "bat"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:54",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "ba"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:54",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "b"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:55",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Search for apps on this device"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:03:21",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "o"
   }
 ]
