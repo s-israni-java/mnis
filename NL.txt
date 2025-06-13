@@ -18518,5 +18518,15 @@
     "TITLE": "JioMart",
     "ID": "222",
     "MSG": "You have New Message from JioMart"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:32:11",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Unbelievable Deal Alert! 😮",
+    "ID": "No ID",
+    "MSG": "Get Burgers at just ₹19 from Wendy's 🥳"
   }
 ]
