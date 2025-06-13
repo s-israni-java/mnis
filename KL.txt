@@ -24990,5 +24990,45 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "To"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:25",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:25",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:27",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:27",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:28",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh me "
   }
 ]
