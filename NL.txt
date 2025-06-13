@@ -56328,5 +56328,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:47:30",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:47:30",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:47:39",
+    "BATTERY": "56",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing Wi‑Fi call"
   }
 ]
