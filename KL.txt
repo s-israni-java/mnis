@@ -15390,5 +15390,101 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "7.24 tl i "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:31",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:31",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 1"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:32",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 min"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 mins"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:33",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 mins "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:34",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 mins la"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:18:34",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "7.24 tl is 11 mins late"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:19:53",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "S"
   }
 ]
