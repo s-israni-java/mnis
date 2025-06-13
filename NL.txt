@@ -16858,5 +16858,15 @@
     "TITLE": "Rs. 250 Cashback. 3 days left ⏰",
     "ID": "No ID",
     "MSG": "Make 5 bill payments on AU 0101 & get up to Rs. 250 cashback*. The clock is ticking. Pay to claim cashback. *T&Cs"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:14:45",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Try kiya kya?...",
+    "ID": "No ID",
+    "MSG": "... UPI payment on AU 0101. It's fast, secure and easy. Don’t believe us? Tap to try on AU 0101 App. 📲"
   }
 ]
