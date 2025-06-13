@@ -16718,5 +16718,45 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Pehle bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:41",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Pehle bolt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:41",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Pehle bolta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:42",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Pehle bolta to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:42",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Pehle bolta toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:42",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Pehle bolta toh "
   }
 ]
