@@ -17178,5 +17178,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:02:01",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:02:01",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:02:36",
+    "BATTERY": "72",
+    "NETWORK": "W",
+    "TITLE": "hiteshlund",
+    "ID": "No ID",
+    "MSG": "Sent a reel by the_abhinav_realreaction"
   }
 ]
