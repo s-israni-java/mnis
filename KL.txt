@@ -19182,5 +19182,69 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Tu sat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:19",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:19",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat ut"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:19",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:20",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat utht"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:20",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uthta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:20",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uthta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:21",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uthta k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:21",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uthta ka"
   }
 ]
