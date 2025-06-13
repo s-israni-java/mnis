@@ -17928,5 +17928,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Nisha ne kya galat kiya🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:17:37",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:17:38",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sumit nhi?"
   }
 ]
