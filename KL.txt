@@ -1046,29 +1046,5 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "P"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 09:17:15",
-    "BATTERY": "75",
-    "NETWORK": "M",
-    "MSG": "Pur"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 09:17:15",
-    "BATTERY": "75",
-    "NETWORK": "M",
-    "MSG": "Pura"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 09:17:15",
-    "BATTERY": "75",
-    "NETWORK": "M",
-    "MSG": "Pura d"
   }
 ]
