@@ -2038,5 +2038,77 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "Itna jldi q r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:12",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q re"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:12",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q rea"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:13",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q reac"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:13",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q react"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:13",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q react "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:13",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q react kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:13",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q react krt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:14",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q react krta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:14",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q react krta h"
   }
 ]
