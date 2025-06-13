@@ -16270,5 +16270,77 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:27",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:27",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:27",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhoo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:27",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:27",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:27",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook lg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook lgi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook lgi "
   }
 ]
