@@ -910,5 +910,37 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Pura padh toh sa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:25",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padh toh sah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:26",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padh toh sahi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:42",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Ut"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:16:42",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Uth"
   }
 ]
