@@ -19158,5 +19158,15 @@
     "TITLE": "Don’t fight over the AC temp,",
     "ID": "No ID",
     "MSG": "fight over the last bite instead! 😛"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:34:20",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "EY via LinkedIn",
+    "ID": "No ID",
+    "MSG": "5 must reads for the weekend"
   }
 ]
