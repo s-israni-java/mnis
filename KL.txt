@@ -12046,5 +12046,37 @@
     "BATTERY": "50",
     "NETWORK": "W",
     "MSG": "Credit ca"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:32",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credit car"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:32",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credit card"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:03:33",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Credit card "
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:04:23",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "MSG": "Hi, This is Simriti. Applied for credit card. "
   }
 ]
