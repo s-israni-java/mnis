@@ -19468,5 +19468,15 @@
     "TITLE": "Papa",
     "ID": "No ID",
     "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:33:36",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
