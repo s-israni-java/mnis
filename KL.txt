@@ -25790,5 +25790,21 @@
     "BATTERY": "33",
     "NETWORK": "M",
     "MSG": "😒"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:48:15",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "😒❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:48:55",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "😡"
   }
 ]
