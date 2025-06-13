@@ -4854,5 +4854,37 @@
     "BATTERY": "49",
     "NETWORK": "W",
     "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:50",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Isk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:51",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:51",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:51",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "Iska mtl"
   }
 ]
