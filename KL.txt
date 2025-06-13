@@ -15878,5 +15878,13 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Sonia swapna amit nisha nayan n me sit in same row "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:07",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "P"
   }
 ]
