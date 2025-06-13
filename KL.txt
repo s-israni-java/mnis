@@ -9838,5 +9838,269 @@
     "BATTERY": "32",
     "NETWORK": "W",
     "MSG": "Snap "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:18",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap ab"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:18",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:18",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:18",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi a"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:19",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aay"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:19",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:19",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya. "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:20",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:20",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:20",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:20",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:20",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:20",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h me"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:21",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h men"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:21",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:21",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:21",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene k"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:22",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:22",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:22",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:22",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:22",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:22",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi b"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:23",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi be"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:23",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi b"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:23",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bhe"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:24",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bhej"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:24",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bheja "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:24",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bheja t"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:24",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bheja th"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:24",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bheja tha "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:25",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bheja tha u"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:25",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap abi aaya h mene kl hi bheja tha usi"
   }
 ]
