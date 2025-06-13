@@ -17158,5 +17158,25 @@
     "TITLE": "Boring Screen Alert!",
     "ID": "No ID",
     "MSG": "You deserve better—revive your vibe with Zedge now! 🤩"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:01:56",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:01:56",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
