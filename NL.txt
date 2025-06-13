@@ -19778,5 +19778,35 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "😡"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 23:23:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "😡"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 23:33:32",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 23:33:32",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
