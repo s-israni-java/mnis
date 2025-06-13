@@ -12142,5 +12142,189 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "W"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:00",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:00",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why o"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why of"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why off"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why offi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why offic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:01",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:02",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:02",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:02",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office ac"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:02",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office ad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:03",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office adf"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:03",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office ad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:03",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office add"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:03",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office addr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:04",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office addre"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:04",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office address"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:05",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Why office address?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:06",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "W"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:06",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:06",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wha"
   }
 ]
