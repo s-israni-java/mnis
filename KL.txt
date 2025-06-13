@@ -166,5 +166,37 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "batte"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:19",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "batter"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:19",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "battery"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:19",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "battery "
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:20",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "battery he"
   }
 ]
