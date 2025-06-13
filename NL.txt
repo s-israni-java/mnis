@@ -13188,5 +13188,75 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:36:04",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Roti kahde"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:36:04",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Roti kahde"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:36:06",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "Instant Cash Loans - Prefr",
+    "ID": "457",
+    "MSG": "Money When You Need It – ₹5,00,000 Prefr Loan Ready!—Sudden expenses? No worries!\nYou’re pre-qualified for a personal loan up to ₹5,00,000 with Prefr. Get the money exactly when you need it — fast, simple, and stress-free.\n\n✅ Approval in 5 minutes\n✅ No hidden fees\n✅ Same-day disbursal\n\nTap below to apply instantly and manage your needs with ease."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:36:25",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:36:25",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "Instant Cash Loans - Prefr",
+    "ID": "457",
+    "MSG": "Money When You Need It – ₹5,00,000 Prefr Loan Ready!—Sudden expenses? No worries!\nYou’re pre-qualified for a personal loan up to ₹5,00,000 with Prefr. Get the money exactly when you need it — fast, simple, and stress-free.\n\n✅ Approval in 5 minutes\n✅ No hidden fees\n✅ Same-day disbursal\n\nTap below to apply instantly and manage your needs with ease."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:36:39",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 13:37:58",
+    "BATTERY": "28",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
