@@ -21406,5 +21406,21 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:28:48",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:28:59",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "G"
   }
 ]
