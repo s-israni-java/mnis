@@ -18758,5 +18758,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:54:19",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:54:20",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Corporate Finance Payroll Grp: Malcolm Udwadia",
+    "ID": "No ID",
+    "MSG": "Dear all,Please note as new server is ready after installation. From tonight 11pm till Monday morning 8am, data finance server will not be available or else do not use as IT team is transferring entire data from old server to new server. Request all support as always. 👍"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:08:50",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
