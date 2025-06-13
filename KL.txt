@@ -17622,5 +17622,45 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Fit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:04",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fito"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:04",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fitoa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:04",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fitoas"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:04",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fitoa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:40:05",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Fito"
   }
 ]
