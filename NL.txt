@@ -15188,5 +15188,35 @@
     "TITLE": "Anjali Udasi",
     "ID": "No ID",
     "MSG": "You have a notification from Anjali Udasi and 21 other updates on LinkedIn"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:03:39",
+    "BATTERY": "5",
+    "NETWORK": "W",
+    "TITLE": "Brown Munde",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:03:39",
+    "BATTERY": "5",
+    "NETWORK": "W",
+    "TITLE": "Brown Munde",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:03:39",
+    "BATTERY": "5",
+    "NETWORK": "W",
+    "TITLE": "Brown Munde",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon"
   }
 ]
