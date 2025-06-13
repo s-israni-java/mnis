@@ -19566,5 +19566,37 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Aane ke liye h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:30",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane ke liye hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:30",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane ke liye hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:30",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane ke liye hi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:31",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane ke liye hi bo"
   }
 ]
