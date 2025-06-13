@@ -18828,5 +18828,65 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:09:17",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Anjali Ochani",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9",
+    "MSG": "is typing ..."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:09:22",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Anjali Ochani",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9",
+    "MSG": "replied to your Chat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:09:26",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:09:29",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Anjali Ochani",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9",
+    "MSG": "sent you a chat • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:09:36",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Anjali Ochani",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9",
+    "MSG": "sent you a chat • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:10:07",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
