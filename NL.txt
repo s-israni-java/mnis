@@ -9568,5 +9568,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Only in dua"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:48:28",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 messages from 3 chats"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:49:04",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Your food is ready!",
+    "ID": "No ID",
+    "MSG": "Varieties Of Upma (175 gms) is ready!"
   }
 ]
