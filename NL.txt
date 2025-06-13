@@ -18928,5 +18928,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Okay"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:17:38",
+    "BATTERY": "56",
+    "NETWORK": "M",
+    "TITLE": "GHD Europe Payroll L1 & L2: Nisha Kadam",
+    "ID": "No ID",
+    "MSG": "Nisha sent you a file."
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:21:05",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
