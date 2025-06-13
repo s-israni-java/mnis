@@ -25718,5 +25718,61 @@
     "BATTERY": "33",
     "NETWORK": "M",
     "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:27",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:28",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Cha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:28",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Cham"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:29",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Champ"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:29",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Champl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:29",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Champli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:47:42",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "😡"
   }
 ]
