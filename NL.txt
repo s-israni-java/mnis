@@ -11718,5 +11718,35 @@
     "TITLE": "Ik Tera",
     "ID": "No ID",
     "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:30:54",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:30:54",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:31:04",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Yess"
   }
 ]
