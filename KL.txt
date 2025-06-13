@@ -20294,5 +20294,69 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Yehi bolne l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne li"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne ke"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne ke "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne ke l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne ke liye "
   }
 ]
