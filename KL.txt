@@ -17150,5 +17150,53 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "20 min se stn pe baithi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "20 min se stn pe baithi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "20 min se stn pe baithi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "20 min se stn pe baithi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "20 min se stn pe baithi hu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:22",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:22",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Tra"
   }
 ]
