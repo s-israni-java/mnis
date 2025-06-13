@@ -13608,5 +13608,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Okay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:12:48",
+    "BATTERY": "23",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Okay"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:15:08",
+    "BATTERY": "22",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
