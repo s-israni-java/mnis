@@ -11662,5 +11662,21 @@
     "BATTERY": "12",
     "NETWORK": "M",
     "MSG": "₹4"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 14:32:15",
+    "BATTERY": "12",
+    "NETWORK": "M",
+    "MSG": "₹40"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 14:32:20",
+    "BATTERY": "12",
+    "NETWORK": "M",
+    "MSG": "1"
   }
 ]
