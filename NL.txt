@@ -56078,5 +56078,35 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Uploading: 0 kB of 3.1 MB (0%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:26:14",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 80 kB of 3.1 MB (2%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:26:16",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 133 kB of 3.1 MB (4%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 06:26:17",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 225 kB of 3.1 MB (7%)"
   }
 ]
