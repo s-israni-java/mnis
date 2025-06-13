@@ -19246,5 +19246,37 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Tu sat uthta ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:21",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uthta k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:22",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat uthta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:22",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:23",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat r"
   }
 ]
