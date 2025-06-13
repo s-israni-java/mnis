@@ -19128,5 +19128,15 @@
     "TITLE": "You earned a reward!",
     "ID": "No ID",
     "MSG": "Tap to reveal"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:11:42",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Henna for Simi",
+    "ID": "No ID",
+    "MSG": ""
   }
 ]
