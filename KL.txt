@@ -13182,5 +13182,93 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Phone chrg pe rkh rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:31",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh in"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:31",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh in "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:31",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh in hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:31",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh in h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:32",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh in "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:32",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh in"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:32",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:32",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:32",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:32",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:33",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhu "
   }
 ]
