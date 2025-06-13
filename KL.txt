@@ -18534,5 +18534,61 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "9"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:57",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "97"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:57",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "976"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:57",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "9763"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:57",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "97633"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:57",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "97633 6"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 22:30:58",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "97633 61"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:17:50",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "MSG": "B"
   }
 ]
