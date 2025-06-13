@@ -19218,5 +19218,25 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:40:05",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:46:57",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "AX-HDFCBK-S",
+    "ID": "403",
+    "MSG": "Sent Rs.90.00\nFrom HDFC Bank A\/C x4829\nTo Nirmala Pintu Juice And Fast Food Centre\nOn 13\/06\/25\nRef 106427028943\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
