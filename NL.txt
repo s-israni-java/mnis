@@ -15158,5 +15158,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:59:30",
+    "BATTERY": "4",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Bite karne ko man kr rha hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:59:30",
+    "BATTERY": "4",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:59:35",
+    "BATTERY": "4",
+    "NETWORK": "W",
+    "TITLE": "Anjali Udasi",
+    "ID": "No ID",
+    "MSG": "You have a notification from Anjali Udasi and 21 other updates on LinkedIn"
   }
 ]
