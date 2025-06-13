@@ -294,5 +294,21 @@
     "BATTERY": "78",
     "NETWORK": "M",
     "MSG": "o"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:03:22",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "op"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:42",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "P"
   }
 ]
