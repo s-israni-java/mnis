@@ -19110,5 +19110,29 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Gym pe chila n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chila nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chila nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:17",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
