@@ -4718,5 +4718,29 @@
     "BATTERY": "49",
     "NETWORK": "W",
     "MSG": "300 ke c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:13",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "300 ke ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:13",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "300 ke c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 10:47:13",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "MSG": "300 ke c7"
   }
 ]
