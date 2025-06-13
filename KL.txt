@@ -12086,5 +12086,61 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Wj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:36:59",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wjy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:36:59",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wjy "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:36:59",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wjy a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:00",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wjy "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:00",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wjy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:00",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:00",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "W"
   }
 ]
