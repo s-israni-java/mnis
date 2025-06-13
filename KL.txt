@@ -2694,5 +2694,21 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "Pgl😂😂"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:52",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:53",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Tha"
   }
 ]
