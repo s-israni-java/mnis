@@ -14,5 +14,69 @@
     "BATTERY": "80",
     "NETWORK": "M",
     "MSG": "*#"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:06",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:06",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:06",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#4"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:06",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#46"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:07",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#463"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:07",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#4636"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:07",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#4636#"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 08:56:07",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "*#*#4636#*"
   }
 ]
