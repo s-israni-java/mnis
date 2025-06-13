@@ -25174,5 +25174,53 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Mere se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:38",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se ni"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nikd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:40",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:41",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind c"
   }
 ]
