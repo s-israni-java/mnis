@@ -13678,5 +13678,105 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:44",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:44",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:46",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I eat 12 eags a day"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:46",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I eat 12 eags a day"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:48",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Daily"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:48",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:54",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:27:57",
+    "BATTERY": "15",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:31:42",
+    "BATTERY": "13",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Photo bjh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:31:42",
+    "BATTERY": "13",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 new messages"
   }
 ]
