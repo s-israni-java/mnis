@@ -25374,5 +25374,69 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Mere se nind ctrl nhi 8"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:02",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:02",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:02",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:03",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi hot"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:03",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi hotb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:03",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi hotbk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:05",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi hotbk "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:05",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi hotbk h"
   }
 ]
