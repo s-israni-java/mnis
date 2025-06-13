@@ -3698,5 +3698,45 @@
     "TITLE": "VD-HDFCBN-P",
     "ID": "456",
     "MSG": "Why Wait? Open an FD & Get an HDFC Bank Credit Card. Unlock 90% of FD as Credit Limit! No Income Proof Required.\n\nhttps:\/\/hdfcbk.io\/HDFCBK\/s\/MP0bR7V6 T&C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:19:46",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:19:48",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aare yeh pura he padha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:19:48",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aare yeh pura he padha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:20:53",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Tune movie ki thra release kiya"
   }
 ]
