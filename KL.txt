@@ -24942,5 +24942,37 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:20",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Rhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:20",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Rhik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:21",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Thik "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:21",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Thik h"
   }
 ]
