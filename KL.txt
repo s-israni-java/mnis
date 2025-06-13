@@ -16342,5 +16342,29 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "Bhook lgi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook lgi h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "Bhook lgi h yr "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:21:40",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
