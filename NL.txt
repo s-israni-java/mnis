@@ -17218,5 +17218,25 @@
     "TITLE": "Mukesh Joshi",
     "ID": "919987632280@s.whatsapp.net",
     "MSG": "Pls pay TDS property prices above 50 Lakh.\n\n*PLS IGNORE IF ALREADY PAID*"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:02:48",
+    "BATTERY": "72",
+    "NETWORK": "W",
+    "TITLE": "Mukesh Joshi",
+    "ID": "919987632280@s.whatsapp.net",
+    "MSG": "Pls pay TDS property prices above 50 Lakh.\n\n*PLS IGNORE IF ALREADY PAID*"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:05:23",
+    "BATTERY": "72",
+    "NETWORK": "W",
+    "TITLE": "Sumit K. reacted to your message in Chat",
+    "ID": "No ID",
+    "MSG": "done"
   }
 ]
