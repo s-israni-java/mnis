@@ -19148,5 +19148,15 @@
     "TITLE": "JX-HDFCBK-S",
     "ID": "372",
     "MSG": "Sent Rs.183.00\nFrom HDFC Bank A\/C x4829\nTo Generico  Ulhasnagar\nOn 13\/06\/25\nRef 106425341059\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:21:58",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Don’t fight over the AC temp,",
+    "ID": "No ID",
+    "MSG": "fight over the last bite instead! 😛"
   }
 ]
