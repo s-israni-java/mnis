@@ -25470,5 +25470,53 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Good night \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:35",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nS"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:35",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSw"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:37",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSwe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:38",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \n"
   }
 ]
