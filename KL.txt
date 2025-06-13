@@ -462,5 +462,37 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Paase varo h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:48",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Paase varo hus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:48",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Paase varo hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:48",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Paase varo h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:48",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Paase varo "
   }
 ]
