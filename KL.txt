@@ -25078,5 +25078,53 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Toh me sorh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:31",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh me sorhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:32",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh me sorhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:32",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh me sorhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:32",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Toh me sorhi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:35",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:35",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Me"
   }
 ]
