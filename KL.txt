@@ -12534,5 +12534,61 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "I want to be delivered at my h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:17",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:18",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:18",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:18",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my home"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:19",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my home "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:19",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my home r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:19",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my home re"
   }
 ]
