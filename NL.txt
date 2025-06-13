@@ -16828,5 +16828,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:07:10",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "+91 83569 64078",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "Kindly share me this email using your official email through not a personl email id"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:07:10",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "4 messages from 2 chats"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:12:15",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "Rs. 250 Cashback. 3 days left ⏰",
+    "ID": "No ID",
+    "MSG": "Make 5 bill payments on AU 0101 & get up to Rs. 250 cashback*. The clock is ticking. Pay to claim cashback. *T&Cs"
   }
 ]
