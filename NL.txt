@@ -13528,5 +13528,25 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by valorgi"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:07:35",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Aditya Birla Capital Limited- PL",
+    "ID": "458",
+    "MSG": "₹50,000* to ₹7,00,000* Instant Loan 💸💰—Get Insta Personal Loans from ₹50,000* to ₹7 Lakhs from Aditya Birla Capital.\n \n🚶️‍➡️ Hassle-Free Journey in 4 simple steps.\n💯 100% Online process\n📝 Minimum Documentation\n🤑 Faster Disbursals\n  \nT&C Apply"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 14:07:35",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
