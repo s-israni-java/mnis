@@ -102,5 +102,29 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "pl"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "pla"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "play"
   }
 ]
