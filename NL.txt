@@ -688,5 +688,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
   }
 ]
