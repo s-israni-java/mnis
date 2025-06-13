@@ -18318,5 +18318,53 @@
     "BATTERY": "51",
     "NETWORK": "M",
     "MSG": "v"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:06:14",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "vi"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:06:15",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "vik"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:06:15",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "vikr"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:06:15",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "vikran"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:06:15",
+    "BATTERY": "51",
+    "NETWORK": "M",
+    "MSG": "vikrant"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 21:18:40",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "MSG": "p"
   }
 ]
