@@ -20174,5 +20174,37 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Ye ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:43",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ye kya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:43",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ye kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:44",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ye kya h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:50",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Y"
   }
 ]
