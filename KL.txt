@@ -2022,5 +2022,21 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "tna jldi q "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:11",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:12",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Itna jldi q r"
   }
 ]
