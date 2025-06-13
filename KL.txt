@@ -25302,5 +25302,29 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Mere se nind ctrl nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:51",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:52",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:53",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl nhi 8"
   }
 ]
