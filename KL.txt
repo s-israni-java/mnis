@@ -16006,5 +16006,21 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Aishwarya saurabh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:13",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saurabh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:14",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saurabh su"
   }
 ]
