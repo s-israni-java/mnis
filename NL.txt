@@ -16868,5 +16868,25 @@
     "TITLE": "Try kiya kya?...",
     "ID": "No ID",
     "MSG": "... UPI payment on AU 0101. It's fast, secure and easy. Don’t believe us? Tap to try on AU 0101 App. 📲"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:14:46",
+    "BATTERY": "52",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:30:37",
+    "BATTERY": "58",
+    "NETWORK": "W",
+    "TITLE": "Best dinner deal? 📍",
+    "ID": "No ID",
+    "MSG": "Up to 50% OFF + 𝐄𝐱𝐭𝐫𝐚 ₹𝟏𝟓𝟎 𝐎𝐅𝐅 at top restaurants. Book now on Swiggy Dineout."
   }
 ]
