@@ -574,5 +574,37 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:05",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:05",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tun"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:05",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:05",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tun"
   }
 ]
