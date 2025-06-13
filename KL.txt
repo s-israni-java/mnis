@@ -19350,5 +19350,29 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Tu sat rest krta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:25",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat rest krta h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:25",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat rest krta h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:25",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Tu sat rest krta h n"
   }
 ]
