@@ -19248,5 +19248,15 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Reacted 😮 to your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:22:33",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Reacted 😢 to your message."
   }
 ]
