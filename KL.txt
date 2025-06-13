@@ -17974,5 +17974,53 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Kbi po"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Kbi poh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Kbi pohc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Kbi pohch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:05",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Kbi pohcha"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:25",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:25",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Ok"
   }
 ]
