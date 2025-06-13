@@ -18458,5 +18458,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:23:00",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "A memory for you",
+    "ID": "No ID",
+    "MSG": "Similar shots"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:23:26",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Daryaa",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Shellee, Ammy Virk, Shahid Mallya"
   }
 ]
