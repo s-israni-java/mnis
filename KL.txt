@@ -12710,5 +12710,69 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Kon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:47",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Kos"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:47",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Kosa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:48",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Kos"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:48",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:48",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Kons"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:48",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Konsa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:49",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Ab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:49",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Abi"
   }
 ]
