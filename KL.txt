@@ -10838,5 +10838,77 @@
     "BATTERY": "30",
     "NETWORK": "M",
     "MSG": "₹60"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:34:26",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:34:26",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "●3"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:34:26",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "●●1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:34:26",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "●●●9"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:35:00",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:35:00",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "Bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:35:01",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "Bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:35:01",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "Bola"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 13:37:48",
+    "BATTERY": "28",
+    "NETWORK": "W",
+    "MSG": " "
   }
 ]
