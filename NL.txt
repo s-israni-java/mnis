@@ -19548,5 +19548,55 @@
     "TITLE": "Papa",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:39:13",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:39:16",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Papa"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:39:16",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "2673i2cc7ee610f5d656e.2673i25c87b1b8e2cb48a.3789r194-482A482A.3789r224-482A482A",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:39:22",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 22:39:22",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Calling"
   }
 ]
