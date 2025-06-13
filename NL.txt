@@ -56368,5 +56368,25 @@
     "TITLE": "Pushpa 3: The Rampage - Hindi Trailer | Allu Arjun | Vijay D | Shahrukh K | Sukumar | Rashmika M",
     "ID": "No ID",
     "MSG": "For you: Unreal Films"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:05:33",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:05:35",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
   }
 ]
