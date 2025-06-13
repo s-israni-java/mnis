@@ -18948,5 +18948,35 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:21:05",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Tomorrow in Ulhasnagar",
+    "ID": "No ID",
+    "MSG": "🌧️ 65% · Scattered thunderstorms · See full forecast"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:23:10",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "At shahad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 20:23:10",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
   }
 ]
