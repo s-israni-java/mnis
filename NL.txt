@@ -18118,5 +18118,35 @@
     "TITLE": "With You",
     "ID": "No ID",
     "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:38",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:38",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:40",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
