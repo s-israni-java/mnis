@@ -17910,5 +17910,29 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Crossed do"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:53",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed dom"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:08:53",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Crossed domb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 20:09:03",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "K"
   }
 ]
