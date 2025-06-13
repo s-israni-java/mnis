@@ -526,5 +526,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-13 17:39:41",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:41",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he ho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Roz he hot",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:39:42",
+    "BATTERY": "11"
   }
 ]
