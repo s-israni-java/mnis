@@ -14710,5 +14710,101 @@
     "BATTERY": "70",
     "NETWORK": "M",
     "MSG": "U t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:14",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "U to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:14",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "U too"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:19",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "😂"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:24",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:24",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:24",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ha b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:24",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ha ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:24",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ha bay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:24",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ha bayi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:57",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:57",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Am"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:16:58",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "MSG": "Ami"
   }
 ]
