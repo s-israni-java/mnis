@@ -17374,5 +17374,29 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "17 min"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:33",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "17 mins"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:33",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "17 mins "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:38",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "7"
   }
 ]
