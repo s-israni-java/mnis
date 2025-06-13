@@ -7646,5 +7646,101 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Arey"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Arey "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Arey n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Arey ng"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:52",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Arey ngi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:53",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Arey nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:54",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:06:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "No"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:08:05",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "MSG": "Tu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:08:05",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "MSG": "Tun"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:08:05",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "MSG": "Tune "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:08:06",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "MSG": "Tune k"
   }
 ]
