@@ -25438,5 +25438,13 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Mere se nind ctrl nhi hotbk h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:30",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "G"
   }
 ]
