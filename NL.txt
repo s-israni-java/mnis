@@ -1,0 +1,3262 @@
+[
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:43",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:43",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:44",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:46",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:47",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:49",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:50",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:52",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:53",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:55",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:56",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:58",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:57:59",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:01",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:02",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:04",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:06",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:07",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:09",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:10",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:12",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:13",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:16",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:19",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:21",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:22",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:24",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:25",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:27",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:29",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:30",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:32",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:33",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:35",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:36",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:51",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:58:54",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Bhavna Tcs",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:09",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:10",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:12",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:13",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:17",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Iam neche"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:21",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:22",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Thik hu bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 08:59:22",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:02",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:04",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:05",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:31",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:33",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:34",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:36",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:37",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:39",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:41",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:53",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:54",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:56",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:58",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:00:59",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:01",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:02",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:18",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:18",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:18",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:18",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:30",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:31",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:34",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:35",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:37",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:38",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:48",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Cake designs for Simi",
+    "ID": "No ID",
+    "MSG": ""
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:58",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:01:59",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:01",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:02",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:04",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:05",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:07",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:09",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:11",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:12",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:14",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:15",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:21",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:23",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:24",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:26",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:27",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:29",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:40",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:42",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:43",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:45",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:46",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:48",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:02:49",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:07",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:08",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:10",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:11",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:13",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:14",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:16",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:22",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:23",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:25",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:27",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:28",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:30",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:54",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:56",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:57",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:03:59",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:00",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:02",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:03",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:05",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:06",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:08",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:09",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:11",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:12",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:14",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:16",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:19",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:20",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:22",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:23",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:25",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:28",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:31",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:32",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:36",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:37",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:39",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:40",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:42",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:43",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:45",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:46",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:48",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:49",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:51",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:53",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:54",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:56",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:57",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:04:59",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:00",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:02",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:03",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:05",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:06",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:08",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:09",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:13",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:14",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:16",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:17",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:19",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:20",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:22",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:23",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:23",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:25",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:28",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:31",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:32",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:37",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:39",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:40",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:42",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:43",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:45",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:46",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:48",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:49",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:51",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:52",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:54",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:55",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:57",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:05:58",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:00",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:02",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:03",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:05",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:06",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:08",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:09",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:12",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:14",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:15",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:17",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:18",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:20",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:22",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:23",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:25",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:26",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:28",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:31",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:32",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:37",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:38",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:40",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:40",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:40",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:40",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:41",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:42",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:43",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:45",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:46",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:48",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:49",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:51",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:52",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:54",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:55",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:57",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:06:58",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:07:00",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:07:02",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.ph03nix_x.capacityinfo",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:07:03",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Mercy",
+    "ID": "No ID",
+    "MSG": "Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:17",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:17",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:17",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:08:17",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Kinna Sona",
+    "ID": "No ID",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma"
+  }
+]
