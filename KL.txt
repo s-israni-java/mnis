@@ -2758,5 +2758,53 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "Thane h nex"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:22:54",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Thane h next"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:27:36",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "U"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:27:37",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "Ub"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:27:37",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "Ube"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:27:37",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "Uber"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:27:37",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "Uber "
   }
 ]
