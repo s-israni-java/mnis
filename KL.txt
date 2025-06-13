@@ -606,5 +606,69 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Tun"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:06",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:06",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:06",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:06",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:07",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje ph"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:07",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje pho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:07",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje phone"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:15:07",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Tunje phone "
   }
 ]
