@@ -17318,5 +17318,21 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Train is lat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:26",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Train is late"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:32",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "1"
   }
 ]
