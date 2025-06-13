@@ -19518,5 +19518,37 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:26",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:27",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:27",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:24:28",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Aane ke "
   }
 ]
