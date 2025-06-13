@@ -494,5 +494,21 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "Paase varo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:49",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Paase varo d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:14:50",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Paase varo di"
   }
 ]
