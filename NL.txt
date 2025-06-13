@@ -16748,5 +16748,15 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 17:02:09",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Torch",
+    "ID": "No ID",
+    "MSG": "Torch turned on"
   }
 ]
