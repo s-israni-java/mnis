@@ -12662,5 +12662,53 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:44",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Kona"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:45",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Konaa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:45",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Konaa \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:46",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Konaa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:46",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Konaa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:47",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Kon"
   }
 ]
