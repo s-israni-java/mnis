@@ -12326,5 +12326,213 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Wha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:06",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Wh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:06",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "W"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:07",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:07",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:07",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:07",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I wan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:08",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:08",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:08",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:08",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:09",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:09",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:09",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:09",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:09",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:10",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be de"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:10",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be del"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:10",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be deli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:10",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:11",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:11",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:11",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:16",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:16",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:16",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:37:16",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "I want to be delivered at my h"
   }
 ]
