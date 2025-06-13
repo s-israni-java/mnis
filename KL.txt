@@ -16454,5 +16454,21 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Oy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:49",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:33:50",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "P"
   }
 ]
