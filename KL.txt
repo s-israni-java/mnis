@@ -18910,5 +18910,13 @@
     "BATTERY": "42",
     "NETWORK": "M",
     "MSG": "Nini coming🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:20:59",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "I"
   }
 ]
