@@ -13018,5 +13018,25 @@
     "TITLE": "🎬 Now Screening!",
     "ID": "No ID",
     "MSG": "FLAT 65% OFF on your fav treats."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 12:26:52",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 12:26:53",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
