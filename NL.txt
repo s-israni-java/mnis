@@ -17148,5 +17148,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by iamyashchandarana"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:00:17",
+    "BATTERY": "73",
+    "NETWORK": "W",
+    "TITLE": "Boring Screen Alert!",
+    "ID": "No ID",
+    "MSG": "You deserve better—revive your vibe with Zedge now! 🤩"
   }
 ]
