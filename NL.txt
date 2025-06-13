@@ -3678,5 +3678,25 @@
     "TITLE": "Insane",
     "ID": "No ID",
     "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:18:58",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Insane",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:19:42",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "VD-HDFCBN-P",
+    "ID": "456",
+    "MSG": "Why Wait? Open an FD & Get an HDFC Bank Credit Card. Unlock 90% of FD as Credit Limit! No Income Proof Required.\n\nhttps:\/\/hdfcbk.io\/HDFCBK\/s\/MP0bR7V6 T&C"
   }
 ]
