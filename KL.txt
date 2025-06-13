@@ -126,5 +126,13 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "play"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:00:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "b"
   }
 ]
