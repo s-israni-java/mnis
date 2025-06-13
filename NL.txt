@@ -8808,5 +8808,155 @@
     "TITLE": "Europe Payroll Group: Swapna Chaudankar",
     "ID": "No ID",
     "MSG": "Good morning...will reach by 11.30 today."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Qatal",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:03",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:43",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Teams",
+    "ID": "No ID",
+    "MSG": "2740000@TCS.com needs to sign in to see notifications"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:35:43",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 10:36:08",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "New Ultimatix Login",
+    "ID": "No ID",
+    "MSG": "View EasyAuth"
   }
 ]
