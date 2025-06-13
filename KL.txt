@@ -25270,5 +25270,21 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Mere se nind ctrl "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:48",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:45:50",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Mere se nind ctrl ng"
   }
 ]
