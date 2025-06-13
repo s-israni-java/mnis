@@ -19138,5 +19138,15 @@
     "TITLE": "Henna for Simi",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:19:09",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "JX-HDFCBK-S",
+    "ID": "372",
+    "MSG": "Sent Rs.183.00\nFrom HDFC Bank A\/C x4829\nTo Generico  Ulhasnagar\nOn 13\/06\/25\nRef 106425341059\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
