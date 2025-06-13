@@ -17582,5 +17582,13 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Vo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:39:58",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Vo"
   }
 ]
