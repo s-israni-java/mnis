@@ -18158,5 +18158,35 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "All in same teams?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:42",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "All in same teams?"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:49",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:20:50",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
   }
 ]
