@@ -9782,5 +9782,61 @@
     "BATTERY": "34",
     "NETWORK": "W",
     "MSG": "Hha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:54:34",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Hh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:54:34",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:54:34",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:54:34",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:17",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Sn"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:17",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 12:36:18",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "MSG": "Snap "
   }
 ]
