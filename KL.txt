@@ -16654,5 +16654,21 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Which train"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:32",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Which train?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:40",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "P"
   }
 ]
