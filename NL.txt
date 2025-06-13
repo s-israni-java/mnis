@@ -18478,5 +18478,45 @@
     "TITLE": "Daryaa",
     "ID": "No ID",
     "MSG": "Amit Trivedi, Shellee, Ammy Virk, Shahid Mallya"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:23:26",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Daryaa",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Shellee, Ammy Virk, Shahid Mallya"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:23:26",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Daryaa",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Shellee, Ammy Virk, Shahid Mallya"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:23:26",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Daryaa",
+    "ID": "No ID",
+    "MSG": "Amit Trivedi, Shellee, Ammy Virk, Shahid Mallya"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:31:06",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "JioMart",
+    "ID": "222",
+    "MSG": "You have New Message from JioMart"
   }
 ]
