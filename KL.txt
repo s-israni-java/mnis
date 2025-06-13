@@ -21510,5 +21510,53 @@
     "BATTERY": "39",
     "NETWORK": "M",
     "MSG": "Good night \nTake care \nS"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:10",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSw"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:10",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSwe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:10",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSwee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:11",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:11",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Good night \nTake care \nSweet dreams "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:29:15",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "😏"
   }
 ]
