@@ -3468,5 +3468,35 @@
     "TITLE": "Ve Haaniyaan",
     "ID": "No ID",
     "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:16:10",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:16:10",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 09:16:10",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Ve Haaniyaan",
+    "ID": "No ID",
+    "MSG": "Danny, Avvy Sra, Sagar"
   }
 ]
