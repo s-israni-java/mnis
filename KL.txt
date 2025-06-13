@@ -13270,5 +13270,173 @@
     "BATTERY": "62",
     "NETWORK": "W",
     "MSG": "Phone chrg pe rkh rhu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:33",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhu h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:33",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:33",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:33",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:34",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:34",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:34",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:34",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Phone chrg pe rkh rhi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:35",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "L"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:35",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Lat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:35",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:35",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:35",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:36",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late hog"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:36",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late hoga "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:36",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late hoga a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:36",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late hoga aaj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:36",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Late hoga aaj "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:37",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:37",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Tt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 17:38:37",
+    "BATTERY": "62",
+    "NETWORK": "W",
+    "MSG": "Ttul"
   }
 ]
