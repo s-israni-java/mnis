@@ -798,5 +798,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-13 17:42:35",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ap",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:42:35",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "app",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:42:35",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ap",
+    "NETWORK": "M",
+    "CDATE": "2025-06-13 17:42:36",
+    "BATTERY": "11"
   }
 ]
