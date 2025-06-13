@@ -24806,5 +24806,37 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Abi natak kia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:44:29",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Abi natak kia "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:44:29",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Abi natak kia n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:44:29",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Abi natak kia na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:44:39",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "C"
   }
 ]
