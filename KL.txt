@@ -1878,5 +1878,85 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "Disayito"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:01",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Disayito "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:05",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:09",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:09",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:09",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:09",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye pa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:10",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye pad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:10",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye padha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:20:10",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ye padha?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:21:08",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Ut"
   }
 ]
