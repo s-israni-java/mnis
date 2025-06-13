@@ -15966,5 +15966,45 @@
     "BATTERY": "69",
     "NETWORK": "M",
     "MSG": "Aishwarya so"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:11",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:12",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya sau"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:12",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:12",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saurab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:20:12",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "MSG": "Aishwarya saurabh"
   }
 ]
