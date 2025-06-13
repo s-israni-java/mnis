@@ -1030,5 +1030,101 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "He bhagwan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:13",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "He bhagwan "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:15",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:15",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:15",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:15",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:16",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:16",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:16",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura pa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:16",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:17",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:17",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padha k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 09:17:17",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "Pura padha kr "
   }
 ]
