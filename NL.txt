@@ -19168,5 +19168,25 @@
     "TITLE": "EY via LinkedIn",
     "ID": "No ID",
     "MSG": "5 must reads for the weekend"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:34:20",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "EY via LinkedIn",
+    "ID": "No ID",
+    "MSG": "5 must reads for the weekend"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 21:39:46",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93736 58115‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
