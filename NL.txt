@@ -17238,5 +17238,25 @@
     "TITLE": "Sumit K. reacted to your message in Chat",
     "ID": "No ID",
     "MSG": "done"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:07:06",
+    "BATTERY": "72",
+    "NETWORK": "W",
+    "TITLE": "Mukesh Joshi",
+    "ID": "919987632280@s.whatsapp.net",
+    "MSG": "Pls pay TDS property prices above 50 Lakh.\n\n*PLS IGNORE IF ALREADY PAID*"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 19:07:06",
+    "BATTERY": "72",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Train btana"
   }
 ]
