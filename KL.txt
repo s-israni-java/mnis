@@ -9726,5 +9726,37 @@
     "BATTERY": "36",
     "NETWORK": "W",
     "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:33:32",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:33:32",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:33:32",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 11:51:59",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "O"
   }
 ]
