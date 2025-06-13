@@ -15568,5 +15568,35 @@
     "TITLE": "Hawa Banke",
     "ID": "No ID",
     "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:21:24",
+    "BATTERY": "13",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:21:24",
+    "BATTERY": "13",
+    "NETWORK": "W",
+    "TITLE": "Hawa Banke",
+    "ID": "No ID",
+    "MSG": "Darshan Raval"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 15:23:49",
+    "BATTERY": "13",
+    "NETWORK": "W",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a post by endbackpain"
   }
 ]
