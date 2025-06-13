@@ -25574,5 +25574,77 @@
     "BATTERY": "34",
     "NETWORK": "M",
     "MSG": "Good night \nSweet dreams \nTake care \nU "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:45",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nU"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:45",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:46",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nU"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:47",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:47",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nI"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:47",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nI "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:48",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nI love "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:49",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nI love 6"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:46:50",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "Good night \nSweet dreams \nTake care \nI love "
   }
 ]
