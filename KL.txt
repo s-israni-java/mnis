@@ -19046,5 +19046,69 @@
     "BATTERY": "41",
     "NETWORK": "M",
     "MSG": "Gym pe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:04",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chil"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:05",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chila"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chila "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:21:06",
+    "BATTERY": "41",
+    "NETWORK": "M",
+    "MSG": "Gym pe chila n"
   }
 ]
