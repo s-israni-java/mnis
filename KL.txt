@@ -20246,5 +20246,53 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Yehi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:52",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:52",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:53",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi boln"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:53",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:53",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 23:25:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Yehi bolne l"
   }
 ]
