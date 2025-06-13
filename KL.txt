@@ -10070,37 +10070,5 @@
     "BATTERY": "32",
     "NETWORK": "W",
     "MSG": "Snap abi aaya h mene kl hi bheja t"
-  },
-  {
-    "APP": "com.snapchat.android",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 12:36:24",
-    "BATTERY": "32",
-    "NETWORK": "W",
-    "MSG": "Snap abi aaya h mene kl hi bheja th"
-  },
-  {
-    "APP": "com.snapchat.android",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 12:36:24",
-    "BATTERY": "32",
-    "NETWORK": "W",
-    "MSG": "Snap abi aaya h mene kl hi bheja tha "
-  },
-  {
-    "APP": "com.snapchat.android",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 12:36:25",
-    "BATTERY": "32",
-    "NETWORK": "W",
-    "MSG": "Snap abi aaya h mene kl hi bheja tha u"
-  },
-  {
-    "APP": "com.snapchat.android",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-13 12:36:25",
-    "BATTERY": "32",
-    "NETWORK": "W",
-    "MSG": "Snap abi aaya h mene kl hi bheja tha usi"
   }
 ]
