@@ -16918,5 +16918,21 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Pehle bolta toh me amb pakadti "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:57",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "2"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-13 19:38:58",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "20"
   }
 ]
