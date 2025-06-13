@@ -11988,5 +11988,25 @@
     "TITLE": "Diva's: Nayan Tcs",
     "ID": "120363382492371416@g.us",
     "MSG": "Leke aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:32:53",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "120363382492371416@g.us",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-13 11:33:15",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
