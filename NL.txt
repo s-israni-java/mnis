@@ -25408,5 +25408,25 @@
     "TITLE": "Bhavisha Mam Gym",
     "ID": "917972168273@s.whatsapp.net",
     "MSG": "T shirts. Ks. Sham. Ki bajte. Hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:45:33",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:45:37",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
