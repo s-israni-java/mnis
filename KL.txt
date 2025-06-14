@@ -40862,5 +40862,29 @@
     "BATTERY": "80",
     "NETWORK": "M",
     "MSG": "Roz "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:45",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Roz ka "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:45",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Roz ka h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:57",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "P"
   }
 ]
