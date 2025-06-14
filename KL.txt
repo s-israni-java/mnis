@@ -31374,5 +31374,45 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "V"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:26",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "G"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:26",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Ga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:26",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Gaa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:27",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Gaal"
   }
 ]
