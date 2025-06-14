@@ -32606,5 +32606,29 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "I'm doe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:59:46",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "I'm doen"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:59:46",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "I'm down "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:01:11",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "J"
   }
 ]
