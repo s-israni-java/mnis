@@ -31022,5 +31022,93 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Dekhti ju"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:39",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jld"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:40",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:41",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi hua "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:41",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi hua to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:41",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu jldi hua toh"
   }
 ]
