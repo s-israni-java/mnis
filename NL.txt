@@ -41418,5 +41418,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 02:18:52",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 02:47:32",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "TITLE": "20% battery",
+    "ID": "No ID",
+    "MSG": "Turn on Power Saving Mode?"
   }
 ]
