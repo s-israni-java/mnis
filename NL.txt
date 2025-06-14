@@ -40258,5 +40258,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 21:49:26",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:05:07",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "‪+91 93234 74737‬",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
   }
 ]
