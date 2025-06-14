@@ -36286,5 +36286,77 @@
     "BATTERY": "32",
     "NETWORK": "M",
     "MSG": "R"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:36",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Ru"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:36",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rup"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:36",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:37",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:37",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupyay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:37",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:37",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:37",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:38",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Rupay"
   }
 ]
