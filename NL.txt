@@ -41118,5 +41118,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:36:47",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:43:49",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
