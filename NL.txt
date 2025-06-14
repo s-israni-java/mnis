@@ -26568,5 +26568,15 @@
     "TITLE": "AX-ICICIO-S",
     "ID": "469",
     "MSG": "Dear Customer, 052072 is the OTP to verify your relationship with ICICI Bank. OTPs are SECRET. DO NOT disclose it to anyone. ICICI Bank NEVER asks for OTP."
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:56:11",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "reports",
+    "ID": "No ID",
+    "MSG": "One Time Password (OTP) for ICICI Bank Application"
   }
 ]
