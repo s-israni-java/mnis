@@ -28230,5 +28230,13 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Abi sleeping "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:19",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "K"
   }
 ]
