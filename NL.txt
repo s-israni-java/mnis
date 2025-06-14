@@ -30528,5 +30528,55 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Charging • 85.68%"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:45:04",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • 85.69%"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:45:05",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:45:05",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "Expect rain around 9 PM",
+    "ID": "No ID",
+    "MSG": "In Ulhasnagar"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:45:05",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • 85.70%"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:45:05",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • 85.71%"
   }
 ]
