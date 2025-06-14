@@ -38670,5 +38670,61 @@
     "BATTERY": "21",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:43",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:44",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:44",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:44",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:44",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:44",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:45",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje mi"
   }
 ]
