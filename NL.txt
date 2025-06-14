@@ -41398,5 +41398,25 @@
     "TITLE": "hiteshlund",
     "ID": "No ID",
     "MSG": "Kabi milegi"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 01:24:12",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "hiteshlund",
+    "ID": "No ID",
+    "MSG": "Simi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 02:18:52",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
