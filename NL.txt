@@ -24448,5 +24448,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:33:40",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:34:10",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Sagar❤️"
   }
 ]
