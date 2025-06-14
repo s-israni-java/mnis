@@ -27734,5 +27734,21 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Good morning ❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:35",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "U"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:35",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Ut"
   }
 ]
