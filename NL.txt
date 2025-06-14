@@ -24798,5 +24798,25 @@
     "TITLE": "JM-JIOSVC-S",
     "ID": "461",
     "MSG": "You are important to us and your satisfaction is our highest priority. \nContinue with Jio - India's largest True 5G & 4G Network which provides unmatched coverage and quality at the most affordable rates. \nTo cancel your Portout request, type CANCEL <JIO NUMBER> and send to 1900."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:17:30",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "JA-JIOSVC-S",
+    "ID": "462",
+    "MSG": "आपण आमच्यासाठी महत्त्वाचे आहात आणि आपले समाधान आमचे सर्वोच्च प्राधान्य आहे. \nकृपया Jio सोबत राहा. Jio - भारतातील सर्वात मोठे True 5G आणि 4G नेटवर्क जे अप्रतिम कव्हरेज आणि गुणवत्ता सर्वात परवडणाऱ्या दरात प्रदान करते. \nआपली पोर्टआउट विनंती रद्द करण्यासाठी, CANCEL <JIO NUMBER> असे टाइप करा आणि 1900 वर पाठवा."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:17:30",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
