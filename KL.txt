@@ -41678,5 +41678,85 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "Muje p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:16",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:17",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pte"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:17",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje ptes"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:17",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje ptess"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:18",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pressure "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:19",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pressure m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:20",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pressure me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:20",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pressure me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:22",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pressure me s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:23",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Muje pressure me sa"
   }
 ]
