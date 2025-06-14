@@ -40902,5 +40902,61 @@
     "BATTERY": "80",
     "NETWORK": "M",
     "MSG": "Papa 1"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:10",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:11",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:11",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 li"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:11",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 lin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:11",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 line"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:12",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 liner"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:52:12",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Papa 1 liner "
   }
 ]
