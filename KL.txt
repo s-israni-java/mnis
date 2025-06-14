@@ -27790,5 +27790,77 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:18",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:18",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mer"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:19",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:19",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:19",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere ms"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:19",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere msg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:19",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere msg "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:20",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere msg p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:20",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere msg pe"
   }
 ]
