@@ -29758,5 +29758,93 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Isme"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:45",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:46",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:46",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme li"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:46",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme lik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:47",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:47",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:47",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:47",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:48",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:48",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h na us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:48",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h na usn"
   }
 ]
