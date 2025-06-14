@@ -36446,5 +36446,45 @@
     "BATTERY": "31",
     "NETWORK": "M",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:03:48",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "MSG": "Na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:03:48",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "MSG": "Nai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:03:48",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "MSG": "Naid"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:03:49",
+    "BATTERY": "31",
+    "NETWORK": "M",
+    "MSG": "Naidu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:09",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
