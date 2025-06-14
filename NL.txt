@@ -24278,5 +24278,25 @@
     "TITLE": "Sambhavna Seth Entertainment",
     "ID": "No ID",
     "MSG": "AANKHON PAR VISHWAAS NAHI HO RAHA😳"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:47",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:50",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "FDs for Father’s Day 🎁",
+    "ID": "No ID",
+    "MSG": "Celebrate every Father's legacy of smart saving—grow your money with AU Fixed Deposits with up to 7.25%* p.a. interest. Tap to book. *T&Cs"
   }
 ]
