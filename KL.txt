@@ -28078,5 +28078,45 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Itching band "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:48",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Itching band h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:48",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Itching band hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:48",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Itching band hui"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:49",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Itching band hui?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:31:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
