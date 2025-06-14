@@ -40018,5 +40018,15 @@
     "TITLE": "Mobile network",
     "ID": "No ID",
     "MSG": "No SIM card installed"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:31:37",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "TITLE": "JX-HDFCBK-S",
+    "ID": "372",
+    "MSG": "Sent Rs.100.00\nFrom HDFC Bank A\/C x4829\nTo JAYKUMAR RAMESHLAL THADANI\nOn 14\/06\/25\nRef 106476691600\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
