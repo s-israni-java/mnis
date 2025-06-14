@@ -40938,5 +40938,45 @@
     "TITLE": "JZ-JioPay-S",
     "ID": "470",
     "MSG": "DAILY DATA USAGE ALERT!\n50% of daily data used as on 14-Jun-25 23:52 Hrs !\nJio Number : 9322584414 \nDaily Data quota as per plan : 1.5 GB \nFor data saving tips, watch this video : http:\/\/tiny.jio.com\/Savingtips\nTo track your data balance and usage, click http:\/\/tiny.jio.com\/mobile"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:52:13",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:52:14",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "JZ-JioPay-S",
+    "ID": "470",
+    "MSG": "दैनिक डेटा वापर अलर्ट!\nदैनंदिन डेटापैकी 50% 14-Jun-25 23:52 Hrs ला वापरला गेला आहे!\nJio नंबर : 9322584414\nप्लॅननुसार दैनिक डेटा कोटा : 1.5 GB\nडेटा बचत टिप्ससाठी, हा व्हिडिओ पहा: http:\/\/tiny.jio.com\/Savingmr\nआपला डेटा बॅलन्स आणि वापर ट्रॅक करण्यासाठी, क्लिक करा http:\/\/tiny.jio.com\/mobile"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:52:25",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Syncing new emails",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:52:28",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Notification",
+    "ID": "No ID",
+    "MSG": "50% of Daily Data quota exhausted for Jio Number 9322584414"
   }
 ]
