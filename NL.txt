@@ -25048,5 +25048,45 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:48:46",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "AD-AIRMNP-P",
+    "ID": "468",
+    "MSG": "Hi, your port-in request for mobile no. 9322584414 to Airtel has been validated by your current operator. The number will be switched to Airtel by 17-06-25 23:42:00 . Once your phone displays no network, please insert the Airtel SIM 8991000922575359291U , restart your phone and call 59059 for tele-verification of your number."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:48:46",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:55:35",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "VM-AUBANK-S",
+    "ID": "415",
+    "MSG": "Debited INR 280.00 from A\/c X1248 on 14-JUN-2025\nUPI\/DR\/516525468835\/BHAGWAN MENGHOMAL RO\nBal INR 7,720.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:55:35",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
