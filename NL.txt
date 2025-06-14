@@ -41008,5 +41008,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:57:05",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "28° tomorrow · 5° cooler than today",
+    "ID": "No ID",
+    "MSG": "🌧️ 75% · See full forecast for Ulhasnagar"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:11:32",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Hum 4🤗❤️: Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by thesassthing_"
   }
 ]
