@@ -40218,5 +40218,35 @@
     "TITLE": "‪+91 93234 74737‬",
     "ID": "No ID",
     "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 21:32:17",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 21:32:17",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 21:32:25",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing Wi‑Fi call"
   }
 ]
