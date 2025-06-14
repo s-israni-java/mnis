@@ -21288,5 +21288,15 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 09:01:50",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Simi's Tattoos",
+    "ID": "No ID",
+    "MSG": ""
   }
 ]
