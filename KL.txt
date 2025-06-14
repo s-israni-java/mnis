@@ -39030,5 +39030,53 @@
     "BATTERY": "25",
     "NETWORK": "M",
     "MSG": "Baarish horhi h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:06",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish horhi h s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:06",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish horhi h sh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:06",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish horhi h shy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:06",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish horhi h shyd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:55:55",
+    "BATTERY": "26",
+    "NETWORK": "M",
+    "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:55:55",
+    "BATTERY": "26",
+    "NETWORK": "M",
+    "MSG": "Aa"
   }
 ]
