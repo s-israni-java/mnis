@@ -32750,5 +32750,29 @@
     "BATTERY": "72",
     "NETWORK": "M",
     "MSG": "airtel"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:22:44",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "airtel "
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:22:44",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "airtel p"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:22:44",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "airtel pr"
   }
 ]
