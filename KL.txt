@@ -40526,5 +40526,29 @@
     "BATTERY": "89",
     "NETWORK": "W",
     "MSG": "power"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:47:51",
+    "BATTERY": "89",
+    "NETWORK": "W",
+    "MSG": "power "
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:47:52",
+    "BATTERY": "89",
+    "NETWORK": "W",
+    "MSG": "power b"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:50:20",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "MSG": "s"
   }
 ]
