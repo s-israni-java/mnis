@@ -21298,5 +21298,15 @@
     "TITLE": "Simi's Tattoos",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 09:24:05",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
