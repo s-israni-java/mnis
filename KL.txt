@@ -31702,5 +31702,37 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "So"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:04",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Soi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:05",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Soin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:05",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Soing"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:14",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": " "
   }
 ]
