@@ -39246,5 +39246,29 @@
     "BATTERY": "93",
     "NETWORK": "W",
     "MSG": "Coral CC Application | Required F"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:40",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required "
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:41",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required D"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:41",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required De"
   }
 ]
