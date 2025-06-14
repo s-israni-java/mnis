@@ -33646,5 +33646,69 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Happy bir"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy birt"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy birth"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:04",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy birthd"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:04",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy birthday"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:06",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy birthday🥳"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:07",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy birthday🥳❤️"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Ni"
   }
 ]
