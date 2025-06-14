@@ -40608,5 +40608,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:49:00",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:49:00",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "3 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:50:39",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
