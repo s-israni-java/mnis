@@ -30062,5 +30062,101 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "What details do u wan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:16",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:16",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:17",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:17",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:17",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:17",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:17",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:18",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:18",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an e"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:18",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an em"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:18",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an ema"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:18",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an emai"
   }
 ]
