@@ -20178,5 +20178,45 @@
     "TITLE": "Nayan Wanjare",
     "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:20:18",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:20:19",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:20:19",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:20:24",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sikis lagi h"
   }
 ]
