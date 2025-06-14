@@ -32726,5 +32726,13 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "Port "
+  },
+  {
+    "APP": "com.jio.myjio",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:18:53",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "0"
   }
 ]
