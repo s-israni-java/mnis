@@ -29846,5 +29846,21 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Isme likha h na usn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:48",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Isme likha h na usne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:04",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "W"
   }
 ]
