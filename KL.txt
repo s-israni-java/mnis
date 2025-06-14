@@ -30222,5 +30222,45 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:45:59",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:00",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:07",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Cb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:07",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Cbl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:07",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Cbl "
   }
 ]
