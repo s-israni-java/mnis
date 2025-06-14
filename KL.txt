@@ -40606,5 +40606,29 @@
     "BATTERY": "81",
     "NETWORK": "M",
     "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:38",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:38",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:40",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
