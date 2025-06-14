@@ -32548,5 +32548,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Charging • 87.91%"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:47:07",
+    "BATTERY": "87",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • 87.92%"
   }
 ]
