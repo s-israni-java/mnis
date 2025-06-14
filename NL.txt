@@ -25088,5 +25088,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:59:35",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "You have 20 updates",
+    "ID": "No ID",
+    "MSG": "View now."
   }
 ]
