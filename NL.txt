@@ -25398,5 +25398,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:45:33",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "T shirts. Ks. Sham. Ki bajte. Hu"
   }
 ]
