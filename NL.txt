@@ -24158,5 +24158,45 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Reacted ❤️ to \"Take care i love you💕\""
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:38",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sagar❤️: Reacted ❤️ to \"Take care i love you💕\""
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:38",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Burgers just at ₹19! 😋",
+    "ID": "No ID",
+    "MSG": "Get it from Wendy's ! 🫶"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:39",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:41",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Truth. Struggle. Strength.",
+    "ID": "No ID",
+    "MSG": "Watch 'In Transit': The powerful stories of identity, dreams & transformation."
   }
 ]
