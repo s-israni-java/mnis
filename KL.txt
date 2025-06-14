@@ -32478,5 +32478,45 @@
     "BATTERY": "76",
     "NETWORK": "M",
     "MSG": "Aadhar card vage"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:55",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card vager"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:55",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card vagera"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:56",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card vagera?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:56",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card vagera??"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:57:00",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
