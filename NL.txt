@@ -40038,5 +40038,35 @@
     "TITLE": "‪+91 93736 58115‬",
     "ID": "No ID",
     "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:43:00",
+    "BATTERY": "90",
+    "NETWORK": "W",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:43:00",
+    "BATTERY": "90",
+    "NETWORK": "W",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:43:06",
+    "BATTERY": "89",
+    "NETWORK": "W",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing Wi‑Fi call"
   }
 ]
