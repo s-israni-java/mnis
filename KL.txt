@@ -36078,5 +36078,125 @@
     "BATTERY": "32",
     "NETWORK": "M",
     "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:58",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:58",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:58",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Cor"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:58",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Cora"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:59",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:59",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:59",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:59",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral ku"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:59",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kua "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:59",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kua h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:00",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kua ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:00",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kua h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:00",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kua "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:00",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kua"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:01",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral ku"
   }
 ]
