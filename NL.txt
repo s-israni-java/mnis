@@ -25948,5 +25948,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:27:10",
+    "BATTERY": "42",
+    "NETWORK": "M",
+    "TITLE": "Yogesh Chandwani 🎂",
+    "ID": "false|Yogesh Chandwani 🎂|841ff96e-44a9-4266-8dfb-b1315a05c54d",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:33:42",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "TITLE": "Unbelievable: Samosa for ₹1! 😱",
+    "ID": "No ID",
+    "MSG": "This Flash Deals won't wait! Claim yours now! 🏃"
   }
 ]
