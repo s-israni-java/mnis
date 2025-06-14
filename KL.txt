@@ -36662,5 +36662,61 @@
     "BATTERY": "30",
     "NETWORK": "M",
     "MSG": "Arey trackkr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:20",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Arey trackkr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:21",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Arey trackkr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:21",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Arey trackkr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:22",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Arey trackkr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:24",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Arey trackkr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:25",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Arey track kr rhi thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:30",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
