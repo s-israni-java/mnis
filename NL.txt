@@ -26538,5 +26538,35 @@
     "TITLE": "A site is playing media",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:54:23",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:54:23",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:56:05",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "AX-ICICIO-S",
+    "ID": "469",
+    "MSG": "Dear Customer, 052072 is the OTP to verify your relationship with ICICI Bank. OTPs are SECRET. DO NOT disclose it to anyone. ICICI Bank NEVER asks for OTP."
   }
 ]
