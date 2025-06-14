@@ -39558,5 +39558,13 @@
     "BATTERY": "93",
     "NETWORK": "W",
     "MSG": "Dear Sonu,As requested on WhatsApp by Anshika SinghGet Outlook for Android"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:19:10",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh,Get Outlook for Android"
   }
 ]
