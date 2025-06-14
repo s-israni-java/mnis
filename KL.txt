@@ -39374,5 +39374,45 @@
     "BATTERY": "93",
     "NETWORK": "W",
     "MSG": "Coral CC Application | Required Fulfil"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:54",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required Fulfilme"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:55",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required Fulfilmen"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:55",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required Fulfilment"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:55",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required Fulfilments"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:56",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required Fulfillments "
   }
 ]
