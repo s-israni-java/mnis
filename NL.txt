@@ -24198,5 +24198,35 @@
     "TITLE": "Truth. Struggle. Strength.",
     "ID": "No ID",
     "MSG": "Watch 'In Transit': The powerful stories of identity, dreams & transformation."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "📷 Will try this"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:42",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "PiyushaMakhija",
+    "ID": "false|PiyushaMakhija|546bb6a2-570e-4d3a-a199-8c318198e0af",
+    "MSG": "from your contacts posted a video!"
   }
 ]
