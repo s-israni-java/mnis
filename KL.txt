@@ -35078,5 +35078,853 @@
     "BATTERY": "40",
     "NETWORK": "M",
     "MSG": "Y..y..."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:06",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Y..y... Kb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:09",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Te"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Ter"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:54",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera un"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:55",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera uns"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera unst"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera unsta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:56",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:57",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta o"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:57",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta oe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:57",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe ac"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe act"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:58",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe acti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe activ"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:34:59",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:00",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:00",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:00",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:00",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:01",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:02",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha th"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:02",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:02",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha tha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:02",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha tha a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:03",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha tha ab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:03",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Tera insta pe active dikha rha tha abi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:07",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "F"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:07",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:07",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:07",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fur "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:08",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fur a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:08",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fur "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:08",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fur"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:09",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:09",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "F"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:09",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:10",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "F"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:10",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:10",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fir"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:11",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fir "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:12",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Fir"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firs"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:13",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse de"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dek"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:14",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:15",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:16",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 1"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:16",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mij"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:17",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:18",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:18",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs am"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mijs"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:19",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mij"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:20",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:20",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 min"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:21",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:21",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:21",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:21",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ag"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:22",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ago"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:22",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ago "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:22",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ago a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:22",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ago aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:23",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ago aay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:23",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Firse dekha toh 15 mins ago aaya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:24",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": " "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:35:33",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:36:50",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:36:50",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:36:50",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "Okk"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:36:55",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "v"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:36:56",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "vp"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:36:57",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "MSG": "vp "
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:37:18",
+    "BATTERY": "39",
+    "NETWORK": "No Connection",
+    "MSG": "vp"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:37:19",
+    "BATTERY": "39",
+    "NETWORK": "No Connection",
+    "MSG": "vpn"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:33",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "i"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:33",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "ic"
   }
 ]
