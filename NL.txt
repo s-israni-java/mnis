@@ -24958,5 +24958,15 @@
     "TITLE": "AD-AIRINF-S",
     "ID": "466",
     "MSG": "Your request to port-in 9322584414 to Airtel Y066166181 is in process. To track the status, please visit Airtel Thanks App www.airtel.in\/5\/mnp2"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:21",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
