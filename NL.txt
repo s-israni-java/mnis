@@ -39938,5 +39938,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Discharging • 95%"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:05:05",
+    "BATTERY": "95",
+    "NETWORK": "W",
+    "TITLE": "I.D Tamanna Makhija🧿⚫",
+    "ID": "No ID",
+    "MSG": "Sent a reel by thecisterco"
   }
 ]
