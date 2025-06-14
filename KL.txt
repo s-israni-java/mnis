@@ -40222,5 +40222,13 @@
     "BATTERY": "92",
     "NETWORK": "W",
     "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my office address is below.Godrej & Boyce Complex Plant, 12, LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West, Mumbai, Maharashtra 400079.Please let me know if you have anything else is needed.Get Outlook for Android"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:48",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "p"
   }
 ]
