@@ -31686,5 +31686,21 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Chlo bye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:04",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:04",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "So"
   }
 ]
