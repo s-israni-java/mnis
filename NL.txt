@@ -25568,5 +25568,15 @@
     "TITLE": "Your fav superhero… 🦸",
     "ID": "No ID",
     "MSG": "…deserves an epic Father’s Day at top dining spots! Book now."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 16:32:12",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a reel by sarnadheeraj"
   }
 ]
