@@ -31318,5 +31318,53 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:19",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:19",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:19",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:19",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Nhi n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:20",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Nhi nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:20",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Nhi nhi"
   }
 ]
