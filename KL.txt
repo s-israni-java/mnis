@@ -40454,5 +40454,13 @@
     "BATTERY": "91",
     "NETWORK": "W",
     "MSG": "₹100"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:31:15",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "1"
   }
 ]
