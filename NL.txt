@@ -39968,5 +39968,15 @@
     "TITLE": "NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:07:53",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "TITLE": "NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
