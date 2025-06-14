@@ -28238,5 +28238,37 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:19",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Km"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:20",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:20",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:21",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "N"
   }
 ]
