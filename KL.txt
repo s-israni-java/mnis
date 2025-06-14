@@ -32742,5 +32742,13 @@
     "BATTERY": "72",
     "NETWORK": "M",
     "MSG": ""
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:22:43",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "airtel"
   }
 ]
