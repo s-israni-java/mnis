@@ -40998,5 +40998,15 @@
     "TITLE": "Dad is sleeping now? 😴",
     "ID": "No ID",
     "MSG": "Order his fav cake & surprise him! 😋"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:57:05",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
