@@ -24908,5 +24908,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:36:52",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "TITLE": "Giraffe 🦒😂",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674",
+    "MSG": "sent you a Snap"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:38:08",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "TITLE": "AZ-AIRINF",
+    "ID": "464",
+    "MSG": "Hi, please use 115859 as OTP to proceed further with your Airtel Black request. For T&C. Click www.airtel.in\/airtelblack\/tnc\n@www.airtel.in #115859"
   }
 ]
