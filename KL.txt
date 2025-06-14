@@ -30158,5 +30158,69 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "What details do u want in an emai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:18",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an emai\/"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:19",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an emai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:20",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an emai\/"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:20",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an emai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:20",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an email"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:44:21",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "What details do u want in an email?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:45:59",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:45:59",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
