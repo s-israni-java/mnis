@@ -37966,5 +37966,61 @@
     "BATTERY": "29",
     "NETWORK": "M",
     "MSG": "2nd sat h aaj reply nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:06:21",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "2nd sat h aaj reply nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:06:21",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "2nd sat h aaj reply nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:06:21",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "2nd sat h aaj reply nhi a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:06:22",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "2nd sat h aaj reply nhi aay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:06:22",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "2nd sat h aaj reply nhi aayeg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:06:22",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "2nd sat h aaj reply nhi aayega "
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:07:06",
+    "BATTERY": "28",
+    "NETWORK": "M",
+    "MSG": "Regarding C"
   }
 ]
