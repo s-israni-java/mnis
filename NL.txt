@@ -25018,5 +25018,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:35",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "JG-JIONET-S",
+    "ID": "467",
+    "MSG": "To cancel your port out request, please click http:\/\/tiny.jio.com\/WeprYS . Thank you."
   }
 ]
