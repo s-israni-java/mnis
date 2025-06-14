@@ -39198,5 +39198,37 @@
     "BATTERY": "94",
     "NETWORK": "W",
     "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:20",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "gm"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:27",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "o"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:28",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "ou"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:28",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "out"
   }
 ]
