@@ -26968,5 +26968,15 @@
     "TITLE": "BREAKING NEWS 👀",
     "ID": "No ID",
     "MSG": ".\nFlat 65% OFF was spotted here. >>>"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:42:28",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • null • null mA"
   }
 ]
