@@ -31598,5 +31598,53 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Dekhte"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:49",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhte "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:49",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhte h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhte h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhte h n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:50",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Dekhte h na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:59",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "C"
   }
 ]
