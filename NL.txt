@@ -24818,5 +24818,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:18:51",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:18:51",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "JZ-JIONET-S",
+    "ID": "463",
+    "MSG": "096511 is your One time password (OTP) to login to MyJio. Don't share OTP with anyone.\nPlease enter the OTP to proceed."
   }
 ]
