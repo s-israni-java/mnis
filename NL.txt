@@ -25558,5 +25558,15 @@
     "TITLE": "JX-HDFCBK-S",
     "ID": "372",
     "MSG": "Sent Rs.60.00\nFrom HDFC Bank A\/C x4829\nTo Divya Lassi Center\nOn 14\/06\/25\nRef 106458121899\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 16:11:08",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Your fav superhero… 🦸",
+    "ID": "No ID",
+    "MSG": "…deserves an epic Father’s Day at top dining spots! Book now."
   }
 ]
