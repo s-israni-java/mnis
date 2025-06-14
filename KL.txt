@@ -28118,5 +28118,29 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:31:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:31:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:31:08",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
