@@ -33582,5 +33582,69 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Hap"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happ"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy b"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy bi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:03",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Happy bir"
   }
 ]
