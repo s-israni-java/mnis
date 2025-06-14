@@ -32662,5 +32662,37 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": "1"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:15:50",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "19"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:15:50",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "190"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:15:50",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "1900"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:15:51",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": ""
   }
 ]
