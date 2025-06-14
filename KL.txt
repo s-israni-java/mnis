@@ -30830,5 +30830,29 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Chlo by"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo bye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo bye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:29",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
