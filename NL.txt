@@ -24768,5 +24768,15 @@
     "TITLE": "hiteshlund",
     "ID": "No ID",
     "MSG": "Sent a reel by thenikhilgram"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:06:48",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
