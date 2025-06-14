@@ -30454,5 +30454,21 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Chl abi me so rhi hu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:14",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:14",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Tu"
   }
 ]
