@@ -33758,5 +33758,21 @@
     "BATTERY": "57",
     "NETWORK": "W",
     "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 16:06:27",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "MSG": "gp"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 16:06:36",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "MSG": "₹6"
   }
 ]
