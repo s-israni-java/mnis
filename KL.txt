@@ -40342,5 +40342,29 @@
     "BATTERY": "91",
     "NETWORK": "W",
     "MSG": "power butto"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:55",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:55",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button "
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:30:00",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button n"
   }
 ]
