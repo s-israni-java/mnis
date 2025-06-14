@@ -35982,5 +35982,53 @@
     "BATTERY": "33",
     "NETWORK": "M",
     "MSG": "13\/10"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:58",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "13\/10\/2"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:58",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "13\/10\/20"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:58",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "13\/10\/200"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:58",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "13\/10\/2000"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:00",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": ""
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:56:11",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "2"
   }
 ]
