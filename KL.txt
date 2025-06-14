@@ -39638,5 +39638,21 @@
     "BATTERY": "93",
     "NETWORK": "W",
     "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my official Get Outlook for Android"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:19:15",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my official aGet Outlook for Android"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:19:15",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my official addGet Outlook for Android"
   }
 ]
