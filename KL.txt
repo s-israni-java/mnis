@@ -32694,5 +32694,21 @@
     "BATTERY": "74",
     "NETWORK": "M",
     "MSG": ""
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:15:54",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:15:55",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "MSG": "Po"
   }
 ]
