@@ -38934,5 +38934,45 @@
     "BATTERY": "25",
     "NETWORK": "M",
     "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:53:59",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:00",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:00",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:01",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baari"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:01",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish "
   }
 ]
