@@ -46046,5 +46046,221 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:00:57",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:00:58",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:00:59",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:00:59",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:00",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I wi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:00",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I wil"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:00",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:00",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:01",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:01",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will al"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:01",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will als"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:01",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:02",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:02",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:03",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:03",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sle"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:03",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also slee"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:04",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:05",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep e"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:05",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:06",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:06",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:06",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:07",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep com"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:07",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep comp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:07",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep compl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:01:07",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "I will also sleep ep complete "
   }
 ]
