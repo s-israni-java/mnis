@@ -24758,5 +24758,15 @@
     "TITLE": "Vijaykumar Basantani paid you ₹2,000.00",
     "ID": "No ID",
     "MSG": "Tap to view."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:04:51",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "hiteshlund",
+    "ID": "No ID",
+    "MSG": "Sent a reel by thenikhilgram"
   }
 ]
