@@ -33062,5 +33062,117 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "C"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Co"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Col"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Color"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:56",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:57",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:57",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors bhejo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:57",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors bhejo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:57",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors bhejo na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:58",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors bhejo na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:58",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Colors bhejo na l"
   }
 ]
