@@ -41078,5 +41078,45 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:36:30",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:36:33",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:36:33",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 00:36:47",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
