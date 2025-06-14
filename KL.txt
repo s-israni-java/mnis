@@ -33822,5 +33822,13 @@
     "BATTERY": "57",
     "NETWORK": "W",
     "MSG": "snp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:11:33",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "W"
   }
 ]
