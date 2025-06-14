@@ -24928,5 +24928,15 @@
     "TITLE": "AZ-AIRINF",
     "ID": "464",
     "MSG": "Hi, please use 115859 as OTP to proceed further with your Airtel Black request. For T&C. Click www.airtel.in\/airtelblack\/tnc\n@www.airtel.in #115859"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:42:29",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "TITLE": "AD-AIRTEL",
+    "ID": "465",
+    "MSG": "20028 is Tele verification PIN for activation of your port in mobile no. 9322584414. Activation is subjected to validation by your current service provider.  We will update via SMS to call 59059  for  completing the tele verification when network gets activated on your mobile."
   }
 ]
