@@ -32110,5 +32110,69 @@
     "BATTERY": "76",
     "NETWORK": "M",
     "MSG": "Kcu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:44",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kcu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:45",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:45",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:45",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kch "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:46",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kch ca"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:46",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kch car"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:46",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kch carr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:47",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Kch carry"
   }
 ]
