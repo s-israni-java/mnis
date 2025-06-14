@@ -26748,5 +26748,15 @@
     "TITLE": "JD-NDMAEW-G",
     "ID": "412",
     "MSG": "पुढील २४ तासांत काही ठिकाणी मुसळधार पाऊस पडण्याची शक्यता आहे. नागरिकांनी सतर्क राहावे. मंत्रालय"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 18:24:35",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "TITLE": "JZ-JioPay-S",
+    "ID": "470",
+    "MSG": "DAILY DATA USAGE ALERT!\n50% of daily data used as on 14-Jun-25 18:24 !\nJio Number : 9322584414 \nDaily Data quota as per plan : 1.50 GB \nFor data saving tips, watch this video : http:\/\/tiny.jio.com\/Savingtips\nTo track your data balance and usage, click http:\/\/tiny.jio.com\/mobile"
   }
 ]
