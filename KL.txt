@@ -29622,5 +29622,53 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:14",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:14",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:14",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:15",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kya b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:15",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kya bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:15",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kya bhej"
   }
 ]
