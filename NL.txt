@@ -24338,5 +24338,45 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by nxt_vishu77"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:30:02",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a reel by tears_to_victory"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:30:03",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Reacted 😂 to your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:30:03",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "For all the stans ✨",
+    "ID": "No ID",
+    "MSG": "Never miss a drop from your top artists with Release Radar! Explore now."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:30:28",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
