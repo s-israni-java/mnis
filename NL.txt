@@ -40248,5 +40248,15 @@
     "TITLE": "Papa",
     "ID": "No ID",
     "MSG": "Ongoing Wi‑Fi call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 21:49:25",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
