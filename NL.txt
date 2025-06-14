@@ -24778,5 +24778,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:06:48",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "Loan in your account, in under 72 hours ✅",
+    "ID": "No ID",
+    "MSG": "Loans for your urgent needs, on Google Pay. Apply now!"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:17:26",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "JM-JIOSVC-S",
+    "ID": "461",
+    "MSG": "You are important to us and your satisfaction is our highest priority. \nContinue with Jio - India's largest True 5G & 4G Network which provides unmatched coverage and quality at the most affordable rates. \nTo cancel your Portout request, type CANCEL <JIO NUMBER> and send to 1900."
   }
 ]
