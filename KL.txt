@@ -35926,5 +35926,29 @@
     "BATTERY": "33",
     "NETWORK": "M",
     "MSG": "ic"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:34",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "icic"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:34",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "icici"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:55:55",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "MSG": "9322584414"
   }
 ]
