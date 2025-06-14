@@ -32366,5 +32366,117 @@
     "BATTERY": "76",
     "NETWORK": "M",
     "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:52",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:52",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:52",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:52",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:53",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:53",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:53",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:53",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar ca"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:53",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar car"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:54",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:54",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card va"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:54",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card vae"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:55",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card va"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:55:55",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Aadhar card vage"
   }
 ]
