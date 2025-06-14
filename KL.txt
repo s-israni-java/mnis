@@ -39174,5 +39174,29 @@
     "BATTERY": "94",
     "NETWORK": "W",
     "MSG": "em"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:19",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "e"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:19",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "Search for apps on this device"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:20",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "g"
   }
 ]
