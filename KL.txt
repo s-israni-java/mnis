@@ -40574,5 +40574,37 @@
     "BATTERY": "88",
     "NETWORK": "W",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:51:41",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "MSG": "po"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:51:42",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "MSG": "pow"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:37",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:37",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "Ha"
   }
 ]
