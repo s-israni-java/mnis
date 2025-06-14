@@ -33710,5 +33710,53 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "Ni"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Nic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Nich"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Niche "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Niche h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:55:27",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Niche hu"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 16:06:26",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "MSG": "g"
   }
 ]
