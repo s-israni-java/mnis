@@ -40302,5 +40302,45 @@
     "BATTERY": "91",
     "NETWORK": "W",
     "MSG": "power "
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:54",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power b"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:54",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power bu"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:55",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power but"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:55",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power butt"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:55",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power butto"
   }
 ]
