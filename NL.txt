@@ -25098,5 +25098,15 @@
     "TITLE": "You have 20 updates",
     "ID": "No ID",
     "MSG": "View now."
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:03:27",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Update your GST details✅",
+    "ID": "No ID",
+    "MSG": "Complete your Full KYC now! Accept unlimited payments & become our priority merchant."
   }
 ]
