@@ -42414,5 +42414,45 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "But lg nhi rha vo ho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:54",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "But lg nhi rha vo hog"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:54:55",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "But lg nhi rha vo hoga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:56:45",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:56:45",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Ye"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:56:45",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "MSG": "Ye "
   }
 ]
