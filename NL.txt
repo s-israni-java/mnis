@@ -25138,5 +25138,25 @@
     "TITLE": "NeuCard",
     "ID": "243",
     "MSG": "Enjoy 4 months FREE Spotify Premium with NeuCard—🔥 Limited-Time Offer- NO JOINING FEE!\n🎶 FREE 4 Months Spotify Premium – Uninterrupted music for you\n💸 10% savings on Top Brands 🛍\n🧾 5% off on Bills & Insurance 💡\n💳 1.5% cashback on UPI Payments 💰\n🛫 12 FREE Airport Lounge Access per year ✈\n⏳ Limited Time Offer – Apply Now!"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:22:13",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:27:17",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Yogesh Chandwani",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d",
+    "MSG": "is typing ..."
   }
 ]
