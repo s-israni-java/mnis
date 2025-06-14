@@ -26578,5 +26578,25 @@
     "TITLE": "reports",
     "ID": "No ID",
     "MSG": "One Time Password (OTP) for ICICI Bank Application"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:56:11",
+    "BATTERY": "33",
+    "NETWORK": "M",
+    "TITLE": "reports",
+    "ID": "No ID",
+    "MSG": "One Time Password (OTP) for ICICI Bank Application"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:57:32",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Card varient hai"
   }
 ]
