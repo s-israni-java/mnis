@@ -27862,5 +27862,21 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Mere msg pe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:20",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Mere msg pe?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:38",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Q"
   }
 ]
