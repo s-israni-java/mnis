@@ -25108,5 +25108,15 @@
     "TITLE": "Update your GST details✅",
     "ID": "No ID",
     "MSG": "Complete your Full KYC now! Accept unlimited payments & become our priority merchant."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:03:46",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "VK-AUBANK-S",
+    "ID": "417",
+    "MSG": "Debited INR 300.00 from A\/c X1248 on 14-JUN-2025\nUPI\/DR\/516557779068\/PADMA COLLECTION\/HDF\nBal INR 7,420.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
   }
 ]
