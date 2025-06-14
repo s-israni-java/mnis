@@ -27646,5 +27646,53 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Milte h dup"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Milte h dupha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Milte h duphar "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Milte h duphar k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Milte h duphar ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:30",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Fo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:30",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Food"
   }
 ]
