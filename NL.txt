@@ -25528,5 +25528,35 @@
     "TITLE": "Bhavisha Mam Gym",
     "ID": "917972168273@s.whatsapp.net",
     "MSG": "Pic. Aaynge"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:55:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Juth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:55:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "5 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 16:06:49",
+    "BATTERY": "57",
+    "NETWORK": "W",
+    "TITLE": "JX-HDFCBK-S",
+    "ID": "372",
+    "MSG": "Sent Rs.60.00\nFrom HDFC Bank A\/C x4829\nTo Divya Lassi Center\nOn 14\/06\/25\nRef 106458121899\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
   }
 ]
