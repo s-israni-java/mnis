@@ -42454,5 +42454,13 @@
     "BATTERY": "79",
     "NETWORK": "M",
     "MSG": "Ye "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:57:14",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "S"
   }
 ]
