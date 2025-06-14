@@ -40230,5 +40230,37 @@
     "BATTERY": "91",
     "NETWORK": "W",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:48",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "pl"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:48",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "pla"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:48",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "play"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:29:52",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "p"
   }
 ]
