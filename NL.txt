@@ -25428,5 +25428,25 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:45:38",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "Pic. Aaynge"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:45:39",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "4 new messages"
   }
 ]
