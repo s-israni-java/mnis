@@ -40318,5 +40318,25 @@
     "TITLE": "Psst, Simriti! 👀",
     "ID": "No ID",
     "MSG": "Ordered something special for Father’s Day yet? 🥳🎂"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:27:33",
+    "BATTERY": "84",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:27:34",
+    "BATTERY": "84",
+    "NETWORK": "W",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
