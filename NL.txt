@@ -25158,5 +25158,25 @@
     "TITLE": "Yogesh Chandwani",
     "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d",
     "MSG": "is typing ..."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:29:03",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:29:03",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
