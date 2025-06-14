@@ -31854,5 +31854,109 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Take car"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:35",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:35",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:36",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:36",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:36",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:36",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i lo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:37",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i lov"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:37",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i love"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:37",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i love "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:37",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i love y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:37",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i love yo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:38",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i love you"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:38",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take care i love you,"
   }
 ]
