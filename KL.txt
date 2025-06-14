@@ -39230,5 +39230,13 @@
     "BATTERY": "94",
     "NETWORK": "W",
     "MSG": "out"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:17:36",
+    "BATTERY": "93",
+    "NETWORK": "W",
+    "MSG": "Coral CC Application | Required Fulfilments"
   }
 ]
