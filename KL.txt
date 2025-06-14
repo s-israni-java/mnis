@@ -36270,5 +36270,21 @@
     "BATTERY": "32",
     "NETWORK": "M",
     "MSG": "Coral kya hota h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:04",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya hota h?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:36",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "R"
   }
 ]
