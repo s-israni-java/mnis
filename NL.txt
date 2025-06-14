@@ -21228,5 +21228,15 @@
     "TITLE": "Pairing request",
     "ID": "No ID",
     "MSG": "Tap to pair with SFD BT-456"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 08:40:47",
+    "BATTERY": "34",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
