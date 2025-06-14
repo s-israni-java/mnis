@@ -39398,5 +39398,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Charging • 95.91%"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:54:24",
+    "BATTERY": "95",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
