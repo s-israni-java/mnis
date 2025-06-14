@@ -27918,5 +27918,21 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Acha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:43",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:30:44",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "It"
   }
 ]
