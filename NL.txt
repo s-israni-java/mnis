@@ -26778,5 +26778,15 @@
     "TITLE": "Diva's: Nisha ❤️",
     "ID": "No ID",
     "MSG": "Sent a reel by vikhrolikarr"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 18:38:30",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
