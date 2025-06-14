@@ -38726,5 +38726,53 @@
     "BATTERY": "20",
     "NETWORK": "M",
     "MSG": "Kitne bje mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:45",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje miel"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:45",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje mielga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:45",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje mielga "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:45",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje mielga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:38:46",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Kitne bje milega "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:41:16",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "D"
   }
 ]
