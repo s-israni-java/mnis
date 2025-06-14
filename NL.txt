@@ -40308,5 +40308,15 @@
     "TITLE": "Papa",
     "ID": "No ID",
     "MSG": "Ongoing Wi‑Fi call"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:09:23",
+    "BATTERY": "85",
+    "NETWORK": "W",
+    "TITLE": "Psst, Simriti! 👀",
+    "ID": "No ID",
+    "MSG": "Ordered something special for Father’s Day yet? 🥳🎂"
   }
 ]
