@@ -27694,5 +27694,29 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Food"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:30",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Food "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:31",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Food"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:31",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Good "
   }
 ]
