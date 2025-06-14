@@ -40978,5 +40978,25 @@
     "TITLE": "Notification",
     "ID": "No ID",
     "MSG": "50% of Daily Data quota exhausted for Jio Number 9322584414"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:52:29",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Notification",
+    "ID": "No ID",
+    "MSG": "50% of Daily Data quota exhausted for Jio Number 9322584414"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:56:28",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Dad is sleeping now? 😴",
+    "ID": "No ID",
+    "MSG": "Order his fav cake & surprise him! 😋"
   }
 ]
