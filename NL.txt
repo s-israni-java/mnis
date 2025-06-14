@@ -21218,5 +21218,15 @@
     "TITLE": "Today in Ulhasnagar",
     "ID": "No ID",
     "MSG": "🌧️ 75% · Thunderstorm · See full forecast"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:48:35",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Pairing request",
+    "ID": "No ID",
+    "MSG": "Tap to pair with SFD BT-456"
   }
 ]
