@@ -31814,5 +31814,45 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Tak"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:34",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:34",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:34",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:35",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take ca"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:35",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Take car"
   }
 ]
