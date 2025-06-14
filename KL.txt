@@ -31982,5 +31982,37 @@
     "BATTERY": "58",
     "NETWORK": "M",
     "MSG": "G"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:30:33",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Gi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:30:33",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Gio"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:30:33",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Giod"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:30:34",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "Good "
   }
 ]
