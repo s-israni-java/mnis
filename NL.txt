@@ -25178,5 +25178,25 @@
     "TITLE": "Gugu♥️",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:29:10",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:29:10",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "Haa"
   }
 ]
