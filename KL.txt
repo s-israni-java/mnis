@@ -30782,5 +30782,53 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Chlo bu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:24",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo bue"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:24",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo bue "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo bue"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo bu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:25",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Chlo by"
   }
 ]
