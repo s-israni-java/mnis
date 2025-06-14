@@ -24968,5 +24968,55 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "1901",
+    "ID": "460",
+    "MSG": "Port request is received for your mobile number 9322584414 from Reliance-Jio\/Maharashtra to Airtel\/Maharashtra ."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:22",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:23",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:23",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "1901",
+    "ID": "460",
+    "MSG": "Port request for 9322584414 is ACCEPTED and should be completed by 17-06-25 23:42.To CANCEL port, SMS CANCEL <space><mobile number> to 1900 till 15-06-25 14:47\"."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:30",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
