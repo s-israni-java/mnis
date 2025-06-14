@@ -20708,5 +20708,35 @@
     "TITLE": "Google Cloud",
     "ID": "No ID",
     "MSG": "[Product Update] New security enhancement for your Google Cloud environment"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:21:41",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Google Cloud",
+    "ID": "No ID",
+    "MSG": "[Product Update] New security enhancement for your Google Cloud environment"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:21:41",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (56%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:21:42",
+    "BATTERY": "51",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (57%)"
   }
 ]
