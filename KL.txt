@@ -32910,5 +32910,29 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "​Bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:44",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "​Bha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:44",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "​Bhav"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:24:47",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
