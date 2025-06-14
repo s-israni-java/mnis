@@ -30654,5 +30654,29 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Milte h duphar "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:21",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Milte h duphar k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:46:21",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Milte h duphar ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:53:12",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "1"
   }
 ]
