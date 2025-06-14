@@ -24468,5 +24468,25 @@
     "TITLE": "Missed call",
     "ID": "No ID",
     "MSG": "Sagar❤️"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:34:10",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:40:23",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Out"
   }
 ]
