@@ -39158,5 +39158,21 @@
     "BATTERY": "81",
     "NETWORK": "W",
     "MSG": "amp"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:18",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "e"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:12:18",
+    "BATTERY": "94",
+    "NETWORK": "W",
+    "MSG": "em"
   }
 ]
