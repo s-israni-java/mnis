@@ -38774,5 +38774,53 @@
     "BATTERY": "20",
     "NETWORK": "M",
     "MSG": "D"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:41:16",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Dd"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:41:17",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Ddl"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:41:17",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Dd"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:41:17",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "D"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:41:17",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "MSG": "Write a message…"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:15",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7"
   }
 ]
