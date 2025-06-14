@@ -27782,5 +27782,13 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Utha h?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:28:18",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "M"
   }
 ]
