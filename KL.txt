@@ -32830,5 +32830,21 @@
     "BATTERY": "68",
     "NETWORK": "M",
     "MSG": "●●1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:55:28",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "●●●9"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:03:33",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "₹3"
   }
 ]
