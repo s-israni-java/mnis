@@ -40550,5 +40550,29 @@
     "BATTERY": "88",
     "NETWORK": "W",
     "MSG": "s"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:50:20",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "MSG": "se"
+  },
+  {
+    "APP": "com.android.settings",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:50:20",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "MSG": "sen"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:51:41",
+    "BATTERY": "88",
+    "NETWORK": "W",
+    "MSG": "p"
   }
 ]
