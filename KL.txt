@@ -33534,5 +33534,53 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "And tshirts ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:16",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts ka "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:16",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts ka b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:16",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts ka bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:16",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts ka bhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:16",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts ka bhi "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:27:02",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
