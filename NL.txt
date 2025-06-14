@@ -26108,5 +26108,185 @@
     "TITLE": "A site is playing media",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:33",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:34",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:34",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:35",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:38",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:39",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:40",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:40",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:40:11",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "🌟 Send Money with Ease! 💳",
+    "ID": "No ID",
+    "MSG": "Need to transfer money? It’s fast and secure with NetBanking. Start now! 🔐"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:40:47",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:40:47",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:40:54",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:40:56",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:41:02",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:41:04",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:41:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:41:08",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:41:09",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
