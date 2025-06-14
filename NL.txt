@@ -24848,5 +24848,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:18:56",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "JZ-JIONET-S",
+    "ID": "463",
+    "MSG": "MyJio Log-in Alert! A new login to MyJio app for your number was made on realme RMX3092 on 14 Jun 2025 at 14:18. If this wasn't you, click https:\/\/www.jio.com\/dl\/settings_global to log in to MyJio with your number and choose 'Logout from all devices' from the app settings."
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:25:34",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "JIO CARE ",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
