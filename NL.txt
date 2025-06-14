@@ -26078,5 +26078,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:16",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Nayan Wanjare",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:26",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:39:29",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
