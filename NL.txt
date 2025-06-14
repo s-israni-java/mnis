@@ -25888,5 +25888,25 @@
     "TITLE": "Diva's: Nisha ❤️",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:22:38",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nisha ❤️",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:23:35",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nisha ❤️",
+    "ID": "No ID",
+    "MSG": "Reacted 😂 to your message."
   }
 ]
