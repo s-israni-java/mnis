@@ -40814,5 +40814,53 @@
     "BATTERY": "80",
     "NETWORK": "M",
     "MSG": "It's fi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:41",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "It's fin"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:41",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "It's fine"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:43",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "R"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:43",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Ro"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:43",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Roz"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:44",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Roz "
   }
 ]
