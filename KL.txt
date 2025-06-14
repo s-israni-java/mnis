@@ -28318,5 +28318,85 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "Nind."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:22",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:23",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:24",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa rhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:24",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa rhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:24",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa rhi j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:32:25",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "Nind aa rhi h "
   }
 ]
