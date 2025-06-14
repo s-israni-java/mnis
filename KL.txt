@@ -29110,5 +29110,37 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:32",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Ou"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:32",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Out"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:33",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:33",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlo"
   }
 ]
