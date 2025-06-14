@@ -40782,5 +40782,37 @@
     "BATTERY": "80",
     "NETWORK": "M",
     "MSG": "It"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:39",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "Its"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:40",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "It's "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:40",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "It's f"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:51:41",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "MSG": "It's fi"
   }
 ]
