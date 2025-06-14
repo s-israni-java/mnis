@@ -40678,5 +40678,29 @@
     "BATTERY": "81",
     "NETWORK": "M",
     "MSG": "Haa ahy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:43",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "Haa ahyd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:43",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "Haa shyd "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 22:47:44",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "MSG": "Haa shyd"
   }
 ]
