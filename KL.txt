@@ -31798,5 +31798,21 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:33",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Ta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:55:34",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Tak"
   }
 ]
