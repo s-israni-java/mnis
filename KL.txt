@@ -36198,5 +36198,77 @@
     "BATTERY": "32",
     "NETWORK": "M",
     "MSG": "Coral ku"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:01",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:01",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:02",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:02",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:02",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya vi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:02",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya vit"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:02",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya vita"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:03",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya hota "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:57:03",
+    "BATTERY": "32",
+    "NETWORK": "M",
+    "MSG": "Coral kya hota h"
   }
 ]
