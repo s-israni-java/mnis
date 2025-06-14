@@ -33326,5 +33326,213 @@
     "BATTERY": "66",
     "NETWORK": "M",
     "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "An"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:08",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:08",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tdh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:08",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tdhir"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:09",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tdhirt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:09",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tdhirts"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:09",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:10",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:10",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:11",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:11",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:13",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:13",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:13",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi dik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:13",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi dikh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:14",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi dik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:14",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi di"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:14",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:14",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:15",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:15",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:15",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:15",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 15:25:15",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "MSG": "And tshirts ka"
   }
 ]
