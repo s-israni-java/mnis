@@ -29670,5 +29670,21 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Kya bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:16",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kya bheju"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:43:30",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Godrej & Boyce Complex Plant, 12, LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West, Mumbai, Maharashtra 400079"
   }
 ]
