@@ -39110,5 +39110,53 @@
     "BATTERY": "81",
     "NETWORK": "W",
     "MSG": "p"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 19:41:59",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "MSG": "pl"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 19:42:00",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "MSG": "pla"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 19:42:00",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "MSG": "play"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 19:42:05",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "MSG": "a"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 19:42:05",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "MSG": "am"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 19:42:05",
+    "BATTERY": "81",
+    "NETWORK": "W",
+    "MSG": "amp"
   }
 ]
