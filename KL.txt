@@ -28726,5 +28726,45 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Kitni detail x"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kitni detail xi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kitni detail xi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:35",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kitni detail xi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:35",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kitni detail xi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:35",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Kitni detail xi"
   }
 ]
