@@ -31974,5 +31974,13 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Take care i love you💕"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:30:32",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "MSG": "G"
   }
 ]
