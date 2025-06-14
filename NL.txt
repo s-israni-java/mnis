@@ -40718,5 +40718,45 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:52:59",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:52:59",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Abhi papa ke sath baith"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:52:59",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:53:59",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
   }
 ]
