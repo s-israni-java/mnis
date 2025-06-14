@@ -36918,5 +36918,53 @@
     "BATTERY": "30",
     "NETWORK": "M",
     "MSG": "Bhehna"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:54",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Bhehn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:54",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Bheh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:55",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Bheh\n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:55",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Bheh\nH"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:56",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Bheh\nHn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:04:58",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "MSG": "Bhe\nHn"
   }
 ]
