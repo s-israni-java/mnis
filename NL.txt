@@ -25218,5 +25218,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:32:36",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:32:47",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "Abhi vusme. Avalible. Basic. Colors. Hai. Black. White. Faan"
   }
 ]
