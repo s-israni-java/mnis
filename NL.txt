@@ -41318,5 +41318,15 @@
     "TITLE": "Divii",
     "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 01:14:34",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
