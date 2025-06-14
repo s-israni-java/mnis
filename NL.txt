@@ -25238,5 +25238,45 @@
     "TITLE": "Bhavisha Mam Gym",
     "ID": "917972168273@s.whatsapp.net",
     "MSG": "Abhi vusme. Avalible. Basic. Colors. Hai. Black. White. Faan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:32:47",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Bhavisha Mam Gym",
+    "ID": "917972168273@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:32:50",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:40:20",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:40:20",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
