@@ -40398,5 +40398,61 @@
     "BATTERY": "91",
     "NETWORK": "W",
     "MSG": "power button not wo"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:30:01",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button not work"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:30:01",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button not worki"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:30:01",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button not workin"
+  },
+  {
+    "APP": "com.android.vending",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:30:01",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "power button not working"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:31:00",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "₹1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:31:00",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "₹10"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:31:01",
+    "BATTERY": "91",
+    "NETWORK": "W",
+    "MSG": "₹100"
   }
 ]
