@@ -29214,5 +29214,61 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Outlook se shyd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:37",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:37",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd o"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:38",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd ou"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:38",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd our"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:38",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd ou"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:38",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd out"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:39",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd outah"
   }
 ]
