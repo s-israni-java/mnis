@@ -39006,5 +39006,29 @@
     "BATTERY": "25",
     "NETWORK": "M",
     "MSG": "Baarish gorn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:03",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish gorni"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:04",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish horhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:05",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish horhi h "
   }
 ]
