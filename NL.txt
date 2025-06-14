@@ -40878,5 +40878,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:00:42",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 23:00:42",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Yogesh Chandwani 🎂",
+    "ID": "false|Yogesh Chandwani 🎂|841ff96e-44a9-4266-8dfb-b1315a05c54d",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
