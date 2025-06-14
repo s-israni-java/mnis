@@ -28934,5 +28934,45 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Raat ko kon orga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:49",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organ"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:49",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organis"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:49",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organise"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:50",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organise "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:52",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organise kr"
   }
 ]
