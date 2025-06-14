@@ -38822,5 +38822,61 @@
     "BATTERY": "19",
     "NETWORK": "M",
     "MSG": "7"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:15",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 "
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:15",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 b"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:16",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:16",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje a"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:16",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aa "
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:16",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aa j"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:17",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aa "
   }
 ]
