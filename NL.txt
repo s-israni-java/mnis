@@ -25908,5 +25908,25 @@
     "TITLE": "Diva's: Nisha ❤️",
     "ID": "No ID",
     "MSG": "Reacted 😂 to your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:23:40",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Diva's: Nisha ❤️",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:24:00",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ha"
   }
 ]
