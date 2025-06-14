@@ -25688,5 +25688,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by shutterbonsai"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 16:49:33",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93234 74737‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
