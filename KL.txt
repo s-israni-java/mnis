@@ -38878,5 +38878,61 @@
     "BATTERY": "19",
     "NETWORK": "M",
     "MSG": "7 bje aa "
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:17",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aa"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:17",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aaaj"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:18",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aaa"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:18",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aa"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:18",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aaj"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:42:18",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "MSG": "7 bje aaja "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:53:59",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "B"
   }
 ]
