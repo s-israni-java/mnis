@@ -24298,5 +24298,25 @@
     "TITLE": "FDs for Father’s Day 🎁",
     "ID": "No ID",
     "MSG": "Celebrate every Father's legacy of smart saving—grow your money with AU Fixed Deposits with up to 7.25%* p.a. interest. Tap to book. *T&Cs"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:51",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Zepto",
+    "ID": "312",
+    "MSG": "Don't let your FREE cash fly away💸—Blink and you'll miss the FREEEEEE cash—coz it expires tomorrow!😲\nMake use of your ₹125 Zepto Cash now and shop anything you like🤑🤑\nGrab the chance to save big while shopping🤩"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 13:29:58",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
