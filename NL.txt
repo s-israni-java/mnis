@@ -41268,5 +41268,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 01:03:59",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 01:10:33",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Reacted 🥰 to \"I love you too❤️\""
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 01:10:33",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sagar❤️: Reacted 🥰 to \"I love you too❤️\""
   }
 ]
