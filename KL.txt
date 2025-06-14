@@ -31510,5 +31510,45 @@
     "BATTERY": "62",
     "NETWORK": "M",
     "MSG": "Gaali thodi kgan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:31",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Gaali thodi kgani"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:31",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Gaali thodi khani "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:32",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Gaali thodi khani h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:32",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "Gaali thodi khani h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:54:34",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "MSG": "🥺"
   }
 ]
