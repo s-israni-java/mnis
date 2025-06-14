@@ -26808,5 +26808,15 @@
     "TITLE": "20% battery",
     "ID": "No ID",
     "MSG": "Turn on Power Saving Mode?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 18:42:09",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "In 10 mins...6.50"
   }
 ]
