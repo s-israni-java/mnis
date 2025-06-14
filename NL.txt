@@ -39928,5 +39928,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Discharging • 95%"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 20:04:58",
+    "BATTERY": "95",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Discharging • 95%"
   }
 ]
