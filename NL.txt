@@ -40208,5 +40208,15 @@
     "TITLE": "Diva's: Nisha ❤️",
     "ID": "No ID",
     "MSG": "Sent a reel by samikshya_patel"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 21:32:16",
+    "BATTERY": "86",
+    "NETWORK": "W",
+    "TITLE": "‪+91 93234 74737‬",
+    "ID": "No ID",
+    "MSG": "Incoming Wi‑Fi call"
   }
 ]
