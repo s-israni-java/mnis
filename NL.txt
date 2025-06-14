@@ -24738,5 +24738,25 @@
     "TITLE": "VM-AUBANK-S",
     "ID": "415",
     "MSG": "Credited INR 2,000.00 to A\/c X1248 on 14-JUN-2025 Ref UPI\/CR\/516540668870\/SIMRITI VIJAYKUMAR B. Bal INR 8,000.65.\n-AU Bank"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:03:24",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:03:24",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "Vijaykumar Basantani paid you ₹2,000.00",
+    "ID": "No ID",
+    "MSG": "Tap to view."
   }
 ]
