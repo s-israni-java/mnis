@@ -40338,5 +40338,15 @@
     "TITLE": "Aadi Ochani",
     "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 22:30:35",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93234 74737‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
