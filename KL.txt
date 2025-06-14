@@ -47382,5 +47382,77 @@
     "BATTERY": "45",
     "NETWORK": "M",
     "MSG": "I love you "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:10:02",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "I love you t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:10:02",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "I love you to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:10:03",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "I love you too"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:10:04",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "I love you too😍"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:10:08",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "I love you too"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 01:10:11",
+    "BATTERY": "45",
+    "NETWORK": "M",
+    "MSG": "I love you too❤️"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 02:19:44",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "Y"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 02:19:44",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "Ye"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 02:19:44",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "MSG": "Ye "
   }
 ]
