@@ -39886,5 +39886,29 @@
     "BATTERY": "92",
     "NETWORK": "W",
     "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my office address iGet Outlook for Android"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:19:46",
+    "BATTERY": "92",
+    "NETWORK": "W",
+    "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my office address isGet Outlook for Android"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:19:46",
+    "BATTERY": "92",
+    "NETWORK": "W",
+    "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my office address is Get Outlook for Android"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 20:20:38",
+    "BATTERY": "92",
+    "NETWORK": "W",
+    "MSG": "Dear Sonu,As requested on WhatsApp by Anshika Singh, my office address is Godrej & Boyce Complex Plant, 12, LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West, Mumbai, Maharashtra 400079Get Outlook for Android"
   }
 ]
