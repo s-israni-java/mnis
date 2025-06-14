@@ -29182,5 +29182,37 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Outlook se e"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:36",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:36",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:36",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se sh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:37",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Outlook se shyd"
   }
 ]
