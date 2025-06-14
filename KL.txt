@@ -27750,5 +27750,37 @@
     "BATTERY": "67",
     "NETWORK": "M",
     "MSG": "Ut"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:35",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Uth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:36",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Utha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:36",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Utha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:27:36",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "MSG": "Utha h?"
   }
 ]
