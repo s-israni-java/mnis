@@ -28870,5 +28870,69 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Raat ko "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:46",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:46",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:47",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:47",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:47",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:48",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:48",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon or"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:48",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon orga"
   }
 ]
