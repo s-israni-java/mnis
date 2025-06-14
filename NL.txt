@@ -25458,5 +25458,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Jldi kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:48:49",
+    "BATTERY": "60",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "5 messages from 2 chats"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 15:50:14",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
