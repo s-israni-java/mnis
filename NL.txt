@@ -26318,5 +26318,15 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 17:44:57",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "A site is playing media",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
