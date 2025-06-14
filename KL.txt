@@ -29086,5 +29086,29 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "Raat ko kon organise krne baithta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:56",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organise krne baithta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:56",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko kon organise krne baithta h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:42:32",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
