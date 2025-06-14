@@ -32774,5 +32774,21 @@
     "BATTERY": "72",
     "NETWORK": "M",
     "MSG": "airtel pr"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:22:45",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "airtel pre"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:55:23",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "MSG": "₹2"
   }
 ]
