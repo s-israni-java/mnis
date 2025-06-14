@@ -33258,5 +33258,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Charging • 89.06%"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:48:05",
+    "BATTERY": "89",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • 89.07%"
+  },
+  {
+    "APP": "com.androxus.batterymeter",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 19:48:05",
+    "BATTERY": "89",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Charging • 89.08%"
   }
 ]
