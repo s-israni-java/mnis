@@ -38974,5 +38974,37 @@
     "BATTERY": "25",
     "NETWORK": "M",
     "MSG": "Baarish "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:02",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish g"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:03",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish go"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:03",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish gor"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 18:54:03",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "Baarish gorn"
   }
 ]
