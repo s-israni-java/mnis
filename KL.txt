@@ -32734,5 +32734,13 @@
     "BATTERY": "73",
     "NETWORK": "M",
     "MSG": "0"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 14:22:13",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": ""
   }
 ]
