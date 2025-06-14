@@ -21188,5 +21188,35 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Uploading: 0.89 MB of 1.2 MB (73%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:22:36",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.2 MB of 1.2 MB (95%)"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:39:24",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 06:39:24",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Today in Ulhasnagar",
+    "ID": "No ID",
+    "MSG": "🌧️ 75% · Thunderstorm · See full forecast"
   }
 ]
