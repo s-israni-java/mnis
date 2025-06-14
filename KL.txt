@@ -32518,5 +32518,21 @@
     "BATTERY": "76",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:57:00",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 13:57:02",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
