@@ -28822,5 +28822,53 @@
     "BATTERY": "65",
     "NETWORK": "M",
     "MSG": "R"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:45",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Ra"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:45",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:46",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:46",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:46",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 09:40:46",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "MSG": "Raat ko "
   }
 ]
