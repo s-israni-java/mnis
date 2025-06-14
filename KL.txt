@@ -34990,5 +34990,61 @@
     "BATTERY": "43",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:23:20",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:23:20",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Oku"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:23:20",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Okue"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:23:20",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Okues"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:23:20",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Okuess"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:23:21",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "MSG": "Okiesss "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-14 17:33:41",
+    "BATTERY": "40",
+    "NETWORK": "M",
+    "MSG": " "
   }
 ]
