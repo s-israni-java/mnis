@@ -24938,5 +24938,25 @@
     "TITLE": "AD-AIRTEL",
     "ID": "465",
     "MSG": "20028 is Tele verification PIN for activation of your port in mobile no. 9322584414. Activation is subjected to validation by your current service provider.  We will update via SMS to call 59059  for  completing the tele verification when network gets activated on your mobile."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:42:29",
+    "BATTERY": "70",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-14 14:47:14",
+    "BATTERY": "69",
+    "NETWORK": "M",
+    "TITLE": "AD-AIRINF-S",
+    "ID": "466",
+    "MSG": "Your request to port-in 9322584414 to Airtel Y066166181 is in process. To track the status, please visit Airtel Thanks App www.airtel.in\/5\/mnp2"
   }
 ]
