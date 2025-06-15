@@ -48022,5 +48022,29 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Hai kidr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:19",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:19",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:19",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa"
   }
 ]
