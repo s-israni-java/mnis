@@ -49806,5 +49806,61 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "This looks tas"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasr"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasry"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:12",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasry6"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:12",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasry"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:12",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasty "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasty 😍"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tasty 😍😍"
   }
 ]
