@@ -1302,5 +1302,21 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Cu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:32",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Cul"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:33",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl "
   }
 ]
