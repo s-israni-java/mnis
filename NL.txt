@@ -42418,5 +42418,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Yeh le?"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:16:43",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "So what"
   }
 ]
