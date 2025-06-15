@@ -51458,5 +51458,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:50:41",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "Vijaykumar Basantani paid you ₹25,000.00",
+    "ID": "No ID",
+    "MSG": "Tap to view."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:50:44",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
