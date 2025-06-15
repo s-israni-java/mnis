@@ -1254,5 +1254,29 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Khud bahar h ab "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:21",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Khud bahar h ab t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:22",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Khud bahar h ab tk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:23",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": " "
   }
 ]
