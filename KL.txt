@@ -48286,5 +48286,101 @@
     "BATTERY": "88",
     "NETWORK": "M",
     "MSG": "Ais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:48",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:48",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:48",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:49",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:49",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise kai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:49",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise kais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:49",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Aise kaise"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:50",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:50",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Ik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:51",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:51",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:51",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "U"
   }
 ]
