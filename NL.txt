@@ -44738,5 +44738,15 @@
     "TITLE": "Excuses",
     "ID": "No ID",
     "MSG": "AP Dhillon, Gurinder Gill, Intense"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:53:55",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Excuses",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense"
   }
 ]
