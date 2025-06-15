@@ -50302,5 +50302,13 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "Dekhti hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:35",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "B"
   }
 ]
