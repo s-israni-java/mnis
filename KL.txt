@@ -47870,5 +47870,77 @@
     "BATTERY": "98",
     "NETWORK": "M",
     "MSG": "Ye"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:51",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye e"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:52",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:52",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye k"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:52",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye ko"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:52",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye kon"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:53",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye kon "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:53",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye kon h"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 11:46:54",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "MSG": "Ye kon h?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:27:25",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "O"
   }
 ]
