@@ -14,5 +14,21 @@
     "BATTERY": "25",
     "NETWORK": "M",
     "MSG": "Search for apps on this device"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 20:51:54",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 20:51:54",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "MSG": "gp"
   }
 ]
