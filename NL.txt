@@ -44958,5 +44958,45 @@
     "TITLE": "Na Ja",
     "ID": "No ID",
     "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:56:24",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:56:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:56:25",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:56:58",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
