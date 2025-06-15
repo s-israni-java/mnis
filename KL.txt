@@ -558,5 +558,21 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Mere sth yi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:27",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:27",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi m"
   }
 ]
