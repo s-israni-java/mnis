@@ -43378,5 +43378,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:18:52",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
   }
 ]
