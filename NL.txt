@@ -50058,5 +50058,15 @@
     "TITLE": "M U S K A N",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:58:35",
+    "BATTERY": "44",
+    "NETWORK": "M",
+    "TITLE": "Burger at ₹1! 🍔",
+    "ID": "No ID",
+    "MSG": "Order with Flash Sale at 5 PM today. ⏱️"
   }
 ]
