@@ -198,5 +198,25 @@
     "TITLE": "Sagar Mom",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:42",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:49:01",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "VM-AUBANK-S",
+    "ID": "415",
+    "MSG": "Debited INR 180.00 from A\/c X1248 on 15-JUN-2025\nUPI\/DR\/553277078420\/Egg Adda\/UTIB\/918020\nBal INR 7,240.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
   }
 ]
