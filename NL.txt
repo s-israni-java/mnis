@@ -47148,5 +47148,45 @@
     "TITLE": "‪+91 93234 74737‬",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:03:53",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:03:57",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:03:58",
+    "BATTERY": "54",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:11:29",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "How will Dad rate? 🤔",
+    "ID": "No ID",
+    "MSG": "Reserving a table: ⭐⭐\nReserving with up to 50% OFF: ⭐⭐⭐⭐"
   }
 ]
