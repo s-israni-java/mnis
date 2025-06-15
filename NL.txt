@@ -42058,5 +42058,25 @@
     "TITLE": "Sambhavna Seth Entertainment",
     "ID": "No ID",
     "MSG": "AB CANDY KA PROBLEM SHURU🤦‍♀️"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:31:14",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Follow request",
+    "ID": "No ID",
+    "MSG": "Akshay (wittygeminisoul) has requested to follow you."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:31:15",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
