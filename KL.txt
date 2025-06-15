@@ -48542,5 +48542,85 @@
     "BATTERY": "88",
     "NETWORK": "M",
     "MSG": "Vo "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:20",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:20",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:20",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:21",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:21",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:21",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:21",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:21",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise bo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:22",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise bol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:22",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise boli"
   }
 ]
