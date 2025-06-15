@@ -45278,5 +45278,25 @@
     "TITLE": "Obsessed",
     "ID": "No ID",
     "MSG": "Riar Saab, Abhijay Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:57:59",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Obsessed",
+    "ID": "No ID",
+    "MSG": "Riar Saab, Abhijay Sharma"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 15:01:07",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Obsessed",
+    "ID": "No ID",
+    "MSG": "Riar Saab, Abhijay Sharma"
   }
 ]
