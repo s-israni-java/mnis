@@ -47188,5 +47188,15 @@
     "TITLE": "How will Dad rate? 🤔",
     "ID": "No ID",
     "MSG": "Reserving a table: ⭐⭐\nReserving with up to 50% OFF: ⭐⭐⭐⭐"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:12:25",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
