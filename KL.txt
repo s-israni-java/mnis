@@ -974,5 +974,45 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Aisa h toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:04",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Aisa h toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:04",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Aisa h toh s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:05",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Aisa h toh sa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:05",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Aisa h toh sah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:05",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Aisa h toh sahi"
   }
 ]
