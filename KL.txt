@@ -48878,5 +48878,21 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "Toh?"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:51",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Toh??"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:53",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
