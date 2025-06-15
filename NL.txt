@@ -44868,5 +44868,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:55:33",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:55:51",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
