@@ -42048,5 +42048,15 @@
     "TITLE": "Team Snapchat",
     "ID": "false|Team Snapchat|84ee8839-3911-492d-8b94-72dd80f3713a",
     "MSG": "sent you a Snap"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:25:43",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Sambhavna Seth Entertainment",
+    "ID": "No ID",
+    "MSG": "AB CANDY KA PROBLEM SHURU🤦‍♀️"
   }
 ]
