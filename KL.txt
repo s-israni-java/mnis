@@ -78,5 +78,29 @@
     "BATTERY": "24",
     "NETWORK": "M",
     "MSG": "2"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 20:52:25",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "MSG": "●5"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 20:52:25",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "MSG": "●●9"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 20:52:26",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "MSG": "●●●0"
   }
 ]
