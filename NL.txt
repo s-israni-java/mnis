@@ -49108,5 +49108,15 @@
     "TITLE": "Aadi Ochani",
     "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
     "MSG": "replied to your Chat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:23:51",
+    "BATTERY": "50",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
