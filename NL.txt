@@ -148,5 +148,15 @@
     "TITLE": "20% battery",
     "ID": "No ID",
     "MSG": "Turn on Power Saving Mode?"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:39:13",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "TITLE": "“𝙈𝙤𝙣𝙚𝙮 𝙙𝙤𝙚𝙨𝙣’𝙩 𝙜𝙧𝙤𝙬 𝙤𝙣 𝙩𝙧𝙚𝙚𝙨”",
+    "ID": "No ID",
+    "MSG": "Listen to your Dad & save with FLAT ₹200 OFF on all his favs! 😂"
   }
 ]
