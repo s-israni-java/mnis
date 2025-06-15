@@ -49718,5 +49718,93 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "This"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:08",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:08",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This l"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:08",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This lo"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This loo"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This look"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks t"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tar"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks ta"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This looks tas"
   }
 ]
