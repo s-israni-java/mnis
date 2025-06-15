@@ -47068,5 +47068,25 @@
     "TITLE": "High Rated Gabru (From \"High Rated Gabru\")",
     "ID": "No ID",
     "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 15:44:38",
+    "BATTERY": "57",
+    "NETWORK": "M",
+    "TITLE": "High Rated Gabru (From \"High Rated Gabru\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:00:42",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "JZ-TRAIND-G",
+    "ID": "379",
+    "MSG": "Report SPAM to help in control of SPAM and action against spammers. With TRAI DND App it is easy and quick. App also helps in blocking or allowing promotional calls. Available on trai.gov.in and google play\/app store. From TRAI"
   }
 ]
