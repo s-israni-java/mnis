@@ -894,5 +894,13 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "I love you too🥺💕💕😘"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:01",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
