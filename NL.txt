@@ -42208,5 +42208,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Dont accept"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:58:29",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
