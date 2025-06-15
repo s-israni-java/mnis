@@ -51198,5 +51198,15 @@
     "TITLE": "You have 20 updates",
     "ID": "No ID",
     "MSG": "View now."
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 19:17:12",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
