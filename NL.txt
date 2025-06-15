@@ -44468,5 +44468,25 @@
     "TITLE": "Afsos",
     "ID": "No ID",
     "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:45:13",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Afsos",
+    "ID": "No ID",
+    "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:47:19",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "JZ-JIOVOC-S",
+    "ID": "405",
+    "MSG": "प्रिय ग्राहक, आपल्या वेळेबद्दल धन्यवाद. कृपया JioCare सह आपल्या अनुभवाला रेट करण्यासाठी थोडा वेळ द्या. \nआपला अभिप्राय शेअर करण्यासाठी क्लिक करा www.jio.com\/r\/BgqGd7Gwt . धन्यवाद, टीम Jio"
   }
 ]
