@@ -42028,5 +42028,25 @@
     "TITLE": "Shweta Gulabani",
     "ID": "No ID",
     "MSG": "Oh Haa woh b zaruri hai"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:24:18",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:24:21",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Team Snapchat",
+    "ID": "false|Team Snapchat|84ee8839-3911-492d-8b94-72dd80f3713a",
+    "MSG": "sent you a Snap"
   }
 ]
