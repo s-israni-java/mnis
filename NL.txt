@@ -51398,5 +51398,35 @@
     "TITLE": "Vijaykumar Basantani paid you ₹25,000.00",
     "ID": "No ID",
     "MSG": "Tap to view."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:49:20",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "AX-AUBANK-S",
+    "ID": "389",
+    "MSG": "Credited INR 25,000.00 to A\/c X1248 on 15-JUN-2025 Ref UPI\/CR\/553217305164\/SIMRITI VIJAYKUMAR B. Bal INR 32,420.65.\n-AU Bank"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:49:29",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93234 74737‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:49:29",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
