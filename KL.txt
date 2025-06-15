@@ -1366,5 +1366,13 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Chl bye\n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:39",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nG"
   }
 ]
