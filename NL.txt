@@ -50978,5 +50978,25 @@
     "TITLE": "Tu Jaane Na",
     "ID": "No ID",
     "MSG": "Atif Aslam, Pritam"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:37:32",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "Tu Jaane Na",
+    "ID": "No ID",
+    "MSG": "Atif Aslam, Pritam"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:38:00",
+    "BATTERY": "36",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a reel by vibemusicind"
   }
 ]
