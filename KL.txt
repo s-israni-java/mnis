@@ -1574,5 +1574,45 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Chl bye\nGood night \nSweet dreams \nTake care \n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:52",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake care \nI"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:52",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake care \nI "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:52",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake care \nI l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:52",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake care \nI lo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:52",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake care \nI lov"
   }
 ]
