@@ -51326,5 +51326,133 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "Arey mujse wait nhi hua "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:43",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:43",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Su"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:44",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Sus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:44",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Susp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:44",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Suspe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:44",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Suspen"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:44",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Suspens"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:45",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Suspense "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:50",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:50",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:50",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense mer"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:51",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:51",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense me r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:51",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense me re"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:52",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense me reh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:54:52",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "Suspense me rehn"
   }
 ]
