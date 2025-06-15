@@ -51288,5 +51288,25 @@
     "TITLE": "Missed call",
     "ID": "No ID",
     "MSG": "Mumma"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:28:59",
+    "BATTERY": "27",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "2673i30f1f0648c2080c7",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:31:01",
+    "BATTERY": "27",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
