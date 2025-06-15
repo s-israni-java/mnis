@@ -48894,5 +48894,101 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "A"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Ais"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q b"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q bo"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:55",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q bol"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:55",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q bola"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:55",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q bola "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:56",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q bola a"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:56",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Aise q bola ac"
   }
 ]
