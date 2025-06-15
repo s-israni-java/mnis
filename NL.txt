@@ -49878,5 +49878,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:37:32",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:37:33",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
