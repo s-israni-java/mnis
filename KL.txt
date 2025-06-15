@@ -50150,5 +50150,93 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "1000 ke aaspaas "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:15",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas h"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:15",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas ho"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:16",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hog"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:16",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:16",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:16",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga n"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:17",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga no"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:17",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga not"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:17",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga notu"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:18",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas hoga motu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:28",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "D"
   }
 ]
