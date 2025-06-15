@@ -41538,5 +41538,35 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Reacted 😂 to your message."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 07:54:04",
+    "BATTERY": "12",
+    "NETWORK": "No Connection",
+    "TITLE": "JZ-JIOSVC-S",
+    "ID": "471",
+    "MSG": "Dear Customer,\r\nPorting out? You are on the best network. We want you back. Your account is credited with a 7 days welcome back 5G unlimited pack. Stay on Jio and enjoy best in industry service and benefits\r\nThank you for choosing us!\r\nTeam Jio"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 10:26:47",
+    "BATTERY": "100",
+    "NETWORK": "No Connection",
+    "TITLE": "Charging Complete",
+    "ID": "No ID",
+    "MSG": "The battery is full"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 11:39:41",
+    "BATTERY": "100",
+    "NETWORK": "M",
+    "TITLE": "Follow request",
+    "ID": "No ID",
+    "MSG": "Aakash Israni (aakashisrani_) has requested to follow you."
   }
 ]
