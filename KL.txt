@@ -606,5 +606,53 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Mere sth hi mood "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:28",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:29",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood kh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:29",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:29",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:29",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb u"
   }
 ]
