@@ -262,5 +262,29 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:14",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Po"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:15",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Poo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:15",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool"
   }
 ]
