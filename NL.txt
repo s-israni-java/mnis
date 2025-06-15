@@ -42578,5 +42578,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:38:06",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Giraffe 🦒😂",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674",
+    "MSG": "sent you a Snap"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:56:33",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Bui bui"
   }
 ]
