@@ -48670,5 +48670,21 @@
     "BATTERY": "88",
     "NETWORK": "M",
     "MSG": "😒😒"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:00:05",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "😒😒😒"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:15",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
