@@ -50502,5 +50502,53 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "Bhtt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:45",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Bhttt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:45",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Bhttt "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:49",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:49",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Su"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Sup"
   }
 ]
