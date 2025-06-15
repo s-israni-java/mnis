@@ -654,5 +654,61 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Mere sth hi mood khrb u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb uo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb uot"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb uota"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:31",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb hota "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:31",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth hi mood khrb hota h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:13:22",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:13:22",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "🥺🥺"
   }
 ]
