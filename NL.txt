@@ -42308,5 +42308,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:00:37",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Q ki 1.5 gb wala plan bht expensive he hoga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:00:37",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:01:57",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
