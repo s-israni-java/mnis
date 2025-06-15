@@ -78,5 +78,15 @@
     "TITLE": "Indian Outfit for Simi",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:32:55",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93736 58115‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
