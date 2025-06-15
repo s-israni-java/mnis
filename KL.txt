@@ -318,5 +318,37 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Pool pe "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:17",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:17",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:17",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe koo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:17",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe kood"
   }
 ]
