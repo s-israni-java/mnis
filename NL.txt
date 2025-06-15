@@ -51038,5 +51038,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Missed video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:54:14",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
