@@ -50078,5 +50078,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:04:39",
+    "BATTERY": "43",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:24:02",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Finding Her",
+    "ID": "No ID",
+    "MSG": "Kushagra, Bharath, Saaheal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:24:02",
+    "BATTERY": "39",
+    "NETWORK": "M",
+    "TITLE": "Finding Her",
+    "ID": "No ID",
+    "MSG": "Kushagra, Bharath, Saaheal"
   }
 ]
