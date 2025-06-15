@@ -42458,5 +42458,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:23:22",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Renu Rohra",
+    "ID": "false|Renu Rohra|8157cd9e-ada3-4ecf-a775-af9f90bd4fae",
+    "MSG": "Simriti Basantani✨, you have a new friend suggestion from your contacts!"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:23:40",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Follow request",
+    "ID": "No ID",
+    "MSG": "Navin Soni (navinsoni464) has requested to follow you."
   }
 ]
