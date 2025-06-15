@@ -43198,5 +43198,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Missed video call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:16:00",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Qatal",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:16:00",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
   }
 ]
