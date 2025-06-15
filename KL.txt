@@ -366,5 +366,29 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Pool pe mood s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:18",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:19",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:19",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sahi"
   }
 ]
