@@ -46508,5 +46508,25 @@
     "TITLE": "Ik Tera",
     "ID": "No ID",
     "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 15:33:07",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Cheers to Dad! 🎉",
+    "ID": "No ID",
+    "MSG": "Father’s Day wallpapers that say “You rock, Dad!” 👔 💙"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 15:34:29",
+    "BATTERY": "58",
+    "NETWORK": "M",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
   }
 ]
