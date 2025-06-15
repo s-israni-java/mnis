@@ -50048,5 +50048,15 @@
     "TITLE": "M U S K A N",
     "ID": "No ID",
     "MSG": "Thankyou🥰"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:46:32",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "M U S K A N",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
