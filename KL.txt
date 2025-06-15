@@ -1014,5 +1014,13 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Aisa h toh sahi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:09",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
