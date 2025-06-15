@@ -422,5 +422,37 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Pool pe mood sahi hot"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:20",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sahi hota"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:20",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sahi hota "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:21",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sahi hota u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:22",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood sahi hota h "
   }
 ]
