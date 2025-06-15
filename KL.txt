@@ -350,5 +350,21 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Pool pe kood"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:18",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:18",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Pool pe mood s"
   }
 ]
