@@ -47942,5 +47942,29 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:27:25",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Oi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:27:25",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Oii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:27:36",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
