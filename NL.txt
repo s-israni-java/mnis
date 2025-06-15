@@ -38,5 +38,15 @@
     "TITLE": "Papa",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:52:40",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "TITLE": "VK-AUBANK-S",
+    "ID": "417",
+    "MSG": "Debited INR 25,000.00 from A\/c X1248 on 15-JUN-2025\nUPI\/DR\/553251082875\/8698423278@ptyes\/ICI\nBal INR 32,420.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
   }
 ]
