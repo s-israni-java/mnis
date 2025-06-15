@@ -1174,5 +1174,29 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Khud b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:19",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Khud ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:19",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Khud bah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:20",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Khud baha"
   }
 ]
