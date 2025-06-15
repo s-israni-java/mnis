@@ -43518,5 +43518,15 @@
     "TITLE": "JZ-JIOINF-S",
     "ID": "472",
     "MSG": "JioAutoPay निवडा आणि रिचार्जची तारीख चुकवू नका. प्लॅन आणि पेमेंट मोड कधीही बदला. अनेक क्रमांक आणि त्यांच्या देय तारखांचे व्यवस्थापन करा. https:\/\/www.jio.com\/selfcare\/autopay\/"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:22:10",
+    "BATTERY": "71",
+    "NETWORK": "M",
+    "TITLE": "Suniyan Suniyan",
+    "ID": "No ID",
+    "MSG": "Juss, MixSingh"
   }
 ]
