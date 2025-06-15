@@ -48622,5 +48622,53 @@
     "BATTERY": "88",
     "NETWORK": "M",
     "MSG": "Vo kaise boli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:22",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise boli "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:23",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise boli v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:23",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise boli vc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:59:23",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Vo kaise boli bc "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:00:05",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "😒"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:00:05",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "😒😒"
   }
 ]
