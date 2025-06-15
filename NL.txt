@@ -51098,5 +51098,15 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:58:28",
+    "BATTERY": "35",
+    "NETWORK": "M",
+    "TITLE": "Bhavna Tcs",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6",
+    "MSG": "sent you a Snap • 🔥"
   }
 ]
