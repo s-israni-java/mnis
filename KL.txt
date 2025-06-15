@@ -50238,5 +50238,69 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "D"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:28",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "De"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dek"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dekh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dekht"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dekhti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dekhti "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dekhti h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Dekhti hu"
   }
 ]
