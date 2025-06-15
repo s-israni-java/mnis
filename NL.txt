@@ -268,5 +268,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:56:45",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
   }
 ]
