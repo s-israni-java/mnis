@@ -50618,5 +50618,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:29:21",
+    "BATTERY": "38",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Nhi"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:31:23",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
   }
 ]
