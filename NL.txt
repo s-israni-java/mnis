@@ -42508,5 +42508,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:25:16",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Renu Rohra",
+    "ID": "false|Renu Rohra|8157cd9e-ada3-4ecf-a775-af9f90bd4fae",
+    "MSG": "wants to be your friend!"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:25:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a reel by cattle_vibe"
   }
 ]
