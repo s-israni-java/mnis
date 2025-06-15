@@ -48150,5 +48150,85 @@
     "BATTERY": "88",
     "NETWORK": "M",
     "MSG": "Haa but 1.5 toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:23",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:23",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5g"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:24",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5g "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:24",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5g h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:25",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5g h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:25",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5g h n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:25",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Haa but 1.5 toh 5g h na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:36",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:36",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 12:58:37",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "MSG": "Nhi"
   }
 ]
