@@ -42478,5 +42478,25 @@
     "TITLE": "Follow request",
     "ID": "No ID",
     "MSG": "Navin Soni (navinsoni464) has requested to follow you."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:23:40",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 13:24:24",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Yeh workout krna next time"
   }
 ]
