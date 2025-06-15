@@ -43148,5 +43148,45 @@
     "TITLE": "Admirin' You (feat. Preston Pablo)",
     "ID": "No ID",
     "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:12:30",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:12:31",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:14:42",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:14:43",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
