@@ -50550,5 +50550,109 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "Sup"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Supe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:50",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Super"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:51",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Superb"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:51",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Superb "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:51",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Superb h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:57",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "L"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:58",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "La"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:58",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Las"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:58",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Last"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:58",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Last "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:59",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Last e"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:59",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Last ep"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:53:59",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Last ep "
   }
 ]
