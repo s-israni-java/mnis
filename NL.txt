@@ -45518,5 +45518,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Where are you sitting"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 15:02:41",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 15:10:42",
+    "BATTERY": "62",
+    "NETWORK": "M",
+    "TITLE": "9:45",
+    "ID": "No ID",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu"
   }
 ]
