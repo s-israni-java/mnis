@@ -218,5 +218,15 @@
     "TITLE": "VM-AUBANK-S",
     "ID": "415",
     "MSG": "Debited INR 180.00 from A\/c X1248 on 15-JUN-2025\nUPI\/DR\/553277078420\/Egg Adda\/UTIB\/918020\nBal INR 7,240.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:21:45",
+    "BATTERY": "26",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
   }
 ]
