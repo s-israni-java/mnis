@@ -518,5 +518,45 @@
     "BATTERY": "48",
     "NETWORK": "M",
     "MSG": "Mere sth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:25",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:25",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth y"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:25",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth yi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:25",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth yi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 22:58:26",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "MSG": "Mere sth yi"
   }
 ]
