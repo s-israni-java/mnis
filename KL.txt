@@ -50006,5 +50006,149 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "1000 ke "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke a"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:09",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaaa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:10",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:11",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaas"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:11",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaas0"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:12",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaas"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:12",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:12",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:13",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aad"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:13",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aas"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aasp"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:15",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:15",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:15:15",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "1000 ke aaspaas "
   }
 ]
