@@ -51338,5 +51338,15 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:47:37",
+    "BATTERY": "26",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93234 74737‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
