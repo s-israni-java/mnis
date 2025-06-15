@@ -48686,5 +48686,69 @@
     "BATTERY": "86",
     "NETWORK": "M",
     "MSG": "T"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:15",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Te"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:15",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Ter"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:16",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Tera"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:16",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Tera "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:16",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Tera co"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:16",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Tera cousi"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:17",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Tera cousin"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:09:17",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "MSG": "Tera cousin "
   }
 ]
