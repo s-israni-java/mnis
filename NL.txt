@@ -50018,5 +50018,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:37:47",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:43:48",
+    "BATTERY": "46",
+    "NETWORK": "M",
+    "TITLE": "JE-NDMAEW-G",
+    "ID": "409",
+    "MSG": "पुढील ३-४ तासांत जिल्ह्यांमध्ये काही ठिकाणी विजांच्या कडकडाटासह वादळे आणि हलक्या ते मध्यम स्वरूपाच्या पावसासह वेगाने वारे वाहण्याची शक्यता आहे. नागरिकांनी सतर्क राहावे. मंत्रालय."
   }
 ]
