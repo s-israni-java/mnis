@@ -50678,5 +50678,55 @@
     "TITLE": "Jo Tum Mere Ho",
     "ID": "No ID",
     "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:31:44",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:31:44",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:31:44",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:32:02",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 17:32:02",
+    "BATTERY": "37",
+    "NETWORK": "M",
+    "TITLE": "Ishq",
+    "ID": "No ID",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer"
   }
 ]
