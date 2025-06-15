@@ -1518,5 +1518,21 @@
     "BATTERY": "47",
     "NETWORK": "M",
     "MSG": "Chl bye\nGood night \nSweet dreams \nTa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:49",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 23:14:49",
+    "BATTERY": "47",
+    "NETWORK": "M",
+    "MSG": "Chl bye\nGood night \nSweet dreams \nTake care "
   }
 ]
