@@ -42618,5 +42618,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by blacksstreettt"
+  },
+  {
+    "APP": "com.ludo.king",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 14:02:18",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Play"
   }
 ]
