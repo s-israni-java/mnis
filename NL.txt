@@ -51308,5 +51308,25 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:31:01",
+    "BATTERY": "27",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:31:07",
+    "BATTERY": "27",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
