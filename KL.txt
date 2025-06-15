@@ -49894,5 +49894,13 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "Haa😍😍"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:43",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "C"
   }
 ]
