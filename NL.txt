@@ -51228,5 +51228,15 @@
     "TITLE": "We caught your dad in 4K… 😂",
     "ID": "No ID",
     "MSG": "…ordering treats at FLAT 65% OFF 📺👇"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:28:29",
+    "BATTERY": "27",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93736 58115‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
