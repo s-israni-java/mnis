@@ -42218,5 +42218,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:58:30",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:59:12",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Nhi hhhhh..check plains"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 12:59:12",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Nhi hhhhh..check plains"
   }
 ]
