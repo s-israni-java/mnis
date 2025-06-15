@@ -51188,5 +51188,15 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 19:02:12",
+    "BATTERY": "30",
+    "NETWORK": "M",
+    "TITLE": "You have 20 updates",
+    "ID": "No ID",
+    "MSG": "View now."
   }
 ]
