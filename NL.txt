@@ -47088,5 +47088,15 @@
     "TITLE": "JZ-TRAIND-G",
     "ID": "379",
     "MSG": "Report SPAM to help in control of SPAM and action against spammers. With TRAI DND App it is easy and quick. App also helps in blocking or allowing promotional calls. Available on trai.gov.in and google play\/app store. From TRAI"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 16:01:25",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
