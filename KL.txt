@@ -49662,5 +49662,61 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "Muje lga pehchan ka h tere"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:12:16",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Muje lga pehchan ka h tere "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:12:17",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:12:17",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:12:18",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Haa"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:12:18",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Haa "
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:08",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "Th"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:14:08",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This"
   }
 ]
