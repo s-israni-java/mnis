@@ -51208,5 +51208,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 19:17:12",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "Friendly faces",
+    "ID": "No ID",
+    "MSG": "New memory for you"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 19:37:25",
+    "BATTERY": "29",
+    "NETWORK": "M",
+    "TITLE": "We caught your dad in 4K… 😂",
+    "ID": "No ID",
+    "MSG": "…ordering treats at FLAT 65% OFF 📺👇"
   }
 ]
