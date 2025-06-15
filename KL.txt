@@ -48838,5 +48838,45 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "True😂"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:47",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "True😂😂"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:50",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:50",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "To"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:50",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Toh"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-15 13:11:50",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Toh?"
   }
 ]
