@@ -168,5 +168,25 @@
     "TITLE": "‪+91 76204 95477‬",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:35",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:36",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
