@@ -13988,5 +13988,45 @@
     "TITLE": "Dil Tu Jaan Tu",
     "ID": "No ID",
     "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:12:12",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:12:12",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:13:50",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Sai Teja Goli",
+    "ID": "No ID",
+    "MSG": "Missing bank & Missing FFS cases JUN'25 Dear All, We have updated the missing bank details & missing FFS cases in attached file. Please refer this file and raise the issues accordingly in tracker. Missing_FFS_bank.xlsx Thanks & regards Sai Teja Goli"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:13:51",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Sai Teja Goli",
+    "ID": "No ID",
+    "MSG": "Missing bank & Missing FFS cases JUN'25 • Dear All, We have updated the missing bank details & missing FFS cases in attached file. Please refer this file and raise the issues accordingly in tracker. Missing_FFS_bank.xlsx Thanks & regards Sai Teja Goli"
   }
 ]
