@@ -19928,5 +19928,25 @@
     "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
     "ID": "No ID",
     "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:01:36",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:01:59",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "DIVAS on TEAMS: Nisha Kadam",
+    "ID": "No ID",
+    "MSG": "📷 Image"
   }
 ]
