@@ -19108,5 +19108,15 @@
     "TITLE": "Manager: Let’s circle back.",
     "ID": "No ID",
     "MSG": "Us: Let’s order Pav bhaji or some snacks first plizzz. 🥹"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:47:55",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "ID": "No ID",
+    "MSG": "Good Afternoon TeamFor Jun25 payroll action..."
   }
 ]
