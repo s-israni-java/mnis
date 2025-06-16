@@ -25878,5 +25878,15 @@
     "CDATE": "2025-06-16 21:13:46",
     "BATTERY": "74",
     "ID": "917620495477@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:20:41",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
