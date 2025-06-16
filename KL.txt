@@ -23862,5 +23862,37 @@
     "BATTERY": "76",
     "NETWORK": "M",
     "MSG": "sams"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:45",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "samsu"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:45",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "samsun"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:45",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "samsung"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:10:24",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "f"
   }
 ]
