@@ -1774,5 +1774,29 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "G"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:11",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Go"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:12",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Good "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:12",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Good morning "
   }
 ]
