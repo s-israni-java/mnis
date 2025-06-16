@@ -25508,5 +25508,15 @@
     "TITLE": "Mumma",
     "ID": "2673i30f1f0648c2080c7",
     "MSG": "Missed call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:10:56",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
