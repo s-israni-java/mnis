@@ -25888,5 +25888,25 @@
     "CDATE": "2025-06-16 21:20:41",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:20:41",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Mumma",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:21:10",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
