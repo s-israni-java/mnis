@@ -20222,5 +20222,93 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Shoulder me kaise mich"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:57",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Mich "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:57",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Mich"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:58",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Mic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:58",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:58",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:59",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Mo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:59",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Moc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:59",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me kaise Moch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:02",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:02",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:02",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi"
   }
 ]
