@@ -1748,5 +1748,15 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Uploading: 2.7 MB of 2.7 MB (100%)"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:37",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by dayri_in_my_life"
   }
 ]
