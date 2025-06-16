@@ -25738,5 +25738,25 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:03:33",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "Tomorrow in Thane",
+    "ID": "No ID",
+    "MSG": "🌧️ 45% · Rain showers · See full forecast"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:09:08",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "https:\/\/mega.nz\/file\/GxQ0zRSZ#5NJ1Hqa-UZc3hTnuirk_SMEAkQPH4btnxcFILpWyO_k"
   }
 ]
