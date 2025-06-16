@@ -1788,5 +1788,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:14",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:14",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:56:16",
+    "BATTERY": "68",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aa rha hu m"
   }
 ]
