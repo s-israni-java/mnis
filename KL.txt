@@ -22430,5 +22430,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Fltu ki baat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:11",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki baat kr r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:11",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki baat kr rha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:12",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki baat kr rha h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:12",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki baat kr rha h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "M"
   }
 ]
