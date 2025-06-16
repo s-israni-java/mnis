@@ -26058,5 +26058,25 @@
     "CDATE": "2025-06-16 21:51:19",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:51:20",
+    "BATTERY": "70",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "1️⃣ Your fav movie\n2️⃣ Your fav desserts at FLAT ₹125 OFF! ",
+    "TITLE": "Cutie, relax with 👇",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:59:04",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
