@@ -23526,5 +23526,21 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Na hi me interested hu phone rkhne me...na me kisi se baat krti hu toh mere liye ek hi phone kaafi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:48",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne me...na me kisi se baat krti hu toh mere liye ek hi phone kaafi h "
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:41:54",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "g"
   }
 ]
