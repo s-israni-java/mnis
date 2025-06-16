@@ -9798,5 +9798,45 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 11:19:00",
+    "BATTERY": "55",
+    "NETWORK": "M",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 11:35:38",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Swapna Chaudankar",
+    "ID": "No ID",
+    "MSG": "HI Good morning... aaj woh FFS waw"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 11:36:05",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Swapna Chaudankar",
+    "ID": "No ID",
+    "MSG": "aaj woh FFS .. case dekhne hai ..."
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 11:36:19",
+    "BATTERY": "52",
+    "NETWORK": "M",
+    "TITLE": "Swapna Chaudankar",
+    "ID": "No ID",
+    "MSG": "we will connect for that after sometime."
   }
 ]
