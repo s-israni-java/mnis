@@ -7094,5 +7094,21 @@
     "BATTERY": "46",
     "NETWORK": "W",
     "MSG": "Y "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:27",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Y d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:28",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Y "
   }
 ]
