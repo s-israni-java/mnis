@@ -22366,5 +22366,69 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Fltu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:10",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:10",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:10",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:10",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:10",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:10",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:11",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki baat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:11",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fltu ki baat "
   }
 ]
