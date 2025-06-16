@@ -25388,5 +25388,35 @@
     "TITLE": "Baarishein",
     "ID": "No ID",
     "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:58:50",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Baarishein",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:58:50",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Baarishein",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:00:08",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Words That Stick! 💯",
+    "ID": "No ID",
+    "MSG": "Bold wallpapers with sayings that speak for you! 💬"
   }
 ]
