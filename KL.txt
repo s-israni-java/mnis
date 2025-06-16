@@ -15862,5 +15862,45 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "In tai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:10",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "In ta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:11",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "In t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:11",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "In tt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:11",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "In tte"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:11",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "In tt"
   }
 ]
