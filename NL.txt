@@ -25518,5 +25518,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:10:57",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:12:19",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Baarishein",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:12:19",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Baarishein",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
   }
 ]
