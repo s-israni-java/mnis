@@ -21406,5 +21406,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "F"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:39",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:39",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fig"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:39",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Figh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:39",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fight"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:40",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fightm"
   }
 ]
