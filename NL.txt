@@ -1868,5 +1868,25 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:44:05",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:44:07",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "Harsh Beniwal",
+    "ID": "No ID",
+    "MSG": "Gukesh Vs Magnus Carlsen"
   }
 ]
