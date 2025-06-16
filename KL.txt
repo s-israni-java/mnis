@@ -15486,5 +15486,37 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Aisa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:51",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Aisa k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:51",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Aisa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:52",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Aisa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:52",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ais"
   }
 ]
