@@ -20046,5 +20046,101 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Sh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:52",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Sho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:52",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shou"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:53",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoul"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:53",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Should"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:53",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulde"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:53",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:53",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Shoulder me ka"
   }
 ]
