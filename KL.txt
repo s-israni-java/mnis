@@ -14046,5 +14046,69 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "Toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:55",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:55",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:55",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:55",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:56",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:56",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:57",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:57",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kya rk"
   }
 ]
