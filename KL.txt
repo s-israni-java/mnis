@@ -22622,5 +22622,77 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Mere paas koi n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dus"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusra "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusra p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusra ph"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusra pho"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusra phon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi dusra phone"
   }
 ]
