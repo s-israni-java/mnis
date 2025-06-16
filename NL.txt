@@ -28998,5 +28998,35 @@
     "CDATE": "2025-06-17 00:07:13",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 00:07:14",
+    "BATTERY": "86",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 00:07:14",
+    "BATTERY": "86",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 00:10:37",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
