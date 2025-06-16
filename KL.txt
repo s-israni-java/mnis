@@ -8294,5 +8294,29 @@
     "BATTERY": "45",
     "NETWORK": "W",
     "MSG": "Whom do u want m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:26",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u want me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:30",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u want me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:31",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u want me t"
   }
 ]
