@@ -16208,5 +16208,85 @@
     "TITLE": "Wo Noor",
     "ID": "No ID",
     "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:55:58",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Wo Noor",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:55:58",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Wo Noor",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:55:59",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Wo Noor",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:55:59",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:56:20",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:56:20",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:56:30",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:56:30",
+    "BATTERY": "40",
+    "NETWORK": "W",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke"
   }
 ]
