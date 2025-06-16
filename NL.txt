@@ -12388,5 +12388,55 @@
     "TITLE": "Old Money",
     "ID": "No ID",
     "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:38:02",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:38:02",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:38:02",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:38:04",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "VA-FVNFNV-P",
+    "ID": "474",
+    "MSG": "Up to Rs.5,00,000 is ready to be credited. EMI from Rs.1000. Just complete your 2-min KYC - http:\/\/1kx.in\/FVNFNV\/KB8bNj FinVen"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:53:11",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aare mera raja beta"
   }
 ]
