@@ -20188,5 +20188,15 @@
     "TITLE": "New Ultimatix Login",
     "ID": "No ID",
     "MSG": "View EasyAuth"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:42:29",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "EU_Bank_Transacts: Sumit Kalelkar",
+    "ID": "No ID",
+    "MSG": "📷📷Dear Sir, Please approve and release Sweden 1 employee housing deposits refund payment."
   }
 ]
