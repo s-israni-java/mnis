@@ -16688,5 +16688,35 @@
     "TITLE": "Kukkad",
     "ID": "No ID",
     "MSG": "Vishal-Shekhar, Shahid Mallya, Nisha Mascarenhas, Marianne D'Cruz Aiman"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:00:55",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Kukkad",
+    "ID": "No ID",
+    "MSG": "Vishal-Shekhar, Shahid Mallya, Nisha Mascarenhas, Marianne D'Cruz Aiman"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:00:55",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Kukkad",
+    "ID": "No ID",
+    "MSG": "Vishal-Shekhar, Shahid Mallya, Nisha Mascarenhas, Marianne D'Cruz Aiman"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:01:42",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
