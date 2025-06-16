@@ -7590,5 +7590,61 @@
     "BATTERY": "46",
     "NETWORK": "W",
     "MSG": "​N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:44:40",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "​Nu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:44:41",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "​N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:44:41",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "​Ask Meta AI or Search"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:44:41",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "​M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:44:42",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "​Mu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:58:42",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:58:43",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "I"
   }
 ]
