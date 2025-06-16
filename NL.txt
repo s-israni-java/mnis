@@ -20118,5 +20118,25 @@
     "TITLE": "Manage employee roles on your PB app!",
     "ID": "No ID",
     "MSG": "Allocate appropriate roles and rights to your employees. Know more."
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:29:23",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "saved your Snap in Chat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:29:25",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "saved your Snap in Chat"
   }
 ]
