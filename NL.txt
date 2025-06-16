@@ -828,5 +828,35 @@
     "TITLE": "Taniya Thakur 🤍",
     "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd",
     "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:36",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Nayan Wanjare",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:37",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:38",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
