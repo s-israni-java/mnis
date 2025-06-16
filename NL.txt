@@ -20208,5 +20208,25 @@
     "TITLE": "EU_Bank_Transacts: Sachin Kantak",
     "ID": "No ID",
     "MSG": "Approved"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:46:37",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Diva's (2 messages): Nisha Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:46:37",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "2 new messages"
   }
 ]
