@@ -3390,5 +3390,21 @@
     "BATTERY": "72",
     "NETWORK": "M",
     "MSG": "15"
+  },
+  {
+    "APP": "com.azure.authenticator",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:19:25",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "7"
+  },
+  {
+    "APP": "com.azure.authenticator",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:19:26",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "76"
   }
 ]
