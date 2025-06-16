@@ -23614,5 +23614,37 @@
     "BATTERY": "78",
     "NETWORK": "M",
     "MSG": "●3"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:42:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "●●1"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:42:17",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "●●●9"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Hi"
   }
 ]
