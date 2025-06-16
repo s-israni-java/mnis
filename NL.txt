@@ -20028,5 +20028,35 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:04:08",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:16:00",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "TITLE": "Europe Payroll Group: Amit Bandekar",
+    "ID": "No ID",
+    "MSG": "📷 Image"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:16:00",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "TITLE": "Europe Payroll Group: Amit Bandekar",
+    "ID": "No ID",
+    "MSG": "Except Finland & Swiss, others can start Rise testing for Jun 25"
   }
 ]
