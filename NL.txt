@@ -18818,5 +18818,35 @@
     "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
     "ID": "No ID",
     "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:08:23",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:08:23",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:09:20",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "DIVAS on TEAMS: Nisha Kadam",
+    "ID": "No ID",
+    "MSG": "13th july - working haiand 10th july ko koi holiday nhi rahega"
   }
 ]
