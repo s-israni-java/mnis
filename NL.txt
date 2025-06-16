@@ -19118,5 +19118,15 @@
     "TITLE": "EU_Bank_Transacts: Sachin Kantak",
     "ID": "No ID",
     "MSG": "Good Afternoon TeamFor Jun25 payroll action..."
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:48:26",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "ID": "No ID",
+    "MSG": "Sachin sent you a file."
   }
 ]
