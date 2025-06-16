@@ -1886,5 +1886,29 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Ha just nik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:17",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha just nikl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:18",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha just nikli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:19",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
