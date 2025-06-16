@@ -25548,5 +25548,25 @@
     "TITLE": "Baarishein",
     "ID": "No ID",
     "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:14:22",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:14:22",
+    "BATTERY": "80",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Calling"
   }
 ]
