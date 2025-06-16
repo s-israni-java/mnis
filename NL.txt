@@ -10978,5 +10978,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:18:40",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Lagdi Lahore Di (From \"Street Dancer 3D\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Tulsi Kumar"
   }
 ]
