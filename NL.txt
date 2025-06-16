@@ -25838,5 +25838,45 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:10:26",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Taniya Thakur 🤍",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dear👍",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:13:46",
+    "BATTERY": "74",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🔗 Ishu Finds on Instagram: \"Separate dustbin for home 🤩🤩 . . . #flipkartsale #flipkartindia #finds #dustbin #homefinds #randomfinds #flipkart #flipkartdeals #flipkartapp #flipkartfashion #flipkartoffer #flipkartunique #flipkqrtseller #homeliving #homestyling #homedesign #homedesign #homeimprovement #homeappliances #homeinspiration #ishufinds\" (www.instagram.com)",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:13:46",
+    "BATTERY": "74",
+    "ID": "917620495477@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:13:46",
+    "BATTERY": "74",
+    "ID": "917620495477@s.whatsapp.net"
   }
 ]
