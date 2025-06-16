@@ -8694,5 +8694,85 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Me kisi se jyada baat "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:30",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:30",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:30",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:30",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:31",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nhi kr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:31",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nhi krt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:31",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nhi krti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:31",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat nhi krti "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:47",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:47",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Kis"
   }
 ]
