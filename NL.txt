@@ -19958,5 +19958,15 @@
     "TITLE": "Countdown! realme P3 Pro 5G Under 20K!",
     "ID": "No ID",
     "MSG": "Snapdragon 7s Gen 3 Chipset & 6000mAh Battery"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:02:41",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
   }
 ]
