@@ -648,5 +648,15 @@
     "TITLE": "Anjali ❤️Nidhi parwani",
     "ID": "No ID",
     "MSG": "Sent a reel by closedcaptionss"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:11",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
