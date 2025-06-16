@@ -20550,5 +20550,21 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Haa smjio"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:23",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa smji"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:32",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "M"
   }
 ]
