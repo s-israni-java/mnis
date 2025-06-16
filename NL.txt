@@ -11538,5 +11538,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:26:35",
+    "BATTERY": "48",
+    "NETWORK": "W",
+    "TITLE": "Yaarr Ni Milyaa",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani"
   }
 ]
