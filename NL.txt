@@ -10578,5 +10578,55 @@
     "TITLE": "Ik Tera",
     "ID": "No ID",
     "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:09:19",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:09:19",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:09:19",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:09:19",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:09:19",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Kya Baat Ay",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu, Jaani"
   }
 ]
