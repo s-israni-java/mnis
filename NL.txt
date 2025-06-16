@@ -18958,5 +18958,25 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:38:26",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:38:26",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "New scratch cards added!",
+    "ID": "No ID",
+    "MSG": "Unlock them on your rewards path when you pay friends, businesses, and bills."
   }
 ]
