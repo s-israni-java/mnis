@@ -25728,5 +25728,15 @@
     "TITLE": "🎂 Birthday for Simi",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:03:33",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
