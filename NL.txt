@@ -25718,5 +25718,15 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:02:13",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "TITLE": "🎂 Birthday for Simi",
+    "ID": "No ID",
+    "MSG": ""
   }
 ]
