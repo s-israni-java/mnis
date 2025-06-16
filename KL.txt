@@ -11454,5 +11454,37 @@
     "BATTERY": "31",
     "NETWORK": "W",
     "MSG": "Tuje toh phti "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:59:04",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Tuje toh phti n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:59:04",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Tuje toh phti "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:59:05",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Tuje toh phti"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:59:05",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Tuje toh lgti "
   }
 ]
