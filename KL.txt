@@ -8190,5 +8190,77 @@
     "BATTERY": "45",
     "NETWORK": "W",
     "MSG": "Whom "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:20",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:20",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:20",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:20",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:21",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:21",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:21",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:22",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u w"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:22",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u wa"
   }
 ]
