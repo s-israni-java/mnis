@@ -18978,5 +18978,25 @@
     "TITLE": "New scratch cards added!",
     "ID": "No ID",
     "MSG": "Unlock them on your rewards path when you pay friends, businesses, and bills."
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:38:42",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:38:43",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Me – 7 years ago",
+    "ID": "No ID",
+    "MSG": "Your memories are waiting"
   }
 ]
