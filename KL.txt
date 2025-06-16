@@ -1750,5 +1750,13 @@
     "BATTERY": "70",
     "NETWORK": "W",
     "MSG": "Utha ki nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:34:23",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
