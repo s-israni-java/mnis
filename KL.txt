@@ -23030,5 +23030,53 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Na hi me interested hu phone rkhne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:31",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:31",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne me."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne me.."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne me..."
   }
 ]
