@@ -9222,5 +9222,29 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Uspe mene kasam li thi M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:06:27",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Uspe mene kasam li thi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:06:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Uspe mene kasam li thi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:06:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Uspe mene kasam li thi?"
   }
 ]
