@@ -8998,13 +8998,5 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Uspe"
-  },
-  {
-    "APP": "com.whatsapp",
-    "SERVICE": "KEY_LOGGER",
-    "CDATE": "2025-06-16 13:06:21",
-    "BATTERY": "44",
-    "NETWORK": "W",
-    "MSG": "Uspe "
   }
 ]
