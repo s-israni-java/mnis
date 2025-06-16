@@ -11388,5 +11388,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:05",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Supreme",
+    "ID": "No ID",
+    "MSG": "Shubh"
   }
 ]
