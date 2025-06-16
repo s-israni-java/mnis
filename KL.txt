@@ -14214,5 +14214,125 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "Train is 25 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:28",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 25"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:28",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 2"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:29",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:29",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:29",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:30",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:30",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 mi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:30",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 min"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:31",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 min "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:32",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 min l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:32",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 min la"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:32",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 min lat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:32",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Train is 9 min late"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:39",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:40",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Nh"
   }
 ]
