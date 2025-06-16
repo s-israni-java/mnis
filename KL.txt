@@ -1806,5 +1806,21 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:15",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:15",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha "
   }
 ]
