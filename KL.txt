@@ -23542,5 +23542,29 @@
     "BATTERY": "78",
     "NETWORK": "M",
     "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:41:54",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "ga"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:41:54",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "gap"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:41:55",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "ga"
   }
 ]
