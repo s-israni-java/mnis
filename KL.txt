@@ -22990,5 +22990,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Na hi me interested hu phone ekhne me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:30",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone ekhne me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:30",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone ekhne m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:30",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone ekhne "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:31",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone ekhne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:31",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me interested hu phone rkhne "
   }
 ]
