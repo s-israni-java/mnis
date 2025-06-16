@@ -13278,5 +13278,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:03:46",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Meri ek baar juthi kasam kha chuki h tu🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:03:46",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Meri ek baar juthi kasam kha chuki h tu🥺"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:04:12",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
   }
 ]
