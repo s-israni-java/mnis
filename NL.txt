@@ -18378,5 +18378,45 @@
     "TITLE": "Jo Tum Mere Ho",
     "ID": "No ID",
     "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:54:10",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:54:10",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:54:10",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:54:55",
+    "BATTERY": "35",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Nahii"
   }
 ]
