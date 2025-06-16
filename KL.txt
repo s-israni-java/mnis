@@ -15982,5 +15982,69 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "V"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:28",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:28",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:28",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vaise "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:28",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vaise b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:29",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vaise bhe"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:29",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vaise bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:29",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vaise bhej "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:29",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Vaise bhej na "
   }
 ]
