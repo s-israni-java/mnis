@@ -26198,5 +26198,25 @@
     "CDATE": "2025-06-16 22:25:08",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:47:51",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Unlock them on your rewards path when you pay friends, businesses, and bills.",
+    "TITLE": "New scratch cards added!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:47:52",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
