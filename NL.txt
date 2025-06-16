@@ -21078,5 +21078,55 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:08:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "TITLE": "JioKrishi",
+    "ID": "477",
+    "MSG": "उत्पादन वाढवण्यासाठी योग्य वेळी योग्य पाऊल.—JioKrishi से जानिए — कब, कितना और कैसे लें अपनी फसल के लिए सही फ़ैसले"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:10:11",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:10:12",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "JioKrishi",
+    "ID": "477",
+    "MSG": "उत्पादन वाढवण्यासाठी योग्य वेळी योग्य पाऊल.—JioKrishi से जानिए — कब, कितना और कैसे लें अपनी फसल के लिए सही फ़ैसले"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:11:01",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Ishq Hai",
+    "ID": "No ID",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:11:01",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Husn",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
   }
 ]
