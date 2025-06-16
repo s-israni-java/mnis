@@ -23646,5 +23646,21 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "Hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:29",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Hii"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "K"
   }
 ]
