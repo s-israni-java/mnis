@@ -2038,5 +2038,25 @@
     "TITLE": "Sagar❤️",
     "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
     "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:34:30",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:34:30",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
   }
 ]
