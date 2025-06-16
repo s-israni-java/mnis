@@ -1818,5 +1818,45 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Aa rha hu m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:56:16",
+    "BATTERY": "68",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aa rha hu m"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:26:09",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "Syncing new emails",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:26:10",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "no-reply",
+    "ID": "No ID",
+    "MSG": "Notification of Deletion of Data in Samsung Cloud"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:26:10",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "no-reply",
+    "ID": "No ID",
+    "MSG": "Notification of Deletion of Data in Samsung Cloud"
   }
 ]
