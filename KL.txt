@@ -22550,5 +22550,77 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Mere "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:17",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:17",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere pa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas ko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mere paas koi n"
   }
 ]
