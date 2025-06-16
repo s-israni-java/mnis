@@ -2188,5 +2188,15 @@
     "TITLE": "Simi's Skincare",
     "ID": "No ID",
     "MSG": ""
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:06:43",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Money received",
+    "ID": "No ID",
+    "MSG": "You've received Rs.𝟭𝟬𝟬𝟬 from SAGAR ISRANI"
   }
 ]
