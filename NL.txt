@@ -1758,5 +1758,35 @@
     "TITLE": "Anjali ❤️Nidhi parwani",
     "ID": "No ID",
     "MSG": "Sent a reel by dayri_in_my_life"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:38",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Diva's: Nisha ❤️",
+    "ID": "No ID",
+    "MSG": "Sent a reel by memer.akshay"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:13",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:14",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
   }
 ]
