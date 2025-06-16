@@ -5988,5 +5988,75 @@
     "TITLE": "Na Ja",
     "ID": "No ID",
     "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:19",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:20",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:20",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:20",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:20",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:20",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Na Ja",
+    "ID": "No ID",
+    "MSG": "Pav Dharia"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:05:53",
+    "BATTERY": "74",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Simriti"
   }
 ]
