@@ -2268,5 +2268,15 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:20:31",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
   }
 ]
