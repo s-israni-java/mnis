@@ -13878,5 +13878,13 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "Ho samajla "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:17",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "To"
   }
 ]
