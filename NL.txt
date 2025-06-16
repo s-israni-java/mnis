@@ -23858,5 +23858,15 @@
     "TITLE": "WhatsApp",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:10:20",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "In train?"
   }
 ]
