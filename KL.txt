@@ -1982,5 +1982,21 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Haa yr yag"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:21",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa yr yaga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:22",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa yr yaha "
   }
 ]
