@@ -2278,5 +2278,55 @@
     "TITLE": "You",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "Ok"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:25:33",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:25:33",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "Save ₹12,000 annually with ACE Credit Card",
+    "ID": "No ID",
+    "MSG": "Apply for Axis Bank ACE Credit Card and enjoy multiple benefits along with cashback rewards"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
   }
 ]
