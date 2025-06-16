@@ -25458,5 +25458,15 @@
     "TITLE": "Diva's: NAYAN 🌻",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:09:22",
+    "BATTERY": "81",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93736 58115‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
   }
 ]
