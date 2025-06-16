@@ -18878,5 +18878,65 @@
     "TITLE": "DIVAS on TEAMS: Nisha Kadam",
     "ID": "No ID",
     "MSG": "hope so milega"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:14:31",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:16:13",
+    "BATTERY": "33",
+    "NETWORK": "No Connection",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:16:13",
+    "BATTERY": "33",
+    "NETWORK": "No Connection",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:16:13",
+    "BATTERY": "33",
+    "NETWORK": "No Connection",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:16:13",
+    "BATTERY": "33",
+    "NETWORK": "No Connection",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "Arijit Singh, Mithoon"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:18:11",
+    "BATTERY": "33",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
