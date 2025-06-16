@@ -19948,5 +19948,15 @@
     "TITLE": "DIVAS on TEAMS: Nisha Kadam",
     "ID": "No ID",
     "MSG": "📷 Image"
+  },
+  {
+    "APP": "com.realmestore.app",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:02:12",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Countdown! realme P3 Pro 5G Under 20K!",
+    "ID": "No ID",
+    "MSG": "Snapdragon 7s Gen 3 Chipset & 6000mAh Battery"
   }
 ]
