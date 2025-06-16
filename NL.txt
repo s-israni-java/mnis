@@ -938,5 +938,25 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Preparing backup (1%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:00",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (2%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:10",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (3%)"
   }
 ]
