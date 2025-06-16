@@ -21486,5 +21486,21 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Fights,"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:47",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,\/"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:47",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,"
   }
 ]
