@@ -2230,5 +2230,13 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "I'm at stn"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:48",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "H"
   }
 ]
