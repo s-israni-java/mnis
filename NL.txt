@@ -25588,5 +25588,25 @@
     "TITLE": "Mumma",
     "ID": "No ID",
     "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:28:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:28:15",
+    "BATTERY": "79",
+    "NETWORK": "M",
+    "TITLE": "Tomorrow in Thane",
+    "ID": "No ID",
+    "MSG": "🌧️ 45% · Rain showers · See full forecast"
   }
 ]
