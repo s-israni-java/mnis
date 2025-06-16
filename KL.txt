@@ -16230,5 +16230,61 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Ss nhi nikl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:38",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:38",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nik r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:39",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nik "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:39",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:39",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nikl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:39",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nikl r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:39",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nikl rha "
   }
 ]
