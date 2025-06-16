@@ -11974,5 +11974,77 @@
     "BATTERY": "26",
     "NETWORK": "W",
     "MSG": "O"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:03",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oy"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:03",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:03",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:04",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye wh"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:04",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye who"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:04",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye who "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:04",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye who i"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:05",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye who is"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:05",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "Oye who is "
   }
 ]
