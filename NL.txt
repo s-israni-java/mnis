@@ -24898,5 +24898,35 @@
     "TITLE": "Shayad",
     "ID": "No ID",
     "MSG": "Pritam, Arijit Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:49:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "Shayad",
+    "ID": "No ID",
+    "MSG": "Pritam, Arijit Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:49:14",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "Shayad",
+    "ID": "No ID",
+    "MSG": "Pritam, Arijit Singh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:50:09",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
