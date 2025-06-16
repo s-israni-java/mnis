@@ -16102,5 +16102,61 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Ache se p"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:33",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ache se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:33",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ache se b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:33",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ache se bhej"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:33",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ache se bhej "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:34",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ache se bhej na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:36",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:36",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss"
   }
 ]
