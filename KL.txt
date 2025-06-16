@@ -22006,5 +22006,29 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Bas hua abi😡"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:56",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "P"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:56",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:56",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pra"
   }
 ]
