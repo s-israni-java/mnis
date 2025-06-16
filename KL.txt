@@ -21198,5 +21198,53 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "This is not the ending"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:21",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the ending "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:22",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the ending"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:22",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the ending."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:22",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the ending.."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:23",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the ending..."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:23",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "This is not the ending...t"
   }
 ]
