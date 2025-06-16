@@ -21798,5 +21798,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Im"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I'm "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I'm s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I'm sa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I'm sam"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I'm sama"
   }
 ]
