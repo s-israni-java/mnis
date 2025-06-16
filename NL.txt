@@ -25628,5 +25628,25 @@
     "TITLE": "AX-HDFCBK-S",
     "ID": "403",
     "MSG": "Sent Rs.245.00\nFrom HDFC Bank A\/C x4829\nTo Egg Adda\nOn 16\/06\/25\nRef 106584440405\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:42:59",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 20:43:00",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "New reward earned!",
+    "ID": "No ID",
+    "MSG": "Tap to reveal"
   }
 ]
