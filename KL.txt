@@ -10606,5 +10606,165 @@
     "BATTERY": "38",
     "NETWORK": "W",
     "MSG": "Late kha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:14",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Late khaya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:15",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Late khaya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:15",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Late khaya n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:15",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Late khaya na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:17",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:18",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:18",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Haa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:21",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:21:21",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:15",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:16",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:16",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:16",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:16",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu ro"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu rok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu roka "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu roka t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu roka th"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu roka tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:39:17",
+    "BATTERY": "36",
+    "NETWORK": "W",
+    "MSG": "Susu roka tha "
   }
 ]
