@@ -23782,5 +23782,53 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "Kal maroon vala leke "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:33",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal maroon vala leke a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:33",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal maroon vala leke aao"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:33",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal maroon vala leke aao "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:34",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal maroon vala leke aao na "
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:25",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "g"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:25",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "gm"
   }
 ]
