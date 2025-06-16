@@ -17358,5 +17358,45 @@
     "TITLE": "Ishq Tera",
     "ID": "No ID",
     "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:04:32",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:04:32",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:04:32",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:13:30",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
