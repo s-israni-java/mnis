@@ -21758,5 +21758,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Fights,love, ups n downs...everyth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:55",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n downs...everythi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:55",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n downs...everything"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:55",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n downs...everything "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Im"
   }
 ]
