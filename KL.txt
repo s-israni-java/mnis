@@ -22062,5 +22062,77 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Pta nhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:59",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:59",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi ky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:59",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:59",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:59",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya su"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:59",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya suab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:00",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya suabh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:00",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:00",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah s"
   }
 ]
