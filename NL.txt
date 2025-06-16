@@ -25778,5 +25778,15 @@
     "TITLE": "Deleting messages…",
     "ID": "No ID",
     "MSG": "1 of 1 (100%)"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:10:04",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "app-release.apk",
+    "ID": "No ID",
+    "MSG": "4.22 MB\/4.22 MB"
   }
 ]
