@@ -24288,5 +24288,55 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:40:52",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "1 week se ek bhi nhi dekhi tune"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:40:52",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:40:53",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Apna Bana Le",
+    "ID": "No ID",
+    "MSG": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:40:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Apna Bana Le",
+    "ID": "No ID",
+    "MSG": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:40:54",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Apna Bana Le",
+    "ID": "No ID",
+    "MSG": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya"
   }
 ]
