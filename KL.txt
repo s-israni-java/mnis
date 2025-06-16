@@ -21126,5 +21126,45 @@
     "BATTERY": "84",
     "NETWORK": "M",
     "MSG": "This is n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:18",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is no"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:18",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:19",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:19",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the e"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:20",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "This is not the en"
   }
 ]
