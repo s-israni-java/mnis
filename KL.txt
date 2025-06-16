@@ -23566,5 +23566,29 @@
     "BATTERY": "78",
     "NETWORK": "M",
     "MSG": "ga"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:41:55",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "g"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:42:02",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "₹2"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:42:03",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "MSG": "₹24"
   }
 ]
