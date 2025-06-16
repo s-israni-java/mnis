@@ -1698,5 +1698,15 @@
     "TITLE": "Backup in progress",
     "ID": "No ID",
     "MSG": "Uploading: 1.8 MB of 2.7 MB (67%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:23",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.9 MB of 2.7 MB (71%)"
   }
 ]
