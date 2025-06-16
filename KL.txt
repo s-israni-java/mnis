@@ -10918,5 +10918,85 @@
     "BATTERY": "34",
     "NETWORK": "W",
     "MSG": "F"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:04",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:05",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:05",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Ai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:05",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Ais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:06",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Aisa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:06",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Aisa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:06",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Aisa b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:06",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Aisa ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:06",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Aisa baar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 14:58:07",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "MSG": "Aisa baar "
   }
 ]
