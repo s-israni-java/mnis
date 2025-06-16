@@ -13128,5 +13128,55 @@
     "TITLE": "8 ASLE",
     "ID": "No ID",
     "MSG": "Sukha, Chani Nattan, Prodgk, Gurlez Akhtar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:02:36",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "8 ASLE",
+    "ID": "No ID",
+    "MSG": "Sukha, Chani Nattan, Prodgk, Gurlez Akhtar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:02:36",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "8 ASLE",
+    "ID": "No ID",
+    "MSG": "Sukha, Chani Nattan, Prodgk, Gurlez Akhtar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:03:05",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "8 ASLE",
+    "ID": "No ID",
+    "MSG": "Sukha, Chani Nattan, Prodgk, Gurlez Akhtar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:03:05",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:03:05",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "TITLE": "Bijlee Bijlee",
+    "ID": "No ID",
+    "MSG": "Harrdy Sandhu"
   }
 ]
