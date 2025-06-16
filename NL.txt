@@ -23568,5 +23568,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 18:48:12",
+    "BATTERY": "98",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
