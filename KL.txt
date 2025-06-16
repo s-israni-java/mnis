@@ -23894,5 +23894,85 @@
     "BATTERY": "75",
     "NETWORK": "M",
     "MSG": "f"
+  },
+  {
+    "APP": "com.android.launcher",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:10:25",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "MSG": "fi"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:54",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Im",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:54",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:54",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:55",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm sl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:55",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm sleeping ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:56",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm sleeping",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:57",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:37:58",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:48:49",
+    "BATTERY": "98"
   }
 ]
