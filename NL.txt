@@ -1,0 +1,4252 @@
+[
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:51:25",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:51:25",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:51:25",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:51:30",
+    "BATTERY": "25",
+    "NETWORK": "M",
+    "TITLE": "Papa",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:52:40",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "TITLE": "VK-AUBANK-S",
+    "ID": "417",
+    "MSG": "Debited INR 25,000.00 from A\/c X1248 on 15-JUN-2025\nUPI\/DR\/553251082875\/8698423278@ptyes\/ICI\nBal INR 32,420.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:53:00",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 20:53:00",
+    "BATTERY": "24",
+    "NETWORK": "M",
+    "TITLE": "VM-AUBANK-S",
+    "ID": "415",
+    "MSG": "Debited INR 25,000.00 from A\/c X1248 on 15-JUN-2025\nUPI\/DR\/553271774578\/8698423278@ptyes\/ICI\nBal INR 7,420.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:02:13",
+    "BATTERY": "23",
+    "NETWORK": "M",
+    "TITLE": "Indian Outfit for Simi",
+    "ID": "No ID",
+    "MSG": ""
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:32:55",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "‪+91 93736 58115‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:32:55",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:32:56",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:32:57",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:32:58",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:33:00",
+    "BATTERY": "21",
+    "NETWORK": "M",
+    "TITLE": "Mumma",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:35:11",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "TITLE": "20% battery",
+    "ID": "No ID",
+    "MSG": "Turn on Power Saving Mode?"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:39:13",
+    "BATTERY": "20",
+    "NETWORK": "M",
+    "TITLE": "“𝙈𝙤𝙣𝙚𝙮 𝙙𝙤𝙚𝙨𝙣’𝙩 𝙜𝙧𝙤𝙬 𝙤𝙣 𝙩𝙧𝙚𝙚𝙨”",
+    "ID": "No ID",
+    "MSG": "Listen to your Dad & save with FLAT ₹200 OFF on all his favs! 😂"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:35",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "‪+91 76204 95477‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:35",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:36",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:41",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:46:42",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "Sagar Mom",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 21:49:01",
+    "BATTERY": "19",
+    "NETWORK": "M",
+    "TITLE": "VM-AUBANK-S",
+    "ID": "415",
+    "MSG": "Debited INR 180.00 from A\/c X1248 on 15-JUN-2025\nUPI\/DR\/553277078420\/Egg Adda\/UTIB\/918020\nBal INR 7,240.65\nNot you? Call 180012001200 & dial 0\n-AU Bank"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:21:45",
+    "BATTERY": "26",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:23:49",
+    "BATTERY": "28",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:56:26",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:56:26",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:56:29",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 22:56:45",
+    "BATTERY": "49",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing video call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:11:48",
+    "BATTERY": "48",
+    "NETWORK": "No Connection",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:11:48",
+    "BATTERY": "48",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:11:48",
+    "BATTERY": "48",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:11:56",
+    "BATTERY": "48",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aisa nhi hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "6 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "6 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I wish we our aituation with parents conflict will be resolved soon...and we will be very happy with each other parents...may both of our family's be happy together ..specially us...and we be happy health couple's for life 💕...happiest husband of you ...and you happiest wife of me..and happiest grand parents of our families 💕...and we will be also excellent parents and tipical husband wife and parents😍🤣...may not our different effect each other and our famalies🙏"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "6 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I Love you my wife💕"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "6 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I love you 💞"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-15 23:12:30",
+    "BATTERY": "48",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "6 new messages"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:00:09",
+    "BATTERY": "45",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:15 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:15:01",
+    "BATTERY": "45",
+    "NETWORK": "No Connection",
+    "TITLE": "5:15 am",
+    "ID": "No ID",
+    "MSG": "Alarm ringing"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:17:02",
+    "BATTERY": "45",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "Alarm will ring again at 5:22 am."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:20:23",
+    "BATTERY": "44",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:30 am alarm will ring soon."
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:22:14",
+    "BATTERY": "44",
+    "NETWORK": "No Connection",
+    "TITLE": "Wake up",
+    "ID": "No ID",
+    "MSG": "The 5:30 am alarm will ring soon."
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:47:29",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:47:30",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:47:30",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 05:47:39",
+    "BATTERY": "62",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:09",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:09",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:09",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:51",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:51",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:51",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:00:57",
+    "BATTERY": "71",
+    "NETWORK": "No Connection",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:07",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:08",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:08",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:09",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:10",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by closedcaptionss"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:11",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:12",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Today in Thane",
+    "ID": "No ID",
+    "MSG": "🌧️ 85% · Heavy rain · See full forecast"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:12",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:12",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:12",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by closedcaptionss"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:12",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:14",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "iComply Alert",
+    "ID": "No ID",
+    "MSG": "iComply Alert : Over Due Compliance Tasks Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:14",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "iComply Alert",
+    "ID": "No ID",
+    "MSG": "iComply Alert : Over Due Compliance Tasks • Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:15",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:15",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:16",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing Wi‑Fi call"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:18",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:26",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I love you too meri Jaan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:26",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "I love you too meri Jaan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:27",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Reacted ❤️ to \"Chl bye\nGood night \nSweet dreams \nTake care \nI love you❤️\""
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:27",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Sagar❤️: Reacted ❤️ to \"Chl bye\nGood night \nSweet dreams \nTake care \nI love you❤️\""
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:36",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Bhavna Tcs",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:36",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Taniya Thakur 🤍",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:36",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Nayan Wanjare",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:37",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Aadi Ochani",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:38",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:38",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:39",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:39",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:40",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:40",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:44",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:11:46",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing Wi‑Fi call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:00",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (1%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:00",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (2%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:10",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (3%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:11",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (4%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:12",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (5%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:14",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (6%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:14",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (7%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:21",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (8%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:23",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (9%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:25",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (10%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:26",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (11%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:27",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (12%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:28",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (13%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:29",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (14%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:29",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (15%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:30",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (17%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:30",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (19%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:30",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (20%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:34",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (21%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:35",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (22%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:36",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (23%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:36",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (24%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:37",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (25%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:37",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (26%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:38",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (27%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:38",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (28%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:39",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (29%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:40",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (30%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:40",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (32%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:41",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (34%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:41",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (35%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:42",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (36%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:42",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (38%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:42",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (40%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:43",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (41%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:43",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (43%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:43",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (45%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:44",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (47%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:44",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (49%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:44",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (50%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:44",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (52%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:45",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (53%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:46",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (55%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:48",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (56%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:49",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (57%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:49",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (58%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:49",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (61%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:49",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (63%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:50",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (65%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:50",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (67%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:51",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (68%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:51",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (72%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:51",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (78%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:51",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (80%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:52",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (82%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:52",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (83%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:53",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (84%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:56",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (85%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:56",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (86%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:57",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (87%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:57",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (89%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:12:58",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (90%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:01",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (92%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:01",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (93%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:02",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (94%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:02",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (95%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:04",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (96%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:05",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (97%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:05",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (98%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:06",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (99%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:07",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Preparing backup (100%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:15",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 0 kB of 2.7 MB (0%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:17",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 138 kB of 2.7 MB (4%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:18",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 142 kB of 2.7 MB (5%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:19",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 339 kB of 2.7 MB (12%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:20",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.8 MB of 2.7 MB (65%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:22",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.8 MB of 2.7 MB (67%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:23",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 1.9 MB of 2.7 MB (71%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:24",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 2.0 MB of 2.7 MB (74%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:26",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 2.2 MB of 2.7 MB (82%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:27",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 2.3 MB of 2.7 MB (84%)"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:28",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Backup in progress",
+    "ID": "No ID",
+    "MSG": "Uploading: 2.7 MB of 2.7 MB (100%)"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:37",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "ID": "No ID",
+    "MSG": "Sent a reel by dayri_in_my_life"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:13:38",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Diva's: Nisha ❤️",
+    "ID": "No ID",
+    "MSG": "Sent a reel by memer.akshay"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:13",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:14",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:14",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:29:14",
+    "BATTERY": "69",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:56:16",
+    "BATTERY": "68",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aa rha hu m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 06:56:16",
+    "BATTERY": "68",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Aa rha hu m"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:26:09",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "Syncing new emails",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:26:10",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "no-reply",
+    "ID": "No ID",
+    "MSG": "Notification of Deletion of Data in Samsung Cloud"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:26:10",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "no-reply",
+    "ID": "No ID",
+    "MSG": "Notification of Deletion of Data in Samsung Cloud"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:44:04",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:44:05",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 07:44:07",
+    "BATTERY": "67",
+    "NETWORK": "W",
+    "TITLE": "Harsh Beniwal",
+    "ID": "No ID",
+    "MSG": "Gukesh Vs Magnus Carlsen"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:04",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:04",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:06",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Good morning"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:06",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:10",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:11",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Tu nikle hai ky?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:11",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "3 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:15",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:16",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Barish hai re bahut"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:16",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "4 new messages"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:31:32",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "‪+91 86984 23278‬",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:31:32",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:31:33",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:32:00",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Sagar❤️"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:32:01",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
+    "MSG": "Missed call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:34:30",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:34:30",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:34:30",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:34:50",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:35:43",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Merko nhi aana hai yrr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:35:43",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Merko nhi aana hai yrr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:38:54",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:38:55",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Nhi aana yr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:38:55",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Nhi aana yr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:40:39",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:40:40",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Trains hai ky?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:40:40",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Trains hai ky?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:44:08",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:44:08",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:02:21",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "TITLE": "Simi's Skincare",
+    "ID": "No ID",
+    "MSG": ""
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:06:43",
+    "BATTERY": "87",
+    "NETWORK": "M",
+    "TITLE": "Money received",
+    "ID": "No ID",
+    "MSG": "You've received Rs.𝟭𝟬𝟬𝟬 from SAGAR ISRANI"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:16:26",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Kotak811",
+    "ID": "473",
+    "MSG": " ₹250 Cashback is waiting!—Open Kotak811 Savings A\/c now and spend via Kotak811 UPI to get amazing cashback. T&C"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:16:27",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Kotak811",
+    "ID": "473",
+    "MSG": " ₹250 Cashback is waiting!—Open Kotak811 Savings A\/c now and spend via Kotak811 UPI to get amazing cashback. T&C"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:19:48",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:19:53",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Zepto",
+    "ID": "246",
+    "MSG": "It’s Here: ₹100 Zepto Cash🎁—Guess what? The FREE cash is now yours💵\nNo strings, no fine print—just pure savings!💰\nUse your FREE cash and save your budget from big bills🤩\nAll delivered in 10 mins🚀"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:19:53",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "10min mai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:19:53",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "10min mai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:19:53",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:20:31",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "You",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:25:33",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:25:33",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "Save ₹12,000 annually with ACE Credit Card",
+    "ID": "No ID",
+    "MSG": "Apply for Axis Bank ACE Credit Card and enjoy multiple benefits along with cashback rewards"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:32",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:58",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:58",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:58",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:30:58",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:03",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:03",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:03",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:03",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:04",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:04",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:04",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:04",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:07",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:07",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:07",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:07",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:08",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:33",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:41",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:45",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:31:59",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:05",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:05",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:05",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:05",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:05",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:05",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:06",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:06",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:09",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:09",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:09",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:09",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:20",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:21",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:21",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:21",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:21",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:40",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:40",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:40",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:32:40",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:11",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:12",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:27",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:27",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:27",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:27",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:52",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:52",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:52",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:33:52",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:01",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:34",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:34:35",
+    "BATTERY": "82",
+    "NETWORK": "M",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo"
+  }
+]
