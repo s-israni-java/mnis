@@ -21014,5 +21014,61 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "Net ma chuda "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:26",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:26",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:27",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda rhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:27",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda rhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:27",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda rhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:15",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "T"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:49:16",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "MSG": "Th"
   }
 ]
