@@ -5102,5 +5102,101 @@
     "BATTERY": "64",
     "NETWORK": "M",
     "MSG": "Option hi nhi rkhna chahiye na return "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:45",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Option hi nhi rkhna chahiye na return k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:45",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Option hi nhi rkhna chahiye na return ka "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:48",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "W"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:49",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Wal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:49",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Wall"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:49",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Walle"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:49",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Wallet"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:49",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Wallet "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:51:50",
+    "BATTERY": "64",
+    "NETWORK": "M",
+    "MSG": "Wallet ?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:53:48",
+    "BATTERY": "63",
+    "NETWORK": "M",
+    "MSG": "U"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:53:48",
+    "BATTERY": "63",
+    "NETWORK": "M",
+    "MSG": "Un"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:53:48",
+    "BATTERY": "63",
+    "NETWORK": "M",
+    "MSG": "Uns"
   }
 ]
