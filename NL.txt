@@ -5328,5 +5328,15 @@
     "TITLE": "Afsos",
     "ID": "No ID",
     "MSG": "Anuv Jain, AP Dhillon"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:55:27",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Calling…"
   }
 ]
