@@ -20566,5 +20566,101 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:32",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Mo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:32",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:32",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:33",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:34",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:34",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov va"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:34",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov vag"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:34",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov vage"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:34",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov vager"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:34",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov vagera"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:35",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov vagera "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:35",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Moov vagera t"
   }
 ]
