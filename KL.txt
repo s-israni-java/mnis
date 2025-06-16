@@ -2078,5 +2078,53 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Aana"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:36:03",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Aana "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:36:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Aana t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:36:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Aana to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:36:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Aana toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:36:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Aana toh "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:36:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Aana toh p"
   }
 ]
