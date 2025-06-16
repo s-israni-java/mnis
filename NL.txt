@@ -23698,5 +23698,15 @@
     "TITLE": "Priyanka Pandey",
     "ID": "No ID",
     "MSG": "You have a notification from Priyanka Pandey and 20 other updates on LinkedIn"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:05:37",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
