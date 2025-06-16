@@ -21918,5 +21918,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "B"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:48",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Ba"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:48",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:48",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:48",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:48",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hu"
   }
 ]
