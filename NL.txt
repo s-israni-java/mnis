@@ -20018,5 +20018,15 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "📹 Incoming video call"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:04:08",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "📹 Incoming video call"
   }
 ]
