@@ -16566,5 +16566,29 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Kya th"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:13:00",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Kya tha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:13:13",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:13:14",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ok"
   }
 ]
