@@ -19178,5 +19178,25 @@
     "TITLE": "DIVAS on TEAMS: Nisha Kadam",
     "ID": "No ID",
     "MSG": "tu C hai"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:53:05",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Vikas Jaiwar",
+    "ID": "No ID",
+    "MSG": "Hi Simriti"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:53:06",
+    "BATTERY": "32",
+    "NETWORK": "W",
+    "TITLE": "Vikas Jaiwar",
+    "ID": "No ID",
+    "MSG": "one doubt related to initial accomodation amount in DK"
   }
 ]
