@@ -21606,5 +21606,61 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Fights,love, ups n "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:50",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:50",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n do"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:51",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n dow"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:51",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n down"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:51",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n downs"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:51",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n downs "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:50:52",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Fights,love, ups n downs"
   }
 ]
