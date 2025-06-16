@@ -5108,5 +5108,25 @@
     "TITLE": "Sagar❤️",
     "ID": "No ID",
     "MSG": "Calling…"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:53:25",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Ringing…"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:53:27",
+    "BATTERY": "78",
+    "NETWORK": "M",
+    "TITLE": "Afsos",
+    "ID": "No ID",
+    "MSG": "Anuv Jain, AP Dhillon"
   }
 ]
