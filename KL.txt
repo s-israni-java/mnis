@@ -23846,5 +23846,21 @@
     "BATTERY": "76",
     "NETWORK": "M",
     "MSG": "sa"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:43",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "sam"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 21:05:44",
+    "BATTERY": "76",
+    "NETWORK": "M",
+    "MSG": "sams"
   }
 ]
