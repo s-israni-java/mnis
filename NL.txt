@@ -24688,5 +24688,15 @@
     "TITLE": "You don’t need to figure…",
     "ID": "No ID",
     "MSG": "…it all, you need dinner at FLAT 65% OFF for now. 🙈"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:47:31",
+    "BATTERY": "84",
+    "NETWORK": "M",
+    "TITLE": "Sagar Israni",
+    "ID": "No ID",
+    "MSG": "Sent a reel by _the_unfinished_poetry"
   }
 ]
