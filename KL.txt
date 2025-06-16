@@ -8598,5 +8598,101 @@
     "BATTERY": "44",
     "NETWORK": "W",
     "MSG": "Me kisi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:27",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:27",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:27",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyad"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:28",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:29",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada va"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:29",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada vaat"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:05:29",
+    "BATTERY": "44",
+    "NETWORK": "W",
+    "MSG": "Me kisi se jyada baat "
   }
 ]
