@@ -2198,5 +2198,15 @@
     "TITLE": "Money received",
     "ID": "No ID",
     "MSG": "You've received Rs.𝟭𝟬𝟬𝟬 from SAGAR ISRANI"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 09:16:26",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Kotak811",
+    "ID": "473",
+    "MSG": " ₹250 Cashback is waiting!—Open Kotak811 Savings A\/c now and spend via Kotak811 UPI to get amazing cashback. T&C"
   }
 ]
