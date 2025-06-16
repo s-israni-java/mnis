@@ -12008,5 +12008,35 @@
     "TITLE": "+91 83569 64078",
     "ID": "918356964078@s.whatsapp.net",
     "MSG": "2,..3 din me ma'am.."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:33:07",
+    "BATTERY": "48",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "918356964078@s.whatsapp.net",
+    "MSG": "2 messages from 2 chats"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:33:30",
+    "BATTERY": "48",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:33:30",
+    "BATTERY": "48",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
   }
 ]
