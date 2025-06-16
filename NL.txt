@@ -12098,5 +12098,55 @@
     "TITLE": "Morni Banke (From \"Badhaai Ho\")",
     "ID": "No ID",
     "MSG": "Guru Randhawa, Neha Kakkar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:35:30",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:35:31",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:35:31",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:35:34",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:35:34",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Giraffe 🦒😂",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674",
+    "MSG": "sent you a Snap"
   }
 ]
