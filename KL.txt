@@ -22470,5 +22470,45 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "M"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Mu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Muj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Muje"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Muje "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:16",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
