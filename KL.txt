@@ -1822,5 +1822,29 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Ha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:16",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha j"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:16",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha ju"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:35:16",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha jus"
   }
 ]
