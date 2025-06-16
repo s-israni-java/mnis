@@ -17548,5 +17548,35 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "Ok ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:26:22",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Coffe pi garam garam"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:26:22",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:26:52",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
