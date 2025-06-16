@@ -2798,5 +2798,573 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "O"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:20:30",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "O"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:13",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Oh"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:14",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Ohh"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:14",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Ohho"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:14",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Ohhoo"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sah"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:15",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:16",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi h "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:16",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:16",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi hco"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:16",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi hcon"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:17",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi hco"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:17",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi hc"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi hcl"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi hc"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:18",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Sahi h"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "C"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Co"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:19",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Cong"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Congr"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Congra"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Congrat"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Congrats"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:20",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Congrats "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:22",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "🥳"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:23",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "🥳🥳"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb s"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se j"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se jo"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se joi"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se join"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se join "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se join k"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se join ki"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:29:26",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Kb se join kia "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:01",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:01",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Ar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:02",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:02",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:02",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:02",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:02",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:02",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:03",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhulg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:03",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhulgu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:03",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhulgu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:04",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhulgu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:04",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhulg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:04",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:04",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:04",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhu "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:05",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:05",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhuk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:05",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhukgy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:06",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhukg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:06",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhuk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:06",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:06",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:07",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul g"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:07",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul gy"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:07",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul gyi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:17:08",
+    "BATTERY": "73",
+    "NETWORK": "M",
+    "MSG": "Arey bhul gyi🥺"
+  },
+  {
+    "APP": "com.azure.authenticator",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 10:18:28",
+    "BATTERY": "72",
+    "NETWORK": "M",
+    "MSG": "1"
   }
 ]
