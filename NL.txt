@@ -26188,5 +26188,15 @@
     "CDATE": "2025-06-16 22:14:29",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "The battery is full",
+    "TITLE": "Charging Complete",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:25:08",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
