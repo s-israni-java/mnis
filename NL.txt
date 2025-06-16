@@ -10498,5 +10498,15 @@
     "TITLE": "Would you rather 👇",
     "ID": "No ID",
     "MSG": "Sit and enjoy lunch starting at ₹29 or miss out? 😉"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:07:36",
+    "BATTERY": "50",
+    "NETWORK": "W",
+    "TITLE": "Ik Tera",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
   }
 ]
