@@ -15126,5 +15126,37 @@
     "BATTERY": "94",
     "NETWORK": "M",
     "MSG": "At vikhr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vikhro"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:03",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vikhrol"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:03",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vikhroli"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:10",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "7"
   }
 ]
