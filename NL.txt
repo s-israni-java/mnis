@@ -26088,5 +26088,15 @@
     "CDATE": "2025-06-16 22:06:36",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93234 74737‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:10:45",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
