@@ -16286,5 +16286,21 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Ss nhi nikl rha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:43",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:43",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Kc"
   }
 ]
