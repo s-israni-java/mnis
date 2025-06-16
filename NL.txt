@@ -20058,5 +20058,35 @@
     "TITLE": "Europe Payroll Group: Amit Bandekar",
     "ID": "No ID",
     "MSG": "Except Finland & Swiss, others can start Rise testing for Jun 25"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:16:00",
+    "BATTERY": "27",
+    "NETWORK": "W",
+    "TITLE": "Europe Payroll Group: Sonia Shrungare",
+    "ID": "No ID",
+    "MSG": "pls be careful while doing parallel run & request you to refer process note \/ checklist so that not a single step is missed."
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:29:12",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "TITLE": "Diva's: Nayan Tcs",
+    "ID": "120363382492371416@g.us",
+    "MSG": "No pav girlsss"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:29:12",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "TITLE": "Diva's",
+    "ID": "120363382492371416@g.us",
+    "MSG": "Nayan Tcs: No pav girlsss"
   }
 ]
