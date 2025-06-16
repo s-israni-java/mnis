@@ -20918,5 +20918,101 @@
     "BATTERY": "85",
     "NETWORK": "M",
     "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:24",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Ne"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:24",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:24",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:24",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:25",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:25",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:25",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:25",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:25",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:26",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chud"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:26",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:40:26",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "MSG": "Net ma chuda "
   }
 ]
