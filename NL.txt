@@ -1838,25 +1838,5 @@
     "TITLE": "Syncing new emails",
     "ID": "No ID",
     "MSG": "No message"
-  },
-  {
-    "APP": "com.google.android.gm",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-06-16 07:26:10",
-    "BATTERY": "67",
-    "NETWORK": "W",
-    "TITLE": "no-reply",
-    "ID": "No ID",
-    "MSG": "Notification of Deletion of Data in Samsung Cloud"
-  },
-  {
-    "APP": "com.google.android.gm",
-    "SERVICE": "NOTIFICATION",
-    "CDATE": "2025-06-16 07:26:10",
-    "BATTERY": "67",
-    "NETWORK": "W",
-    "TITLE": "no-reply",
-    "ID": "No ID",
-    "MSG": "Notification of Deletion of Data in Samsung Cloud"
   }
 ]
