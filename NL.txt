@@ -26098,5 +26098,35 @@
     "CDATE": "2025-06-16 22:10:45",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:10:45",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:10:46",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Papa",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 22:11:15",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
