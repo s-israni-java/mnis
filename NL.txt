@@ -1998,5 +1998,45 @@
     "TITLE": "‪+91 86984 23278‬",
     "ID": "No ID",
     "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:31:32",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:31:33",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "No ID",
+    "MSG": "Incoming call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:32:00",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Missed call",
+    "ID": "No ID",
+    "MSG": "Sagar❤️"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:32:01",
+    "BATTERY": "88",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F",
+    "MSG": "Missed call"
   }
 ]
