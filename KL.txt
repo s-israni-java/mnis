@@ -22134,5 +22134,85 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Pta nhi kya subah s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:01",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:01",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se n"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:01",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se na"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:01",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se nay"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:01",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se naya"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:01",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se naya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:02",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se naya t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:02",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se naya "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:02",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se naya r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:02",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi kya subah se naya rat"
   }
 ]
