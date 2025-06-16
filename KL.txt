@@ -11742,5 +11742,61 @@
     "BATTERY": "30",
     "NETWORK": "W",
     "MSG": "Ar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:31",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:31",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:32",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:32",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey ka"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:32",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey kaam"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:32",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey kaam "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:32",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Arey kaam m"
   }
 ]
