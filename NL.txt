@@ -1888,5 +1888,25 @@
     "TITLE": "Harsh Beniwal",
     "ID": "No ID",
     "MSG": "Gukesh Vs Magnus Carlsen"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:04",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 08:29:04",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Hi"
   }
 ]
