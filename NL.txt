@@ -16718,5 +16718,45 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:01:44",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Gugu♥️",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:02:08",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Kukkad",
+    "ID": "No ID",
+    "MSG": "Vishal-Shekhar, Shahid Mallya, Nisha Mascarenhas, Marianne D'Cruz Aiman"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:02:08",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Kukkad",
+    "ID": "No ID",
+    "MSG": "Vishal-Shekhar, Shahid Mallya, Nisha Mascarenhas, Marianne D'Cruz Aiman"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:02:08",
+    "BATTERY": "39",
+    "NETWORK": "W",
+    "TITLE": "Kukkad",
+    "ID": "No ID",
+    "MSG": "Vishal-Shekhar, Shahid Mallya, Nisha Mascarenhas, Marianne D'Cruz Aiman"
   }
 ]
