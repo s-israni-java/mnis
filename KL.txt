@@ -15070,5 +15070,61 @@
     "BATTERY": "94",
     "NETWORK": "M",
     "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:01",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At v"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vik"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vikh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:02",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "At vikhr"
   }
 ]
