@@ -23662,5 +23662,45 @@
     "BATTERY": "77",
     "NETWORK": "M",
     "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:30",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:31",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal m"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:31",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal ma"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 20:51:31",
+    "BATTERY": "77",
+    "NETWORK": "M",
+    "MSG": "Kal maro"
   }
 ]
