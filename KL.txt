@@ -14110,5 +14110,29 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "Toh kya rk"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:58",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kya rky"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:59",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Toh kya kru "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:57:25",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
