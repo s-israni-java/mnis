@@ -13958,5 +13958,37 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "Too much traf"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:19",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Too much traff"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:19",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Too much traffi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:19",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Too much traffic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:53",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "To"
   }
 ]
