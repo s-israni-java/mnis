@@ -2238,5 +2238,61 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "H"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:48",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:48",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:48",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:48",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:48",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:49",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h toh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:49",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h toh s"
   }
 ]
