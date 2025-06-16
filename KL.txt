@@ -13814,5 +13814,69 @@
     "BATTERY": "96",
     "NETWORK": "M",
     "MSG": "Ho "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:12",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:13",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho sa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:13",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho sam"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:13",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho sama"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:13",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho samaj"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:14",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho samajl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:14",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho samajla"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 18:56:14",
+    "BATTERY": "96",
+    "NETWORK": "M",
+    "MSG": "Ho samajla "
   }
 ]
