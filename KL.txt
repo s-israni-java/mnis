@@ -7902,5 +7902,85 @@
     "BATTERY": "45",
     "NETWORK": "W",
     "MSG": "But i "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:58:59",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But i d"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:58:59",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But i do"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:00",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But i don"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:01",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But i dont"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:01",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But I don't "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:02",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But I don't c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:02",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But I don't ch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:02",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But I don't che"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:02",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But I don't chea"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:59:02",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "But I don't cheat"
   }
 ]
