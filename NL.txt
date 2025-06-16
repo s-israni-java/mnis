@@ -10828,5 +10828,35 @@
     "TITLE": "Europe Payroll Group: Amit Gadgil",
     "ID": "No ID",
     "MSG": "taking leave today due to personal work"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:15:52",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Lagdi Lahore Di (From \"Street Dancer 3D\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Tulsi Kumar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:15:53",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Kinni Kinni",
+    "ID": "No ID",
+    "MSG": "Diljit Dosanjh, thiarajxtt"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:15:53",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Lagdi Lahore Di (From \"Street Dancer 3D\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Tulsi Kumar"
   }
 ]
