@@ -20178,5 +20178,15 @@
     "TITLE": "Vasanti More",
     "ID": "No ID",
     "MSG": "DK_New joiners Expats_Jun25 • Good Afternoon Alex, New joiners list including CBA status and CBA start date for expats and one employee’s 48E has been uploaded on portal for the month of Jun25. Thanks & Regards, Vasanti More Europe Finance Tata Consultancy Services Limited"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:40:16",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "New Ultimatix Login",
+    "ID": "No ID",
+    "MSG": "View EasyAuth"
   }
 ]
