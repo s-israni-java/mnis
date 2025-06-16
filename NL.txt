@@ -14028,5 +14028,15 @@
     "TITLE": "Sai Teja Goli",
     "ID": "No ID",
     "MSG": "Missing bank & Missing FFS cases JUN'25 • Dear All, We have updated the missing bank details & missing FFS cases in attached file. Please refer this file and raise the issues accordingly in tracker. Missing_FFS_bank.xlsx Thanks & regards Sai Teja Goli"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:14:30",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
   }
 ]
