@@ -15254,5 +15254,21 @@
     "BATTERY": "94",
     "NETWORK": "M",
     "MSG": "Asangaon "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:16",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "Asangaon*"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:41",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
