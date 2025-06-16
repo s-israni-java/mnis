@@ -21958,5 +21958,53 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Bas hu"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:49",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hua"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:49",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hua "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:49",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hua a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:49",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hua ab"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:50",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hua abi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:53",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Bas hua abi😡"
   }
 ]
