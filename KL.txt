@@ -2294,5 +2294,29 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Haa h toh s"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:49",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h toh sah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 08:43:49",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Haa h toh sahi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 09:02:18",
+    "BATTERY": "89",
+    "NETWORK": "M",
+    "MSG": "Tu"
   }
 ]
