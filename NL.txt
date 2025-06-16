@@ -11398,5 +11398,75 @@
     "TITLE": "Supreme",
     "ID": "No ID",
     "MSG": "Shubh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:05",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:05",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:05",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:05",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:05",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:06",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:22:06",
+    "BATTERY": "49",
+    "NETWORK": "W",
+    "TITLE": "Laare",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar, Jaani"
   }
 ]
