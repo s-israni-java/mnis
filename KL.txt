@@ -8446,5 +8446,77 @@
     "BATTERY": "45",
     "NETWORK": "W",
     "MSG": "Nobody is as c"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:14",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as cl"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:14",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as clo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:14",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as clos"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:14",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as close"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:14",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as close "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:14",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as close as "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:15",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as close as u"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:56",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "K"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:56",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Kb"
   }
 ]
