@@ -20014,5 +20014,37 @@
     "BATTERY": "91",
     "NETWORK": "M",
     "MSG": "Cram"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:43",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "Cramp"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:43",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "MSG": "Cramp?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:52",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "S"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:20:52",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Sh"
   }
 ]
