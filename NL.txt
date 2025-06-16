@@ -12088,5 +12088,15 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Sent a reel by idpenreg"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:35:30",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
   }
 ]
