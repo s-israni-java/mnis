@@ -21870,5 +21870,13 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "I'm samajdar"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:23",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "I'm samajdar😒"
   }
 ]
