@@ -21818,5 +21818,35 @@
     "TITLE": "New message",
     "ID": "No ID",
     "MSG": "simriti.basantani@tcs.com"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:41:19",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Nour Al Bakaa",
+    "ID": "No ID",
+    "MSG": "Paternity benefit reimbursement • Dear Simriti, We will receive PL benefits for the associate 2745265 on 18th June 2025 Pease do the needful and account the attached amount of DKK 44.577 according to manpower WON: 20844784 Yours Sincerely _____ Nour Al-Bakaa I HR Executive – DK"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:41:50",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "TITLE": "Jinat S. mentioned Corporate Finance Connect in General",
+    "ID": "No ID",
+    "MSG": "Congratulations to the winners of Finance Fun Week - Dear Team, Corporate Finance Connect\r\nWe had an absolute blast hosting Finance Fun Week, and we're thrilled that so many of you joined in the fun! 😊 With over 350+ team members participating, the response was truly overwhelming. We hope you all had as much fun as we did, unwinding and connecting with each other online every day.\r\n \r\nStay tuned for more exciting activities lined up this month!"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 17:45:40",
+    "BATTERY": "75",
+    "NETWORK": "W",
+    "TITLE": "EU_Bank_Transacts: Aisha Naik",
+    "ID": "No ID",
+    "MSG": "HI Approve & release \"  IT Fund Payment Document # 100200005905\"📷"
   }
 ]
