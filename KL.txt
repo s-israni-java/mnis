@@ -1678,5 +1678,37 @@
     "BATTERY": "70",
     "NETWORK": "W",
     "MSG": "Ut"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 06:12:28",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "MSG": "Uth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 06:12:28",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "MSG": "Utha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 06:12:29",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "MSG": "Utha k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 06:12:29",
+    "BATTERY": "70",
+    "NETWORK": "W",
+    "MSG": "Utha ki"
   }
 ]
