@@ -25908,5 +25908,25 @@
     "CDATE": "2025-06-16 21:21:10",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:21:10",
+    "BATTERY": "73",
+    "ID": "2673i30f1f0648c2080c7"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-16 21:33:30",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
