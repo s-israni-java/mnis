@@ -24078,5 +24078,95 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:34",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:34",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "4 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:34",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Left shoulder moch"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:34",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "5 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:35",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "🥺"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:36",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "6 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:20:38",
+    "BATTERY": "91",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:38:41",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Altamash Rifai",
+    "ID": "No ID",
+    "MSG": "RE:  Alumni ticket#1319786, POOJA TYAGI (1638371)  Dear Simriti, Please share an update upon the below concern. Emp # Emp Name Country Query 1638371 POOJA TYAGI Denmark I did not understand your responce also I can not see any atachment of calculations. You have not answered my question rega"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:38:41",
+    "BATTERY": "86",
+    "NETWORK": "M",
+    "TITLE": "Altamash Rifai",
+    "ID": "No ID",
+    "MSG": "RE:  Alumni ticket#1319786, POOJA TYAGI (1638371)  • Dear Simriti, Please share an update upon the below concern. Emp # Emp Name Country Query 1638371 POOJA TYAGI Denmark I did not understand your responce also I can not see any atachment of calculations. You have not answered my question rega"
   }
 ]
