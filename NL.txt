@@ -14098,5 +14098,25 @@
     "TITLE": "JM-620016-P",
     "ID": "476",
     "MSG": "तुमचा Jio नंबर 9322584414 चा प्लॅन लवकरच संपत आहे. Rs. 3599 चा रिचार्ज करा आणि 90 दिवसांसाठी मोफत JioHotstar मिळवा, त्यासोबत अमर्यादित 5G,अमर्यादित व्हॉइस कॉल्स, 2.5 GB \/दिवस डेटा 365 दिवसांसाठी मिळवा. 90 दिवसांपर्यंत JioHotstar चा आनंद घेत राहण्यासाठी प्लॅनची ​​मुदत संपल्यानंतर 48 तासांच्या आत रिचार्ज करा. रिचार्ज करण्यासाठी www.jio.com\/r\/BgEbVi8kD वर क्लिक करा. नियम व अटी लागू."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:23:10",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:25:10",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
