@@ -22758,5 +22758,61 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:24",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:52:25",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Na hi me in"
   }
 ]
