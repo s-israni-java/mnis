@@ -20148,5 +20148,35 @@
     "TITLE": "Corporate Finance Payroll Grp: Ramesh Solkar",
     "ID": "No ID",
     "MSG": "Thanks Muskan for the sweets."
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:33:03",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:33:15",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Vasanti More",
+    "ID": "No ID",
+    "MSG": "DK_New joiners Expats_Jun25 Good Afternoon Alex, New joiners list including CBA status and CBA start date for expats and one employee’s 48E has been uploaded on portal for the month of Jun25. Thanks & Regards, Vasanti More Europe Finance Tata Consultancy Services Limited"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:33:15",
+    "BATTERY": "25",
+    "NETWORK": "W",
+    "TITLE": "Vasanti More",
+    "ID": "No ID",
+    "MSG": "DK_New joiners Expats_Jun25 • Good Afternoon Alex, New joiners list including CBA status and CBA start date for expats and one employee’s 48E has been uploaded on portal for the month of Jun25. Thanks & Regards, Vasanti More Europe Finance Tata Consultancy Services Limited"
   }
 ]
