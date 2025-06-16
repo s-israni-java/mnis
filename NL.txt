@@ -18538,5 +18538,55 @@
     "TITLE": "Jo Tum Mere Ho",
     "ID": "No ID",
     "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:59:17",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:59:17",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:01:01",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Jo Tum Mere Ho",
+    "ID": "No ID",
+    "MSG": "Anuv Jain"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:01:01",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Tera Hone Laga Hoon",
+    "ID": "No ID",
+    "MSG": "Atif Aslam, Alisha Chinai, Pritam"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:01:01",
+    "BATTERY": "34",
+    "NETWORK": "W",
+    "TITLE": "Tera Hone Laga Hoon",
+    "ID": "No ID",
+    "MSG": "Atif Aslam, Alisha Chinai, Pritam"
   }
 ]
