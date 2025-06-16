@@ -25758,5 +25758,25 @@
     "TITLE": "Sagar❤️",
     "ID": "918698423278@s.whatsapp.net",
     "MSG": "https:\/\/mega.nz\/file\/GxQ0zRSZ#5NJ1Hqa-UZc3hTnuirk_SMEAkQPH4btnxcFILpWyO_k"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:09:08",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "4 messages from 2 chats"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 21:09:32",
+    "BATTERY": "75",
+    "NETWORK": "M",
+    "TITLE": "Deleting messages…",
+    "ID": "No ID",
+    "MSG": "1 of 1 (100%)"
   }
 ]
