@@ -14038,5 +14038,35 @@
     "TITLE": "No title",
     "ID": "No ID",
     "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:14:31",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Cash Loan by Prefr",
+    "ID": "475",
+    "MSG": "Your Next Opportunity is Calling – ₹5,00,000 Loan Pre-Approved!—Big things await – don’t let finances hold you back!\nYou’re pre-qualified for a personal loan up to ₹5,00,000 with Prefr.\n\n✅ Approval in just 5 minutes\n✅ No hidden charges\n✅ Same-day disbursal\n\nGrab this opportunity and take the next step toward your goals."
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:14:31",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "No title",
+    "ID": "No ID",
+    "MSG": "Messages is doing work in the background"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:14:32",
+    "BATTERY": "43",
+    "NETWORK": "W",
+    "TITLE": "Cash Loan by Prefr",
+    "ID": "475",
+    "MSG": "Your Next Opportunity is Calling – ₹5,00,000 Loan Pre-Approved!—Big things await – don’t let finances hold you back!\nYou’re pre-qualified for a personal loan up to ₹5,00,000 with Prefr.\n\n✅ Approval in just 5 minutes\n✅ No hidden charges\n✅ Same-day disbursal\n\nGrab this opportunity and take the next step toward your goals."
   }
 ]
