@@ -22030,5 +22030,37 @@
     "BATTERY": "83",
     "NETWORK": "M",
     "MSG": "Pra"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:57",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pra "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:57",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pra"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:57",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:51:58",
+    "BATTERY": "83",
+    "NETWORK": "M",
+    "MSG": "Pta nhi "
   }
 ]
