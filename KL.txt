@@ -20310,5 +20310,85 @@
     "BATTERY": "90",
     "NETWORK": "M",
     "MSG": "Abi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:02",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:02",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi b"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:03",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bt"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:03",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:03",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:03",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta r"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:03",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta rha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta rha "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:21:04",
+    "BATTERY": "90",
+    "NETWORK": "M",
+    "MSG": "Abi bta rha h"
   }
 ]
