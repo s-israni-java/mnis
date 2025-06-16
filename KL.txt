@@ -7158,5 +7158,45 @@
     "BATTERY": "46",
     "NETWORK": "W",
     "MSG": "Ye t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:30",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Ye to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:30",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Ye top"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:31",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Ye topi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:31",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Ye topic"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 12:43:31",
+    "BATTERY": "46",
+    "NETWORK": "W",
+    "MSG": "Ye topic "
   }
 ]
