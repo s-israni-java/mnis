@@ -15702,5 +15702,29 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Ss nhi nikal pa rhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:57",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nikal pa rhi h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:58",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ss nhi nikal pa rhi "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:11:02",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "A"
   }
 ]
