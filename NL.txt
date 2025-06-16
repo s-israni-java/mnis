@@ -7268,5 +7268,885 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:31:50",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:33:18",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:33:19",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Divii",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:09",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "ID": "No ID",
+    "MSG": "AUR"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:09",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:09",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:09",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:10",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:16",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:16",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:16",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:35:16",
+    "BATTERY": "68",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "With You",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:37:45",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:38:19",
+    "BATTERY": "67",
+    "NETWORK": "No Connection",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:39:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:39:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:39:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:39:02",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:39:16",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:40:28",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:40:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:40:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ha"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:40:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Photo bjh meko"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:40:41",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tauba Tauba",
+    "ID": "No ID",
+    "MSG": "Karan Aujla"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:12",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:13",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:13",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:13",
+    "BATTERY": "67",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:41:55",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:26",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:27",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Calling"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:36",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:43:39",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "No ID",
+    "MSG": "Ongoing call"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:44:42",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:44:42",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:44:42",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:44:42",
+    "BATTERY": "66",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Tareefan",
+    "ID": "No ID",
+    "MSG": "QARAN, Badshah"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:45:34",
+    "BATTERY": "65",
+    "NETWORK": "M",
+    "TITLE": "Sakhiyaan",
+    "ID": "No ID",
+    "MSG": "Maninder Buttar"
   }
 ]
