@@ -8768,5 +8768,35 @@
     "TITLE": "Insane",
     "ID": "No ID",
     "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:59:32",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Jee Ni Lagda",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:59:32",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Insane",
+    "ID": "No ID",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 10:59:32",
+    "BATTERY": "61",
+    "NETWORK": "M",
+    "TITLE": "Jee Ni Lagda",
+    "ID": "No ID",
+    "MSG": "Karan Aujla, Ikky"
   }
 ]
