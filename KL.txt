@@ -11958,5 +11958,21 @@
     "BATTERY": "30",
     "NETWORK": "W",
     "MSG": "Jr"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:03:55",
+    "BATTERY": "30",
+    "NETWORK": "W",
+    "MSG": "Kr "
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 16:23:03",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "MSG": "O"
   }
 ]
