@@ -23708,5 +23708,35 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:05:38",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Akshay Tamana",
+    "ID": "false|Akshay Tamana|13f638fc-05ea-497e-ac3d-67dfc47fc17b",
+    "MSG": "Simriti Basantani✨, you have a new friend suggestion from your contacts!"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:06:40",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Easy auth de"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:06:40",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Easy auth de"
   }
 ]
