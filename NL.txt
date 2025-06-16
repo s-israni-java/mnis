@@ -24538,5 +24538,25 @@
     "TITLE": "Sagar Israni",
     "ID": "No ID",
     "MSG": "Liked your message."
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:43:43",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Samjhawan",
+    "ID": "No ID",
+    "MSG": "Jawad Ahmad, Shaarib Toshi, Arijit Singh, Shreya Ghoshal"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:43:43",
+    "BATTERY": "85",
+    "NETWORK": "M",
+    "TITLE": "Apna Bana Le",
+    "ID": "No ID",
+    "MSG": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya"
   }
 ]
