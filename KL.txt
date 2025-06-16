@@ -15214,5 +15214,45 @@
     "BATTERY": "94",
     "NETWORK": "M",
     "MSG": "A"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:15",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "As"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:15",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "Asa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:15",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "Asan"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:16",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "Asanga"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:07:16",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "MSG": "Asangaon "
   }
 ]
