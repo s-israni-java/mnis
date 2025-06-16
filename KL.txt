@@ -15382,5 +15382,21 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "3.92"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:45",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "3.92 "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:47",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "T"
   }
 ]
