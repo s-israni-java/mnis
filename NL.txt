@@ -14498,5 +14498,65 @@
     "TITLE": "Dil Tu Jaan Tu",
     "ID": "No ID",
     "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:25:21",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:25:21",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:25:25",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "TITLE": "Renu Rohra",
+    "ID": "false|Renu Rohra|8157cd9e-ada3-4ecf-a775-af9f90bd4fae",
+    "MSG": "Simriti Basantani✨, you have a new friend suggestion from your contacts!"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:28:12",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:28:13",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 13:28:13",
+    "BATTERY": "42",
+    "NETWORK": "W",
+    "TITLE": "Dil Tu Jaan Tu",
+    "ID": "No ID",
+    "MSG": "Gurnazar, Chet Singh"
   }
 ]
