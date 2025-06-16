@@ -8318,5 +8318,133 @@
     "BATTERY": "45",
     "NETWORK": "W",
     "MSG": "Whom do u want me t"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:31",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u want me to"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:01:32",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Whom do u want me to?"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:10",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "N"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:10",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "No"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:11",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nob"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:11",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobo"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:11",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobod"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:12",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:12",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:12",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody i"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:12",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:12",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:12",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is a"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:13",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:13",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 13:03:13",
+    "BATTERY": "45",
+    "NETWORK": "W",
+    "MSG": "Nobody is as c"
   }
 ]
