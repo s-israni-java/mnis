@@ -16046,5 +16046,13 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Vaise bhej na "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:12:31",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Message"
   }
 ]
