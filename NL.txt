@@ -23938,5 +23938,55 @@
     "TITLE": "Nisha Tcs",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "Har ek individual remark hai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:13:19",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Har ek individual remark hai"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:14:34",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "ID": "No ID",
+    "MSG": "Sent a reel by thekuldeepsinghania"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:15:02",
+    "BATTERY": "92",
+    "NETWORK": "No Connection",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "You may have new messages"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:15:19",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Nhi dekha re maina"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:15:19",
+    "BATTERY": "92",
+    "NETWORK": "M",
+    "TITLE": "Nisha Tcs",
+    "ID": "918291418946@s.whatsapp.net",
+    "MSG": "Nhi dekha re maina"
   }
 ]
