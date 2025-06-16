@@ -11278,5 +11278,53 @@
     "BATTERY": "31",
     "NETWORK": "W",
     "MSG": "Thand l"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:58:59",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Thand lg"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:58:59",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Thand lg "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:58:59",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Thand lg rh"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:58:59",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Thand lg rhi"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:59:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Thand lg rhi h "
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 15:59:00",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "MSG": "Thand lg rhi h k"
   }
 ]
