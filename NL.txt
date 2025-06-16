@@ -12218,5 +12218,35 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:37:59",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:38:00",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa, Neha Kakkar"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 12:38:00",
+    "BATTERY": "47",
+    "NETWORK": "W",
+    "TITLE": "Old Money",
+    "ID": "No ID",
+    "MSG": "AP Dhillon"
   }
 ]
