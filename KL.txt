@@ -15462,5 +15462,29 @@
     "BATTERY": "93",
     "NETWORK": "M",
     "MSG": "Tera kitna h"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:50",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ai"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:50",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Ais"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "KEY_LOGGER",
+    "CDATE": "2025-06-16 19:10:50",
+    "BATTERY": "93",
+    "NETWORK": "M",
+    "MSG": "Aisa "
   }
 ]
