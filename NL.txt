@@ -23758,5 +23758,25 @@
     "TITLE": "Nisha Tcs",
     "ID": "918291418946@s.whatsapp.net",
     "MSG": "2 new messages"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:06:45",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "New Ultimatix Login",
+    "ID": "No ID",
+    "MSG": "View EasyAuth"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 19:07:35",
+    "BATTERY": "94",
+    "NETWORK": "M",
+    "TITLE": "WhatsApp",
+    "ID": "No ID",
+    "MSG": "Checking for new messages"
   }
 ]
