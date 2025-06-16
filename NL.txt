@@ -19208,5 +19208,15 @@
     "TITLE": "DIVAS on TEAMS: Nisha Kadam",
     "ID": "No ID",
     "MSG": "kuki tu hai"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 15:59:26",
+    "BATTERY": "31",
+    "NETWORK": "W",
+    "TITLE": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "ID": "No ID",
+    "MSG": "No message"
   }
 ]
