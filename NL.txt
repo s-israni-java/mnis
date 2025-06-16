@@ -20098,5 +20098,25 @@
     "TITLE": "WhatsApp",
     "ID": "No ID",
     "MSG": "Checking for new messages"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:29:20",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "TITLE": "Updating messages…",
+    "ID": "No ID",
+    "MSG": "No message"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 16:29:21",
+    "BATTERY": "26",
+    "NETWORK": "W",
+    "TITLE": "Manage employee roles on your PB app!",
+    "ID": "No ID",
+    "MSG": "Allocate appropriate roles and rights to your employees. Know more."
   }
 ]
