@@ -17398,5 +17398,155 @@
     "TITLE": "Updating messages…",
     "ID": "No ID",
     "MSG": "No message"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:13:33",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107",
+    "MSG": "sent you a Snap • 🔥"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:05",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:05",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:05",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:05",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:06",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:06",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:06",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:06",
+    "BATTERY": "38",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:18",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:18",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:18",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:22:18",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Ishq Tera",
+    "ID": "No ID",
+    "MSG": "Guru Randhawa"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:26:22",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok ok"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NOTIFICATION",
+    "CDATE": "2025-06-16 14:26:22",
+    "BATTERY": "37",
+    "NETWORK": "W",
+    "TITLE": "Sagar❤️",
+    "ID": "918698423278@s.whatsapp.net",
+    "MSG": "Ok ok"
   }
 ]
