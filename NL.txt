@@ -9818,5 +9818,25 @@
     "CDATE": "2025-06-17 17:30:15",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: Payroll-related queries • Fyi. Thanks & Regards, Vasanti More Europe Finance Tata Consultancy Services Limited Stockholm, Sweden Mailto: vp.more@tcs.com From: Nour Al Bakaa <nour.albakaa@tcs.com> Sent: Monday, June 16, 2025 2:03 PM Cc:",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 17:30:15",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Missal Pav (2 Pav), Punjabi  Samosa  (  Single) are ready!",
+    "TITLE": "Your food is ready!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 17:30:27",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
