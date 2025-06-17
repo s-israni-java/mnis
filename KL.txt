@@ -862,5 +862,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:53:16",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pe",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:16",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye peh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:16",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:16",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehle ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:16",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehle h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:16",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehle hi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:17",
+    "BATTERY": "68"
   }
 ]
