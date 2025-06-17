@@ -31358,5 +31358,25 @@
     "CDATE": "2025-06-17 09:41:23",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Saiyyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:41:23",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Saiyyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:47:07",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
