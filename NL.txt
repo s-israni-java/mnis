@@ -10818,5 +10818,25 @@
     "CDATE": "2025-06-17 18:04:34",
     "BATTERY": "84",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: Europe Comp IS data Jun 2025 • fyi Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Complex, LBS Marg Vikhroli (West) Mumbai - 400079,Maharashtra India. Email : amit.rbandekar@tcs.com From: Ramesh So",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:04:34",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:05:00",
+    "BATTERY": "84",
+    "ID": "No ID"
   }
 ]
