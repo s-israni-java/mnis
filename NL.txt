@@ -98,5 +98,25 @@
     "CDATE": "2025-06-17 22:53:53",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "New reward earned!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:53",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "E-Mandate!\nRs.199.00 will be deducted on 20\/06\/25, 00:00:00\nFor NETFLIX COM mandate\nUMN 344a036947b2ed36e0634ccee10a96de@okhdfcbank\nMaintain Balance\n-HDFC Bank",
+    "TITLE": "AD-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:54:17",
+    "BATTERY": "68",
+    "ID": "385"
   }
 ]
