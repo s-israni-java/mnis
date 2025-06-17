@@ -1998,5 +1998,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 00:50:36",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322584474",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:36",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932258447",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:43",
+    "BATTERY": "45"
   }
 ]
