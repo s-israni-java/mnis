@@ -29738,5 +29738,15 @@
     "CDATE": "2025-06-17 08:59:54",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "Simi's Technology",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:02:25",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
