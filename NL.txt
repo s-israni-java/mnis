@@ -1168,5 +1168,25 @@
     "CDATE": "2025-06-18 00:30:15",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:15",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Thank you for your request. We will activate Internet service on your Airtel Mobile within 4 hours. Spam protection is now live on Airtel.",
+    "TITLE": "AZ-AIRSLF-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:19",
+    "BATTERY": "50",
+    "ID": "481"
   }
 ]
