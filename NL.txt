@@ -31948,5 +31948,15 @@
     "CDATE": "2025-06-17 10:25:20",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Please come to desk 10D-64 for sweets",
+    "TITLE": "Corporate Finance Payroll Grp: Amit Gadgil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:29:26",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
