@@ -16488,5 +16488,35 @@
     "CDATE": "2025-06-17 21:20:42",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:20:42",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:20:43",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:20:53",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
