@@ -11968,5 +11968,25 @@
     "CDATE": "2025-06-17 18:28:28",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:28:28",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:28:33",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
