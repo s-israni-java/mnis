@@ -15278,5 +15278,175 @@
     "CDATE": "2025-06-17 20:13:35",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "We walking",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:13:38",
+    "BATTERY": "66",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:13:38",
+    "BATTERY": "66",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Amit sir aishwarya prashant harshad",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:14:52",
+    "BATTERY": "65",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Amit sir aishwarya prashant harshad",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:14:52",
+    "BATTERY": "65",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:21:06",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 85% · See full forecast for Ulhasnagar",
+    "TITLE": "29° tomorrow · 3° cooler than today",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:21:07",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93234 74737‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:11",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:11",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:14",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:14",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:36",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:54",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:54",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:25:56",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:26:21",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:26:21",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:26:21",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
