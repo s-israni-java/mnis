@@ -2014,5 +2014,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 00:50:43",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93225844",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:43",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932258441",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:44",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322584414",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:44",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:25",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "de",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:25",
+    "BATTERY": "45"
   }
 ]
