@@ -29888,5 +29888,15 @@
     "CDATE": "2025-06-17 09:06:17",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gms",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Google Contacts backing up 1 of 1 contact",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:08:08",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
