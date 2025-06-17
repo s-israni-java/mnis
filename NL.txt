@@ -16478,5 +16478,15 @@
     "CDATE": "2025-06-17 21:14:55",
     "BATTERY": "52",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:20:42",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
