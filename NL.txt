@@ -29568,5 +29568,25 @@
     "CDATE": "2025-06-17 06:08:07",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 06:08:07",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 08:09:12",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
