@@ -838,5 +838,15 @@
     "CDATE": "2025-06-18 00:06:01",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
