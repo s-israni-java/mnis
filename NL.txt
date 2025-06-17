@@ -2788,5 +2788,15 @@
     "CDATE": "2025-06-17 13:14:23",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Do not run payroll please in ECC for these countries BE, DE, CH, DK, HU, NL, PL & SE",
+    "TITLE": "Europe Payroll Group: Amit Bandekar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:15:38",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
