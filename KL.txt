@@ -702,5 +702,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:52:58",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple vala liya men",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:58",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple vala liya mene",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:58",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple vala liya mene ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:59",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Y",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:10",
+    "BATTERY": "68"
   }
 ]
