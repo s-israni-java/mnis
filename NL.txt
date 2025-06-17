@@ -2748,5 +2748,35 @@
     "CDATE": "2025-06-17 13:08:06",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Payroll Data Upload - Jun 2025  ( 2nd Cut DPR \/ DOR ) • Dear Amit, Please find return back to India cases & resignation cases for IP country which we received data from source. Please Delete the RT and confirm. Please check & revert in case of any concern. 2nd freeze will get start in some time",
+    "TITLE": "Sandip Jana",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 13:08:07",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 13:12:04",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "team,2nd cut Bank freeze will start in sometime. Please keep the payroll control in' CORRECTION' mode",
+    "TITLE": "Europe Payroll Group: Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 13:12:13",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
