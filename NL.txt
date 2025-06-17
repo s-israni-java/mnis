@@ -898,5 +898,65 @@
     "CDATE": "2025-06-18 00:06:46",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:07",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:07:14",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:14",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:15",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
