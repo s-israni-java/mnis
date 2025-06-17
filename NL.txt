@@ -1,0 +1,1082 @@
+[
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Sent Rs.360.00\nFrom HDFC Bank A\/C x4829\nTo PRIYANKA AJIT GUPTA\nOn 17\/06\/25\nRef 106642072644\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808",
+    "TITLE": "JX-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:58:12",
+    "BATTERY": "50",
+    "ID": "372"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:59:43",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:59:46",
+    "BATTERY": "50",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala sim?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:41:19",
+    "BATTERY": "58",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala sim?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:41:19",
+    "BATTERY": "58",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bablu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:46:52",
+    "BATTERY": "65",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:46:52",
+    "BATTERY": "65",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Toh dal n",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:50:46",
+    "BATTERY": "68",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Toh dal n",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:50:46",
+    "BATTERY": "68",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:53",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "New reward earned!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:53",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "E-Mandate!\nRs.199.00 will be deducted on 20\/06\/25, 00:00:00\nFor NETFLIX COM mandate\nUMN 344a036947b2ed36e0634ccee10a96de@okhdfcbank\nMaintain Balance\n-HDFC Bank",
+    "TITLE": "AD-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:54:17",
+    "BATTERY": "68",
+    "ID": "385"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "UPI Mandate Cancelled\nTowards NETFLIX COM\nFor Rs.199.00\nFrom HDFC Bank A\/c x4829\nUMN 344a036947b2ed36e0634ccee10a96de@okhdfcbank",
+    "TITLE": "JM-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:56:32",
+    "BATTERY": "68",
+    "ID": "388"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by alphaxmanhood",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:32",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:46",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:46",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by imhongtea",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:03:10",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:04:02",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Oyeeeeeeee",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:04:03",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:04:03",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:08:43",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:08:43",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:08:44",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:07",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:07",
+    "BATTERY": "67",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "+91 86984 23278",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:23",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:23",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:23",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:27",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "May we open our personal gym together in which only we both workout and our babies big n small once❣️",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:01",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:01",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:06",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "😍",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:07",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:07",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:48",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dear",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "6 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:05",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Boot cut. Me. Colors. Aaynge. Sat",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:07",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "7 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:07",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "It s. Ok. Np",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:15",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "8 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:15",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:16:25",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:16:28",
+    "BATTERY": "66",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by dipity.biker",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:18:41",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:19:45",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:22:40",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:24:57",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:30",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:30",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:31",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:52:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:48",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:48",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:49",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "5905 9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:37",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪5905 9‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:37",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:31",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:31",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:32",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:34",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:02:15",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:15",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:16",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:17",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:02:53",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:54",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:54",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:58",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:45",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:45",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:46",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:53",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:53",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:54",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:01",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:44",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:44",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:46",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:07",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:07:14",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:14",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:15",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:28",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "@nicolas: Learn more about .pi Domains Auction updates and the utility it’s intended to support. See home screen!",
+    "TITLE": "Announcements: @nicolas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:08:16",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "@nicolas: Learn more about .pi Domains Auction updates and the utility it’s intended to support. See home screen!",
+    "TITLE": "Announcements: @nicolas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:08:16",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:13:54",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching • Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:13:54",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.battery",
+    "SERVICE": "NL",
+    "MSG": "\"Instagram\" is draining battery in the background. Optimise it now.",
+    "TITLE": "Optimise battery use",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:22:14",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:50",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:50",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:27:51",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:27:51",
+    "BATTERY": "51",
+    "ID": "No ID"
+  }
+]
