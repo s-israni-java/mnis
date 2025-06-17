@@ -1368,5 +1368,15 @@
     "CDATE": "2025-06-18 00:53:02",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "72%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:04",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
