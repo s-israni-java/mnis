@@ -11848,5 +11848,75 @@
     "CDATE": "2025-06-17 18:22:43",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:22:43",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:23:45",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:23:45",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:23:45",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:23:45",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:26:15",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:26:15",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
