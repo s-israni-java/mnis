@@ -6318,5 +6318,15 @@
     "CDATE": "2025-06-17 15:55:15",
     "BATTERY": "98",
     "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "replied to your Chat",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 15:55:17",
+    "BATTERY": "98",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
   }
 ]
