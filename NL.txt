@@ -8588,5 +8588,105 @@
     "CDATE": "2025-06-17 17:03:43",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:53",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:53",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:53",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:04:54",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
