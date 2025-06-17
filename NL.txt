@@ -9838,5 +9838,25 @@
     "CDATE": "2025-06-17 17:30:27",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Punjabi  Samosa  (  Single), Missal Pav (2 Pav) from your order have been delivered!",
+    "TITLE": "Order Delivered!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 17:30:45",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 17:30:45",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
