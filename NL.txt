@@ -7668,5 +7668,35 @@
     "CDATE": "2025-06-17 16:23:23",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 16:23:23",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Time to say a special Thank You to our Finance Mentors -  \r\nDear Finance Team, Corporate Finance Connect\r\n \r\nI wanted to take a moment to thank all managers in our unit for the exceptional work they do to groom and guide their teams and work collaboratively to achieve the unit goals. Your attention to detail and expertise are truly appreciated. Keep up the great work!\r\n \r\nToday, we honor and appreciate our exceptional managers for their impactful",
+    "TITLE": "Jinat S. mentioned Corporate Finance Connect in General",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 16:23:43",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "Get voice notifications for payments on PhonePe QR.",
+    "TITLE": "🔉Payment received...on Voice Alerts!🔉",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 16:24:54",
+    "BATTERY": "96",
+    "ID": "No ID"
   }
 ]
