@@ -6,5 +6,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 21:58:05",
     "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●3",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:58:05",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:58:05",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●●9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:58:05",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "B",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:28",
+    "BATTERY": "49"
   }
 ]
