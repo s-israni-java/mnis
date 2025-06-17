@@ -128,5 +128,15 @@
     "CDATE": "2025-06-17 22:56:32",
     "BATTERY": "68",
     "ID": "388"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by alphaxmanhood",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:32",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
