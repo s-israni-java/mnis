@@ -12938,5 +12938,35 @@
     "CDATE": "2025-06-17 19:38:55",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "7.40 ki kaha hotu h",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:38:56",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "7.40 ki kaha hotu h",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:38:56",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Your fav dinner and FLAT 65% OFF are BFFs forever! ♾️",
+    "TITLE": "Officially confirmed… 💯",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:40:35",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
