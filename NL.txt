@@ -31668,5 +31668,35 @@
     "CDATE": "2025-06-17 10:03:02",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:03:02",
+    "BATTERY": "81",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:03:09",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:03:10",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
