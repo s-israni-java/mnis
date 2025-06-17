@@ -478,5 +478,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:30:10",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fresh hoi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:30:10",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fresh ho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:30:10",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fresh hou",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:30:10",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fresh hou ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:30:11",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "O",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:30:16",
+    "BATTERY": "49"
   }
 ]
