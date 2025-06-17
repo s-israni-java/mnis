@@ -29868,5 +29868,25 @@
     "CDATE": "2025-06-17 09:06:13",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "+91 98601 31471",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:06:17",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "+91 98601 31471",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:06:17",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
