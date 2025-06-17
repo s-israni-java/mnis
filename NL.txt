@@ -11988,5 +11988,25 @@
     "CDATE": "2025-06-17 18:28:33",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:28:35",
+    "BATTERY": "82",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:29:15",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
