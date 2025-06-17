@@ -3278,5 +3278,15 @@
     "CDATE": "2025-06-17 14:03:36",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Will not talk",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:04:02",
+    "BATTERY": "40",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
