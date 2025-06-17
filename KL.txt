@@ -166,5 +166,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:29:40",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Join ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:40",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Join",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:40",
+    "BATTERY": "49"
   }
 ]
