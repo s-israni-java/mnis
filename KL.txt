@@ -302,5 +302,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:29:45",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd hone va",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:45",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd hone val",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:45",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd hone vala ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:46",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd hone vala h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:46",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd hone vala h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:46",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:30:06",
+    "BATTERY": "49"
   }
 ]
