@@ -12188,5 +12188,45 @@
     "CDATE": "2025-06-17 18:29:27",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:29:27",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "OneRepublic",
+    "TITLE": "I Ain't Worried",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:29:36",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:29:36",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "OneRepublic",
+    "TITLE": "I Ain't Worried",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:29:36",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
