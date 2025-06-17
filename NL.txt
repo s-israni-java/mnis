@@ -478,5 +478,245 @@
     "CDATE": "2025-06-17 23:18:41",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:19:45",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:22:40",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:24:57",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:30",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:30",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:31",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:52:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:48",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:48",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:49",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "5905 9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:37",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪5905 9‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:37",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:31",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:31",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:32",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:34",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:02:15",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:15",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:16",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
