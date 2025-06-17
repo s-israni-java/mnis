@@ -11638,5 +11638,35 @@
     "CDATE": "2025-06-17 18:19:54",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:19:54",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:19:54",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:22:22",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
