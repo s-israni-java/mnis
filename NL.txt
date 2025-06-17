@@ -458,5 +458,15 @@
     "CDATE": "2025-06-17 23:16:25",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:16:28",
+    "BATTERY": "66",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
   }
 ]
