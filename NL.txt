@@ -978,5 +978,25 @@
     "CDATE": "2025-06-18 00:08:16",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "@nicolas: Learn more about .pi Domains Auction updates and the utility it’s intended to support. See home screen!",
+    "TITLE": "Announcements: @nicolas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:08:16",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:13:54",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
