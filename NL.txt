@@ -3698,5 +3698,65 @@
     "CDATE": "2025-06-17 14:36:55",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Credit card ka kya hau?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:37:17",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Credit card ka kya hau?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:37:17",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:37:37",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:37:37",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 14:37:38",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hello",
+    "TITLE": "Vikas Jaiwar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:41:54",
+    "BATTERY": "30",
+    "ID": "No ID"
   }
 ]
