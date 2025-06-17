@@ -16348,5 +16348,35 @@
     "CDATE": "2025-06-17 21:13:13",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Also you: Enough energy to order ice cream or gulab jamun. 😋",
+    "TITLE": "You: 1% Energy 🪫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:13:13",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:13:14",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:13:17",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
