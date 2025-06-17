@@ -15528,5 +15528,65 @@
     "CDATE": "2025-06-17 20:28:45",
     "BATTERY": "62",
     "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hi",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:28:45",
+    "BATTERY": "62",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:28:55",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Try. Kiya  pants",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:28:56",
+    "BATTERY": "62",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:28:56",
+    "BATTERY": "62",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: new expat on site Dear Camelia, Thank you for the clarifications provided. Please share the PoA with Mr. Vishanthin order to prepare the process. Have a nice evening, Madalina From: Camelia Curechian <camelia.curechian@ro.gt.com> Sent: Tuesday, June 17, 2025 4:53",
+    "TITLE": "Carpuci Madalina",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:31:57",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: new expat on site • Dear Camelia, Thank you for the clarifications provided. Please share the PoA with Mr. Vishanthin order to prepare the process. Have a nice evening, Madalina From: Camelia Curechian <camelia.curechian@ro.gt.com> Sent: Tuesday, June 17, 2025 4:53",
+    "TITLE": "Carpuci Madalina",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:31:57",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
