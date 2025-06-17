@@ -29198,5 +29198,55 @@
     "CDATE": "2025-06-17 05:51:24",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:25",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click Here to View All :- https:\/\/knome.ultimatix.net\/app\/blogposts\/942973",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:25",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:26",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:52:18",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:52:18",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
