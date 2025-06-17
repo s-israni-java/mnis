@@ -1518,5 +1518,55 @@
     "CDATE": "2025-06-17 12:01:48",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Halsey",
+    "TITLE": "Closer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:04:23",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:04:23",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:04:23",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:04:23",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:04:23",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
