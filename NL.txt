@@ -16288,5 +16288,35 @@
     "CDATE": "2025-06-17 20:53:03",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:53:04",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:53:04",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 20:53:32",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
