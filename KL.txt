@@ -1630,5 +1630,85 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 23:44:13",
     "BATTERY": "62"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "SIM",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:30",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:30",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:31",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:32",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Air",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:32",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:33",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airte",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:33",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.android.phone_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airtel",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:55:33",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Phone number",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:21",
+    "BATTERY": "57"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "m",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:04:05",
+    "BATTERY": "56"
   }
 ]
