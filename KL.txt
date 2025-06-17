@@ -70,5 +70,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:29:30",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:30",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Air",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:30",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:30",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airte",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:30",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airtel",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:31",
+    "BATTERY": "49"
   }
 ]
