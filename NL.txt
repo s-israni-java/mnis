@@ -2828,5 +2828,35 @@
     "CDATE": "2025-06-17 13:21:15",
     "BATTERY": "44",
     "ID": "918356964078@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Khana khya?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:21:15",
+    "BATTERY": "44",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:21:15",
+    "BATTERY": "44",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Yeh rating ka bath sirf apna tak rakhna udhar nhi bolna kisse ko aise amit sir bole hai",
+    "TITLE": "DIVAS on TEAMS: Nisha Kadam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:25:52",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
