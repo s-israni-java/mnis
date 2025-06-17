@@ -9858,5 +9858,25 @@
     "CDATE": "2025-06-17 17:30:45",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 17:31:07",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "New reward earned!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 17:31:07",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
