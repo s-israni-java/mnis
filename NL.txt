@@ -29448,5 +29448,15 @@
     "CDATE": "2025-06-17 06:03:33",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 1,000.00 to A\/c X1248 on 17-JUN-2025 Ref NEFT CR-UTIBN62025061730426921 -PHONEPE. Bal INR 8,240.65.\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 06:03:53",
+    "BATTERY": "79",
+    "ID": "415"
   }
 ]
