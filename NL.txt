@@ -31718,5 +31718,75 @@
     "CDATE": "2025-06-17 10:03:16",
     "BATTERY": "81",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:03:19",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by dra.lu.inz",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:07:54",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Altamash Faridi, Sohail Sen, Mudassar Aziz",
+    "TITLE": "Aashiq Tera",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:11:08",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Altamash Faridi, Sohail Sen, Mudassar Aziz",
+    "TITLE": "Aashiq Tera",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:11:08",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by fuckjerry",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:13:03",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You may have new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 10:14:27",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:15:14",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
