@@ -3358,5 +3358,55 @@
     "CDATE": "2025-06-17 14:05:12",
     "BATTERY": "40",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Sending message…",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:05:14",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Sending video to Sagar❤️",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:05:14",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "K",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:06:53",
+    "BATTERY": "39",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "K",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:06:53",
+    "BATTERY": "39",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Personal Loan of ₹5,00,000 – Just 5 Minutes to Approval!—Dear Customer,\n\nYou’re eligible for a ₹5,00,000 personal loan with zero documentation and instant processing.\n\nWhat’s in store:\n✅ Approval in 5 minutes\n✅ No hidden fees\n✅ Same-day disbursal\n\nGet your loan now – fast and hassle-free.\n\nT&C Apply | Powered by Prefr\n\nTo opt out, reply STOP",
+    "TITLE": "Prefr",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:13:36",
+    "BATTERY": "39",
+    "ID": "479"
   }
 ]
