@@ -3508,5 +3508,25 @@
     "CDATE": "2025-06-17 14:18:57",
     "BATTERY": "38",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Incoming voice call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:19:00",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing voice call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:19:00",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
