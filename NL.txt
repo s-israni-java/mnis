@@ -2198,5 +2198,25 @@
     "CDATE": "2025-06-17 12:18:48",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Shape of You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:18:48",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Shape of You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 12:18:48",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
