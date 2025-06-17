@@ -31698,5 +31698,25 @@
     "CDATE": "2025-06-17 10:03:10",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Aaj sab atak rhe g",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:03:16",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Aaj sab atak rhe g",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:03:16",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
