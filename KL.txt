@@ -910,5 +910,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:53:17",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehle hi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:17",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehle hi s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:17",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pehle hi se",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:18",
+    "BATTERY": "68"
   }
 ]
