@@ -3658,5 +3658,15 @@
     "CDATE": "2025-06-17 14:36:49",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:36:53",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
