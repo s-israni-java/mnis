@@ -788,5 +788,25 @@
     "CDATE": "2025-06-18 00:05:45",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:46",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:53",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
