@@ -10838,5 +10838,55 @@
     "CDATE": "2025-06-17 18:05:00",
     "BATTERY": "84",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:05:00",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:05:00",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:05:00",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:06:00",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "comments file form Ramesh • Team, The comments file from Ramesh is available on below path \\\\172.17.62.46\\data_finance\\Overseas Payroll\\POST JUNE' 2020\\EUROPE\\Comp vs Gross Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 18:06:00",
+    "BATTERY": "84",
+    "ID": "No ID"
   }
 ]
