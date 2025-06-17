@@ -8548,5 +8548,45 @@
     "CDATE": "2025-06-17 17:01:40",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:01:40",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:01:40",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Payroll Data Upload - Jun 2025  ( 2nd Cut DPR \/ DOR ) Dear Sandip and Sasikala, Can you please delete RT and run 2nd cut in CHN Rise for the same employees for whom we processed 2nd cut in ECC ( BAU) this morning. Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Li",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:03:43",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Payroll Data Upload - Jun 2025  ( 2nd Cut DPR \/ DOR ) • Dear Sandip and Sasikala, Can you please delete RT and run 2nd cut in CHN Rise for the same employees for whom we processed 2nd cut in ECC ( BAU) this morning. Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Li",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 17:03:43",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
