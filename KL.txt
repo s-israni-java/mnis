@@ -1454,5 +1454,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 23:32:01",
     "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "restart",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:01",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:56",
+    "BATTERY": "64"
   }
 ]
