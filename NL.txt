@@ -7698,5 +7698,35 @@
     "CDATE": "2025-06-17 16:24:54",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by writerspocket",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 16:39:19",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Syncing new emails",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 16:39:59",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "Update on improved and secured investing",
+    "TITLE": "Angel One",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 16:41:02",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
