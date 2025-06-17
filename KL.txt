@@ -238,5 +238,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:29:43",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:43",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:43",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jio bnd ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:44",
+    "BATTERY": "49"
   }
 ]
