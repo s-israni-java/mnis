@@ -1390,5 +1390,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:56:25",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●3",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:56:25",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:56:26",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●●9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:56:26",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:00",
+    "BATTERY": "64"
   }
 ]
