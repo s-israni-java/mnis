@@ -31098,5 +31098,15 @@
     "CDATE": "2025-06-17 09:34:08",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "आपला Jio नंबर 9322584414 चा प्लॅन लवकरच समाप्त होईल.अखंडित सेवे साठी आत्ता रिचार्ज करा www.jio.com\/r\/RTPOPMok2 क्लिक करा. इतर प्लॅन्स साठी 1991 वर कॉल करा.",
+    "TITLE": "JZ-JIOINF-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:34:13",
+    "BATTERY": "88",
+    "ID": "472"
   }
 ]
