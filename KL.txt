@@ -1494,5 +1494,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 23:32:56",
     "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "resta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:57",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "restar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:57",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "restart",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:57",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "restar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:58",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "resta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:58",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "rest",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:32:59",
+    "BATTERY": "64"
   }
 ]
