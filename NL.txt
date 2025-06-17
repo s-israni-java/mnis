@@ -30658,5 +30658,45 @@
     "CDATE": "2025-06-17 09:22:48",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:25:22",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Baarishein",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:25:22",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:25:22",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 09:25:23",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
