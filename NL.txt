@@ -29138,5 +29138,65 @@
     "CDATE": "2025-06-17 05:51:16",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:18",
+    "BATTERY": "81",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "wants to be your friend!",
+    "TITLE": "Hot chat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:18",
+    "BATTERY": "81",
+    "ID": "false|Hot chat|313e2e7f-6498-42ba-a757-3554191b729e"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:20",
+    "BATTERY": "81",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "Bharti Basantani and 6 others reacted to your work anniversary.",
+    "TITLE": "LinkedIn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:24",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "Bharti Basantani and 4 others commented on your work anniversary.",
+    "TITLE": "LinkedIn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:24",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin Click Here to View All :- https:\/\/knome.ultimatix.net\/app\/blogposts\/942973",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 05:51:24",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
