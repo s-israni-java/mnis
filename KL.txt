@@ -110,5 +110,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:29:31",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airtel ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:31",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Airtel",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:33",
+    "BATTERY": "49"
   }
 ]
