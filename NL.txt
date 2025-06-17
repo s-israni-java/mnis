@@ -31928,5 +31928,25 @@
     "CDATE": "2025-06-17 10:18:43",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "New memory for you",
+    "TITLE": "Faces of 2025",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:18:43",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Good morning will reach by 11.30",
+    "TITLE": "Europe Payroll Group: Nisha Kadam",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:25:20",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
