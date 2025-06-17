@@ -8,5 +8,15 @@
     "CDATE": "2025-06-17 21:58:12",
     "BATTERY": "50",
     "ID": "372"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:59:43",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
