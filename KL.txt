@@ -1950,5 +1950,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 00:50:34",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:34",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:35",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93225",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:50:35",
+    "BATTERY": "45"
   }
 ]
