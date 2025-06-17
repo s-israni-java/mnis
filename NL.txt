@@ -14418,5 +14418,155 @@
     "CDATE": "2025-06-17 19:45:55",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:45:56",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:45:57",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:45:58",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:03",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:05",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Video bola na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:29",
+    "BATTERY": "70",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Video bola na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:29",
+    "BATTERY": "70",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "😡",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:31",
+    "BATTERY": "70",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:31",
+    "BATTERY": "70",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:54",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:54",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
