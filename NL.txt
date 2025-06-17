@@ -16448,5 +16448,15 @@
     "CDATE": "2025-06-17 21:13:32",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Dear Customer, You have a missed call from +918698423278 The last missed call was at 09:12 PM on 17-Jun-2025 Thankyou, Team Jio.",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:14:41",
+    "BATTERY": "52",
+    "ID": "41"
   }
 ]
