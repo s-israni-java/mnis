@@ -14568,5 +14568,45 @@
     "CDATE": "2025-06-17 19:46:54",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:54",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:46:54",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:47:43",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 19:47:43",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
