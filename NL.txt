@@ -3208,5 +3208,15 @@
     "CDATE": "2025-06-17 14:03:04",
     "BATTERY": "41",
     "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:03:12",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
