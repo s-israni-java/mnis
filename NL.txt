@@ -1198,5 +1198,15 @@
     "CDATE": "2025-06-18 00:34:22",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:34:25",
+    "BATTERY": "49",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
   }
 ]
