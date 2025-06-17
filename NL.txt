@@ -2798,5 +2798,25 @@
     "CDATE": "2025-06-17 13:15:38",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "pura month ka hai",
+    "TITLE": "DIVAS on TEAMS: Nisha Kadam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:20:47",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:20:47",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
