@@ -614,5 +614,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:52:56",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple ca",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:56",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple cal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:56",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple cala",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:56",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple cala ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:56",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple cala",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:57",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Purple vala ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:52:57",
+    "BATTERY": "68"
   }
 ]
