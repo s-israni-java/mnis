@@ -29688,5 +29688,15 @@
     "CDATE": "2025-06-17 08:35:02",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "Squid Game: Season 3 | Final Games Trailer | Netflix",
+    "TITLE": "Netflix",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 08:44:14",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
