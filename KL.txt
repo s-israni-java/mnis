@@ -38,5 +38,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-17 22:29:28",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:29",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Babl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:29",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bablu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:29",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:29:30",
+    "BATTERY": "49"
   }
 ]
