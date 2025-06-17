@@ -148,5 +148,25 @@
     "CDATE": "2025-06-17 23:00:46",
     "BATTERY": "67",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:46",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by imhongtea",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:03:10",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
