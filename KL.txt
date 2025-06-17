@@ -1742,5 +1742,21 @@
     "NETWORK": "W",
     "CDATE": "2025-06-18 00:04:08",
     "BATTERY": "56"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "myairt",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:04:08",
+    "BATTERY": "56"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:17",
+    "BATTERY": "55"
   }
 ]
