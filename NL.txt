@@ -3568,5 +3568,35 @@
     "CDATE": "2025-06-17 14:23:54",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:23:54",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:27:31",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Shop at DMart Ready and redeem it now",
+    "TITLE": "You have an expiring reward",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:27:31",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
