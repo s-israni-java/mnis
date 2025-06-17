@@ -29428,5 +29428,25 @@
     "CDATE": "2025-06-17 06:02:26",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 06:03:33",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 45% · Rain · See full forecast",
+    "TITLE": "Today in Thane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 06:03:33",
+    "BATTERY": "79",
+    "ID": "No ID"
   }
 ]
