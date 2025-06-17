@@ -88,5 +88,15 @@
     "CDATE": "2025-06-17 22:50:46",
     "BATTERY": "68",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:53",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
