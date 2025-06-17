@@ -1208,5 +1208,25 @@
     "CDATE": "2025-06-18 00:34:25",
     "BATTERY": "49",
     "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:34:25",
+    "BATTERY": "49",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:34",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
