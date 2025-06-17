@@ -12658,5 +12658,15 @@
     "CDATE": "2025-06-17 18:46:37",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "You have a notification from Priyanka Pandey and 18 other updates on LinkedIn",
+    "TITLE": "Priyanka Pandey",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 18:59:42",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
