@@ -7518,5 +7518,45 @@
     "CDATE": "2025-06-17 16:19:29",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 16:19:29",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 16:19:29",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "\"Time to say a special Thank You to our Finance Mentors\" Dear Finance Team, I wanted to take a moment to thank all managers in our unit for the exceptional work they do to groom and guide their teams and work collaboratively to achieve the unit goals. Your attention to detail and expertise are truly apprecia",
+    "TITLE": "Jinat Sayyed",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 16:20:43",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "\"Time to say a special Thank You to our Finance Mentors\" • Dear Finance Team, I wanted to take a moment to thank all managers in our unit for the exceptional work they do to groom and guide their teams and work collaboratively to achieve the unit goals. Your attention to detail and expertise are truly apprecia",
+    "TITLE": "Jinat Sayyed",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 16:20:43",
+    "BATTERY": "96",
+    "ID": "No ID"
   }
 ]
