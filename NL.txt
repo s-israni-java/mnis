@@ -958,5 +958,25 @@
     "CDATE": "2025-06-18 00:07:15",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:28",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "@nicolas: Learn more about .pi Domains Auction updates and the utility it’s intended to support. See home screen!",
+    "TITLE": "Announcements: @nicolas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:08:16",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
