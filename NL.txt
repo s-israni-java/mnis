@@ -31848,5 +31848,45 @@
     "CDATE": "2025-06-17 10:15:42",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:16:45",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Now in lift",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:16:49",
+    "BATTERY": "77",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Now in lift",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:16:49",
+    "BATTERY": "77",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 10:16:51",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
