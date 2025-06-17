@@ -1798,5 +1798,61 @@
     "NETWORK": "W",
     "CDATE": "2025-06-18 00:05:18",
     "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932258",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:18",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322584",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:18",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93225844",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:19",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932258441",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:19",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322584414",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:19",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "c",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:42:08",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "ch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:42:09",
+    "BATTERY": "46"
   }
 ]
