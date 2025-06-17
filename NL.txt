@@ -3538,5 +3538,25 @@
     "CDATE": "2025-06-17 14:21:25",
     "BATTERY": "38",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": ".",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:21:25",
+    "BATTERY": "38",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "You've received Rs.𝟙𝟝𝟘𝟘 from SAGAR ISRANI",
+    "TITLE": "Money received",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 14:23:33",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
