@@ -1758,5 +1758,45 @@
     "NETWORK": "W",
     "CDATE": "2025-06-18 00:05:17",
     "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:17",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:17",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:17",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:17",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93225",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:18",
+    "BATTERY": "55"
   }
 ]
