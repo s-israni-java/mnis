@@ -2868,5 +2868,25 @@
     "CDATE": "2025-06-17 13:26:18",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Payroll Data Upload - Jun 2025  ( 2nd Cut DPR \/ DOR ) Dear Sandip, Please see attached file. Yellow highlighted rows RT is deleted. Please action from your side and confirm. Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Compl",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:27:09",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Payroll Data Upload - Jun 2025  ( 2nd Cut DPR \/ DOR ) • Dear Sandip, Please see attached file. Yellow highlighted rows RT is deleted. Please action from your side and confirm. Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Compl",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-17 13:27:09",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
