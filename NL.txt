@@ -26048,5 +26048,55 @@
     "CDATE": "2025-06-18 18:27:15",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Rema, Selena Gomez",
+    "TITLE": "Calm Down (with Selena Gomez)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:16",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Rema, Selena Gomez",
+    "TITLE": "Calm Down (with Selena Gomez)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:16",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Rema, Selena Gomez",
+    "TITLE": "Calm Down (with Selena Gomez)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:39",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Khalid",
+    "TITLE": "Beautiful People (feat. Khalid)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:39",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Khalid",
+    "TITLE": "Beautiful People (feat. Khalid)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:39",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
