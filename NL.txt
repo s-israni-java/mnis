@@ -23698,5 +23698,45 @@
     "CDATE": "2025-06-18 17:28:29",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Justin Bieber",
+    "TITLE": "I Don't Care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:28:29",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Justin Bieber",
+    "TITLE": "I Don't Care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:28:29",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Justin Bieber",
+    "TITLE": "I Don't Care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:28:29",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi Simriti, FYA📷",
+    "TITLE": "Amit, Swapna, and Vasanti: Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:30:18",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
