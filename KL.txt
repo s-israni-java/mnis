@@ -7158,5 +7158,77 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 19:53:12",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By w",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:13",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By wal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:13",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:13",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:13",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:15",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk go",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:15",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk goi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:15",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk going",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:15",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By walk going ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:15",
+    "BATTERY": "70"
   }
 ]
