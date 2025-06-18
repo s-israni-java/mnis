@@ -3222,5 +3222,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:55:02",
     "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:02",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#4",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:02",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#46",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:02",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#463",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:02",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#4636",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:03",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#4636#",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:03",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#4636#*",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:03",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "*#*#4636#*#",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:03",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.google.android.dialer_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Phone number",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:03",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:48",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "da",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:48",
+    "BATTERY": "87"
   }
 ]
