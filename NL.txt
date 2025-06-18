@@ -7508,5 +7508,25 @@
     "CDATE": "2025-06-18 22:23:58",
     "BATTERY": "56",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:23:58",
+    "BATTERY": "56",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:24:10",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
