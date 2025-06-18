@@ -8358,5 +8358,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 20:03:27",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm tired aff",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:03:27",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm tired affff",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:03:28",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:36",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:36",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:36",
+    "BATTERY": "66"
   }
 ]
