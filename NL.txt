@@ -6638,5 +6638,35 @@
     "CDATE": "2025-06-18 21:06:43",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taaruk Raina, Mismatched - Cast",
+    "TITLE": "Kho Gaye",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:06:43",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taaruk Raina, Mismatched - Cast",
+    "TITLE": "Kho Gaye",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:06:43",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:14:09",
+    "BATTERY": "51",
+    "ID": "No ID"
   }
 ]
