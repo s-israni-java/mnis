@@ -3062,5 +3062,109 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:53:07",
     "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:07",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93225",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:08",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932258",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:08",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93225844",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:08",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "932258441",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:09",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322584414",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:09",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "o",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:49",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Search for apps on this device",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:50",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "c",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:51",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:51",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "c",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:54",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Search for apps on this device",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:54",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:54:54",
+    "BATTERY": "87"
   }
 ]
