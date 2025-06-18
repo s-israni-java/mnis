@@ -15606,5 +15606,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:30:38",
     "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ready kr rhi hu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:38",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ready kr rhi hu s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:39",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ready kr rhi hu sb",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:39",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ready kr rhi hu sb ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:39",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:44",
+    "BATTERY": "62"
   }
 ]
