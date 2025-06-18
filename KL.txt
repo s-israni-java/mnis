@@ -8110,5 +8110,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 20:03:07",
     "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "My ankl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:03:08",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "My ankle",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:03:08",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "My ankle ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:03:08",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "My ankle w",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:03:08",
+    "BATTERY": "68"
   }
 ]
