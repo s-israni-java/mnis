@@ -27248,5 +27248,85 @@
     "CDATE": "2025-06-18 18:54:52",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:54:52",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:54:52",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:54:52",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:55:12",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:55:12",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:55:12",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:55:13",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Approved",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:57:02",
+    "BATTERY": "79",
+    "ID": "No ID"
   }
 ]
