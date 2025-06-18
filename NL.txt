@@ -2948,5 +2948,15 @@
     "CDATE": "2025-06-18 09:11:14",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "…forget to send you brekkie reminders! 😛",
+    "TITLE": "Never have we ever…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:12:51",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
