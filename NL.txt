@@ -23668,5 +23668,25 @@
     "CDATE": "2025-06-18 17:27:02",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_New joiners Expats_Jun25 • External Email : Be cautious while opening any links or attachments. Dear Vasanti, Confirming expats new hires are set up in the payroll system and 55% taxation + TIN number overview are uploaded in Connect. Best regards, Alexander PwC | DK Pay",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:27:02",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi let me check with interface",
+    "TITLE": "Venkatesh Neeli",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:28:05",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
