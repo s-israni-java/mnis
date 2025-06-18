@@ -6688,5 +6688,55 @@
     "CDATE": "2025-06-18 21:36:08",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taaruk Raina, Mismatched - Cast",
+    "TITLE": "Kho Gaye",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 21:41:16",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taaruk Raina, Mismatched - Cast",
+    "TITLE": "Kho Gaye",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 21:41:16",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taaruk Raina, Mismatched - Cast",
+    "TITLE": "Kho Gaye",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 21:41:16",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taaruk Raina, Mismatched - Cast",
+    "TITLE": "Kho Gaye",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 21:41:16",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Have desserts at FLAT ₹125 OFF! 🍰🍮",
+    "TITLE": "First things first. ☝️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:54:23",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
