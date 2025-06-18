@@ -23958,5 +23958,75 @@
     "CDATE": "2025-06-18 17:34:21",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:34:21",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:34:21",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:34:21",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:34:21",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:37:42",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Lady Gaga, Bruno Mars",
+    "TITLE": "Die With A Smile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:37:42",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Lady Gaga, Bruno Mars",
+    "TITLE": "Die With A Smile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:37:42",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
