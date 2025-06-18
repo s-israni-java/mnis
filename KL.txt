@@ -15854,5 +15854,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:30:55",
     "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I love you ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:56",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I love you too ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:30:56",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I love you too",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:31:02",
+    "BATTERY": "62"
   }
 ]
