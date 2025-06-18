@@ -3478,5 +3478,25 @@
     "CDATE": "2025-06-18 20:09:00",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole",
+    "TITLE": "Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:09:00",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "[Table]",
+    "TITLE": "Europe Payroll Group: Prashant Yadav",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:49",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
