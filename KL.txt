@@ -7294,5 +7294,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 19:53:38",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😡👍\n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:39",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😡👍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:39",
+    "BATTERY": "70"
   }
 ]
