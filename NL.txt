@@ -2268,5 +2268,45 @@
     "CDATE": "2025-06-18 19:57:59",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:59",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:59",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:59",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:58:05",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
