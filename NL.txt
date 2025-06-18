@@ -23688,5 +23688,15 @@
     "CDATE": "2025-06-18 17:28:05",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Justin Bieber",
+    "TITLE": "I Don't Care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:28:29",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
