@@ -3486,5 +3486,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 09:35:24",
     "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyfa ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:25",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyfa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:25",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyda ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:25",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyda u",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:26",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyda us",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:26",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyda use ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:26",
+    "BATTERY": "83"
   }
 ]
