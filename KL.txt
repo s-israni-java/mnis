@@ -4918,5 +4918,37 @@
     "NETWORK": "W",
     "CDATE": "2025-06-18 12:23:08",
     "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:09",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "You?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:09",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.azure.authenticator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "3",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 13:11:52",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.azure.authenticator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "39",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 13:11:52",
+    "BATTERY": "42"
   }
 ]
