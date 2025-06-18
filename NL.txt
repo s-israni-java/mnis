@@ -1,0 +1,4912 @@
+[
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Sent Rs.360.00\nFrom HDFC Bank A\/C x4829\nTo PRIYANKA AJIT GUPTA\nOn 17\/06\/25\nRef 106642072644\nNot You?\nCall 18002586161\/SMS BLOCK UPI to 7308080808",
+    "TITLE": "JX-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:58:12",
+    "BATTERY": "50",
+    "ID": "372"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:59:43",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 21:59:46",
+    "BATTERY": "50",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala sim?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:41:19",
+    "BATTERY": "58",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala sim?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:41:19",
+    "BATTERY": "58",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bablu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:46:52",
+    "BATTERY": "65",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:46:52",
+    "BATTERY": "65",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Toh dal n",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:50:46",
+    "BATTERY": "68",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Toh dal n",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:50:46",
+    "BATTERY": "68",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:53",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "New reward earned!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:53:53",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "E-Mandate!\nRs.199.00 will be deducted on 20\/06\/25, 00:00:00\nFor NETFLIX COM mandate\nUMN 344a036947b2ed36e0634ccee10a96de@okhdfcbank\nMaintain Balance\n-HDFC Bank",
+    "TITLE": "AD-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:54:17",
+    "BATTERY": "68",
+    "ID": "385"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "UPI Mandate Cancelled\nTowards NETFLIX COM\nFor Rs.199.00\nFrom HDFC Bank A\/c x4829\nUMN 344a036947b2ed36e0634ccee10a96de@okhdfcbank",
+    "TITLE": "JM-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 22:56:32",
+    "BATTERY": "68",
+    "ID": "388"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by alphaxmanhood",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:32",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:46",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dala?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:00:46",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by imhongtea",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:03:10",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:04:02",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Oyeeeeeeee",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:04:03",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:04:03",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:08:43",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:08:43",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:08:44",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:07",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:07",
+    "BATTERY": "67",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "+91 86984 23278",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:23",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:23",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:23",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:09:27",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "May we open our personal gym together in which only we both workout and our babies big n small once❣️",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:01",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:01",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:06",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "😍",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:07",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:12:07",
+    "BATTERY": "66",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:48",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Dear",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "6 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:13:49",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:05",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Boot cut. Me. Colors. Aaynge. Sat",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:07",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "7 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:07",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "It s. Ok. Np",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:15",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "8 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:14:15",
+    "BATTERY": "66",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:16:25",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:16:28",
+    "BATTERY": "66",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by dipity.biker",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:18:41",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:19:45",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:22:40",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:24:57",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:30",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:30",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:46:31",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.phone",
+    "SERVICE": "NL",
+    "MSG": "No SIM card installed",
+    "TITLE": "Mobile network",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-17 23:52:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:48",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:48",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:49",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:58:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "5905 9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:37",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪5905 9‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:37",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:38",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-17 23:59:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:31",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:31",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:32",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:01:34",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:02:15",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:15",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:16",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:17",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:02:53",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:54",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:54",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:02:58",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:45",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:45",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:46",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:53",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:53",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:05:54",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:01",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:34",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:44",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:44",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:06:46",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:07",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:07:14",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:14",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:15",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 00:07:28",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "@nicolas: Learn more about .pi Domains Auction updates and the utility it’s intended to support. See home screen!",
+    "TITLE": "Announcements: @nicolas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:08:16",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "@nicolas: Learn more about .pi Domains Auction updates and the utility it’s intended to support. See home screen!",
+    "TITLE": "Announcements: @nicolas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:08:16",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:13:54",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching • Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:13:54",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.battery",
+    "SERVICE": "NL",
+    "MSG": "\"Instagram\" is draining battery in the background. Optimise it now.",
+    "TITLE": "Optimise battery use",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 00:22:14",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:50",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:26:50",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:27:51",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:27:51",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:27:55",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:27:55",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:29:56",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:29:56",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:01",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:01",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:06",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:06",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "59059",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:15",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪59059‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:15",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Thank you for your request. We will activate Internet service on your Airtel Mobile within 4 hours. Spam protection is now live on Airtel.",
+    "TITLE": "AZ-AIRSLF-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:30:19",
+    "BATTERY": "50",
+    "ID": "481"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:34:22",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:34:25",
+    "BATTERY": "49",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:34:25",
+    "BATTERY": "49",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:34",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "4%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:36",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "6%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:38",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "15%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:40",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "23%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:42",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "29%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:44",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "34%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:46",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "39%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:48",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "43%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:50",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "46%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:52",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "51%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:54",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "55%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:56",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "60%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:52:58",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "64%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:00",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "68%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:02",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "72%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:04",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "76%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:06",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "79%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:08",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "80%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:10",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "82%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "84%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:14",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "87%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:16",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "91%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:18",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "95%",
+    "TITLE": "Deva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:20",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "Deva",
+    "TITLE": "Download completed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 00:53:22",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:15 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:08:39",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:15 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:15:01",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:20 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:15:08",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:20 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:20:01",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:20:01",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:25 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:20:08",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:20:08",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:25 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:25:01",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:30 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:25:07",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:31:47",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:55:31",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:55:31",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:55:31",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 05:55:54",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 3,000.00 to A\/c X1248 on 18-JUN-2025 Ref NEFT CR-UTIBN62025061840373711 -PHONEPE. Bal INR 11,199.65.\n-AU Bank",
+    "TITLE": "AD-AUBANK-S",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:03:50",
+    "BATTERY": "72",
+    "ID": "369"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 06:15:10",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "The settlement for your transactions has been successfully credited to your bank account. Tap to view the details.",
+    "TITLE": "Settlement completed for 18 JUNE 2025.",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:11",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:11",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:11",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "is typing ...",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:12",
+    "BATTERY": "72",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:12",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:12",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Fakeeee",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:13",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by staykrvvy",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:13",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by shivani__kapoor",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 06:15:13",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 06:15:15",
+    "BATTERY": "72",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 06:15:15",
+    "BATTERY": "72",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 06:15:17",
+    "BATTERY": "72",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 06:15:17",
+    "BATTERY": "72",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 06:15:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:18",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:31",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (1%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:40",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (2%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:40",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (3%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:43",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (4%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:43",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (5%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (6%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (7%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:44",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (8%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:46",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (10%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:46",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (12%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:47",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (13%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:47",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (14%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:47",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (16%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:48",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (18%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:48",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (20%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:48",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (21%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:50",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (23%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:51",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (24%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:51",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (25%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:51",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (28%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:52",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (31%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:52",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (33%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:52",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (35%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:53",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (38%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:53",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (42%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:53",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (46%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:53",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (50%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:54",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (52%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:54",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (55%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:54",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (56%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:56",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (57%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:56",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (58%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:56",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (62%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (64%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (67%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (71%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (78%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:58",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (82%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:24:59",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (84%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:00",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (85%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:01",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (87%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:01",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (90%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:02",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (91%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:03",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (93%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:04",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (94%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:04",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (96%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:06",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (97%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:07",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (98%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:07",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (99%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:07",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (100%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:09",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 0 kB of 20 MB (0%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:16",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 1.4 MB of 20 MB (6%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:17",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 1.9 MB of 20 MB (9%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:18",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 2.4 MB of 20 MB (11%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:18",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 4.3 MB of 20 MB (21%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 5.4 MB of 20 MB (26%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 6.5 MB of 20 MB (32%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 8.0 MB of 20 MB (39%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:20",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 9.1 MB of 20 MB (45%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:20",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 10 MB of 20 MB (50%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:20",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 11 MB of 20 MB (56%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:21",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 12 MB of 20 MB (61%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:21",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 14 MB of 20 MB (68%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:22",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 15 MB of 20 MB (74%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:22",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 16 MB of 20 MB (79%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:22",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 17 MB of 20 MB (84%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:23",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 18 MB of 20 MB (88%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:23",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 19 MB of 20 MB (93%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:23",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 19 MB of 20 MB (95%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:23",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 19 MB of 20 MB (96%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:25",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 20 MB of 20 MB (97%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:26",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 20 MB of 20 MB (98%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:28",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 20 MB of 20 MB (99%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:31",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 20 MB of 20 MB (100%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:33",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:38:10",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 75% · Thunderstorm · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:38:10",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:24:44",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 75% · Thunderstorm · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:24:44",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:45:30",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 75% · Thunderstorm · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:45:30",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Rahul Mewati (__rauul______) has requested to follow you.",
+    "TITLE": "Follow request",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:56:25",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:56:25",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:58:21",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:58:22",
+    "BATTERY": "67",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:03:01",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:03:01",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:03:01",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:03:54",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:03:54",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:03:54",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:04:11",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:09:30",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:09:31",
+    "BATTERY": "70",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Optimising database...",
+    "TITLE": "Outlook",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:23:03",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "The Sandman: Season 2 | Official Trailer | Netflix",
+    "TITLE": "Netflix",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:29:34",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:33:02",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:33:02",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:33:02",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:33:16",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:40:55",
+    "BATTERY": "90",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:40:55",
+    "BATTERY": "90",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "1 missed call(s) received on 18-06-2025 while your Airtel number was not reachable. Get details of your missed calls ONLY on Airtel Thanks App https:\/\/i.airtel.in\/1_MissedCall",
+    "TITLE": "AZ-AIRMCA-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:52:03",
+    "BATTERY": "88",
+    "ID": "482"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:20",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "<#> 1493 is your OTP to login into Airtel Thanks app. Valid for 100 secs. Do not share with anyone. If this was not you click i.airtel.in\/Contact N9BWuqauU1y",
+    "TITLE": "AZ-AIRINF",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:21",
+    "BATTERY": "88",
+    "ID": "464"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:23",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:23",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:24",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:28",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:30",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 1.01 GB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:10:12",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 1.01 GB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:10:26",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 1.01 GB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:10:27",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "Um, hello impeccable taste!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:11:14",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "…forget to send you brekkie reminders! 😛",
+    "TITLE": "Never have we ever…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:12:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:02",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:04",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:04",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:04",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:29:04",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:24",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:32:25",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:14",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:14",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:14",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:14",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:14",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:14",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:15",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:15",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:15",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:15",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:15",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:33:20",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:28",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:28",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:28",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:28",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:28",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:29",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Nhi uthen k baad bhi m pohoch gaya",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:32",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Nhi uthen k baad bhi m pohoch gaya",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:32",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Net band mat kr",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:32",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:32",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Samjhega kaise",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:32",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:32",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:34",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:34",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:34",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:35",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:35",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:35",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:35",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:35",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:45",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:34:45",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:02",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bas dont use netflix",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:03",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:03",
+    "BATTERY": "83",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:42",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Ghost",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:36:57",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:41:10",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Stitches",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:37",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:44:38",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gracie Abrams",
+    "TITLE": "That’s So True",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:47:24",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:33",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:33",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:33",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:33",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:38",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:38",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:38",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Recharge of INR 26.00 is successful for your Airtel Mobile on 18-06-2025 09:49, Transaction ID 1068024153.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in\/ref",
+    "TITLE": "Airtel-S",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:52",
+    "BATTERY": "81",
+    "ID": "483"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:52",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Enjoy 1.5GB data, valid for the same day till midnight.",
+    "TITLE": "Airtel-S",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:49:56",
+    "BATTERY": "81",
+    "ID": "483"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Insta mat chala na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:17",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Insta mat chala na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:17",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yeh kar bhale",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:17",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:17",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:51:27",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:51:58",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:51:58",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:51:59",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:52:02",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:06",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:02:07",
+    "BATTERY": "77",
+    "ID": "No ID"
+  }
+]
