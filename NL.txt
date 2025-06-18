@@ -24888,5 +24888,35 @@
     "CDATE": "2025-06-18 18:05:48",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hey Simriti,—Haven't checked-in for a while? 🤔 Here’s what you’ve been missing!👀\n\nClick to claim up to 20% NeuCoins* on your next order worth ₹300 or above💰\n\n*Up to 100 NeuCoins\n\nTime to catch up with these deals on Tata Neu! Hurry!🏃🏻‍♂️‍➡️\n\nT&C Apply\n\nTo unsubscribe, type STOP",
+    "TITLE": "Tata Neu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:05:52",
+    "BATTERY": "87",
+    "ID": "489"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:05:52",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hey Simriti,—Haven't checked-in for a while? 🤔 Here’s what you’ve been missing!👀\n\nClick to claim up to 20% NeuCoins* on your next order worth ₹300 or above💰\n\n*Up to 100 NeuCoins\n\nTime to catch up with these deals on Tata Neu! Hurry!🏃🏻‍♂️‍➡️\n\nT&C Apply\n\nTo unsubscribe, type STOP",
+    "TITLE": "Tata Neu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:05:53",
+    "BATTERY": "87",
+    "ID": "489"
   }
 ]
