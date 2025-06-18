@@ -24918,5 +24918,25 @@
     "CDATE": "2025-06-18 18:05:53",
     "BATTERY": "87",
     "ID": "489"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:91116063 Emp#:116063 Dear RAHUL TANDON, Emp No : 116063 Country : Denmark Settlement Request No : 91116063 Travel Date out of \"Current Country\" : 14-NOV-2013 Settlement Processed Date",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:07:10",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:91116063 Emp#:116063 • Dear RAHUL TANDON, Emp No : 116063 Country : Denmark Settlement Request No : 91116063 Travel Date out of \"Current Country\" : 14-NOV-2013 Settlement Processed Date",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:07:11",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
