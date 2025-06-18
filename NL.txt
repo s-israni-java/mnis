@@ -618,5 +618,25 @@
     "CDATE": "2025-06-18 19:38:16",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:16",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "2 new messages",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:59",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
