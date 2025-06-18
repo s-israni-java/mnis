@@ -10418,5 +10418,25 @@
     "CDATE": "2025-06-18 12:01:25",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 100%: for your daily high speed data limit. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:02:01",
+    "BATTERY": "51",
+    "ID": "486"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:02:04",
+    "BATTERY": "51",
+    "ID": "No ID"
   }
 ]
