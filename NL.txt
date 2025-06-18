@@ -10788,5 +10788,55 @@
     "CDATE": "2025-06-18 12:03:41",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:03:48",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:03:48",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:03:48",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:03:48",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Maine email bjh diya",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:04:04",
+    "BATTERY": "49",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
