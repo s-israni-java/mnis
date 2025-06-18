@@ -20268,5 +20268,45 @@
     "CDATE": "2025-06-18 15:57:54",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Perfect",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:57:54",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Perfect",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:57:54",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Perfect",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:57:55",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "SO JAA",
+    "TITLE": "DIVAS on TEAMS: Nisha Kadam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:00:46",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
