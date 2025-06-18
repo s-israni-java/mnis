@@ -12178,5 +12178,15 @@
     "CDATE": "2025-06-18 12:41:12",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "from whom we receive data for Denmark taxable initial accomodation data",
+    "TITLE": "Vikas Jaiwar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:42:44",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
