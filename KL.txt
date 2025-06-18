@@ -17110,5 +17110,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:56:53",
     "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:53",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:53",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:53",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl ba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:54",
+    "BATTERY": "76"
   }
 ]
