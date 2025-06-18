@@ -14388,5 +14388,45 @@
     "CDATE": "2025-06-18 13:46:36",
     "BATTERY": "31",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🥺mai acha bacha hu na?🥺",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:36",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Naah",
+    "TITLE": "You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:23",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu ganda bacha h",
+    "TITLE": "You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:29",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Ha kabi milegi khali Bol rhe hain",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:17:35",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
