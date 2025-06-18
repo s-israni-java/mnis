@@ -5058,5 +5058,45 @@
     "CDATE": "2025-06-18 20:50:39",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:50:39",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:50:39",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bas show baji bht hai...vo ni pasand...or har time show baji nhi pasand",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:50:43",
+    "BATTERY": "55",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:50:43",
+    "BATTERY": "55",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
