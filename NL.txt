@@ -10898,5 +10898,15 @@
     "CDATE": "2025-06-18 12:04:24",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Benson Boone",
+    "TITLE": "Beautiful Things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:04:47",
+    "BATTERY": "49",
+    "ID": "No ID"
   }
 ]
