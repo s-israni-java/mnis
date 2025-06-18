@@ -3768,5 +3768,35 @@
     "CDATE": "2025-06-18 20:31:32",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi Simriti, formula is missing in the given file, please update at your end.",
+    "TITLE": "Amit, Swapna, and Vasanti: Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:34:26",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You may have new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 20:35:03",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:35:32",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
