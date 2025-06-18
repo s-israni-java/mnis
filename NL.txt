@@ -1578,5 +1578,15 @@
     "CDATE": "2025-06-18 19:53:01",
     "BATTERY": "70",
     "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth, Jung Kook, BTS",
+    "TITLE": "Left and Right (Feat. Jung Kook of BTS)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:10",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
