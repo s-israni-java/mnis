@@ -17418,5 +17418,35 @@
     "CDATE": "2025-06-18 14:54:21",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:54:21",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "HA",
+    "TITLE": "Nisha Kadam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:54:51",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:54:52",
+    "BATTERY": "20",
+    "ID": "No ID"
   }
 ]
