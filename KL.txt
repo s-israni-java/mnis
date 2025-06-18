@@ -8398,5 +8398,197 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 20:12:36",
     "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:37",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:37",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m0",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:37",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m01",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:37",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m01l",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:39",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m01",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:39",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m0",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:39",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:40",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:40",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:40",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8.0",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:40",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In 8.01",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:12:41",
+    "BATTERY": "66"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:22",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:22",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:22",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:22",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:23",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:24",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:24",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 11 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:24",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 11 m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:25",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 11 mi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:25",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 11 min",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:25",
+    "BATTERY": "65"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha 10 11 min ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:15:25",
+    "BATTERY": "65"
   }
 ]
