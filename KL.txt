@@ -2662,5 +2662,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:41:05",
     "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Uthane ke baa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:41:05",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Uthane ke baad ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:41:06",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Uthane ke baad b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:41:06",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Uthane ke baad b ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:41:06",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Uthane ke baad b n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:41:06",
+    "BATTERY": "90"
   }
 ]
