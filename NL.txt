@@ -22648,5 +22648,45 @@
     "CDATE": "2025-06-18 16:57:26",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:57:26",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:57:26",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:57:26",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:59:58",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
