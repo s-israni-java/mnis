@@ -7628,5 +7628,25 @@
     "CDATE": "2025-06-18 22:31:17",
     "BATTERY": "62",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Meko laga tu so gai hai",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:31:17",
+    "BATTERY": "62",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by zacharylaid",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:39:27",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
