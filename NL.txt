@@ -588,5 +588,35 @@
     "CDATE": "2025-06-18 19:38:06",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:06",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:06",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Shop now with your FREE Zepto Cash 🤑",
+    "TITLE": "smriti, shh...👉 ₹125 cash 💵",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:16",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
