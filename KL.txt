@@ -14854,5 +14854,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:06:58",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng nhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:58",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:58",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng nhi k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:59",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng nhi ki",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:59",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng nhi kiy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:59",
+    "BATTERY": "45"
   }
 ]
