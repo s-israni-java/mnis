@@ -2974,5 +2974,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:43:19",
     "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nailpaint remover leke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:43:19",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nailpaint remover leke ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:43:20",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nailpaint remover leke a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:43:20",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nailpaint remover leke aa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:43:20",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nailpaint remover leke aa ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:43:22",
+    "BATTERY": "89"
   }
 ]
