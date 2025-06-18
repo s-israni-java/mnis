@@ -4734,5 +4734,189 @@
     "NETWORK": "W",
     "CDATE": "2025-06-18 12:19:24",
     "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:24",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu bt",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:24",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu bta",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:24",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu bta ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:25",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "An",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:25",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anj",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:25",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:25",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:26",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji k",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:26",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji ka",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:26",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji kais",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:26",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji kaisi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:26",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji kaisi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:26",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Anji kaisi h",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:27",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:04",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Hu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:04",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Hui",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:05",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Hii ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:05",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Y",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:07",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:07",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Yes ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:08",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Y",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:08",
+    "BATTERY": "47"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Yo",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:08",
+    "BATTERY": "47"
   }
 ]
