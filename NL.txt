@@ -4668,5 +4668,25 @@
     "CDATE": "2025-06-18 20:48:25",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai",
+    "TITLE": "Qatal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:25",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Kua khayegi jiju",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:32",
+    "BATTERY": "56",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
