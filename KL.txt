@@ -14958,5 +14958,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:07:03",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:03",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha kh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:03",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha kha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:04",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha khan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:04",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha khane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:04",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha khane ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:04",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha khane ba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:14",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sidha khane bai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:14",
+    "BATTERY": "45"
   }
 ]
