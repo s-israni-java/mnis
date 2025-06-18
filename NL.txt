@@ -11728,5 +11728,75 @@
     "CDATE": "2025-06-18 12:27:19",
     "BATTERY": "46",
     "ID": "476"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:27:21",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:27:21",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:27:21",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:27:21",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:28:47",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Daniel Caesar, GIVĒON",
+    "TITLE": "Peaches (feat. Daniel Caesar & Giveon)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:28:47",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Daniel Caesar, GIVĒON",
+    "TITLE": "Peaches (feat. Daniel Caesar & Giveon)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:28:47",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
