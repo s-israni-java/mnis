@@ -19578,5 +19578,15 @@
     "CDATE": "2025-06-18 15:48:07",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:48:40",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
