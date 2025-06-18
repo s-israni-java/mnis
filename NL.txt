@@ -17018,5 +17018,25 @@
     "CDATE": "2025-06-18 14:44:56",
     "BATTERY": "21",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:44:56",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Power Saving Mode?",
+    "TITLE": "20% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:46:30",
+    "BATTERY": "20",
+    "ID": "No ID"
   }
 ]
