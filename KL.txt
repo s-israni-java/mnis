@@ -14606,5 +14606,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 21:01:31",
     "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:31",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:32",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:32",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:32",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro rh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:32",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro rhe",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:32",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro rhe ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:33",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro rhe g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:33",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro rhe go",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:33",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ro rhe ho ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:34",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:52",
+    "BATTERY": "45"
   }
 ]
