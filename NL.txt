@@ -12188,5 +12188,15 @@
     "CDATE": "2025-06-18 12:42:44",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "user is asking question how did we consider24705 in salary for tax, he needs calculation for this value...how did tcs arrive to this figure",
+    "TITLE": "Vikas Jaiwar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:43:29",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
