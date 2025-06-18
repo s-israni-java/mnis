@@ -2218,5 +2218,25 @@
     "CDATE": "2025-06-18 06:25:01",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (87%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:01",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (90%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 06:25:02",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
