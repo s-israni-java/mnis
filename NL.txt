@@ -17308,5 +17308,65 @@
     "CDATE": "2025-06-18 14:53:34",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:53:34",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:53:34",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:53:34",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Please check with Sasikala once for this.",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:53:41",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:53:47",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:53:47",
+    "BATTERY": "19",
+    "ID": "No ID"
   }
 ]
