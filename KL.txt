@@ -16918,5 +16918,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:55:25",
     "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Jya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:55:25",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Jya ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:55:25",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Jya j",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:55:26",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Jya ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:55:26",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Jya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:55:26",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Kya ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:55:27",
+    "BATTERY": "76"
   }
 ]
