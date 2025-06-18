@@ -2188,5 +2188,75 @@
     "CDATE": "2025-06-18 19:57:26",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers",
+    "TITLE": "Paris",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:57:37",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
