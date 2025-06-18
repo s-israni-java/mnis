@@ -2758,5 +2758,15 @@
     "CDATE": "2025-06-18 08:23:03",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "The Sandman: Season 2 | Official Trailer | Netflix",
+    "TITLE": "Netflix",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:29:34",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
