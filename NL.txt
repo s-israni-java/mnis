@@ -728,5 +728,15 @@
     "CDATE": "2025-06-18 19:45:04",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "OneRepublic",
+    "TITLE": "I Ain't Worried",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:45:09",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
