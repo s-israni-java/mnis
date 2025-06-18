@@ -4688,5 +4688,65 @@
     "CDATE": "2025-06-18 20:48:32",
     "BATTERY": "56",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:32",
+    "BATTERY": "56",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Giiiii",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:33",
+    "BATTERY": "56",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:33",
+    "BATTERY": "56",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:35",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai",
+    "TITLE": "Qatal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:39",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:48:39",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
