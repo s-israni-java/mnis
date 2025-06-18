@@ -16798,5 +16798,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:52:28",
     "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey is",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:28",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey isr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:28",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey isra",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:29",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey isran",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:29",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:29",
+    "BATTERY": "77"
   }
 ]
