@@ -178,5 +178,45 @@
     "CDATE": "2025-06-18 19:24:58",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:24:58",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:24:58",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:24:58",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:27:18",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
