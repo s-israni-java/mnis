@@ -13848,5 +13848,65 @@
     "CDATE": "2025-06-18 13:26:21",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ruth B.",
+    "TITLE": "Dandelions",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:26:21",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ruth B.",
+    "TITLE": "Dandelions",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:26:21",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:26:25",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:26:25",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ruth B.",
+    "TITLE": "Dandelions",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:33:30",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ruth B.",
+    "TITLE": "Dandelions",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:33:30",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
