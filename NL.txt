@@ -26018,5 +26018,15 @@
     "CDATE": "2025-06-18 18:26:07",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.permissioncontroller",
+    "SERVICE": "NL",
+    "MSG": "Permissions and temporary files have been removed and notifications were stopped. Tap to review.",
+    "TITLE": "1 unused app",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:26:29",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
