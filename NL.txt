@@ -6668,5 +6668,25 @@
     "CDATE": "2025-06-18 21:14:09",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "DK_Payroll file_Jun25 • Good Evening Alex, I have uploaded the expat payroll input file on Connect system. * Leave days, special vacation days and availed leave balances are shared by HR and the same needs to reflect on payslip as discussed. Do let me know in case of",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:14:09",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Claim up to ₹150 Zepto Cash on your order💰",
+    "TITLE": "Free cash alert🚨",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:36:08",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
