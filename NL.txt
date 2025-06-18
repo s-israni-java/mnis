@@ -7728,5 +7728,15 @@
     "CDATE": "2025-06-18 22:55:17",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "https:\/\/media.tenor.com\/9HzzxEmg7CoAAAAM\/kiss.gif",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:18",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
