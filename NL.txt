@@ -2038,5 +2038,25 @@
     "CDATE": "2025-06-18 19:56:07",
     "BATTERY": "69",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:56:07",
+    "BATTERY": "69",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:56:17",
+    "BATTERY": "69",
+    "ID": "918291418946@s.whatsapp.net"
   }
 ]
