@@ -16766,5 +16766,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:52:17",
     "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Are",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:17",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:17",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Arey ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:23",
+    "BATTERY": "77"
   }
 ]
