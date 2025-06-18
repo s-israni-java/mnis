@@ -25078,5 +25078,35 @@
     "CDATE": "2025-06-18 18:10:36",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:10:36",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "I told if leave comment was there it's ok but there was no comment.",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:11:39",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "just now generated new report",
+    "TITLE": "Vasanti M. reacted to your message in Chat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:11:42",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
