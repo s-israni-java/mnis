@@ -19398,5 +19398,75 @@
     "CDATE": "2025-06-18 15:42:03",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:42:04",
+    "BATTERY": "73",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:44:27",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Story of My Life",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:44:27",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:44:27",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:44:27",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:44:27",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ellie Goulding",
+    "TITLE": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:44:27",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
