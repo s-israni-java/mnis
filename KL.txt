@@ -3038,5 +3038,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:51:58",
     "BATTERY": "88"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Search for apps on this device",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:52:00",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:07",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "93",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:07",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.myairtelapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "9322",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:07",
+    "BATTERY": "88"
   }
 ]
