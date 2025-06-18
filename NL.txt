@@ -28208,5 +28208,45 @@
     "CDATE": "2025-06-18 19:20:14",
     "BATTERY": "75",
     "ID": "919987632280@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:20:21",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:20:21",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:20:22",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:20:22",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
