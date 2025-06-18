@@ -11238,5 +11238,95 @@
     "CDATE": "2025-06-18 12:21:54",
     "BATTERY": "47",
     "ID": "919860131471@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hii",
+    "TITLE": "Chandni Di",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:21:54",
+    "BATTERY": "47",
+    "ID": "919860131471@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Reached safely?",
+    "TITLE": "Chandni Di",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:21:55",
+    "BATTERY": "47",
+    "ID": "919860131471@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Chandni Di",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:21:55",
+    "BATTERY": "47",
+    "ID": "919860131471@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:25",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:25",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:25",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:25",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:26",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:23:26",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
