@@ -26638,5 +26638,55 @@
     "CDATE": "2025-06-18 18:39:20",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:39:20",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:39:21",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:39:21",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "📷Please approve and release Belgium Tax Bill Payment.Doc no. : 200100005574",
+    "TITLE": "EU_Bank_Transacts: Nisha Kadam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:39:48",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:39:48",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
