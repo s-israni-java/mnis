@@ -2618,5 +2618,15 @@
     "CDATE": "2025-06-18 07:45:30",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Rahul Mewati (__rauul______) has requested to follow you.",
+    "TITLE": "Follow request",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 07:56:25",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
