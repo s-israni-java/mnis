@@ -6014,5 +6014,349 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 13:46:06",
     "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bacha h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:06",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bacha h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:07",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bacha h t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:07",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bacha h tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:07",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "N",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:21",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Na",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:22",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Naa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:22",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Naah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:22",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:24",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:25",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:25",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:25",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ga",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:25",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu gan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:25",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu gand",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:26",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:26",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:26",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:26",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda ba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:27",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda bac",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:27",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda bach",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:27",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda bacha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:27",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda bacha ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:27",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda bacha g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:27",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.android.systemui_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ganda bacha h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:54:29",
+    "BATTERY": "31"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:07",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Ai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:07",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Ais",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:07",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:07",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:07",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:07",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:08",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:08",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q da",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:08",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:08",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:08",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:09",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:09",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:09",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala h u",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:09",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala h usn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:09",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Aise q daala h usne ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:09",
+    "BATTERY": "24"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:11:29",
+    "BATTERY": "98"
   }
 ]
