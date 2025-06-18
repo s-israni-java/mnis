@@ -11168,5 +11168,15 @@
     "CDATE": "2025-06-18 12:17:57",
     "BATTERY": "48",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Sorry for sending you FLAT 65% OFF on your favs again. 😬",
+    "TITLE": "Simriti, oops! 🫠",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:19:42",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
