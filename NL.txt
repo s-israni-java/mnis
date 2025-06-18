@@ -17038,5 +17038,35 @@
     "CDATE": "2025-06-18 14:46:30",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:48:35",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:48:35",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:48:35",
+    "BATTERY": "20",
+    "ID": "No ID"
   }
 ]
