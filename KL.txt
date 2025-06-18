@@ -17038,5 +17038,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:56:46",
     "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "I love yo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:47",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "I love you",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:47",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "I love you ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:47",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "I love you t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:47",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "I love you to",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:48",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "I love you too",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:56:48",
+    "BATTERY": "76"
   }
 ]
