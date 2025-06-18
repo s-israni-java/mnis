@@ -1018,5 +1018,15 @@
     "CDATE": "2025-06-18 19:47:57",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Alex Warren",
+    "TITLE": "Ordinary",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:50:41",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
