@@ -2848,5 +2848,105 @@
     "CDATE": "2025-06-18 08:53:20",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "<#> 1493 is your OTP to login into Airtel Thanks app. Valid for 100 secs. Do not share with anyone. If this was not you click i.airtel.in\/Contact N9BWuqauU1y",
+    "TITLE": "AZ-AIRINF",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:53:21",
+    "BATTERY": "88",
+    "ID": "464"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:23",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:23",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:24",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:28",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:01:30",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 1.01 GB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:10:12",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 1.01 GB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:10:26",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 1.01 GB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:10:27",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "Um, hello impeccable taste!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:11:14",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
