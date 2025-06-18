@@ -24498,5 +24498,115 @@
     "CDATE": "2025-06-18 17:57:25",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 17:59:00",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 17:59:00",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 17:59:00",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 17:59:00",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.ludo.king",
+    "SERVICE": "NL",
+    "MSG": "Play",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:01:07",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:01:10",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:01:10",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:01:10",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:01:10",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:01:46",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:01:46",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
