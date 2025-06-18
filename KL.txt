@@ -16750,5 +16750,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:49:45",
     "BATTERY": "78"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:16",
+    "BATTERY": "77"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Ar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:52:17",
+    "BATTERY": "77"
   }
 ]
