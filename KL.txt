@@ -6358,5 +6358,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 17:11:29",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:11:29",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "•3•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:11:30",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "••1•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:11:30",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "•••9•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:11:30",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "••••2•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:11:30",
+    "BATTERY": "98"
   }
 ]
