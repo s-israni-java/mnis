@@ -16350,5 +16350,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:49:30",
     "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:30",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:31",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:31",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:32",
+    "BATTERY": "78"
   }
 ]
