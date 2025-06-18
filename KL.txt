@@ -7134,5 +7134,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 19:53:06",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Trying",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:07",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "B",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:12",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "By",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:53:12",
+    "BATTERY": "70"
   }
 ]
