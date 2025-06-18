@@ -24608,5 +24608,55 @@
     "CDATE": "2025-06-18 18:01:46",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:01:46",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:01:47",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:03:38",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:03:38",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:03:38",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
