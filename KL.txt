@@ -14518,5 +14518,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 21:00:55",
     "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "🙄",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:19",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:21",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😐",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:22",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "K",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:28",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ka",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:29",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:29",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ka",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:30",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:30",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:31",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:31",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaahe ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:01:31",
+    "BATTERY": "52"
   }
 ]
