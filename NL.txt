@@ -23738,5 +23738,55 @@
     "CDATE": "2025-06-18 17:30:18",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:30:18",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran, Justin Bieber",
+    "TITLE": "I Don't Care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:31:12",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:31:12",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:31:12",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:31:13",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
