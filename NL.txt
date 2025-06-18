@@ -24428,5 +24428,35 @@
     "CDATE": "2025-06-18 17:50:09",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No Issues with upload in Sweden",
+    "TITLE": "Europe Payroll Group: Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:51:17",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:51:38",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:51:42",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
