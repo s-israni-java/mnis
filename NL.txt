@@ -14428,5 +14428,25 @@
     "CDATE": "2025-06-18 14:17:35",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mast",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:17:37",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Ek dum",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:17:39",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
