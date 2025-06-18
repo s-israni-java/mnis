@@ -22708,5 +22708,25 @@
     "CDATE": "2025-06-18 17:08:14",
     "BATTERY": "98",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:08:14",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:08:17",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
