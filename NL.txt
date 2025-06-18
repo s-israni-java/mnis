@@ -5668,5 +5668,95 @@
     "CDATE": "2025-06-18 20:55:08",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "😖",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:26",
+    "BATTERY": "54",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:26",
+    "BATTERY": "54",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:27",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
