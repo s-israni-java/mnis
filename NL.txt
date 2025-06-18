@@ -4688,5 +4688,35 @@
     "CDATE": "2025-06-18 09:50:13",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maroon 5",
+    "TITLE": "Memories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:50:14",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
