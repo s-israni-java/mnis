@@ -7288,5 +7288,15 @@
     "CDATE": "2025-06-18 22:07:07",
     "BATTERY": "45",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Data quota left 500 MB: Only 500MB of high speed data left on your Airtel number. Recharge with Data Packs starting Rs 11 to enjoy uninterrupted data services i.airtel.in\/Get-Data",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:07:10",
+    "BATTERY": "45",
+    "ID": "486"
   }
 ]
