@@ -1508,5 +1508,45 @@
     "CDATE": "2025-06-18 19:52:17",
     "BATTERY": "70",
     "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Okom",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:52:17",
+    "BATTERY": "70",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Thank you",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:52:17",
+    "BATTERY": "70",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:52:18",
+    "BATTERY": "70",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:52:47",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
