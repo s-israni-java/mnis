@@ -24408,5 +24408,15 @@
     "CDATE": "2025-06-18 17:49:17",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No issue for FI & IT",
+    "TITLE": "Europe Payroll Group: Aisha Naik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:49:51",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
