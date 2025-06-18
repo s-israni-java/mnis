@@ -2374,5 +2374,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:34:51",
     "BATTERY": "91"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Pohch rha h toh th",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:34:52",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Pohch rha h toh thi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:34:52",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Pohch rha h toh thik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:34:52",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Pohch rha h toh thik h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:34:52",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Pohch rha h toh thik h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:34:52",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "At",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:38:23",
+    "BATTERY": "90"
   }
 ]
