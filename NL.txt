@@ -7648,5 +7648,15 @@
     "CDATE": "2025-06-18 22:39:27",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by loveofbhuvi",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:40:09",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
