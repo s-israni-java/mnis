@@ -26998,5 +26998,35 @@
     "CDATE": "2025-06-18 18:49:38",
     "BATTERY": "81",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:50:00",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Daniel Caesar, GIVĒON",
+    "TITLE": "Peaches (feat. Daniel Caesar & Giveon)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:50:00",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Daniel Caesar, GIVĒON",
+    "TITLE": "Peaches (feat. Daniel Caesar & Giveon)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:50:00",
+    "BATTERY": "80",
+    "ID": "No ID"
   }
 ]
