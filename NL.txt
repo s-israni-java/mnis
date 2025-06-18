@@ -2998,5 +2998,25 @@
     "CDATE": "2025-06-18 20:01:39",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:01:39",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:01:39",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
