@@ -27328,5 +27328,35 @@
     "CDATE": "2025-06-18 18:57:02",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:57:22",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anne-Marie",
+    "TITLE": "2002",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:57:22",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anne-Marie",
+    "TITLE": "2002",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:57:22",
+    "BATTERY": "79",
+    "ID": "No ID"
   }
 ]
