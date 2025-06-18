@@ -17068,5 +17068,105 @@
     "CDATE": "2025-06-18 14:48:35",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:48:35",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:48:52",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:48:52",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:48:52",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:48:52",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Love Yourself",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:49:50",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:49:50",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:49:50",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:49:50",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Taylor Swift",
+    "TITLE": "Cruel Summer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 14:49:50",
+    "BATTERY": "19",
+    "ID": "No ID"
   }
 ]
