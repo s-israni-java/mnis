@@ -7878,5 +7878,45 @@
     "CDATE": "2025-06-18 10:58:09",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Your UPI Number is now linked to your new primary UPI ID on the same bank account. Tap to view and manage your UPI Number.",
+    "TITLE": "Changes to your UPI Number",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:58:09",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:00:17",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:00:17",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:00:17",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
