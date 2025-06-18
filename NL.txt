@@ -7718,5 +7718,15 @@
     "CDATE": "2025-06-18 10:52:54",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes",
+    "TITLE": "Treat You Better",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:53:14",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
