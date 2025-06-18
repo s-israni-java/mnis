@@ -3018,5 +3018,35 @@
     "CDATE": "2025-06-18 20:01:39",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:01:40",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:02:16",
+    "BATTERY": "68",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Generally when we run walk fast our voice is loud",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:02:16",
+    "BATTERY": "68",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
