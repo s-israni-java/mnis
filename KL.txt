@@ -5950,5 +5950,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 13:46:05",
     "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:05",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:05",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:05",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda ba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:05",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bac",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:06",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bach",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:06",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bacha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:06",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ganda bacha ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 13:46:06",
+    "BATTERY": "32"
   }
 ]
