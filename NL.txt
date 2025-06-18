@@ -20308,5 +20308,15 @@
     "CDATE": "2025-06-18 16:00:46",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Perfect",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:01:44",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
