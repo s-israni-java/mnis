@@ -9688,5 +9688,45 @@
     "CDATE": "2025-06-18 11:34:12",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:12",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:13",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap",
+    "TITLE": "Giraffe 🦒😂",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:14",
+    "BATTERY": "57",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:22",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
