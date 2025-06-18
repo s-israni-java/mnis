@@ -718,5 +718,15 @@
     "CDATE": "2025-06-18 19:43:36",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Please approve and release below HU salary payment📷📷",
+    "TITLE": "EU_Bank_Transacts: Aishwarya Dhere",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:45:04",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
