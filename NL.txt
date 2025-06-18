@@ -678,5 +678,45 @@
     "CDATE": "2025-06-18 19:42:01",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:43:36",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:43:36",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:43:36",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:43:36",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
