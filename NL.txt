@@ -7658,5 +7658,15 @@
     "CDATE": "2025-06-18 22:40:09",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by akanksha.arora.sharma",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:46:47",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
