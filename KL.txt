@@ -15998,5 +15998,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:48:21",
     "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:21",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhu h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:21",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:22",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:22",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:22",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:22",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:23",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi so rhi h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:48:23",
+    "BATTERY": "78"
   }
 ]
