@@ -5308,5 +5308,45 @@
     "CDATE": "2025-06-18 10:06:36",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Coldplay",
+    "TITLE": "Something Just Like This",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:06:36",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Coldplay",
+    "TITLE": "Something Just Like This",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:06:36",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Coldplay",
+    "TITLE": "Something Just Like This",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:06:36",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Coldplay",
+    "TITLE": "Something Just Like This",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:07:24",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
