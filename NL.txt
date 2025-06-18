@@ -638,5 +638,45 @@
     "CDATE": "2025-06-18 19:38:59",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "🚨 ATTN: Nykaa’s Trendcast is back!⚡🔮",
+    "TITLE": "Nykaa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:59",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "✉️ Walk-in interview | Customer Service Associate in Navi Mumbai",
+    "TITLE": "AXIS DIRECT",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:38:59",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "₹0 downpayment, ₹0 annual fee, 0 hidden charges! \n✨ TnC Apply\n",
+    "TITLE": "✨ Lifetime Free Insta EMI Card for just ₹530 ₹330*! ✨",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:42:01",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "₹0 downpayment, ₹0 annual fee, 0 hidden charges! \n✨ TnC Apply\n",
+    "TITLE": "✨ Lifetime Free Insta EMI Card for just ₹530 ₹330*! ✨",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:42:01",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
