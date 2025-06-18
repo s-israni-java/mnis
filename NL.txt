@@ -12128,5 +12128,45 @@
     "CDATE": "2025-06-18 12:35:26",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:35:26",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:35:26",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Old Phone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:35:26",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "@AditiKaushik-z2k replied",
+    "TITLE": "‘Hindi me de skte h’",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:37:42",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
