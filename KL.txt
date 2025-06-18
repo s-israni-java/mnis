@@ -7678,5 +7678,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 19:58:19",
     "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ki",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:58:19",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kid",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:58:19",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kidr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:58:19",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kidr ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:58:19",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kidr h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:58:20",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "To",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 19:59:01",
+    "BATTERY": "69"
   }
 ]
