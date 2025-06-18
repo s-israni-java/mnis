@@ -3446,5 +3446,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 09:35:23",
     "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:23",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b j",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:24",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:24",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyf",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:24",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Insta b jyfa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:24",
+    "BATTERY": "83"
   }
 ]
