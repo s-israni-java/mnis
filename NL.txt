@@ -21018,5 +21018,35 @@
     "CDATE": "2025-06-18 16:13:22",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:13:22",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi Vasanti More will be sharing pay reg, tcode and vendor file in sometime",
+    "TITLE": "Vasanti M. reacted to your message in Amit, Swapna, and Vasanti",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:15:39",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:22:02",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
