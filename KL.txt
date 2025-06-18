@@ -3310,5 +3310,101 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:55:48",
     "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "data",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:48",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "data ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:49",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "data u",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:49",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "data us",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:55:49",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "d",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:19",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "da",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:19",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "dat",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:19",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.android.settings_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "data",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:19",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.oplus.trafficmonitor_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "4",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:49",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.oplus.trafficmonitor_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "45",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:49",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.oplus.trafficmonitor_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "450",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 09:09:50",
+    "BATTERY": "86"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 09:35:22",
+    "BATTERY": "83"
   }
 ]
