@@ -6518,5 +6518,45 @@
     "CDATE": "2025-06-18 10:25:13",
     "BATTERY": "72",
     "ID": "403"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:25:14",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Dear Customer, we got a request for linking your account for UPI. If it is not initiated by you, please report immediately to AU Bank at 180012001200. To avoid financial loss, do not share your Debit Card details\/ expiry date\/ One Time Password (OTP) with anyone.- AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:25:15",
+    "BATTERY": "72",
+    "ID": "415"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:25:15",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:26:29",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
