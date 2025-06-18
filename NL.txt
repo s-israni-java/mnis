@@ -3268,5 +3268,85 @@
     "CDATE": "2025-06-18 20:05:01",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Shaky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:05:01",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Shaky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:05:02",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole",
+    "TITLE": "Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:07:55",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Shaky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:07:55",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole",
+    "TITLE": "Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:07:55",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole",
+    "TITLE": "Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:07:55",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole",
+    "TITLE": "Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:07:55",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole",
+    "TITLE": "Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:07:55",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
