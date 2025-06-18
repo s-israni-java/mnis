@@ -24858,5 +24858,25 @@
     "CDATE": "2025-06-18 18:04:38",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:04:38",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Team,Status to be updated by EOD[Table]",
+    "TITLE": "Europe Payroll Group: Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:05:38",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
