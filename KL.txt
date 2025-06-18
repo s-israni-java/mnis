@@ -2510,5 +2510,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 08:40:26",
     "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "At s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:40:26",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "At shaha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:40:26",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "At shahad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:40:27",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "At shahad ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:40:27",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:41:02",
+    "BATTERY": "90"
   }
 ]
