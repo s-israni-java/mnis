@@ -8778,5 +8778,915 @@
     "CDATE": "2025-06-18 11:11:36",
     "BATTERY": "58",
     "ID": "486"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:11:37",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:11:37",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:11:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:07",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:08",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:08",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:08",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:24",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:24",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:24",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:13:24",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Photograph",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:55",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:15:56",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Steal My Girl",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:19:44",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:20:59",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:02",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:02",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:02",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:02",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:57",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:57",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:57",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:21:57",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:27:47",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:27:47",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:27:47",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:27:47",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:04",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:28:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:30:42",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:30:42",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:30:42",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-18 11:30:42",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:10",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:10",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:10",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Ludacris",
+    "TITLE": "Baby",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:10",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 11:34:12",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
