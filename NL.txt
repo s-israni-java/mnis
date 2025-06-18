@@ -24168,5 +24168,35 @@
     "CDATE": "2025-06-18 17:41:28",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:41:32",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: Europe _ Forex clearance pending cases as on 17 Jun 25 • Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Complex, LBS Marg Vikhroli (West) Mumbai - 400079,Maharashtra India. Email : amit.rbandekar@tcs.com From: Dipesh Gudhk",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:41:32",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Nicky Youre, hey daisy",
+    "TITLE": "Sunroof",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:41:54",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
