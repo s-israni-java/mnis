@@ -2828,5 +2828,15 @@
     "CDATE": "2025-06-18 08:40:55",
     "BATTERY": "90",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "1 missed call(s) received on 18-06-2025 while your Airtel number was not reachable. Get details of your missed calls ONLY on Airtel Thanks App https:\/\/i.airtel.in\/1_MissedCall",
+    "TITLE": "AZ-AIRMCA-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 08:52:03",
+    "BATTERY": "88",
+    "ID": "482"
   }
 ]
