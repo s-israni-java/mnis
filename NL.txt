@@ -18288,5 +18288,25 @@
     "CDATE": "2025-06-18 15:17:00",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Quavo",
+    "TITLE": "Intentions (feat. Quavo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:17:00",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Quavo",
+    "TITLE": "Intentions (feat. Quavo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 15:20:02",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
