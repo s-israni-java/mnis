@@ -11038,5 +11038,35 @@
     "CDATE": "2025-06-18 12:05:57",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:05:57",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:05:57",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 12:08:46",
+    "BATTERY": "49",
+    "ID": "No ID"
   }
 ]
