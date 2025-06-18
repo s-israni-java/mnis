@@ -24368,5 +24368,45 @@
     "CDATE": "2025-06-18 17:48:47",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 79777 13762‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:48:48",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "No issues with uploads",
+    "TITLE": "Europe Payroll Group: Aishwarya Dhere",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:48:55",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "+91 79777 13762",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:49:17",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "+91 79777 13762",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:49:17",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
