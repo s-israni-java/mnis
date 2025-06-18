@@ -12198,5 +12198,25 @@
     "CDATE": "2025-06-18 12:43:29",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:45:27",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:45:27",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
