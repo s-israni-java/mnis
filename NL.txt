@@ -26028,5 +26028,25 @@
     "CDATE": "2025-06-18 18:26:29",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Rema, Selena Gomez",
+    "TITLE": "Calm Down (with Selena Gomez)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:15",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Rema, Selena Gomez",
+    "TITLE": "Calm Down (with Selena Gomez)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 18:27:15",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
