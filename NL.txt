@@ -5758,5 +5758,45 @@
     "CDATE": "2025-06-18 20:57:30",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:57:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:58:13",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Gulabi Sadi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:58:13",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
