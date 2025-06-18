@@ -12238,5 +12238,25 @@
     "CDATE": "2025-06-18 12:45:38",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "IRC's O'Reilly Live Event alert - July 2025  Explore Upcoming O’Reilly Live Events: * Machine Learning with Python : Create Production-Quality Machine Learning Pipelines with Feature Engineering (June 23) * Local LLMs Made Easy: Using UI-based frameworks Jan AI and GPT4All (Jun",
+    "TITLE": "Wellspring Irc",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:50:18",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "IRC's O'Reilly Live Event alert - July 2025  • Explore Upcoming O’Reilly Live Events: * Machine Learning with Python : Create Production-Quality Machine Learning Pipelines with Feature Engineering (June 23) * Local LLMs Made Easy: Using UI-based frameworks Jan AI and GPT4All (Jun",
+    "TITLE": "Wellspring Irc",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:50:18",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
