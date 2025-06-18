@@ -24458,5 +24458,45 @@
     "CDATE": "2025-06-18 17:51:42",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:51:44",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:51:44",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Kickstart Your AWS Journey with Elevate Days and win Amazon gift vouchers || Register now – June 24–26! 🚀 Dear Associate, Thinking about starting your journey with AWS? Now's the perfect time-AWS Elevate Days is the platform to kickstart your journey! Join us from June 24–26,2025 for AWS Elevate Days-And take the first step toward becoming AWS Ce",
+    "TITLE": "Sharon Junny Varghese",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:57:25",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Kickstart Your AWS Journey with Elevate Days and win Amazon gift vouchers || Register now – June 24–26! 🚀 • Dear Associate, Thinking about starting your journey with AWS? Now's the perfect time-AWS Elevate Days is the platform to kickstart your journey! Join us from June 24–26,2025 for AWS Elevate Days-And take the first step toward becoming AWS Ce",
+    "TITLE": "Sharon Junny Varghese",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:57:25",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
