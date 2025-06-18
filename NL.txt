@@ -6488,5 +6488,35 @@
     "CDATE": "2025-06-18 10:25:08",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "UPI Registration Initiated!\nBy Google Pay for your Bank A\/c.\nYou will receive your UPI address shortly.\n-HDFC Bank",
+    "TITLE": "AX-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:25:09",
+    "BATTERY": "72",
+    "ID": "403"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:25:13",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "UPI Activated!\nYou've linked your Bank A\/c to UPI on Google Pay.\nNEVER share OTP, PIN, card info.\n- HDFC Bank",
+    "TITLE": "AX-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:25:13",
+    "BATTERY": "72",
+    "ID": "403"
   }
 ]
