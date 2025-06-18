@@ -7848,5 +7848,25 @@
     "CDATE": "2025-06-18 10:58:03",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:58:05",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "It’s Here: ₹100 Zepto Cash🎁—Guess what? The FREE cash is now yours💵\nNo strings, no fine print—just pure savings!💰\nUse your FREE cash and save your budget from big bills🤩\nAll delivered in 10 mins🚀",
+    "TITLE": "Zepto",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 10:58:06",
+    "BATTERY": "62",
+    "ID": "246"
   }
 ]
