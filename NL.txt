@@ -3648,5 +3648,45 @@
     "CDATE": "2025-06-18 20:29:46",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:30:37",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:30:40",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:30:40",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 20:30:44",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
