@@ -21728,5 +21728,35 @@
     "CDATE": "2025-06-18 16:28:54",
     "BATTERY": "100",
     "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:29:43",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Coldplay",
+    "TITLE": "Something Just Like This",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:29:43",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Coldplay",
+    "TITLE": "Something Just Like This",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:29:43",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
