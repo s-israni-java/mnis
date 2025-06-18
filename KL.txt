@@ -7414,21 +7414,5 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 19:53:44",
     "BATTERY": "70"
-  },
-  {
-    "APP": "com.whatsapp_android.widget.EditText",
-    "SERVICE": "KL",
-    "MSG": "Already getting late",
-    "NETWORK": "M",
-    "CDATE": "2025-06-18 19:53:44",
-    "BATTERY": "70"
-  },
-  {
-    "APP": "com.whatsapp_android.widget.EditText",
-    "SERVICE": "KL",
-    "MSG": "B",
-    "NETWORK": "M",
-    "CDATE": "2025-06-18 19:53:45",
-    "BATTERY": "70"
   }
 ]
