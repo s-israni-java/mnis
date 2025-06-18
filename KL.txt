@@ -14782,5 +14782,77 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:06:56",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b c",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:56",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b ch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:56",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:57",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:57",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:57",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:57",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:58",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:58",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kapde b chng nh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:06:58",
+    "BATTERY": "45"
   }
 ]
