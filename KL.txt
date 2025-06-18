@@ -14502,5 +14502,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 21:00:48",
     "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Crossed ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:00:53",
+    "BATTERY": "52"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Crossed kalyan ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 21:00:55",
+    "BATTERY": "52"
   }
 ]
