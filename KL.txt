@@ -16478,5 +16478,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-18 22:49:36",
     "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi tuje main konsi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:36",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi tuje main konsi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:36",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi tuje main konsi d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:36",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi tuje main konsi di",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:37",
+    "BATTERY": "78"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi tuje main konsi dik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 22:49:37",
+    "BATTERY": "78"
   }
 ]
