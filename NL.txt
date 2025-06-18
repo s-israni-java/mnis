@@ -26958,5 +26958,45 @@
     "CDATE": "2025-06-18 18:48:47",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:48:48",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:49:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Abb isko kya dikat h",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:49:38",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Abb isko kya dikat h",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 18:49:38",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
