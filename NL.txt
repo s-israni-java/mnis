@@ -20998,5 +20998,25 @@
     "CDATE": "2025-06-18 16:12:02",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:12:02",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi Simriti, FYA📷",
+    "TITLE": "Amit, Swapna, and Vasanti: Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 16:13:22",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
