@@ -11668,5 +11668,45 @@
     "CDATE": "2025-06-18 12:25:27",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:25:27",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:25:27",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:25:27",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yes",
+    "TITLE": "Chandni Di",
+    "NETWORK": "W",
+    "CDATE": "2025-06-18 12:26:38",
+    "BATTERY": "46",
+    "ID": "919860131471@s.whatsapp.net"
   }
 ]
