@@ -22728,5 +22728,45 @@
     "CDATE": "2025-06-18 17:08:17",
     "BATTERY": "98",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:08:19",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:08:20",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:08:20",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Diljit Dosanjh, Sia, Greg Kurstin",
+    "TITLE": "Hass Hass",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 17:12:19",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
