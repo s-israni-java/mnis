@@ -14478,5 +14478,1525 @@
     "CDATE": "2025-06-18 14:18:37",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Approved",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:24:58",
+    "BATTERY": "25",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Approved",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:25:09",
+    "BATTERY": "25",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:03",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:44",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:46",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:46",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:46",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:26:46",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Kya aise?",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:27:59",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "55%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "55%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "1%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "1%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:11",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "2%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:12",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "2%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:12",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "3%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:12",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "3%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:29",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "4%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:29",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "4%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "5%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "5%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "6%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "6%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "7%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "8%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "7%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "9%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "8%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "9%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "11%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "11%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "12%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:30",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "12%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "13%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "13%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "14%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "14%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "15%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "16%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "15%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "16%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "17%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "17%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "18%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "18%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "19%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "19%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "20%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "20%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "21%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "21%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "23%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "23%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "24%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "24%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "25%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "25%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "26%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "27%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "26%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "28%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "27%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "28%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "29%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "30%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "29%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Bata Phale kab milegi",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:28:52",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "100%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "100%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "55%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "55%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "1%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "2%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "1%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:01",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "2%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "3%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "3%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "4%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "4%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "5%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "5%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "6%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "7%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "6%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "7%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "8%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "9%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "8%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "9%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "11%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "10%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "12%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:02",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "11%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "12%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "13%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "13%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "14%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "15%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "14%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "15%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "16%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "16%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "17%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "17%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "18%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "19%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "18%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "19%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "20%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "20%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "21%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "21%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "23%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:04",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:04",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "23%",
+    "TITLE": "Message sending…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:30:04",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:32:15",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-18 14:32:15",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
