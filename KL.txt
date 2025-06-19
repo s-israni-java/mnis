@@ -28614,5 +28614,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:58:25",
     "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Susu kr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:25",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Susu krk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:26",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Susu krke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:26",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😡",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:35",
+    "BATTERY": "96"
   }
 ]
