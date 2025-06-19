@@ -9378,5 +9378,65 @@
     "CDATE": "2025-06-19 08:59:23",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 08:59:31",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 08:59:34",
+    "BATTERY": "66",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "📜 Motivational Quotes for Simi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:02:45",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:23:57",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:23:59",
+    "BATTERY": "61",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use your ₹𝟏𝟐𝟓 𝐙𝐞𝐩𝐭𝐨 𝐂𝐚𝐬𝐡 & order now before it’s gone!",
+    "TITLE": "Up to 80% OFF on Watches!⌚",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:30:24",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
