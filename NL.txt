@@ -28808,5 +28808,25 @@
     "CDATE": "2025-06-19 18:48:36",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:48:39",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:48:59",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
