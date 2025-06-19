@@ -28458,5 +28458,15 @@
     "CDATE": "2025-06-19 18:00:57",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 External Email : Be cautious while opening any links or attachments. Hi Suneeta and Vasanti, We have uploaded comment sheet in Connect (June 2025 - Expats) now with a couple of question for the June Expats payroll. Please review the questions in th",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:10:30",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
