@@ -26870,5 +26870,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:16:17",
     "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Goi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:17",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Going",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:17",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Going ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:17",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Going h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:17",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Going ho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:17",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Going hom",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:18",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Going home",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:18",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:36:10",
+    "BATTERY": "100"
   }
 ]
