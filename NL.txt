@@ -28928,5 +28928,15 @@
     "CDATE": "2025-06-19 18:59:33",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:05:49",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
