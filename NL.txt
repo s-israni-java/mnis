@@ -17128,5 +17128,15 @@
     "CDATE": "2025-06-19 12:35:50",
     "BATTERY": "16",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use your Zepto Cash and grab it for free🥤",
+    "TITLE": "True Diet Coke—even price is ₹0😉",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:36:17",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
