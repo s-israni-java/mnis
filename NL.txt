@@ -19438,5 +19438,35 @@
     "CDATE": "2025-06-19 13:33:12",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:33:12",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Unstoppable",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:33:12",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "📷📷Hello Sir. Please approve and release the above Luxembourg CCSS Payment. Doc No.: 300200001970",
+    "TITLE": "EU_Bank_Transacts: Nayan Wanjare",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:33:54",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
