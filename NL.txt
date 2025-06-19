@@ -13098,5 +13098,55 @@
     "CDATE": "2025-06-19 10:21:51",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia, Sean Paul",
+    "TITLE": "Cheap Thrills (feat. Sean Paul)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:21:51",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia, Sean Paul",
+    "TITLE": "Cheap Thrills (feat. Sean Paul)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:21:51",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia, Sean Paul",
+    "TITLE": "Cheap Thrills (feat. Sean Paul)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:25:01",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia, Sean Paul",
+    "TITLE": "Cheap Thrills (feat. Sean Paul)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:25:01",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia, Sean Paul",
+    "TITLE": "Cheap Thrills (feat. Sean Paul)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:25:01",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
