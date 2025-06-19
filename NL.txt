@@ -17178,5 +17178,45 @@
     "CDATE": "2025-06-19 12:55:56",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:55:56",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:55:59",
+    "BATTERY": "15",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:56:03",
+    "BATTERY": "15",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:56:10",
+    "BATTERY": "15",
+    "ID": "No ID"
   }
 ]
