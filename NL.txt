@@ -17338,5 +17338,75 @@
     "CDATE": "2025-06-19 12:56:53",
     "BATTERY": "16",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:56:53",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:57:01",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:57:01",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:57:01",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:57:01",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 12:58:36",
+    "BATTERY": "17",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 12:58:36",
+    "BATTERY": "17",
+    "ID": "No ID"
   }
 ]
