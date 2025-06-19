@@ -17198,5 +17198,77 @@
     "NETWORK": "W",
     "CDATE": "2025-06-19 06:16:22",
     "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera c",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:22",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera ca",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera cal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera call",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera call ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera call h",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera call hi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera call hi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:23",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tera call hi n",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:24",
+    "BATTERY": "62"
   }
 ]
