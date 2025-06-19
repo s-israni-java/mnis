@@ -21328,5 +21328,15 @@
     "CDATE": "2025-06-19 14:52:29",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:52:51",
+    "BATTERY": "51",
+    "ID": "No ID"
   }
 ]
