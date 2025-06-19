@@ -17668,5 +17668,115 @@
     "CDATE": "2025-06-19 13:04:10",
     "BATTERY": "21",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Quavo",
+    "TITLE": "Intentions (feat. Quavo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:04:10",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Quavo",
+    "TITLE": "Intentions (feat. Quavo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:04:10",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Quavo",
+    "TITLE": "Intentions (feat. Quavo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:04:10",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Quavo",
+    "TITLE": "Intentions (feat. Quavo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:31",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
   }
 ]
