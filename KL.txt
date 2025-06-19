@@ -28742,5 +28742,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:58:41",
     "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h tera",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:41",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:41",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:42",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:42",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa ba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:42",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa bay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:42",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa bayi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:43",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya h teraa bayii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:43",
+    "BATTERY": "96"
   }
 ]
