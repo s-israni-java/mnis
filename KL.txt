@@ -27526,5 +27526,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:49:26",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nikli hu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:49:26",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:49:47",
+    "BATTERY": "98"
   }
 ]
