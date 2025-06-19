@@ -21588,5 +21588,35 @@
     "CDATE": "2025-06-19 15:00:06",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Finance Appreciation Week : Let’s Celebrate Our Leaders  Dear Finance Team, This Appreciation Week let’s take a moment to acknowledge the unwavering support, commitment, and guidance of our incredible leaders. Their dedication, vision, and resilience continue to inspire us every day. Whether it's solvi",
+    "TITLE": "Jinat Sayyed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:04:14",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Finance Appreciation Week : Let’s Celebrate Our Leaders  • Dear Finance Team, This Appreciation Week let’s take a moment to acknowledge the unwavering support, commitment, and guidance of our incredible leaders. Their dedication, vision, and resilience continue to inspire us every day. Whether it's solvi",
+    "TITLE": "Jinat Sayyed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:04:14",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😢 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:07:37",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
