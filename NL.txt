@@ -29068,5 +29068,25 @@
     "CDATE": "2025-06-19 19:29:07",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:29:10",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "You’re tuned in for dinner at FLAT 65% OFF. 😀",
+    "TITLE": "Helloo, check 1, 2, 3! 📢",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:35:35",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
