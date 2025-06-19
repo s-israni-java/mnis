@@ -17148,5 +17148,15 @@
     "CDATE": "2025-06-19 12:43:57",
     "BATTERY": "16",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by omundersky",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:44:41",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
