@@ -32926,13 +32926,5 @@
     "NETWORK": "W",
     "CDATE": "2025-06-19 18:41:48",
     "BATTERY": "61"
-  },
-  {
-    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
-    "SERVICE": "KL",
-    "MSG": "Tuj",
-    "NETWORK": "W",
-    "CDATE": "2025-06-19 18:41:48",
-    "BATTERY": "61"
   }
 ]
