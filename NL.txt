@@ -13388,5 +13388,75 @@
     "CDATE": "2025-06-19 10:30:21",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Shape of You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:30:21",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Shape of You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:32:13",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:32:13",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:32:13",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:32:14",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:32:14",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber",
+    "TITLE": "Sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:32:14",
+    "BATTERY": "43",
+    "ID": "No ID"
   }
 ]
