@@ -21788,5 +21788,45 @@
     "CDATE": "2025-06-19 15:29:59",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:29:59",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:30:00",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:30:01",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "The battery is full",
+    "TITLE": "Charging Complete",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:30:26",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
