@@ -9288,5 +9288,15 @@
     "CDATE": "2025-06-19 08:04:36",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Your profile with HDFC Bank has been updated. Check available credit card options for you: https:\/\/hdfcbk.io\/HDFCBN\/2RTR6DFB9IDr T&C",
+    "TITLE": "VM-HDFCBN-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 08:28:34",
+    "BATTERY": "63",
+    "ID": "425"
   }
 ]
