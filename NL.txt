@@ -17038,5 +17038,45 @@
     "CDATE": "2025-06-19 12:25:05",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:25:05",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:25:05",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:25:06",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 60.00 from A\/c X1248 on 19-JUN-2025\nUPI\/DR\/106710295667\/NAYAN RATNAKANT WANJ\nBal INR 11,118.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:27:11",
+    "BATTERY": "18",
+    "ID": "415"
   }
 ]
