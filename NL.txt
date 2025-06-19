@@ -11668,5 +11668,35 @@
     "CDATE": "2025-06-19 09:57:35",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:58:51",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Night Changes",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:58:51",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:58:51",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
