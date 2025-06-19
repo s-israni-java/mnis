@@ -17078,5 +17078,15 @@
     "CDATE": "2025-06-19 12:27:11",
     "BATTERY": "18",
     "ID": "415"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:28:08",
+    "BATTERY": "18",
+    "ID": "No ID"
   }
 ]
