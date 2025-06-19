@@ -26774,5 +26774,101 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 14:55:15",
     "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:21",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●3",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:21",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:21",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●●9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:21",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "B",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:40",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bhej",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:40",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bheje ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:40",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bheje h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:41",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "O",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "G",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:16",
+    "BATTERY": "83"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Go",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:16:17",
+    "BATTERY": "83"
   }
 ]
