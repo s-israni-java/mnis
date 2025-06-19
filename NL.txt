@@ -21548,5 +21548,45 @@
     "CDATE": "2025-06-19 14:59:58",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:59:58",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:59:59",
+    "BATTERY": "57",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:00:06",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:00:06",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
