@@ -29288,5 +29288,45 @@
     "CDATE": "2025-06-19 21:03:06",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "We know you don't wanna miss it!\nUse the Zepto Cash now 🤑",
+    "TITLE": "You've got up to ₹150 free 🤩",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 21:12:26",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 21:24:43",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Check out ‘Memories together’",
+    "TITLE": "New memory",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 21:24:43",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "After having favs at FLAT 65% OFF!",
+    "TITLE": "Simriti’s joy: 📈📈",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 21:29:53",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
