@@ -26710,5 +26710,69 @@
     "NETWORK": "W",
     "CDATE": "2025-06-19 14:12:13",
     "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Su",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 14:12:13",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sum",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 14:12:13",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sumi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 14:12:13",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sumit",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 14:12:13",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹15",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹150",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹1,500",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:55:15",
+    "BATTERY": "50"
   }
 ]
