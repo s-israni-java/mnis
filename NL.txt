@@ -28958,5 +28958,25 @@
     "CDATE": "2025-06-19 19:07:06",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Move TR from QAS 802 to VAS 802 and CHN 802 under RFC 25478583 • Dear @Aman, PFA UAT Signoff. Thanks & Regards Shubham Vajpayee Ultimatix International Payroll - SAP Emp: 2001811 Email: shubham.vajpayee@tcs.com Tata Consultancy Services Limited From: Aman Joshi <aman.joshi1@tcs.com> Sent: 19 June 2025",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:09:08",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
