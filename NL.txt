@@ -28938,5 +28938,25 @@
     "CDATE": "2025-06-19 19:05:49",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Move TR from QAS 802 to VAS 802 and CHN 802 under RFC 25478583 • Hi @Shubham, Kindly attach valid UAT signoff. Aman Joshi, SAP BASIS Administrator - Ultimatix Payroll Mail to: aman.joshi1@tcs.com Available on Teams From: Gangaraju Kiran <kiran.gangaraju@tcs.com> Sent: 19 June 2025 18:19 To: Shubham Va",
+    "TITLE": "Aman Joshi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:05:49",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:07:06",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
