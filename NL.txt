@@ -10778,5 +10778,45 @@
     "CDATE": "2025-06-19 09:42:08",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Halsey",
+    "TITLE": "Closer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:42:08",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Halsey",
+    "TITLE": "Closer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:42:46",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Halsey",
+    "TITLE": "Closer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:42:46",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The Chainsmokers, Halsey",
+    "TITLE": "Closer",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:42:46",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
