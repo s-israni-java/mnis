@@ -29188,5 +29188,95 @@
     "CDATE": "2025-06-19 19:57:03",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:21:05",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 35% · See full forecast for Ulhasnagar",
+    "TITLE": "30° tomorrow · 3° warmer than today",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:21:05",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "📷📷Dear Sir, Please approve and release the Sweden 1 Housing refund payment..",
+    "TITLE": "EU_Bank_Transacts: Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:33:28",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "📷📷Also kindly approve and release the Norway 1 Emp salary reject payment.",
+    "TITLE": "EU_Bank_Transacts: Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:34:13",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Approved",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:34:46",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Approved",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:34:50",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Your bill: ₹10000\nYou pay: ₹5000 😮\nHow? Only with Swiggy Dineout!",
+    "TITLE": "Q. Solve this problem. 🤓",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:37:13",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 300.00 from A\/c X1248 on 19-JUN-2025\nUPI\/DR\/106738911391\/Hotel Super Bowl\/UTI\nBal INR 9,318.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:38:24",
+    "BATTERY": "62",
+    "ID": "415"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by xensol4",
+    "TITLE": "diya giri",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 20:41:45",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
