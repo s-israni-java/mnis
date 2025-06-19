@@ -11568,5 +11568,35 @@
     "CDATE": "2025-06-19 09:48:00",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Night Changes",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:48:00",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "Night Changes",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:48:01",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:49:36",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
