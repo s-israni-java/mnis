@@ -21618,5 +21618,15 @@
     "CDATE": "2025-06-19 15:07:37",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi, pls share Romania's vendor output file of May25 asap on teams",
+    "TITLE": "Vasanti More",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:12:36",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
