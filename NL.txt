@@ -28488,5 +28488,15 @@
     "CDATE": "2025-06-19 18:12:44",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap to enjoy FLAT 50% off ✨",
+    "TITLE": "Price drop on Dark Fantasy cookies 🍪",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:15:24",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
