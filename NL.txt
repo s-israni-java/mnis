@@ -29438,5 +29438,25 @@
     "CDATE": "2025-06-19 21:59:28",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 21:59:29",
+    "BATTERY": "68",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Isko bol de size...ya kal office se aate aate yaha chalange ok?",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 22:00:49",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
