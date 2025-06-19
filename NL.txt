@@ -8568,5 +8568,55 @@
     "CDATE": "2025-06-19 06:16:01",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:02",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:02",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with SFD BT-456",
+    "TITLE": "Pairing request",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:02",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (8%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:02",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (9%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 06:16:02",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
