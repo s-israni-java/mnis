@@ -28978,5 +28978,45 @@
     "CDATE": "2025-06-19 19:09:08",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:09:08",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:09:10",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:09:11",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Claim it now with your Zepto Cash🤩💵",
+    "TITLE": "Maggi bowl: full 😋 price: FREE",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:10:13",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
