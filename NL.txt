@@ -28728,5 +28728,25 @@
     "CDATE": "2025-06-19 18:43:12",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:43:28",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Hi Simriti, need PA 20 screen for emp 962889,",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:44:01",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
