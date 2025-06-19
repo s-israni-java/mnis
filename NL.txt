@@ -8278,5 +8278,15 @@
     "CDATE": "2025-06-19 05:59:17",
     "BATTERY": "65",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 06:03:32",
+    "BATTERY": "64",
+    "ID": "No ID"
   }
 ]
