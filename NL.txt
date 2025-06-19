@@ -19628,5 +19628,75 @@
     "CDATE": "2025-06-19 13:38:50",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:50",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:56",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:57",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:57",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:57",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:41:38",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Justin Bieber, Daniel Caesar, GIVĒON",
+    "TITLE": "Peaches (feat. Daniel Caesar & Giveon)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:41:38",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
