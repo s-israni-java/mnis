@@ -22038,5 +22038,55 @@
     "CDATE": "2025-06-19 15:43:06",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa dur hai..lekin samne hai na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:43:13",
+    "BATTERY": "99",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa dur hai..lekin samne hai na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:43:13",
+    "BATTERY": "99",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "😡",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:43:13",
+    "BATTERY": "99",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:43:13",
+    "BATTERY": "99",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap to shop now with your Zepto Cash 💵💵",
+    "TITLE": "Added up to ₹150 FREE 🤩",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:45:24",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
