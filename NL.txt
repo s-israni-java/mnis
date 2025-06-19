@@ -22248,5 +22248,25 @@
     "CDATE": "2025-06-19 15:52:34",
     "BATTERY": "97",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ruk mai bhi nikalta hu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:52:35",
+    "BATTERY": "97",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:52:51",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
