@@ -11658,5 +11658,15 @@
     "CDATE": "2025-06-19 09:56:25",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Order now with your Zepto Cash😋",
+    "TITLE": "🖐️Stop🖐️ Here's some FREE sugar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:57:35",
+    "BATTERY": "51",
+    "ID": "No ID"
   }
 ]
