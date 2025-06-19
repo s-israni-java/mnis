@@ -11828,5 +11828,105 @@
     "CDATE": "2025-06-19 10:01:48",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:48",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:48",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:48",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:49",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:49",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:49",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:01:49",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Charlie Puth",
+    "TITLE": "Attention",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:20",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Cheap Thrills",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:20",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sia",
+    "TITLE": "Cheap Thrills",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:20",
+    "BATTERY": "49",
+    "ID": "No ID"
   }
 ]
