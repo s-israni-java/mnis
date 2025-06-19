@@ -28134,5 +28134,109 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:55:06",
     "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Th",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:06",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:06",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:06",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:07",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:07",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:07",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:07",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi l",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:07",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi lg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:07",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi lg r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:08",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi lg rha ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:08",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi lg rha h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:08",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thik nhi lg rha h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:08",
+    "BATTERY": "97"
   }
 ]
