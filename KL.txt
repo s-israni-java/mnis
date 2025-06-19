@@ -27782,5 +27782,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:50:09",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Teri gadb",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:50:09",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Teri gadba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:50:09",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Teri gadbad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:50:09",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Teri gadbad ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:50:10",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Teri gadbad l",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:50:10",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Teri gadbad lf",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:50:10",
+    "BATTERY": "98"
   }
 ]
