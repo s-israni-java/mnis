@@ -17750,5 +17750,85 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 09:32:22",
     "BATTERY": "58"
+  },
+  {
+    "APP": "com.spotify.music_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "sapph",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:32:22",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.spotify.music_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "sapphi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:32:22",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "R",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Re",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Reh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Rehne",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Rehne ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Rehne a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Rehne aay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:22",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Rehne aayi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:02:22",
+    "BATTERY": "49"
   }
 ]
