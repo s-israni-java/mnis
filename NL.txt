@@ -22538,5 +22538,25 @@
     "CDATE": "2025-06-19 16:02:25",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: FY25 Bonus\/VA payout  • Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Complex, LBS Marg Vikhroli (West) Mumbai - 400079,Maharashtra India. Email : amit.rbandekar@tcs.com From: Sachin Kanta",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:02:25",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "saved your Snap in Chat",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:19:55",
+    "BATTERY": "93",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
   }
 ]
