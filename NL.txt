@@ -17218,5 +17218,35 @@
     "CDATE": "2025-06-19 12:56:10",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:56:10",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:56:43",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:56:43",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
