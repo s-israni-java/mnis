@@ -17778,5 +17778,55 @@
     "CDATE": "2025-06-19 13:06:32",
     "BATTERY": "23",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Avicii",
+    "TITLE": "The Nights",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:06:32",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imagine Dragons",
+    "TITLE": "Bones",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:09:28",
+    "BATTERY": "26",
+    "ID": "No ID"
   }
 ]
