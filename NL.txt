@@ -21198,5 +21198,25 @@
     "CDATE": "2025-06-19 14:46:59",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Nel paint hai?",
+    "TITLE": "Aishwarya Dhere",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:47:10",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "You've received Rs.𝟏𝟓𝟎𝟎 from SAGAR ISRANI",
+    "TITLE": "Money received",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:47:39",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
