@@ -28598,5 +28598,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:58:23",
     "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Susu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:24",
+    "BATTERY": "96"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Susu k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:25",
+    "BATTERY": "96"
   }
 ]
