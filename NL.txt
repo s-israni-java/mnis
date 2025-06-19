@@ -21868,5 +21868,65 @@
     "CDATE": "2025-06-19 15:35:26",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "by any chance",
+    "TITLE": "Vikas Jaiwar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:35:30",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:36:22",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:36:22",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:36:24",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:36:26",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "all those details are mentioned in it",
+    "TITLE": "Vikas J. reacted to your message in Chat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:37:18",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
