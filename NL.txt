@@ -17108,5 +17108,25 @@
     "CDATE": "2025-06-19 12:31:46",
     "BATTERY": "17",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RFC:25475722 • ***** THIS IS SYSTEM GENERATED EMAIL PLEASE DO NOT REPLY ***** Dear Associate, O365 Application is already installed in your system. Incase of any issue while accessing the application, please drop an email to: Global.helpdesk@tcs.com Thanks a",
+    "TITLE": "DIS Automation",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:31:46",
+    "BATTERY": "17",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by itachi_uchiha__143_",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:35:50",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
