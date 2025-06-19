@@ -22638,5 +22638,75 @@
     "CDATE": "2025-06-19 16:20:46",
     "BATTERY": "93",
     "ID": "487"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:20:46",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 100%: for your daily high speed data limit. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:20:54",
+    "BATTERY": "92",
+    "ID": "486"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Data over? Get 1GB data loan at no extra cost. Data validity- 1 day. Dial *567*3# or reply 1 to avail. Get 1GB less with your next data recharge.",
+    "TITLE": "56321",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:20:54",
+    "BATTERY": "92",
+    "ID": "487"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:20:54",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 100%: for your daily high speed data limit. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:20:56",
+    "BATTERY": "92",
+    "ID": "486"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 100%: for your daily high speed data limit. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:21:00",
+    "BATTERY": "92",
+    "ID": "486"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 16:21:38",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
