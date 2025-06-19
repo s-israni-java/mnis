@@ -28508,5 +28508,35 @@
     "CDATE": "2025-06-19 18:18:31",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Move TR from QAS 802 to VAS 802 and CHN 802 under RFC 25478583 • Dear @Kiran, Kindly approve. Dear @Ultimatix SAP Basis Grp, Kindly move below TR from QAS 802 to VAS 802 and CHN 802 under RFC 25478583. DEVK990121 PFA UAT Signoff for the same. Thanks & Regards Shubham Vajpayee Ultimatix International P",
+    "TITLE": "Shubham Vajpayee",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:18:31",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:19:22",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Move TR from QAS 802 to VAS 802 and CHN 802 under RFC 25478583 • Approved Regards Kiran From: Shubham Vajpayee <shubham.vajpayee@tcs.com> Sent: Thursday, June 19, 2025 6:17:53 PM To: Ultimatix SAP Basis Grp <Ultimatix.SAPBasis@tcs.com>; Gangaraju Kiran <kiran.gangaraju@tcs.com>",
+    "TITLE": "Gangaraju Kiran",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 18:19:23",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
