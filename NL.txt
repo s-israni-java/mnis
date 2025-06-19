@@ -12518,5 +12518,25 @@
     "CDATE": "2025-06-19 10:08:52",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Iski starting ki",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:08:55",
+    "BATTERY": "47",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:08:55",
+    "BATTERY": "47",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
