@@ -29138,5 +29138,25 @@
     "CDATE": "2025-06-19 19:45:35",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Move TR from QAS 802 to VAS 802 and CHN 802 under RFC 25478583 • Hi @Shubham, Subjected RFC has been Implemented and role Z_ROLE_TABLE_T582V assigned to the mention users. RFC description:- Dear Team, kindly move the TR DEVK990121 from QAS 802 to CHN 802, which is consists of the access & authorization of T-",
+    "TITLE": "Aman Joshi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:45:35",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:56:48",
+    "BATTERY": "64",
+    "ID": "No ID"
   }
 ]
