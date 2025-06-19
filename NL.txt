@@ -17438,5 +17438,25 @@
     "CDATE": "2025-06-19 13:02:07",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:02:10",
+    "BATTERY": "20",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Bad Habits",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:02:39",
+    "BATTERY": "20",
+    "ID": "No ID"
   }
 ]
