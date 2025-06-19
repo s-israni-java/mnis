@@ -29088,5 +29088,35 @@
     "CDATE": "2025-06-19 19:35:35",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Payroll file_Jun25 Hi Alex, I have uploaded payroll remarks on the below file and for leave question HR will share the remarks. Do let me know in case of any further questions. Thanks & Regards, Vasanti More Europe Finance Tata Consultancy Services Limited Stoc",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:36:00",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Payroll file_Jun25 • Hi Alex, I have uploaded payroll remarks on the below file and for leave question HR will share the remarks. Do let me know in case of any further questions. Thanks & Regards, Vasanti More Europe Finance Tata Consultancy Services Limited Stoc",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:36:00",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap to use your Zepto Cash now 💸",
+    "TITLE": "₹125, just cash-ually FREE 🤑",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 19:40:19",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
