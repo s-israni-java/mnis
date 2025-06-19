@@ -13708,5 +13708,15 @@
     "CDATE": "2025-06-19 10:38:52",
     "BATTERY": "42",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "DJ Snake, Justin Bieber",
+    "TITLE": "Let Me Love You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:39:01",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
