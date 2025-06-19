@@ -24598,5 +24598,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 12:26:07",
     "BATTERY": "19"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "nay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:26:08",
+    "BATTERY": "19"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "naya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:26:08",
+    "BATTERY": "19"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹6",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:26:15",
+    "BATTERY": "19"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹60",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:26:16",
+    "BATTERY": "19"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:26:26",
+    "BATTERY": "19"
   }
 ]
