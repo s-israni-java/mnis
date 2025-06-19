@@ -14848,5 +14848,15 @@
     "CDATE": "2025-06-19 11:11:59",
     "BATTERY": "30",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "+91 83569 64078",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 11:13:40",
+    "BATTERY": "30",
+    "ID": "918356964078@s.whatsapp.net"
   }
 ]
