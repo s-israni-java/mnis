@@ -28318,5 +28318,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-19 15:55:11",
     "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand l",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:11",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand lg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:12",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand lg r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:12",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand lg rh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:12",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand lg rhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:12",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand lg rhi h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:12",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Thand lg rhi h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:12",
+    "BATTERY": "97"
   }
 ]
