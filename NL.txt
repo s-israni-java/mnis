@@ -22418,5 +22418,35 @@
     "CDATE": "2025-06-19 15:55:31",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Or dawai li?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:32",
+    "BATTERY": "97",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:55:32",
+    "BATTERY": "97",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Elevate your dining experience with Flat 10% with Swiggy Dineout. Book now!",
+    "TITLE": "An 𝐎𝐝𝐞 to Dining Together",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:58:50",
+    "BATTERY": "96",
+    "ID": "No ID"
   }
 ]
