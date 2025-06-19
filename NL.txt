@@ -28398,5 +28398,25 @@
     "CDATE": "2025-06-19 17:50:31",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "New Arrivals at Wellspring IRC  • Dear Associate Warm regards, Rucha Rajendra Teredesai Lead - CEG - Mumbai IRC. Tata Consultancy Services Email: rucha.t@tcs.com www.tcs.com For any IRC Escalation, please write to: Level 1: banalata.das@tcs.com Level 2 : dhanashree.date@tc",
+    "TITLE": "Wellspring Irc",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 17:50:31",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 17:52:02",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
