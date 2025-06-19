@@ -21168,5 +21168,15 @@
     "CDATE": "2025-06-19 14:22:42",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:22:46",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
