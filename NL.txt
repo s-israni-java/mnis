@@ -16668,5 +16668,15 @@
     "CDATE": "2025-06-19 12:17:37",
     "BATTERY": "22",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "One Direction",
+    "TITLE": "What Makes You Beautiful",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:18:12",
+    "BATTERY": "22",
+    "ID": "No ID"
   }
 ]
