@@ -12598,5 +12598,65 @@
     "CDATE": "2025-06-19 10:09:41",
     "BATTERY": "47",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:11:43",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anne-Marie",
+    "TITLE": "2002",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:11:43",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:11:43",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:11:43",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:11:43",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shawn Mendes, Camila Cabello",
+    "TITLE": "Señorita",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 10:11:43",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
