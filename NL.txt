@@ -14698,5 +14698,15 @@
     "CDATE": "2025-06-19 11:00:57",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 11:00:57",
+    "BATTERY": "32",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
   }
 ]
