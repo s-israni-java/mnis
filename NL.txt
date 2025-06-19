@@ -21858,5 +21858,15 @@
     "CDATE": "2025-06-19 15:35:16",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "do you have start date and end date",
+    "TITLE": "Vikas Jaiwar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:35:26",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
