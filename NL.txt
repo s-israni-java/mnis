@@ -21678,5 +21678,15 @@
     "CDATE": "2025-06-19 15:23:37",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "do not do IFD",
+    "TITLE": "Prashant Y. reacted to your message in Europe Payroll Group",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 15:26:26",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
