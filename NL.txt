@@ -19488,5 +19488,115 @@
     "CDATE": "2025-06-19 13:36:49",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:49",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:50",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:50",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:36:50",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.powermonitor",
+    "SERVICE": "NL",
+    "MSG": "Alien object or liquid detected. Unplug the charger, make sure the charger and the USB port are dry and clean, and restart the phone.",
+    "TITLE": "Unplug Charger",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:12",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
