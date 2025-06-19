@@ -21178,5 +21178,15 @@
     "CDATE": "2025-06-19 14:22:46",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "Approved",
+    "TITLE": "EU_Bank_Transacts: Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 14:35:30",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
