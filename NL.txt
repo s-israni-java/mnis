@@ -17138,5 +17138,15 @@
     "CDATE": "2025-06-19 12:36:17",
     "BATTERY": "16",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.teams",
+    "SERVICE": "NL",
+    "MSG": "TeamThis is for CHN Rise📷",
+    "TITLE": "Europe Payroll Group: Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 12:43:57",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
