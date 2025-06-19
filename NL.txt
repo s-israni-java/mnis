@@ -9628,5 +9628,15 @@
     "CDATE": "2025-06-19 09:31:14",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Story uploaded!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-19 09:31:48",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
