@@ -19598,5 +19598,25 @@
     "CDATE": "2025-06-19 13:38:12",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:50",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Thinking out Loud",
+    "NETWORK": "W",
+    "CDATE": "2025-06-19 13:38:50",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
