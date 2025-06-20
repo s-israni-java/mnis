@@ -10718,5 +10718,25 @@
     "CDATE": "2025-06-20 15:44:30",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:45:12",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Payroll file_Jun25 • Hi Alex, Hope we at least get 24 hours to respond. We just received them yesterday,, we need time to check pl. Thanks and Regards Suneeta Ijari Human Resources - TCS Denmark From: DK tcs MBX <dk_tcs@pwc.com> Sent: Friday, 20 June 2025 12.",
+    "TITLE": "Suneeta Ijari",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:45:12",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
