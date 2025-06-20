@@ -9638,5 +9638,85 @@
     "CDATE": "2025-06-20 15:16:56",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:56",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:57",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:58",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Jee Ni Lagda",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:16:58",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:17:03",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
