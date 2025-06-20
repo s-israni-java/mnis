@@ -14388,5 +14388,15 @@
     "CDATE": "2025-06-20 18:18:31",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by swiggyindia",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:34",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
