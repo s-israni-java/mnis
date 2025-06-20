@@ -40094,5 +40094,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 18:21:58",
     "BATTERY": "75"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Oii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:21:58",
+    "BATTERY": "75"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "N",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:11",
+    "BATTERY": "74"
   }
 ]
