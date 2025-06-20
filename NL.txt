@@ -958,5 +958,15 @@
     "CDATE": "2025-06-20 10:05:27",
     "BATTERY": "48",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "Witness the sacrifice behind the badge. Emraan Hashmi's intense thriller awaits!",
+    "TITLE": "Watch now: ‘Ground Zero’ 🎯",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:05:49",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
