@@ -10388,5 +10388,25 @@
     "CDATE": "2025-06-20 15:34:25",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Neha Kakkar",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:34:25",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:34:32",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
