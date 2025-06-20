@@ -478,5 +478,35 @@
     "CDATE": "2025-06-20 09:51:21",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:51:21",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Tap to manage your Jam settings (including who's listening).",
+    "TITLE": "Sagar Israni joined your Jam",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:51:23",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:51:23",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
