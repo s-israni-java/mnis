@@ -10128,5 +10128,75 @@
     "CDATE": "2025-06-20 15:25:06",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:25:06",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:25:06",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:25:06",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:28:18",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:28:18",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:28:18",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:28:19",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
