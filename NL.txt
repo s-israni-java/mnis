@@ -14328,5 +14328,25 @@
     "CDATE": "2025-06-20 18:18:23",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:25",
+    "BATTERY": "76",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Get ready to order at Flash Sale at 5pm. 🕓",
+    "TITLE": "Rolls are rollin' at ₹1! 🌯",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:26",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
