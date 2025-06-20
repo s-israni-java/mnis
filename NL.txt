@@ -308,5 +308,15 @@
     "CDATE": "2025-06-20 06:07:37",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "The settlement for your transactions has been successfully credited to your bank account. Tap to view the details.",
+    "TITLE": "Settlement completed for 20 JUNE 2025.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 06:11:07",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
