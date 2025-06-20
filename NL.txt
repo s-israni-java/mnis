@@ -8388,5 +8388,15 @@
     "CDATE": "2025-06-20 14:29:08",
     "BATTERY": "26",
     "ID": "492"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Epic beats, killer cocktails & the city's finest crowd.\n🎟️ Limited access, book your spot now!",
+    "TITLE": "🔥 Bastian is where the party’s at this weekend!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 14:32:16",
+    "BATTERY": "25",
+    "ID": "No ID"
   }
 ]
