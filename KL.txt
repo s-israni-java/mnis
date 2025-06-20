@@ -36734,5 +36734,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 10:40:47",
     "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highy ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:47",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:48",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "High",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:48",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:48",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:48",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:48",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly l",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:48",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly le",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:49",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly lege",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:49",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly leg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:49",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Highly le",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:49",
+    "BATTERY": "36"
   }
 ]
