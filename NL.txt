@@ -10638,5 +10638,55 @@
     "CDATE": "2025-06-20 15:41:45",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:41:45",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:41:49",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:41:52",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:42:39",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Recharge your mobile for ₹149+ and get 100% cashback up to ₹299 on Amazon Prime gift card",
+    "TITLE": "Recharge and get 100% cashback on Gift card",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:42:39",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
