@@ -2998,5 +2998,25 @@
     "CDATE": "2025-06-20 09:23:34",
     "BATTERY": "60",
     "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:23:58",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:23:58",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
