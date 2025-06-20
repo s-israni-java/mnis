@@ -35686,5 +35686,53 @@
     "NETWORK": "W",
     "CDATE": "2025-06-20 07:56:41",
     "BATTERY": "44"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "bhavisha",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:56:41",
+    "BATTERY": "44"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "bhavisha ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:56:42",
+    "BATTERY": "44"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "bhavisha m",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:56:42",
+    "BATTERY": "44"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "bhavisha mam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:56:43",
+    "BATTERY": "44"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹6",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:56:54",
+    "BATTERY": "44"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹65",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:56:54",
+    "BATTERY": "44"
   }
 ]
