@@ -36014,5 +36014,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 10:04:16",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Wa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:16",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Was",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:17",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Was ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:17",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Was",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Waa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Waah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:21",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Waah😍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:23",
+    "BATTERY": "49"
   }
 ]
