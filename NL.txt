@@ -588,5 +588,25 @@
     "CDATE": "2025-06-20 09:51:42",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:51:42",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "संशयास्पद फसवणुकीच्या संपर्कांची तक्रार  संचार साथी मोबाईल अॅपवर करणे सोपे आहे.    मोबाईल अॅप येथून डाउनलोड करा:  Android: https:\/\/play.google.com\/store\/apps\/details?id=com.dot.app.sancharsaathi iOS: https:\/\/apps.apple.com\/in\/app\/sanchar-saathi\/id6739700695 दूरसंचार विभाग",
+    "TITLE": "JZ-DOTGOI-G",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:52:21",
+    "BATTERY": "52",
+    "ID": "490"
   }
 ]
