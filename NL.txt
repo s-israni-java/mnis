@@ -4458,5 +4458,95 @@
     "CDATE": "2025-06-20 11:06:56",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Redeem and save with your IDFC FIRST Bank voucher!",
+    "TITLE": "Your merchant rewards are waiting!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:06:56",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:07:04",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:07:04",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:07:04",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:07:04",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:09:25",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:09:25",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:09:25",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:09:25",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
