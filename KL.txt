@@ -36518,5 +36518,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 10:17:03",
     "BATTERY": "46"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:17:03",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●●9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:17:03",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "O",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:29:58",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Oi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:29:58",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Oii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:29:58",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Wh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:39:30",
+    "BATTERY": "37"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Why",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:39:30",
+    "BATTERY": "37"
   }
 ]
