@@ -7128,5 +7128,45 @@
     "CDATE": "2025-06-20 11:54:51",
     "BATTERY": "24",
     "ID": "246"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:57:30",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:57:30",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:57:30",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:57:30",
+    "BATTERY": "24",
+    "ID": "No ID"
   }
 ]
