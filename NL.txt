@@ -16338,5 +16338,25 @@
     "CDATE": "2025-06-20 18:59:40",
     "BATTERY": "63",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:59:53",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:59:53",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
