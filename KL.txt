@@ -36486,5 +36486,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 10:05:12",
     "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tune jam join kia h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:05:12",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tune jam join kia h?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:05:13",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:17:03",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●3",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:17:03",
+    "BATTERY": "46"
   }
 ]
