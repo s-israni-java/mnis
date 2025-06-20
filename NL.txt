@@ -6158,5 +6158,15 @@
     "CDATE": "2025-06-20 11:41:16",
     "BATTERY": "27",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 11:41:47",
+    "BATTERY": "27",
+    "ID": "No ID"
   }
 ]
