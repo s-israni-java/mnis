@@ -14498,5 +14498,65 @@
     "CDATE": "2025-06-20 18:19:00",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 • External Email : Be cautious while opening any links or attachments. Hi Suneeta, Reviewing our files, we have come up with two additional questions, so we have uploaded an updated comment sheet in Connect now. Again feedback for us sometime Monday is",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:00",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:00",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Payroll file_Jun25 • Dear Alexander, We have already uploaded the files with our comments. We will review and come back for the others. Dear @Vasanti More, Please, for you to check on these two in the comment sheet 1831752 and 962889. Yours Sincerely _____ Nour",
+    "TITLE": "Nour Al Bakaa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:00",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:00",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 • External Email : Be cautious while opening any links or attachments. Dear Nour, Thank you! We did not notice, as we can see your file with comments have been uploaded in the Locals folder and not expats 🙂 Vasanti have already returned on 1831752 a",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:00",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "Access and manage all your accounts easily through NetBanking 🔐",
+    "TITLE": "🌟 All Your Accounts in One Place! 💼",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:03",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
