@@ -7868,5 +7868,55 @@
     "CDATE": "2025-06-20 12:15:11",
     "BATTERY": "21",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:11",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:11",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:11",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap",
+    "TITLE": "Giraffe 🦒😂",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:11",
+    "BATTERY": "21",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "…like FLAT 65% OFF does, they’re not the one. 🙃",
+    "TITLE": "If they don’t get you…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:13",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
