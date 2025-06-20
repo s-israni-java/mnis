@@ -14348,5 +14348,35 @@
     "CDATE": "2025-06-20 18:18:26",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: TNDL JE Seldom Users Apr - May'25 Dear Vignesh & Smriti, Please find attached JE Exceptions for Seldom User. Kindly note to provide response against each of details asked below Kindly provide the following for the sample: * Why only up to 2 entries being passed by user in 2",
+    "TITLE": "Harshil Shah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:26",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:27",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: TNDL JE Seldom Users Apr - May'25 • Dear Vignesh & Smriti, Please find attached JE Exceptions for Seldom User. Kindly note to provide response against each of details asked below Kindly provide the following for the sample: * Why only up to 2 entries being passed by user in 2",
+    "TITLE": "Harshil Shah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:28",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
