@@ -16498,5 +16498,45 @@
     "CDATE": "2025-06-20 19:06:45",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:06:45",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:06:45",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:07:31",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:07:31",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
