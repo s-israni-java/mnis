@@ -16408,5 +16408,95 @@
     "CDATE": "2025-06-20 19:01:05",
     "BATTERY": "63",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:01:34",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:01:34",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:01:34",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:01:34",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:01:41",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:01:43",
+    "BATTERY": "62",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Grab your free sugar now with Zepto Cash🥳",
+    "TITLE": "Yay! FREE Sugar🥳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:02:15",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:06:45",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:06:45",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
