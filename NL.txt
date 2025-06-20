@@ -4288,5 +4288,25 @@
     "CDATE": "2025-06-20 11:03:35",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:03:35",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mentioned you in their story.",
+    "TITLE": "sadhana_group_tuitions",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:05:27",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
