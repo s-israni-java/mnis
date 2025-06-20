@@ -10688,5 +10688,15 @@
     "CDATE": "2025-06-20 15:42:39",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 External Email : Be cautious while opening any links or attachments. Hi Suneeta and Nour, Any update on the remaining questions in the comment sheet? @Vasanti More If we don't receive them shortly, we hope it's okay test files are uploaded Monday m",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:43:45",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
