@@ -15708,5 +15708,35 @@
     "CDATE": "2025-06-20 18:41:14",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:41:14",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:41:14",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:42:28",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
