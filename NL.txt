@@ -158,5 +158,25 @@
     "CDATE": "2025-06-20 05:39:13",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😮 to your message: Bye",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 05:39:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 05:42:12",
+    "BATTERY": "65",
+    "ID": "No ID"
   }
 ]
