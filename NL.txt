@@ -19998,5 +19998,15 @@
     "CDATE": "2025-06-20 23:12:06",
     "BATTERY": "65",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 23:24:16",
+    "BATTERY": "64",
+    "ID": "No ID"
   }
 ]
