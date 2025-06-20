@@ -20008,5 +20008,25 @@
     "CDATE": "2025-06-20 23:24:16",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 23:52:42",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 23:52:43",
+    "BATTERY": "64",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
   }
 ]
