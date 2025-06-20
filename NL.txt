@@ -19558,5 +19558,85 @@
     "CDATE": "2025-06-20 20:20:22",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:30:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 40% · Light rain · See full forecast",
+    "TITLE": "Tomorrow in Thane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:30:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by chauhankeerty",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:31:30",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by sksumroedit",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:38:50",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by mr_vibe.master",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:39:31",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by shera_uk09",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:44:51",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "Just published: 5 must reads for the weekend",
+    "TITLE": "EY",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:46:53",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "📜 Quotes for Simi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 21:04:29",
+    "BATTERY": "40",
+    "ID": "No ID"
   }
 ]
