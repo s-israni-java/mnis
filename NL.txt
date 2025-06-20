@@ -4898,5 +4898,25 @@
     "CDATE": "2025-06-20 11:13:17",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:13:20",
+    "BATTERY": "31",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:13:27",
+    "BATTERY": "31",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
   }
 ]
