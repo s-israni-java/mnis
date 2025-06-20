@@ -608,5 +608,25 @@
     "CDATE": "2025-06-20 09:52:21",
     "BATTERY": "52",
     "ID": "490"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Thik lagh raha hai?",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:57:03",
+    "BATTERY": "51",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Thik lagh raha hai?",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:57:03",
+    "BATTERY": "51",
+    "ID": "918291418946@s.whatsapp.net"
   }
 ]
