@@ -3938,5 +3938,25 @@
     "CDATE": "2025-06-20 10:49:01",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 10:52:31",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 10:52:31",
+    "BATTERY": "33",
+    "ID": "No ID"
   }
 ]
