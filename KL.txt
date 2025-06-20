@@ -35998,5 +35998,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 09:57:16",
     "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Haa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:57:16",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "W",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:16",
+    "BATTERY": "49"
   }
 ]
