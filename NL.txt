@@ -7448,5 +7448,55 @@
     "CDATE": "2025-06-20 12:03:19",
     "BATTERY": "23",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:03:19",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:03:19",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:03:47",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:03:47",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:03:47",
+    "BATTERY": "23",
+    "ID": "No ID"
   }
 ]
