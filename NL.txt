@@ -2328,5 +2328,55 @@
     "CDATE": "2025-06-20 10:22:58",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:22:58",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harnoor, Gifty",
+    "TITLE": "Waalian",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:24:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harnoor, Gifty",
+    "TITLE": "Waalian",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:24:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harnoor, Gifty",
+    "TITLE": "Waalian",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:24:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harnoor, Gifty",
+    "TITLE": "Waalian",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:24:11",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
