@@ -14558,5 +14558,45 @@
     "CDATE": "2025-06-20 18:19:03",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "😉Oπ£ ®€∆$0π Why😌 (as__u__say) has requested to follow you.",
+    "TITLE": "Follow request",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:10",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:19:11",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bol",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:23:17",
+    "BATTERY": "74",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bol",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:23:17",
+    "BATTERY": "74",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
