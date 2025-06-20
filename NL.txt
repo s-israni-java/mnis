@@ -7268,5 +7268,15 @@
     "CDATE": "2025-06-20 12:00:36",
     "BATTERY": "23",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:00:55",
+    "BATTERY": "23",
+    "ID": "No ID"
   }
 ]
