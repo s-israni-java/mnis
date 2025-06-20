@@ -40822,5 +40822,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 18:55:41",
     "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Train is getting late by lat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:55:41",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Train is getting late by late",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:55:41",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Train is getting late by late ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:55:41",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "At",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:57:39",
+    "BATTERY": "63"
   }
 ]
