@@ -8008,5 +8008,25 @@
     "CDATE": "2025-06-20 12:39:20",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:40:06",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:40:06",
+    "BATTERY": "19",
+    "ID": "No ID"
   }
 ]
