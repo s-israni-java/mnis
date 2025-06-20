@@ -298,5 +298,15 @@
     "CDATE": "2025-06-20 06:05:50",
     "BATTERY": "62",
     "ID": "417"
+  },
+  {
+    "APP": "com.google.android.apps.wellbeing",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating Digital Wellbeing…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 06:07:37",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
