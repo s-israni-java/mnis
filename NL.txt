@@ -1148,5 +1148,15 @@
     "CDATE": "2025-06-20 09:04:08",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Keep shopping with Supersaver & hit your order milestone 🌟",
+    "TITLE": "Unlock ₹1500  FREE Cash 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:07:10",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
