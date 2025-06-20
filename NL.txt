@@ -10828,5 +10828,15 @@
     "CDATE": "2025-06-20 15:46:43",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: TCS - FFS entries lying in Debit of GL '37816' as per Oneview of MAY'2025 Hello Jaya, Email was shared to recover the dues, please find attached email \"FW: US Forex Clearance_29-Jun-22\" for reference Emp No Code Emp Status Disb Month Debits Credits Cls.Bal A\/c Code 363311 FOREX 8 31-May-25 21,865.00 0.0",
+    "TITLE": "Mahesh Pal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:47:10",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
