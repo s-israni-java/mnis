@@ -2508,5 +2508,85 @@
     "CDATE": "2025-06-20 09:20:23",
     "BATTERY": "61",
     "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok ok",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:23",
+    "BATTERY": "61",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Office late hoga aane thoda",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:23",
+    "BATTERY": "61",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:23",
+    "BATTERY": "61",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:55",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Josh Brar",
+    "TITLE": "Tere Bina Na Guzara E",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:56",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:56",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:56",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:20:56",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
