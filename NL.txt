@@ -1128,5 +1128,15 @@
     "CDATE": "2025-06-20 08:39:00",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "..is trying to reach you!\nTap now to grab it 🤑",
+    "TITLE": "Up to ₹150 FREE cash 💵",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 08:59:27",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
