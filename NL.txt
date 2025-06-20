@@ -5078,5 +5078,45 @@
     "CDATE": "2025-06-20 11:17:09",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:19:54",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:19:54",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:19:54",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:19:54",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
