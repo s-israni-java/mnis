@@ -14258,5 +14258,55 @@
     "CDATE": "2025-06-20 18:18:12",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:13",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:13",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:13",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:17",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:18",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
