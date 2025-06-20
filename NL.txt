@@ -20148,5 +20148,15 @@
     "CDATE": "2025-06-21 01:23:38",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 01:23:41",
+    "BATTERY": "58",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
   }
 ]
