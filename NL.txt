@@ -3718,5 +3718,55 @@
     "CDATE": "2025-06-20 10:46:33",
     "BATTERY": "34",
     "ID": "918356964078@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:46:33",
+    "BATTERY": "34",
+    "ID": "918356964078@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:47:56",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:47:56",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:47:56",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:47:56",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
