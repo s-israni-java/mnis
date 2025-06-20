@@ -7088,5 +7088,45 @@
     "CDATE": "2025-06-20 11:54:30",
     "BATTERY": "24",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:54:30",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:54:30",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:54:30",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "₹125 FREE cash…yours to claim!💵—Get straight savings on your essentials with ₹125 FREE cash🤑\nNo conditions, just shop and save big at Zepto!💥\nDon't miss this exciting opportunity to shop more😁",
+    "TITLE": "Zepto",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 11:54:51",
+    "BATTERY": "24",
+    "ID": "246"
   }
 ]
