@@ -39142,5 +39142,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 11:38:33",
     "BATTERY": "28"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "•3•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 11:38:33",
+    "BATTERY": "28"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "••1•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 11:38:34",
+    "BATTERY": "28"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "•••9•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 11:38:34",
+    "BATTERY": "28"
+  },
+  {
+    "APP": "com.citi.mobile.cdbe_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "••••2•",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 11:38:34",
+    "BATTERY": "28"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:06:07",
+    "BATTERY": "23"
   }
 ]
