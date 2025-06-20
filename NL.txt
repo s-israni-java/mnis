@@ -10748,5 +10748,45 @@
     "CDATE": "2025-06-20 15:46:33",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:33",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:33",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:33",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "4:00 pm - 5:00 pm, https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_NTU0ZDA5M2YtZjk5Yi00YzE3LThlYjMtNThkNGNkZDdhNjE0%40thread.v2\/0?context=%7b%22Tid%22%3a%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2c%22Oid%22%3a%22a0a32ebe-5bfc-4b0e-be3b-549b7e6bd160%22%7d",
+    "TITLE": "#One_Corporate_Functions__Fun Friday : 🎮 Ctrl + Hunt = Fun!🧩",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:40",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
