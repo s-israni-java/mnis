@@ -36606,5 +36606,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 10:39:31",
     "BATTERY": "37"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Why rejec",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:39:32",
+    "BATTERY": "37"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Why reject",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:39:32",
+    "BATTERY": "37"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Why reject?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:39:32",
+    "BATTERY": "37"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "K",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:44",
+    "BATTERY": "36"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:45",
+    "BATTERY": "36"
   }
 ]
