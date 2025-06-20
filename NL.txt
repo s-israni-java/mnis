@@ -20068,5 +20068,25 @@
     "CDATE": "2025-06-21 00:21:43",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Over Due Compliance Tasks Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 00:25:33",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Over Due Compliance Tasks • Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 00:25:33",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
