@@ -20098,5 +20098,25 @@
     "CDATE": "2025-06-21 00:53:15",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click Here to View All :- https:\/\/knome.ultimatix.net\/app\/blogposts\/944181",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 00:53:15",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 00:55:05",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
