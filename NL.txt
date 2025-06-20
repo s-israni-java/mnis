@@ -19668,5 +19668,25 @@
     "CDATE": "2025-06-20 21:23:17",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "5 must reads for the weekend",
+    "TITLE": "EY via LinkedIn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 21:34:23",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "5 must reads for the weekend",
+    "TITLE": "EY via LinkedIn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 21:34:23",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
