@@ -1698,5 +1698,255 @@
     "CDATE": "2025-06-20 10:17:13",
     "BATTERY": "46",
     "ID": "415"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Medu Wada ( Single) is ready!",
+    "TITLE": "Your food is ready!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:17:21",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harnoor, Gifty",
+    "TITLE": "Waalian",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:54",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:54",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:55",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:19:55",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:10",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:10",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:10",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:10",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Get Nivea Body Lotion Milk Very Dry Skin (400 ml) @ ₹340 ₹̶4̶9̶5̶!",
+    "TITLE": "Mission moisture is ON  🧴",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:11",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:15",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:15",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:20:15",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
