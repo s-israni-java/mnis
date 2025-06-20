@@ -10738,5 +10738,15 @@
     "CDATE": "2025-06-20 15:45:12",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:33",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
