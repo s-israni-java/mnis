@@ -40110,5 +40110,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 18:25:11",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:12",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:12",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nikl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:12",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nikla ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:12",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nikla h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:12",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nikla h?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:25:13",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:26:45",
+    "BATTERY": "74"
   }
 ]
