@@ -40934,5 +40934,77 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 19:05:57",
     "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:57",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "K",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:58",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ko",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:58",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kon",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:58",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:58",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:58",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsi p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:58",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsi pa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:59",
+    "BATTERY": "62"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Konsi pak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:05:59",
+    "BATTERY": "62"
   }
 ]
