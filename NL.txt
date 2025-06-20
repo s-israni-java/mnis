@@ -14448,5 +14448,15 @@
     "CDATE": "2025-06-20 18:18:38",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Flexible travel coverage from ₹10\/day*—No empty promises. Get reliable coverage that goes beyond the basics:\n- Medical emergencies covered up to $400,000, with an adventure sports add-on\n- Flight delays over 3 hours are fully covered\n - Get reimbursed easily for baggage loss and delays",
+    "TITLE": "ACKO Travel",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:41",
+    "BATTERY": "76",
+    "ID": "494"
   }
 ]
