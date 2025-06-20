@@ -10788,5 +10788,45 @@
     "CDATE": "2025-06-20 15:46:40",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:42",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:43",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:43",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",
+    "TITLE": "Insane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:46:43",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
