@@ -19518,5 +19518,45 @@
     "CDATE": "2025-06-20 19:55:48",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😮 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 19:57:42",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Kindly make payment of TDS\n\nIf need call me for assistance \n\n*IGNORE IF ALREADY PAID*",
+    "TITLE": "Mukesh Joshi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:06:55",
+    "BATTERY": "46",
+    "ID": "919987632280@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Kindly make payment of TDS\n\nIf need call me for assistance \n\n*IGNORE IF ALREADY PAID*",
+    "TITLE": "Mukesh Joshi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:06:55",
+    "BATTERY": "46",
+    "ID": "919987632280@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy Dermicool Her Prickly Heat Powder (400 gm) @ ₹219 ₹̶2̶9̶5̶!",
+    "TITLE": "Replace sweat with fragrance 🌸",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 20:20:22",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
