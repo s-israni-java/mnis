@@ -1158,5 +1158,15 @@
     "CDATE": "2025-06-20 09:07:10",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:09:46",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
