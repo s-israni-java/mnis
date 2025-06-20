@@ -188,5 +188,25 @@
     "CDATE": "2025-06-20 05:52:06",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Update \/ Review your emergency contact and address in Ultimatix (Global ESS) • Alt Text: Update \/ Review your emergency contact and address in Ultimatix (Global ESS) Please review and update your details in Ultimatix > GESS > My Profile at the earliest",
+    "TITLE": "HR Communication",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 05:52:06",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 05:59:19",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
