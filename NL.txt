@@ -14728,5 +14728,35 @@
     "CDATE": "2025-06-20 18:30:09",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE:  Denmark payroll queries_20th June 2025, Emp#489410, 332895, 379068, 1965392 & 1638371 • Dear Simriti, Please find attached list of queries raised through Alumni portal. Please assist. Thanks & Regards, Altamash Rifai Corporate HR - Employee Welfare & Services Tata Consultancy Services From: Altamash Rifai Sent: Friday, June",
+    "TITLE": "Altamash Rifai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:30:09",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Payroll file_Jun25 Dear Alexander, The file has been uploaded with responses to the additional comments. Please read the document along with previous one. Have a lovely weekend! Yours Sincerely _____ Nour Al-Bakaa I HR Executive – DK TATA CONSULTANCY S",
+    "TITLE": "Nour Al Bakaa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:37:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Payroll file_Jun25 • Dear Alexander, The file has been uploaded with responses to the additional comments. Please read the document along with previous one. Have a lovely weekend! Yours Sincerely _____ Nour Al-Bakaa I HR Executive – DK TATA CONSULTANCY S",
+    "TITLE": "Nour Al Bakaa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:37:02",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
