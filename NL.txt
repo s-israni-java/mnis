@@ -14218,5 +14218,45 @@
     "CDATE": "2025-06-20 18:18:11",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:11",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:12",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:12",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Kya Baat Ay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:12",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
