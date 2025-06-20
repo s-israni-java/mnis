@@ -20118,5 +20118,15 @@
     "CDATE": "2025-06-21 00:55:05",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "sadhana_group_tuitions sent a message",
+    "TITLE": "sadhana_group_tuitions",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 01:02:51",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
