@@ -8228,5 +8228,25 @@
     "CDATE": "2025-06-20 14:11:07",
     "BATTERY": "28",
     "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 14:11:13",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: TCS Czech Expats Payroll Information -May25 Dear Simriti, For the mentioned Emp # 715504, Payroll team received settlement date as 29th April from source. And same was posted to sap. Dear @GESSTravel BA Grp, For the mentioned Emp # 715504, Payroll team received settlement date as 29th April .",
+    "TITLE": "Sandip Jana",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 14:11:41",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
