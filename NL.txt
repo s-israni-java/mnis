@@ -19698,5 +19698,115 @@
     "CDATE": "2025-06-20 21:34:24",
     "BATTERY": "35",
     "ID": "415"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Shop now using your Zepto Cash 💸",
+    "TITLE": "Up to ₹150 cash, only for today 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 21:57:10",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:12:43",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:12:44",
+    "BATTERY": "56",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by womenn_truelife",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:20:18",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by panchaleee_",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:21:48",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by akanksha.arora.sharma",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:23:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by legendofmarketing",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:23:25",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by oyegunnu",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:25:23",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:43:48",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 22:43:49",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "My Sweden Salary \/Payroll process  Dear Team, I have recently travelled to Sweden during April 1st week (from Denmark) and, I have not received forex, and my salary has not been processed till now due to delay in opening bank account. Now I have updated my bank details in Ultimatix\/G",
+    "TITLE": "VENKATESWARLU M",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 22:46:53",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
