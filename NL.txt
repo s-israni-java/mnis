@@ -2368,5 +2368,15 @@
     "CDATE": "2025-06-20 09:17:36",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "Page is ready to view",
+    "TITLE": "Tops – Terractive",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:18:15",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
