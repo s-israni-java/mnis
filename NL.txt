@@ -678,5 +678,45 @@
     "CDATE": "2025-06-20 09:58:07",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:59:31",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:59:31",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:59:31",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:59:31",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
