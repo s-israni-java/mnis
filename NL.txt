@@ -1618,5 +1618,35 @@
     "CDATE": "2025-06-20 09:10:16",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:10:16",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:10:16",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:10:17",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
