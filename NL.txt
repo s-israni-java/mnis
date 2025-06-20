@@ -14458,5 +14458,15 @@
     "CDATE": "2025-06-20 18:18:41",
     "BATTERY": "76",
     "ID": "494"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "Mat rehene dena! 🙅🏽‍♂️ Abhi mobile pack recharge karein AU 0101 App par!",
+    "TITLE": "Baatein kuch ankahee si 🤫...",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:48",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
