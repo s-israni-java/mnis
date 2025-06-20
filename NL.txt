@@ -16068,5 +16068,65 @@
     "CDATE": "2025-06-20 18:50:52",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:50:53",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:52:27",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon",
+    "TITLE": "With You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:52:27",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:52:27",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:52:27",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:52:27",
+    "BATTERY": "65",
+    "ID": "No ID"
   }
 ]
