@@ -3308,5 +3308,25 @@
     "CDATE": "2025-06-20 10:40:25",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "..",
+    "TITLE": "+91 83569 64078",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:26",
+    "BATTERY": "37",
+    "ID": "918356964078@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "..",
+    "TITLE": "+91 83569 64078",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:40:26",
+    "BATTERY": "37",
+    "ID": "918356964078@s.whatsapp.net"
   }
 ]
