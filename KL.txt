@@ -40390,5 +40390,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 18:38:02",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "vi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:38:02",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "vik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:38:03",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:38:22",
+    "BATTERY": "70"
   }
 ]
