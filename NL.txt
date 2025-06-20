@@ -908,5 +908,25 @@
     "CDATE": "2025-06-20 07:45:06",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 35% · Light rain · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:45:06",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 650.00 from A\/c X1248 on 20-JUN-2025\nUPI\/DR\/106750037100\/BHAVISHA RAKESH THAD\nBal INR 10,168.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VK-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 07:57:10",
+    "BATTERY": "44",
+    "ID": "417"
   }
 ]
