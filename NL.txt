@@ -10628,5 +10628,15 @@
     "CDATE": "2025-06-20 15:38:34",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:41:45",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
