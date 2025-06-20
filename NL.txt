@@ -14468,5 +14468,25 @@
     "CDATE": "2025-06-20 18:18:48",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:57",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Check out ‘Memories together’",
+    "TITLE": "New memory",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:57",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
