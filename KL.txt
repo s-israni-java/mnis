@@ -40182,5 +40182,117 @@
     "NETWORK": "M",
     "CDATE": "2025-06-20 18:26:46",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "E",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:26:46",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "En",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:26:46",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Enj",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:26:46",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Enjo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:26:47",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Enjoy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:26:47",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "B",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:25",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:26",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bij",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:26",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bijl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:26",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bijlu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:26",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bijlun",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:26",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bijlung",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:27",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bijlungi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:27",
+    "BATTERY": "73"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Niklungi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:28:27",
+    "BATTERY": "73"
   }
 ]
