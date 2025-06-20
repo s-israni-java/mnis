@@ -1328,5 +1328,45 @@
     "CDATE": "2025-06-20 10:09:43",
     "BATTERY": "48",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:10:35",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:10:35",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:10:35",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:10:35",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
