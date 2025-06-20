@@ -928,5 +928,25 @@
     "CDATE": "2025-06-20 10:04:52",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:04:54",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 451 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:05:24",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
