@@ -828,5 +828,15 @@
     "CDATE": "2025-06-20 06:15:54",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with SFD BT-456",
+    "TITLE": "Pairing request",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 06:16:25",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
