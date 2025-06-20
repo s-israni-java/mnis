@@ -3198,5 +3198,15 @@
     "CDATE": "2025-06-20 10:38:19",
     "BATTERY": "38",
     "ID": "918356964078@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "QARAN, Badshah",
+    "TITLE": "Tareefan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 10:38:43",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
