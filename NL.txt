@@ -7768,5 +7768,105 @@
     "CDATE": "2025-06-20 12:08:11",
     "BATTERY": "23",
     "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-20 12:11:29",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:10",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:15:11",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
