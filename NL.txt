@@ -8078,5 +8078,25 @@
     "CDATE": "2025-06-20 12:45:28",
     "BATTERY": "18",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Sagar,\n\n \n\nThese tasks \/ activities don’t have any identification thru which we can map them with either an issue register raised by implementation team or issues logged in Redmine for the project. Please clarify which are these issues and who have assigned them to you. I am not sure what are the timelines to resolve them as well.\n\n \n\nI spoke to Shivani before writing my email to enquire, if you have spoken to her about the issues to be handled ! and she denied about your discussions !.\n\n \n\nI have informed you to meet me in person and discuss about your allocations,  vide email trail below but we have not met yet. Please speak to @Patil Sagar for your allocations. You will be working with him for next 20 days to complete the specific activity. Sagar Patil will share with you a plan made by him with start and end date of activities and we must finish those CRs in time and share the releases under Sagar Patil’s guidance.\n\n \n\n@Patil Sagar Please do the needful! Share the allocations on an email marking all s…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:45:29",
+    "BATTERY": "18",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.oplus.sos",
+    "SERVICE": "NL",
+    "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%.",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 12:57:56",
+    "BATTERY": "15",
+    "ID": "No ID"
   }
 ]
