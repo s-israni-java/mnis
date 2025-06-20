@@ -14408,5 +14408,45 @@
     "CDATE": "2025-06-20 18:18:36",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by dragmarathi",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:37",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "Find help on the PhonePe Business app to get your issues resolved.",
+    "TITLE": "Have questions or issues?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:37",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Flexible travel coverage from ₹10\/day*—No empty promises. Get reliable coverage that goes beyond the basics:\n- Medical emergencies covered up to $400,000, with an adventure sports add-on\n- Flight delays over 3 hours are fully covered\n - Get reimbursed easily for baggage loss and delays",
+    "TITLE": "ACKO Travel",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:38",
+    "BATTERY": "76",
+    "ID": "494"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 18:18:38",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
