@@ -9738,5 +9738,15 @@
     "CDATE": "2025-06-20 15:17:52",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 15:17:59",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
