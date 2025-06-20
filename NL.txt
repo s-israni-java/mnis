@@ -668,5 +668,15 @@
     "CDATE": "2025-06-20 09:57:10",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mai gand thodi badi rakhinga teri 🥺",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 09:58:07",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
