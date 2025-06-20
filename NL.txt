@@ -19638,5 +19638,25 @@
     "CDATE": "2025-06-20 21:04:29",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by vishwakarmagrouppune",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 21:16:15",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Wait, who finished the whole tub?? 🍨🙈",
+    "TITLE": "1 scoop, 2 scoops, 3 scoops…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-20 21:19:46",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
