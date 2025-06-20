@@ -8288,5 +8288,25 @@
     "CDATE": "2025-06-20 14:13:26",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Process for Forex settlement upon returning from deputation • Hi Smriti, Please note below latest details of Forex card, and let me know how remaining advance payment will be settled.. card number : 5554 4920 0012 3602 exp date : 10\/29 Vendor name : Thomas Cook Passport no : W1292603 Amount to paid from f",
+    "TITLE": "Durga Raikwar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 14:13:26",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Enjoy 4 months FREE Spotify Premium with NeuCard—🔥 Limited-Time Offer- NO JOINING FEE!\n🎶 FREE 4 Months Spotify Premium – Uninterrupted music for you\n💸 10% savings on Top Brands 🛍\n🧾 5% off on Bills & Insurance 💡\n💳 1.5% cashback on UPI Payments 💰\n🛫 12 FREE Airport Lounge Access per year ✈\n⏳ Limited Time Offer – Apply Now!",
+    "TITLE": "NeuCard",
+    "NETWORK": "M",
+    "CDATE": "2025-06-20 14:15:00",
+    "BATTERY": "28",
+    "ID": "243"
   }
 ]
