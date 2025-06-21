@@ -24358,5 +24358,35 @@
     "CDATE": "2025-06-21 18:14:42",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:14:43",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Mai neche he hu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:17:40",
+    "BATTERY": "36",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Mai neche he hu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:17:40",
+    "BATTERY": "36",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
