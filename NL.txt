@@ -24598,5 +24598,15 @@
     "CDATE": "2025-06-21 21:12:29",
     "BATTERY": "17",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 110.00 from A\/c X1248 on 21-JUN-2025\nUPI\/DR\/106846909579\/SHIVAM MATKA KULFI\/U\nBal INR 9,301.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 21:19:35",
+    "BATTERY": "17",
+    "ID": "415"
   }
 ]
