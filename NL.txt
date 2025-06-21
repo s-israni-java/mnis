@@ -22118,5 +22118,25 @@
     "CDATE": "2025-06-21 13:02:41",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:02:41",
+    "BATTERY": "75",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:06:35",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
