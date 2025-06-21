@@ -24278,5 +24278,15 @@
     "CDATE": "2025-06-21 18:13:30",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🎤 Voice message (0:04)",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:13:32",
+    "BATTERY": "37",
+    "ID": "919373658115@s.whatsapp.net"
   }
 ]
