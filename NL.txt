@@ -288,5 +288,15 @@
     "CDATE": "2025-06-21 23:11:20",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Take care",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:11:23",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
