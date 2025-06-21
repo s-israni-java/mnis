@@ -23968,5 +23968,25 @@
     "CDATE": "2025-06-21 17:24:28",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:34:46",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "New memory for you",
+    "TITLE": "Ulhasnagar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:34:46",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
