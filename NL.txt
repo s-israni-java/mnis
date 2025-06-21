@@ -22218,5 +22218,15 @@
     "CDATE": "2025-06-21 13:11:05",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Is liyea unko ladki nhi bannna",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:11:16",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
