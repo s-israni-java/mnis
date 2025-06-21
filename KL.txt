@@ -3718,5 +3718,93 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:26:33",
     "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI lo",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:34",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI lov",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:34",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:34",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:34",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love y",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:35",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love yo",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:35",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love you",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:35",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love you ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:35",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \nTake care \nI love you ❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:36",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:41",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Th",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:41",
+    "BATTERY": "41"
   }
 ]
