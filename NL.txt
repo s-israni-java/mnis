@@ -24548,5 +24548,25 @@
     "CDATE": "2025-06-21 20:32:57",
     "BATTERY": "22",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:32:58",
+    "BATTERY": "22",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 510.00 from A\/c X1248 on 21-JUN-2025\nUPI\/DR\/106844088341\/Paaji Malai Chaap Wa\nBal INR 9,411.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:39:48",
+    "BATTERY": "21",
+    "ID": "415"
   }
 ]
