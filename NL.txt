@@ -20368,5 +20368,15 @@
     "CDATE": "2025-06-21 06:30:23",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (1%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 06:30:30",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
