@@ -24408,5 +24408,15 @@
     "CDATE": "2025-06-21 18:36:56",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Grab your free sugar now with Zepto Cash🥳",
+    "TITLE": "Yay! FREE Sugar🥳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 19:09:33",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
