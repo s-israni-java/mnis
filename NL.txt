@@ -23728,5 +23728,25 @@
     "CDATE": "2025-06-21 16:40:15",
     "BATTERY": "52",
     "ID": "494"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:40:15",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "Update basic details about your store!",
+    "TITLE": "Get more customers & grow your business",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:40:23",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
