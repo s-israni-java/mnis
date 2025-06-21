@@ -23148,5 +23148,15 @@
     "CDATE": "2025-06-21 13:57:24",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by fairyfork",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:57:44",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
