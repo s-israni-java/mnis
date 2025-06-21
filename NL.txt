@@ -24308,5 +24308,15 @@
     "CDATE": "2025-06-21 18:13:51",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:13:55",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
