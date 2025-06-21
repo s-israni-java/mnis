@@ -23988,5 +23988,15 @@
     "CDATE": "2025-06-21 17:34:46",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 50%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:35:56",
+    "BATTERY": "44",
+    "ID": "486"
   }
 ]
