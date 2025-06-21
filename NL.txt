@@ -22248,5 +22248,15 @@
     "CDATE": "2025-06-21 13:12:31",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hi,\nDon't let the shopping spree stop! Buy Sparx styles & use EOSS10 to get EXTRA 10% OFF* at EOSS\nBuy: https:\/\/ccen.im\/MYCLIQ\/LauQX1\nTata CLiQ Fashion",
+    "TITLE": "VM-MYCLIQ-P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:21:50",
+    "BATTERY": "71",
+    "ID": "499"
   }
 ]
