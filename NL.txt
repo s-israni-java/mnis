@@ -21508,5 +21508,25 @@
     "CDATE": "2025-06-21 10:45:38",
     "BATTERY": "30",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "🔐 Dear Simriti, one password breach = all accounts hacked",
+    "TITLE": "HDFC Bank",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:45:38",
+    "BATTERY": "30",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by funnyvideo_up_87",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:49:40",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
