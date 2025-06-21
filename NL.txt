@@ -22108,5 +22108,15 @@
     "CDATE": "2025-06-21 13:01:49",
     "BATTERY": "76",
     "ID": "false|Team Snapchat|84ee8839-3911-492d-8b94-72dd80f3713a"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:02:41",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
