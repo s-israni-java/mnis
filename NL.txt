@@ -21338,5 +21338,15 @@
     "CDATE": "2025-06-21 10:05:47",
     "BATTERY": "8",
     "ID": "473"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:10:53",
+    "BATTERY": "7",
+    "ID": "No ID"
   }
 ]
