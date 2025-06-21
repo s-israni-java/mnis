@@ -23778,5 +23778,35 @@
     "CDATE": "2025-06-21 16:44:09",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a gift message.",
+    "TITLE": "😉Oπ£ ®€∆$0π Why😌",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:44:10",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:45:59",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap",
+    "TITLE": "Giraffe 🦒😂",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:45:59",
+    "BATTERY": "52",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674"
   }
 ]
