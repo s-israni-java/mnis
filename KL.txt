@@ -206,5 +206,61 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:13:42",
     "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "We",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:42",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Wed",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:42",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Wedd",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:43",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Weddi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:43",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Weddin",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:43",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Wedding",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:43",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Wedding ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:43",
+    "BATTERY": "43"
   }
 ]
