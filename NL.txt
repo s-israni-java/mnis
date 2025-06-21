@@ -2498,5 +2498,45 @@
     "CDATE": "2025-06-21 23:56:22",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "37%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:56:24",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "37%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:56:26",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "37%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:56:28",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "37%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:56:30",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
