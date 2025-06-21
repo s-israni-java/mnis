@@ -21178,5 +21178,25 @@
     "CDATE": "2025-06-21 09:38:39",
     "BATTERY": "13",
     "ID": "495"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:38:40",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Dear Customer, \n520988 is your one time password (OTP). Please enter the OTP to proceed.\nThank you,\nTeam Jio",
+    "TITLE": "JK-JIONET-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:38:41",
+    "BATTERY": "13",
+    "ID": "496"
   }
 ]
