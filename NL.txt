@@ -118,5 +118,25 @@
     "CDATE": "2025-06-21 22:59:40",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 22:59:40",
+    "BATTERY": "47",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 23:00:51",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
