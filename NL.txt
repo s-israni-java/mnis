@@ -23938,5 +23938,35 @@
     "CDATE": "2025-06-21 17:12:57",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Iski wajhe se",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:12:58",
+    "BATTERY": "45",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:12:58",
+    "BATTERY": "45",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy Cornitos Cheese Herb Nachos (150 gm) @ ₹88",
+    "TITLE": "Angled for crunch 📐",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:24:28",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
