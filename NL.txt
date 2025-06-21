@@ -22078,5 +22078,15 @@
     "CDATE": "2025-06-21 12:48:56",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by help_homesh",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:56:30",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
