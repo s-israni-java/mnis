@@ -23618,5 +23618,25 @@
     "CDATE": "2025-06-21 16:39:50",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by mompawsquad",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:39:51",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "The easiest way to save on your next shopping 🤩",
+    "TITLE": "Up to ₹150 free cash 💰",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:39:53",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
