@@ -2182,5 +2182,53 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:22:00",
     "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments hong",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:00",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:00",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:01",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge r",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:01",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge ro",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:01",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge roh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:01",
+    "BATTERY": "42"
   }
 ]
