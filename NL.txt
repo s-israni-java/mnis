@@ -24478,5 +24478,15 @@
     "CDATE": "2025-06-21 20:11:48",
     "BATTERY": "25",
     "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by chennaiappatakkars",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:15:28",
+    "BATTERY": "24",
+    "ID": "No ID"
   }
 ]
