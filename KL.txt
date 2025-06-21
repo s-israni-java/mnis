@@ -2566,5 +2566,69 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:22:40",
     "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:41",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump i",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:41",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump it",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:41",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump itn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:41",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump itna ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:41",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump itna e",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:42",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump itna ea",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:42",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pump itna eas",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:42",
+    "BATTERY": "42"
   }
 ]
