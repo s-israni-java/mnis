@@ -21148,5 +21148,25 @@
     "CDATE": "2025-06-21 09:16:48",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "👉You, eating it and looking this cute.😍",
+    "TITLE": "What’s better than brekkie?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 09:19:10",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "And save on boAt Wave Magma Smartwatch @ ₹229 ⌚",
+    "TITLE": "Use your 125 FREE Cash 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:33:18",
+    "BATTERY": "14",
+    "ID": "No ID"
   }
 ]
