@@ -6,5 +6,69 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:13:27",
     "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Ba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:27",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:28",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Babl",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:28",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bablu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:28",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Babluu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:28",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Babluuu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:28",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Y",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:31",
+    "BATTERY": "43"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Ye",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:13:31",
+    "BATTERY": "43"
   }
 ]
