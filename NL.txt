@@ -21128,5 +21128,15 @@
     "CDATE": "2025-06-21 09:03:49",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Keep shopping with Supersaver & hit your order milestone 🌟",
+    "TITLE": "Do this to get ₹1500  FREE Cash 🤑",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 09:13:18",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
