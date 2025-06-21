@@ -9908,5 +9908,65 @@
     "CDATE": "2025-06-22 00:22:16",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "90%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:22:18",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Continue high-speed browsing with the data pack of your choice. \n",
+    "TITLE": "Notice: Net Speed will be reduced!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:22:20",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Continue high-speed browsing with the data pack of your choice. \n",
+    "TITLE": "Notice: Net Speed will be reduced!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:22:20",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "91%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:22:20",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "91%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:22:22",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "91%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:22:24",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
