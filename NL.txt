@@ -21088,5 +21088,25 @@
     "CDATE": "2025-06-21 08:21:05",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 45% · Light rain · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 08:21:05",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use your FREE Zepto Cash to shop 🛒",
+    "TITLE": "₹125 cash credited 🤑",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 08:50:28",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
