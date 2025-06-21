@@ -3358,5 +3358,45 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:26:02",
     "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl so",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:02",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl soi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:02",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl soia",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:03",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl soia ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:03",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Chl soia b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:03",
+    "BATTERY": "41"
   }
 ]
