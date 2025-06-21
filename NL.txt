@@ -348,5 +348,15 @@
     "CDATE": "2025-06-21 23:20:02",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:38",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
