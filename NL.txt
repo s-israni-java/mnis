@@ -22238,5 +22238,15 @@
     "CDATE": "2025-06-21 13:12:15",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Kru kya m tera?",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:12:31",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
