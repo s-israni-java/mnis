@@ -21258,5 +21258,25 @@
     "CDATE": "2025-06-21 09:42:13",
     "BATTERY": "11",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 800.00 to A\/c X1248 on 21-JUN-2025 Ref UPI\/CR\/517235120190\/SIMRITI VIJAYKUMAR B. Bal INR 9,921.65.\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:42:13",
+    "BATTERY": "11",
+    "ID": "415"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "10% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:44:52",
+    "BATTERY": "10",
+    "ID": "No ID"
   }
 ]
