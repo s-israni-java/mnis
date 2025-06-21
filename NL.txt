@@ -24468,5 +24468,15 @@
     "CDATE": "2025-06-21 19:45:20",
     "BATTERY": "29",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:11:48",
+    "BATTERY": "25",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
   }
 ]
