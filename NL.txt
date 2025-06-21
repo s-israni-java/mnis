@@ -23818,5 +23818,25 @@
     "CDATE": "2025-06-21 16:48:39",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: My Sweden Salary \/Payroll process (April, May months) • Thanks Vasanti! Hi Sumit, Team, Kindly help to process my April and May month payrolls manually at the earliest. It really helps. I have submitted GHD Ticket Number:105142131 for the same. Best Regards, Venkat Venkateswarlu Ma",
+    "TITLE": "VENKATESWARLU M",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:48:39",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Performing: 𝘐𝘵'𝘴 𝘢 𝘭𝘰𝘷𝘦 𝘴𝘵𝘰𝘳𝘺, 𝘣𝘢𝘣𝘺, 𝘫𝘶𝘴𝘵 𝘴𝘢𝘺, \"𝘠𝘦𝘴.\" 🍕🍔",
+    "TITLE": "𝙇𝙞𝙫𝙚 𝙘𝙤𝙣𝙘𝙚𝙧𝙩 𝙗𝙮 𝙎𝙣𝙖𝙘𝙠𝙨 🎤",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 17:00:01",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
