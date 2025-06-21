@@ -3582,5 +3582,61 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:26:26",
     "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nS",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:26",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSw",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:27",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSwe",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:27",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSwee",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:27",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:27",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:28",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Bye\nGood night \nSweet dreams \n",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:29",
+    "BATTERY": "41"
   }
 ]
