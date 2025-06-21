@@ -48,5 +48,25 @@
     "CDATE": "2025-06-21 22:13:04",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 22:13:05",
+    "BATTERY": "52",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 22:20:48",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
