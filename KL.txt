@@ -4678,5 +4678,109 @@
     "NETWORK": "W",
     "CDATE": "2025-06-22 01:20:34",
     "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:34",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis bi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:35",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:35",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:35",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:35",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big bo",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:36",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big boo",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:36",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big boob",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:36",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis big boobs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:36",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis b",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-22 01:21:14",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis ",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-22 01:21:15",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-22 01:21:15",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis.",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:21:37",
+    "BATTERY": "16"
   }
 ]
