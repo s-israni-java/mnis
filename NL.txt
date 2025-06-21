@@ -24168,5 +24168,15 @@
     "CDATE": "2025-06-21 18:07:45",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:07:51",
+    "BATTERY": "39",
+    "ID": "No ID"
   }
 ]
