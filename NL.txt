@@ -24488,5 +24488,15 @@
     "CDATE": "2025-06-21 20:15:28",
     "BATTERY": "24",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Dieting on weekdays 😛\nBuy Britannia Good Day Cashew Cookies (200 gm) @ ₹49",
+    "TITLE": "Cookies on weekends 🍪",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:20:24",
+    "BATTERY": "24",
+    "ID": "No ID"
   }
 ]
