@@ -2134,5 +2134,53 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:21:58",
     "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments to",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:21:59",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments t",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:21:59",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:21:59",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments h",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:00",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments ho",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:00",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments hon",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:00",
+    "BATTERY": "42"
   }
 ]
