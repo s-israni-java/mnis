@@ -68,5 +68,15 @@
     "CDATE": "2025-06-21 22:20:48",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 22:20:48",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
