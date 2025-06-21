@@ -24418,5 +24418,25 @@
     "CDATE": "2025-06-21 19:09:33",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "View now.",
+    "TITLE": "You have 21 updates",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 19:09:34",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Shop now with the Zepto Cash and save more 🥳",
+    "TITLE": "FREE ₹125 cash is ready for you 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 19:36:19",
+    "BATTERY": "30",
+    "ID": "No ID"
   }
 ]
