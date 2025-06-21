@@ -4008,5 +4008,25 @@
     "CDATE": "2025-06-22 00:01:26",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "46%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:01:28",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "46%",
+    "TITLE": "Devara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 00:01:30",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
