@@ -268,5 +268,15 @@
     "CDATE": "2025-06-21 23:11:09",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mst nind aa rhi h",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:11:14",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
