@@ -22998,5 +22998,15 @@
     "CDATE": "2025-06-21 13:55:28",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 569 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:55:39",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
