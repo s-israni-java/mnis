@@ -21728,5 +21728,195 @@
     "CDATE": "2025-06-21 11:35:35",
     "BATTERY": "73",
     "ID": "498"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:01:38",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:01:38",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:01:38",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:01:59",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:01:59",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:02:06",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:02:06",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:02:06",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:02:16",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:02:16",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:03",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:04",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:51",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:51",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:51",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Now it’s time for the delicious part! 😋",
+    "TITLE": "Email Verification ✅Perks ✅",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:03:52",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:04:11",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93234 74737‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:05:58",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
