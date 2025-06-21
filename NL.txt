@@ -23598,5 +23598,25 @@
     "CDATE": "2025-06-21 16:39:48",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by i.am__uday",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:39:49",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by tsitp.series",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:39:50",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
