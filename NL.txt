@@ -24458,5 +24458,15 @@
     "CDATE": "2025-06-21 19:39:07",
     "BATTERY": "29",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "^ It wants a break (andFLAT 65% OFF). 😉",
+    "TITLE": "🧠",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 19:45:20",
+    "BATTERY": "29",
+    "ID": "No ID"
   }
 ]
