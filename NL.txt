@@ -21438,5 +21438,25 @@
     "CDATE": "2025-06-21 10:33:48",
     "BATTERY": "18",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:33:49",
+    "BATTERY": "18",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by camilacsacosta",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:39:18",
+    "BATTERY": "23",
+    "ID": "No ID"
   }
 ]
