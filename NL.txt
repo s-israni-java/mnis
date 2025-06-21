@@ -24248,5 +24248,35 @@
     "CDATE": "2025-06-21 18:13:14",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🎤 Voice message (0:02)",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:13:16",
+    "BATTERY": "37",
+    "ID": "919373658115@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🎤 Voice message (0:02)",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:13:16",
+    "BATTERY": "37",
+    "ID": "919373658115@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:13:30",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
