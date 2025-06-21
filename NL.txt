@@ -24398,5 +24398,15 @@
     "CDATE": "2025-06-21 18:27:12",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "Debit Card’s ATM, ECOM, POS and UPI services will be unavailable on June 22, 2025 from 01.30 AM to 03.00 AM IST. Regret the inconvenience caused.",
+    "TITLE": "Important Message❗",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 18:36:56",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
