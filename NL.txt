@@ -21478,5 +21478,15 @@
     "CDATE": "2025-06-21 10:41:47",
     "BATTERY": "26",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by stray_animals_care",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:42:28",
+    "BATTERY": "26",
+    "ID": "No ID"
   }
 ]
