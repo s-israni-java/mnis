@@ -22228,5 +22228,15 @@
     "CDATE": "2025-06-21 13:11:16",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Teko m positive chizzen bjh rha hu usme bhi negative he dekh rhi h",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:12:15",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
