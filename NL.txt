@@ -24698,5 +24698,15 @@
     "CDATE": "2025-06-21 21:37:40",
     "BATTERY": "27",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Shop now using your Zepto Cash 💸",
+    "TITLE": "Up to ₹150 cash, only for today 🤑",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 21:48:07",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
