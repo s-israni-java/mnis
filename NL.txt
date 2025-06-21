@@ -23178,5 +23178,15 @@
     "CDATE": "2025-06-21 13:58:33",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by mustafaxguluna",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:58:50",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
