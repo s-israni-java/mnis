@@ -22058,5 +22058,15 @@
     "CDATE": "2025-06-21 12:32:19",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by interestingpath",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:47:44",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
