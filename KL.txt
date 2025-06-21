@@ -3806,5 +3806,93 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:26:41",
     "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Tho",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:41",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thod",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:42",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:42",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:42",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi d",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:43",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi de",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:43",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi der",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:43",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi der ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:43",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi der m",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:43",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Thodi der me",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:26:44",
+    "BATTERY": "41"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:27:05",
+    "BATTERY": "41"
   }
 ]
