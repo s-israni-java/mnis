@@ -21288,5 +21288,45 @@
     "CDATE": "2025-06-21 09:53:14",
     "BATTERY": "10",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:53:14",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to view.",
+    "TITLE": "Vijaykumar Basantani paid you ₹800.00",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:53:15",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "wants to be your friend!",
+    "TITLE": "RJ jaisinghani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:53:15",
+    "BATTERY": "10",
+    "ID": "false|RJ jaisinghani|047b57dc-2bd4-4b0c-b298-8f157eeba983"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 09:53:17",
+    "BATTERY": "10",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
   }
 ]
