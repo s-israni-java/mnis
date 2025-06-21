@@ -2230,5 +2230,109 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:22:01",
     "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:02",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh g",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:02",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gy",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:02",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:03",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:03",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym k",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:03",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym kh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:04",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym khu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:04",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym khul",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:04",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym khule",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:04",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym khuleg",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:04",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym khulegi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:05",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Equipments honge toh gym khulegi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:05",
+    "BATTERY": "42"
   }
 ]
