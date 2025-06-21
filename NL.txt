@@ -22678,5 +22678,25 @@
     "CDATE": "2025-06-21 13:50:50",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 516 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:50:50",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 13:50:52",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
