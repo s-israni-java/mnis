@@ -4622,5 +4622,61 @@
     "NETWORK": "W",
     "CDATE": "2025-06-22 01:20:32",
     "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ste",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:32",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:33",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:33",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step s",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:33",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step si",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:34",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:34",
+    "BATTERY": "16"
+  },
+  {
+    "APP": "com.android.chrome_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Step sis ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:20:34",
+    "BATTERY": "16"
   }
 ]
