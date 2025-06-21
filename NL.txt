@@ -21648,5 +21648,15 @@
     "CDATE": "2025-06-21 11:19:38",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "Celebrate Yoga Day with financial peace—earn up to 7.25%* p.a. interest with AU Fixed Deposits. Tap to book. *T&Cs",
+    "TITLE": "Balance Your Wealth 🧘‍♂️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 11:21:23",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
