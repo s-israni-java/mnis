@@ -21118,5 +21118,15 @@
     "CDATE": "2025-06-21 08:54:54",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "Simi, these belong in your world",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 09:03:49",
+    "BATTERY": "19",
+    "ID": "No ID"
   }
 ]
