@@ -24528,5 +24528,25 @@
     "CDATE": "2025-06-21 20:30:16",
     "BATTERY": "23",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Pump you up",
+    "TITLE": "New memory for you",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:30:16",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 20:32:57",
+    "BATTERY": "22",
+    "ID": "No ID"
   }
 ]
