@@ -21718,5 +21718,15 @@
     "CDATE": "2025-06-21 11:26:55",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Dear User,\n\nYou’ve earned 40% Off Zomato with Lifetime Free Axis Neo Card (CC:axisjio) on Specials. Claim now: https:\/\/t.jio\/JIOCPN\/tYloT3 T&C*\n\nJioCoupons",
+    "TITLE": "JM-JIOCPN-P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 11:35:35",
+    "BATTERY": "73",
+    "ID": "498"
   }
 ]
