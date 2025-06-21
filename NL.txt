@@ -23678,5 +23678,15 @@
     "CDATE": "2025-06-21 16:39:59",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "Watch now: ‘First Copy', starring Munawar Faruqui on Prime Video",
+    "TITLE": "The heist season begins🔥",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 16:40:03",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
