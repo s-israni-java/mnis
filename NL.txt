@@ -24438,5 +24438,25 @@
     "CDATE": "2025-06-21 19:36:19",
     "BATTERY": "30",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 19:36:19",
+    "BATTERY": "30",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "AU 0101 App se ab Credit Cards, Bijli, LIC premiums, aur DTH bills bhi aasani se pay karein! 📲 Tap karein aur abhi clear kar dijiyein!",
+    "TITLE": "Bills p̶e̶n̶d̶i̶n̶g̶ cleared! ⏲",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 19:39:07",
+    "BATTERY": "29",
+    "ID": "No ID"
   }
 ]
