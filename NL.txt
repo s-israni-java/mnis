@@ -21918,5 +21918,65 @@
     "CDATE": "2025-06-21 12:05:58",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:05:58",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:05:59",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:06:00",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:06:00",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:06:15",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by reel_queen555_shikha",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 12:21:44",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
