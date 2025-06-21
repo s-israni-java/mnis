@@ -24678,5 +24678,25 @@
     "CDATE": "2025-06-21 21:24:33",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "EUROPE  SUB USD,EUR,GBP,SEK,CHF,CZK,RON  - Switzerland, Luxemburg, Austria, Italy, Sweden, France ,Germany,CZK, Romania & Spain  CITI Bank Reconciliation_as on_18_June-2025_1st Cut • Dear All, Please find attached EUROPE USD,EUR,GBP,SEK,CHF,CZK,RON - Switzerland, Luxemburg, Austria, Italy, Sweden, France, Germany, CZK, Romania, Estonia & Spain CITI Bank Reconciliation as on 18-June-25. Please account all open items on priority",
+    "TITLE": "DURGESH  BHANDARI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 21:24:33",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Plan B: Still chilling, still scooping. 😎",
+    "TITLE": "Plan A: Chill, scoop. 📺🍨",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 21:37:40",
+    "BATTERY": "27",
+    "ID": "No ID"
   }
 ]
