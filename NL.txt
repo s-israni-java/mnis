@@ -21528,5 +21528,15 @@
     "CDATE": "2025-06-21 10:49:40",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by the_world_crafter_",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:51:48",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
