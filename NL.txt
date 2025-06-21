@@ -21568,5 +21568,35 @@
     "CDATE": "2025-06-21 11:11:05",
     "BATTERY": "58",
     "ID": "497"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 11:11:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "₹20,000 तुमच्या बँक खात्यात ट्रान्सफर करण्यासाठी तयार आहे——> तुमचा मोबाईल नंबर व्हेरिफाय करा आणि बँक डिटेल्स सबमिट करा \r\n\r\n—> फक्त 3 मिनिटांत पैसे बँक खात्यात मिळवा\r\n\r\n To 'Opt-Out' reply STOP",
+    "TITLE": "Ram Fincorp - Loans",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 11:11:05",
+    "BATTERY": "58",
+    "ID": "497"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 11:19:15",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
