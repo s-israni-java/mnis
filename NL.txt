@@ -21328,5 +21328,15 @@
     "CDATE": "2025-06-21 09:53:17",
     "BATTERY": "10",
     "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": " ₹250 Cashback is waiting!—Open Kotak811 Savings A\/c now and spend via Kotak811 UPI to get amazing cashback. T&C",
+    "TITLE": "Kotak811",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:05:47",
+    "BATTERY": "8",
+    "ID": "473"
   }
 ]
