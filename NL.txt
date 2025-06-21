@@ -21548,5 +21548,15 @@
     "CDATE": "2025-06-21 10:56:33",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 11:11:00",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
