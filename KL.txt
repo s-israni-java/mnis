@@ -2518,5 +2518,53 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:22:38",
     "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:38",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol p",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:39",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:39",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol pun",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:39",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol punm",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:40",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Petrol punmp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:22:40",
+    "BATTERY": "42"
   }
 ]
