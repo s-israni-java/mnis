@@ -208,5 +208,15 @@
     "CDATE": "2025-06-21 23:04:20",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:04:55",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
