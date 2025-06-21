@@ -1262,5 +1262,69 @@
     "NETWORK": "W",
     "CDATE": "2025-06-21 23:17:19",
     "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:19",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent m",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:19",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent me",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:19",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent me ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:19",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent me h",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:20",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent me hi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:20",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent me hi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:20",
+    "BATTERY": "42"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Rent me hi k",
+    "NETWORK": "W",
+    "CDATE": "2025-06-21 23:17:20",
+    "BATTERY": "42"
   }
 ]
