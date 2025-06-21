@@ -21378,5 +21378,45 @@
     "CDATE": "2025-06-21 10:11:36",
     "BATTERY": "7",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:11:37",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:11:38",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:11:44",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use Zepto Cash to get Mother Dairy Milk now🤑",
+    "TITLE": "FREE milk alert🥛🚨",
+    "NETWORK": "M",
+    "CDATE": "2025-06-21 10:12:10",
+    "BATTERY": "7",
+    "ID": "No ID"
   }
 ]
