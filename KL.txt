@@ -14574,5 +14574,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:23:06",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:06",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bna",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:07",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bna ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:07",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bna k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:07",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bna ke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:07",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bna ke ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:08",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky bna ke d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:08",
+    "BATTERY": "12"
   }
 ]
