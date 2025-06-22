@@ -12518,5 +12518,35 @@
     "CDATE": "2025-06-22 12:46:48",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📷 Photo",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:46:49",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:46:49",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Chiyea?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:46:49",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
