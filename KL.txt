@@ -5782,5 +5782,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:10:46",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:46",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:46",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:46",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:47",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:47",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q bhej",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:47",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q bheja ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:47",
+    "BATTERY": "71"
   }
 ]
