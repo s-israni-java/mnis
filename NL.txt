@@ -12138,5 +12138,35 @@
     "CDATE": "2025-06-22 11:36:30",
     "BATTERY": "27",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 800.00 from A\/c X1248 on 22-JUN-2025\nUPI\/DR\/106864898970\/Sagar Israni\/IDFB\/10\nBal INR 9,501.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:36:30",
+    "BATTERY": "27",
+    "ID": "415"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Congratulations! Now you have FREE access to movies, TV shows and Live channels with your Airtel recharge. Download Airtel Xstream Play and start watching. https:\/\/open.airtelxstream.in\/FREE_MOVIESS",
+    "TITLE": "AD-AIRTEL-P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:41:51",
+    "BATTERY": "32",
+    "ID": "501"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:41:51",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
