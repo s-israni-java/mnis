@@ -14518,5 +14518,15 @@
     "CDATE": "2025-06-22 14:30:23",
     "BATTERY": "46",
     "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:30:42",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
