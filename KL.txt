@@ -15278,5 +15278,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:24:23",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu btaaab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:24",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:40",
+    "BATTERY": "11"
   }
 ]
