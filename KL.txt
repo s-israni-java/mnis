@@ -15406,5 +15406,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:24:44",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu so",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu soc",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu soch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu soch ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:45",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:57",
+    "BATTERY": "11"
   }
 ]
