@@ -10030,5 +10030,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:55:51",
     "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:52",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali au",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:52",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali aun",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:52",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali aunt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:52",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali aunty",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:52",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali aunty ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:52",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali aunty a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:53",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaam vali aunty aag",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:53",
+    "BATTERY": "60"
   }
 ]
