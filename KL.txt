@@ -14270,5 +14270,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:22:38",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "90",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:39",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "90%",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:41",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "90% ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:41",
+    "BATTERY": "12"
   }
 ]
