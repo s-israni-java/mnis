@@ -12858,5 +12858,25 @@
     "CDATE": "2025-06-22 13:20:18",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:23",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu bta kab",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:54",
+    "BATTERY": "69",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
