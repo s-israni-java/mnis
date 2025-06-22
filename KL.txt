@@ -9046,5 +9046,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:42:22",
     "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:23",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:23",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:23",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:23",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rhi g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:23",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rhi gy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:23",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rhi gy ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:24",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch rhi gy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:24",
+    "BATTERY": "64"
   }
 ]
