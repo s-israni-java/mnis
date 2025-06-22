@@ -11908,5 +11908,35 @@
     "CDATE": "2025-06-22 11:01:49",
     "BATTERY": "2",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:01:49",
+    "BATTERY": "2",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RFC Expiry Notification - 24726085: Grant Shared Drive Access-Privilege\/Profile Access || RFC Expiry date : 05-JUL-25 • Dear SIMRITI BASANTANI, The following RFC is due to expire in 10 days. RFC Number: 24726085 RFC Title: Grant Shared Drive Access-Privilege\/Profile Access RFC Description: Shared Drive Access RFC Start Date: 09-JAN-25 RFC End Date: 05-JUL-25 Req",
+    "TITLE": "NextGenGHD",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:01:49",
+    "BATTERY": "2",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Order now with your Zepto Cash😋",
+    "TITLE": "🖐️Stop🖐️ Here's some FREE sugar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:02:11",
+    "BATTERY": "2",
+    "ID": "No ID"
   }
 ]
