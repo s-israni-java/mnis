@@ -15238,5 +15238,45 @@
     "CDATE": "2025-06-22 15:23:31",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aayi Nai (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:23:44",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aayi Nai (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:23:44",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aayi Nai (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:23:45",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aayi Nai (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:23:45",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
