@@ -11708,5 +11708,55 @@
     "CDATE": "2025-06-22 01:44:54",
     "BATTERY": "8",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:44:54",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 01:44:54",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hi, your number is ported-in to Airtel recently. Hope you are enjoying our network services. In case there is an unpaid amount against your number Reliance Jio (RJio) , we would request you to clear it. Please ignore if already paid.",
+    "TITLE": "AD-AIRMNP-P",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-22 07:53:39",
+    "BATTERY": "6",
+    "ID": "468"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "5% battery",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-22 07:59:16",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by millie_slahs",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:00:16",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
