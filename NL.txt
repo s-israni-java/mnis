@@ -12228,5 +12228,25 @@
     "CDATE": "2025-06-22 12:25:30",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:25:30",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:28:38",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
