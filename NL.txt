@@ -18338,5 +18338,25 @@
     "CDATE": "2025-06-22 20:17:39",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Watch for free with Xstream weekend watch\n",
+    "TITLE": "Unlocked: First Copy 👀",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:17:39",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy Tata Simply Better Mustard Oil (1 L) @ ₹249 ₹̶3̶5̶0̶!",
+    "TITLE": "A little oil for a lot of yum 🛢😋",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:20:47",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
