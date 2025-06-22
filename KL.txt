@@ -6350,5 +6350,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:06",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur pare",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:06",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur paren",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:07",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parent",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:07",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:07",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:07",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:08",
+    "BATTERY": "70"
   }
 ]
