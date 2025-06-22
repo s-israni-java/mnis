@@ -11768,5 +11768,25 @@
     "CDATE": "2025-06-22 11:00:18",
     "BATTERY": "3",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:00:19",
+    "BATTERY": "3",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Yes, that’s real! 🙌\nUse it to shop now",
+    "TITLE": "Free ₹125 cash? 💵",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:00:20",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
