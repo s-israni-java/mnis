@@ -6822,5 +6822,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:27",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to meet u f",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:27",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to meet u fi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:27",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to meet u fir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:27",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to meet u firs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:28",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to meet u first",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:28",
+    "BATTERY": "70"
   }
 ]
