@@ -14558,5 +14558,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:23:04",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:05",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg Franky b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:06",
+    "BATTERY": "12"
   }
 ]
