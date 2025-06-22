@@ -18222,5 +18222,21 @@
     "NETWORK": "W",
     "CDATE": "2025-06-22 20:05:10",
     "BATTERY": "92"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "2",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:05:16",
+    "BATTERY": "92"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●5",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:05:16",
+    "BATTERY": "92"
   }
 ]
