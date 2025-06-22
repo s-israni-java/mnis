@@ -17888,5 +17888,155 @@
     "CDATE": "2025-06-22 16:26:28",
     "BATTERY": "10",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Continue high-speed browsing with the data pack of your choice. \n",
+    "TITLE": "Notice: Net Speed will be reduced!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:26:28",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 100%: for your daily high speed data limit. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:28:04",
+    "BATTERY": "10",
+    "ID": "486"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:28:07",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Data over? Get 1GB data loan at no extra cost. Data validity- 1 day. Dial *567*3# or reply 1 to avail. Get 1GB less with your next data recharge.",
+    "TITLE": "56321",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:28:08",
+    "BATTERY": "10",
+    "ID": "487"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:28:08",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "It’s AU UPI bringing you smooth, secure & stress-free payments. Tap to try 😉",
+    "TITLE": "Knock Knock! 🚪",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:32:15",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:32:19",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:32:20",
+    "BATTERY": "77",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy Red Bull Drink (250 ml) @ ₹125",
+    "TITLE": "End of weekend = End of energy? 😪",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:32:25",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "It’s binge o’clock with all seasons of ‘Friends’ on Prime Video.",
+    "TITLE": "How You Doin’? Ready to Binge?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:32:29",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:34:33",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:34:54",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Done babes",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:35:17",
+    "BATTERY": "78",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Done babes",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:35:17",
+    "BATTERY": "78",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "See you soon",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 17:35:17",
+    "BATTERY": "78",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
