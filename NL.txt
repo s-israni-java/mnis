@@ -11878,5 +11878,15 @@
     "CDATE": "2025-06-22 11:00:39",
     "BATTERY": "3",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "4 searches included you.",
+    "TITLE": "Profile appearances",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:00:58",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
