@@ -6310,5 +6310,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:05",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:05",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:06",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:06",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur pa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:06",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur par",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:06",
+    "BATTERY": "70"
   }
 ]
