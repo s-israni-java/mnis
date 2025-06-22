@@ -14408,5 +14408,25 @@
     "CDATE": "2025-06-22 14:00:10",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:16:51",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:16:51",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
