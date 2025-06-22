@@ -12618,5 +12618,15 @@
     "CDATE": "2025-06-22 12:50:40",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Simriti, stop missing rewards! Get 20% NeuCoins up to 100 NeuCoins on orders of Rs.300 or more on Tata Neu! Shop now! T&C http:\/\/m.tneu.in\/TATANU\/nJzk9lY",
+    "TITLE": "VM-TATANU-P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:50:45",
+    "BATTERY": "73",
+    "ID": "502"
   }
 ]
