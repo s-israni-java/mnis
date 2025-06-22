@@ -7702,5 +7702,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:22:06",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:06",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:06",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:07",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aaj",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:07",
+    "BATTERY": "70"
   }
 ]
