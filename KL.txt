@@ -8038,5 +8038,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:22:18",
     "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Exactly muje b nhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:18",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Exactly muje b nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:18",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Exactly muje b nhi p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:19",
+    "BATTERY": "69"
   }
 ]
