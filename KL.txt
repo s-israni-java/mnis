@@ -6398,5 +6398,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:08",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents r ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:08",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents r a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:08",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents r as",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:09",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents r ask",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:09",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mene ghr pe btaya that ur parents r aski",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:09",
+    "BATTERY": "70"
   }
 ]
