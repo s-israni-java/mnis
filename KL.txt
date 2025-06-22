@@ -14118,5 +14118,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:22:20",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:20",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:21",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:21",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:21",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:21",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:22",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana nh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:22",
+    "BATTERY": "12"
   }
 ]
