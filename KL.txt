@@ -5134,5 +5134,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:17",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ruk r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:17",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ruk ru",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:18",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ruk ruk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:18",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "M",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:19",
+    "BATTERY": "74"
   }
 ]
