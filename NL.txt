@@ -12638,5 +12638,25 @@
     "CDATE": "2025-06-22 12:53:13",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 100.00 to A\/c X1248 on 22-JUN-2025 Ref UPI\/CR\/517351720456\/Sagar Israni\/IDFB\/10. Bal INR 9,501.65.\n-AU Bank",
+    "TITLE": "VD-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:58:31",
+    "BATTERY": "72",
+    "ID": "418"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:58:31",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
