@@ -8430,5 +8430,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:23:53",
     "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy i",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:55",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:55",
+    "BATTERY": "69"
   }
 ]
