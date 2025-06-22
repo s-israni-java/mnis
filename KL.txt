@@ -5014,5 +5014,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:06",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:06",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mum",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:06",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:07",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:08",
+    "BATTERY": "74"
   }
 ]
