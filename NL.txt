@@ -14958,5 +14958,45 @@
     "CDATE": "2025-06-22 15:19:04",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "TITLE": "Kamariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:19:04",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "TITLE": "Kamariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:19:04",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "TITLE": "Kamariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:19:04",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 100.00 to A\/c X1248 on 22-JUN-2025 Ref UPI\/CR\/686797587731\/Sagar Israni\/IDFB\/10. Bal INR 9,501.65.\n-AU Bank",
+    "TITLE": "VA-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:21:35",
+    "BATTERY": "32",
+    "ID": "419"
   }
 ]
