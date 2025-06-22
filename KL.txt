@@ -7622,5 +7622,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:22:01",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused about we",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:01",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused about we ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:02",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused about we w",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:02",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused about we wi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:02",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused about we wil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:02",
+    "BATTERY": "70"
   }
 ]
