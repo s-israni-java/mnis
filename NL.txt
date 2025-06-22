@@ -11948,5 +11948,55 @@
     "CDATE": "2025-06-22 11:02:44",
     "BATTERY": "2",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by giaguptaaa",
+    "TITLE": "Hum 4🤗❤️: Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:02:44",
+    "BATTERY": "2",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mentioned you in their story.",
+    "TITLE": "sadhana_group_tuitions",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:02:45",
+    "BATTERY": "2",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 1,000.00 to A\/c X1248 on 22-JUN-2025 Ref UPI\/CR\/517398100354\/SIMRITI VIJAYKUMAR B. Bal INR 10,301.65.\n-AU Bank",
+    "TITLE": "VD-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:29:33",
+    "BATTERY": "21",
+    "ID": "418"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:29:33",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to view.",
+    "TITLE": "Vijaykumar Basantani paid you ₹1,000.00",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 11:29:33",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
