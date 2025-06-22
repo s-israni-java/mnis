@@ -11134,5 +11134,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 14:44:25",
     "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave to",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:26",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:26",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:26",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh kr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:26",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krv",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:26",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:26",
+    "BATTERY": "40"
   }
 ]
