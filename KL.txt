@@ -9198,5 +9198,85 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:43:33",
     "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:33",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:33",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:34",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:34",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu kb",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:34",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu kbi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:34",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu kbi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:34",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu kbi k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:34",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu kbi kb",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:35",
+    "BATTERY": "63"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha dekhti hu kbi kbi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:43:35",
+    "BATTERY": "63"
   }
 ]
