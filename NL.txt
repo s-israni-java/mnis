@@ -14688,5 +14688,25 @@
     "CDATE": "2025-06-22 15:16:36",
     "BATTERY": "35",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:36",
+    "BATTERY": "35",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 100.00 from A\/c X1248 on 22-JUN-2025\nUPI\/DR\/106876034873\/Sagar Israni\/IDFB\/10\nBal INR 9,401.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:18:04",
+    "BATTERY": "34",
+    "ID": "415"
   }
 ]
