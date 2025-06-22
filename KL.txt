@@ -14774,5 +14774,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:23:44",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:44",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi kch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:45",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi kch ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:45",
+    "BATTERY": "11"
   }
 ]
