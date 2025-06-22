@@ -18238,5 +18238,29 @@
     "NETWORK": "W",
     "CDATE": "2025-06-22 20:05:16",
     "BATTERY": "92"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:05:17",
+    "BATTERY": "92"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:05:17",
+    "BATTERY": "92"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:05:18",
+    "BATTERY": "92"
   }
 ]
