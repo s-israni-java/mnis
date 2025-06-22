@@ -12168,5 +12168,15 @@
     "CDATE": "2025-06-22 11:41:51",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Your fav dish at FLAT 65% OFF. 😍",
+    "TITLE": "Food Of The Day 📅",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:16:18",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
