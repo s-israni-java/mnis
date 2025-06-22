@@ -17768,5 +17768,25 @@
     "CDATE": "2025-06-22 16:22:28",
     "BATTERY": "12",
     "ID": "486"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:33",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:33",
+    "BATTERY": "12",
+    "ID": "No ID"
   }
 ]
