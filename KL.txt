@@ -10910,5 +10910,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 14:32:53",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "un",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:32:53",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "und",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:32:54",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "unde",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:32:54",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "under",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:32:54",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "under ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:32:54",
+    "BATTERY": "45"
   }
 ]
