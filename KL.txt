@@ -14230,5 +14230,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:22:23",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana nhi khayab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:24",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana nhi khaya ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:25",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana nhi khaya h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:25",
+    "BATTERY": "12"
   }
 ]
