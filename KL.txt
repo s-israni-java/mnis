@@ -11182,5 +11182,1061 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 14:44:26",
     "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:27",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:27",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva ke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:27",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva ke ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:27",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva ke a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:27",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu shave toh krva ke aa ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:44:27",
+    "BATTERY": "40"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "o",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:35",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "oz",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:37",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "B",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:42",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:42",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:43",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Babl",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:43",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bablu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:43",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "🥺",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:47",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "R",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tr",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Te",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ter",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Terr",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:52",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Terra",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:52",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Terrac",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:52",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Terract",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:52",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Terracti",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:52",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Terractive",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:53",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:54",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "St",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:54",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sta",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:54",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stau",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:55",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stau ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:55",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stau",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:55",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sta",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:55",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:55",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay w",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:56",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay we",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:56",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay wei",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:56",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay weir ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:56",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay weir d",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:57",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay weir ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:57",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay weird",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:57",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stay weird ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:57",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "🥺",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:59",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "🥺🥺",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:51:59",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:23",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Naha",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:24",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:24",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:24",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:24",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:24",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:27",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:27",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h a",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:27",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h au",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:27",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:27",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:27",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 1",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:28",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:28",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:28",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 20",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:29",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 20 ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:29",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 20 m",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:29",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 20 mi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:29",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 20 min",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:30",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nahane me h aur 15 20 min ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:30",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:31",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:31",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ka",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:32",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu kar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:32",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu kara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:32",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karav",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:32",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karava ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:32",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karava k",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:32",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karava ke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:33",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karava k",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:33",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karava ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:33",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karava",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:33",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karav",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:33",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu kara",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:34",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu kar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:34",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karv",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:34",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:34",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:34",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:35",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke a",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:35",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke aa ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:35",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke aa t",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:36",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke aa tb",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:36",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke aa tb ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:36",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke aa tb tk",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:36",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu karva ke aa tb tk ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:37",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "K",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:43",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kha",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:43",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:44",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:44",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana k",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:44",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana kh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:44",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khau",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:44",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaun",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:45",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaung",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:45",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:45",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:45",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi a",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:45",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:46",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:46",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:47",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi p",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:47",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi peh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:47",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:47",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:47",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle f",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:49",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:49",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:49",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:49",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir j",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:49",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jau",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:49",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaun",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaung",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaungi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaungi ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaungi na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:50",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaungi naha",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaungi nahan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Khana khaungi pehle fir jaungi nahane ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:52:51",
+    "BATTERY": "39"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "o",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:53:11",
+    "BATTERY": "38"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "oz",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:53:11",
+    "BATTERY": "38"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "oza",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:53:12",
+    "BATTERY": "38"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ozar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:53:12",
+    "BATTERY": "38"
+  },
+  {
+    "APP": "com.netflix.mediaclient_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 14:53:12",
+    "BATTERY": "38"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:47",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:47",
+    "BATTERY": "35"
   }
 ]
