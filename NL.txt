@@ -18608,5 +18608,25 @@
     "CDATE": "2025-06-22 21:58:56",
     "BATTERY": "84",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 22:06:42",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 22:06:42",
+    "BATTERY": "84",
+    "ID": "No ID"
   }
 ]
