@@ -6662,5 +6662,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:22",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:22",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:22",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he w",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:23",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:23",
+    "BATTERY": "70"
   }
 ]
