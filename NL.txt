@@ -17378,5 +17378,65 @@
     "CDATE": "2025-06-22 16:16:53",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:53",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:54",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:54",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:54",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:54",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:55",
+    "BATTERY": "15",
+    "ID": "No ID"
   }
 ]
