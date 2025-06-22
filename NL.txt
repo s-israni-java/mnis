@@ -12188,5 +12188,15 @@
     "CDATE": "2025-06-22 12:19:13",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93234 74737‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:25:15",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
