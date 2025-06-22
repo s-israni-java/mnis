@@ -9854,5 +9854,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:50:14",
     "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:14",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:14",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:15",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:15",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 mi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:15",
+    "BATTERY": "60"
   }
 ]
