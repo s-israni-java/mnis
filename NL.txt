@@ -15028,5 +15028,25 @@
     "CDATE": "2025-06-22 15:21:43",
     "BATTERY": "32",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Maine bhi",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:21:43",
+    "BATTERY": "32",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "TITLE": "Kamariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:21:52",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
