@@ -12494,5 +12494,13 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 15:16:57",
     "BATTERY": "35"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:17:49",
+    "BATTERY": "34"
   }
 ]
