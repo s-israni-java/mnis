@@ -17868,5 +17868,15 @@
     "CDATE": "2025-06-22 16:25:46",
     "BATTERY": "11",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "10% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:55",
+    "BATTERY": "10",
+    "ID": "No ID"
   }
 ]
