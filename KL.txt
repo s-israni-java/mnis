@@ -18294,5 +18294,21 @@
     "NETWORK": "W",
     "CDATE": "2025-06-22 21:57:24",
     "BATTERY": "85"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹26",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:57:26",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹260",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:57:26",
+    "BATTERY": "85"
   }
 ]
