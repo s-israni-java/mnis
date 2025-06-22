@@ -12898,5 +12898,45 @@
     "CDATE": "2025-06-22 13:23:00",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bablu tu bhi na",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:01",
+    "BATTERY": "69",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:01",
+    "BATTERY": "69",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin Click Here to View All :- https:\/\/knome.ultimatix.net\/app\/blogposts\/944229",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:26:42",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click Here to View All :- https:\/\/knome.ultimatix.net\/app\/blogposts\/944229",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:26:42",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
