@@ -17878,5 +17878,15 @@
     "CDATE": "2025-06-22 16:25:55",
     "BATTERY": "10",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Continue high-speed browsing with the data pack of your choice. \n",
+    "TITLE": "Notice: Net Speed will be reduced!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:26:28",
+    "BATTERY": "10",
+    "ID": "No ID"
   }
 ]
