@@ -18308,5 +18308,15 @@
     "CDATE": "2025-06-22 19:41:28",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Sending you your favs at FLAT 70% OFF. 😆🤪",
+    "TITLE": "Us every 5 mins:",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 19:41:35",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
