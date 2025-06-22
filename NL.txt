@@ -17738,5 +17738,35 @@
     "CDATE": "2025-06-22 16:19:50",
     "BATTERY": "13",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Lift band",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:19:51",
+    "BATTERY": "13",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:19:51",
+    "BATTERY": "13",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 90%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:28",
+    "BATTERY": "12",
+    "ID": "486"
   }
 ]
