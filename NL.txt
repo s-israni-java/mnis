@@ -18518,5 +18518,25 @@
     "CDATE": "2025-06-22 21:43:02",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Enjoy this spotlight",
+    "TITLE": "#Memories",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:43:02",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "saved your Snap in Chat",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:45:49",
+    "BATTERY": "85",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
   }
 ]
