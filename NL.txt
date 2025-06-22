@@ -16018,5 +16018,35 @@
     "CDATE": "2025-06-22 15:39:08",
     "BATTERY": "27",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Shaky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:39:08",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Shaky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:39:08",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanju Rathod, G-SPXRK",
+    "TITLE": "Shaky",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:49:21",
+    "BATTERY": "22",
+    "ID": "No ID"
   }
 ]
