@@ -17298,5 +17298,45 @@
     "CDATE": "2025-06-22 16:13:37",
     "BATTERY": "16",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.sos",
+    "SERVICE": "NL",
+    "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%.",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:13:40",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:38",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:38",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Jasmine Sandlas, Amitabh Bhattacharya",
+    "TITLE": "Taras - From \"Munjya\"",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:16:38",
+    "BATTERY": "15",
+    "ID": "No ID"
   }
 ]
