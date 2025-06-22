@@ -5838,5 +5838,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:10:47",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q bheja h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:48",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vps q bheja h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:10:48",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:19:26",
+    "BATTERY": "70"
   }
 ]
