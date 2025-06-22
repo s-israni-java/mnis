@@ -12548,5 +12548,25 @@
     "CDATE": "2025-06-22 12:46:49",
     "BATTERY": "73",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:46:49",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:46:51",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
