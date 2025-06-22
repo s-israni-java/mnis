@@ -14018,5 +14018,25 @@
     "CDATE": "2025-06-22 13:47:50",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:47:50",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Are you bathing",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:47:56",
+    "BATTERY": "61",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
