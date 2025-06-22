@@ -6646,5 +6646,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:21",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:21",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:22",
+    "BATTERY": "70"
   }
 ]
