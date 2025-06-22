@@ -12708,5 +12708,25 @@
     "CDATE": "2025-06-22 13:08:10",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Card accepted tha",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:11:05",
+    "BATTERY": "71",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Card accepted tha",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:11:06",
+    "BATTERY": "71",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
