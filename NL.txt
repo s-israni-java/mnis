@@ -12588,5 +12588,35 @@
     "CDATE": "2025-06-22 12:47:10",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Q",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:47:11",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Q",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:47:11",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:50:40",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
