@@ -15630,5 +15630,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:25:03",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "No chrging no a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:03",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "No chrging no ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:04",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "No chrging no d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:04",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "No chrging no da",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:04",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "No chrging no dat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:04",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "No chrging no data",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:25:05",
+    "BATTERY": "11"
   }
 ]
