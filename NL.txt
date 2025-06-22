@@ -13208,5 +13208,25 @@
     "CDATE": "2025-06-22 13:42:47",
     "BATTERY": "63",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:47",
+    "BATTERY": "63",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:52",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
