@@ -14478,5 +14478,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:23:01",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n e",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:01",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n eg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:01",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:02",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:02",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg f",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:02",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg fr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:02",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mumly ko bol n egg fra",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:03",
+    "BATTERY": "12"
   }
 ]
