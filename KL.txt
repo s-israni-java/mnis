@@ -12358,5 +12358,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 15:16:52",
     "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bhook lgi t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:52",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bhook lgi th",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:52",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bhook lgi thi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:53",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:53",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:16:53",
+    "BATTERY": "35"
   }
 ]
