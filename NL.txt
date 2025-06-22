@@ -14568,5 +14568,25 @@
     "CDATE": "2025-06-22 14:36:46",
     "BATTERY": "43",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:36:46",
+    "BATTERY": "43",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu bolne wali thi",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:43:55",
+    "BATTERY": "40",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
