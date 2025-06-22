@@ -5670,5 +5670,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:39:50",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kaha ghum rh h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:39:50",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:45:42",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹10",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:45:42",
+    "BATTERY": "74"
   }
 ]
