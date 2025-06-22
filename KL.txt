@@ -5438,5 +5438,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:29",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:29",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:29",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:29",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:29",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:30",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:30",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:30",
+    "BATTERY": "74"
   }
 ]
