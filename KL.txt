@@ -5046,5 +5046,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:08",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:08",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:15",
+    "BATTERY": "74"
   }
 ]
