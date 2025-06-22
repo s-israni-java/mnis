@@ -7510,5 +7510,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:21:54",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r cknfu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:54",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r cknfus",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:55",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:55",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:55",
+    "BATTERY": "70"
   }
 ]
