@@ -12982,5 +12982,101 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:10:12",
     "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:12",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:13",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me na",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:13",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:13",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me naha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:13",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:13",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:14",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahane ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:14",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahane k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:14",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahane ke",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:14",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahane ke ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:14",
+    "BATTERY": "17"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Me nahane ke l",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:10:15",
+    "BATTERY": "17"
   }
 ]
