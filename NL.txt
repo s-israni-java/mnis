@@ -18168,5 +18168,115 @@
     "CDATE": "2025-06-22 18:03:19",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 18:44:02",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "A Day with a Pakistani General | Harsh Beniwal",
+    "TITLE": "Harsh Beniwal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:03:19",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:46",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:46",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:47",
+    "BATTERY": "94",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "You have a notification from Lokesh Mahajan and 20 other updates on LinkedIn",
+    "TITLE": "Lokesh Mahajan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:48",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Claim it now with your Zepto Cash🤩💵",
+    "TITLE": "Maggi bowl: full 😋 price: FREE",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:53",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:55",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:13:55",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 19:14:28",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 19:14:46",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
