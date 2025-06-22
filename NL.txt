@@ -14148,5 +14148,35 @@
     "CDATE": "2025-06-22 13:48:21",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:48:22",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:48:22",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:48:25",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
