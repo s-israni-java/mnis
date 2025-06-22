@@ -14942,5 +14942,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:23:49",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mere st",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:49",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mere sth",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:49",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mere sth ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:50",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mere sth k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:50",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mere sth kh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:50",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mere sth khan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:23:50",
+    "BATTERY": "11"
   }
 ]
