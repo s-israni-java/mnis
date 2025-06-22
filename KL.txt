@@ -4966,5 +4966,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:37:26",
     "BATTERY": "75"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Don't tal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:37:26",
+    "BATTERY": "75"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Don't talk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:37:26",
+    "BATTERY": "75"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "R",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:05",
+    "BATTERY": "74"
   }
 ]
