@@ -12502,5 +12502,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 15:17:49",
     "BATTERY": "34"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹10",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:17:50",
+    "BATTERY": "34"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹100",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:17:50",
+    "BATTERY": "34"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:17:52",
+    "BATTERY": "34"
   }
 ]
