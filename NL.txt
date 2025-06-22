@@ -12878,5 +12878,25 @@
     "CDATE": "2025-06-22 13:22:54",
     "BATTERY": "69",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu bta kab",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:54",
+    "BATTERY": "69",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:00",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
