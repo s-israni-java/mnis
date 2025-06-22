@@ -5198,5 +5198,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:20",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massag",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:20",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:20",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:20",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:21",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage kr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:21",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage krva",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:21",
+    "BATTERY": "74"
   }
 ]
