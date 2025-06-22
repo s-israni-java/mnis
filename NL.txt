@@ -13848,5 +13848,25 @@
     "CDATE": "2025-06-22 13:46:40",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:46:40",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:46:41",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
