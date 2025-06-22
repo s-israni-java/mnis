@@ -18328,5 +18328,15 @@
     "CDATE": "2025-06-22 20:05:32",
     "BATTERY": "92",
     "ID": "415"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Watch for free with Xstream weekend watch\n",
+    "TITLE": "Unlocked: First Copy 👀",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:17:39",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
