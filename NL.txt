@@ -18438,5 +18438,35 @@
     "CDATE": "2025-06-22 21:10:14",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:10:15",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:10:20",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "The easiest way to save on your next shopping 🤩",
+    "TITLE": "Up to ₹150 free cash 💰",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:17:12",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
