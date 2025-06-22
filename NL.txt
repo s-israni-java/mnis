@@ -18598,5 +18598,15 @@
     "CDATE": "2025-06-22 21:57:42",
     "BATTERY": "84",
     "ID": "415"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "…who loves to send you dessert reminders. 💌🍦",
+    "TITLE": "Forever a yapper… 🗣️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:58:56",
+    "BATTERY": "84",
+    "ID": "No ID"
   }
 ]
