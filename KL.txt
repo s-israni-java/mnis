@@ -7814,5 +7814,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:22:10",
     "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aake baat tobb",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:10",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aake baat tobbk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:10",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aake baat tobb",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:10",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aake baat tob",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:10",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aake baat to",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:11",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey tu aake baat toh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:11",
+    "BATTERY": "69"
   }
 ]
