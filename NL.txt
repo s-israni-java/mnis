@@ -18318,5 +18318,15 @@
     "CDATE": "2025-06-22 19:41:35",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 20.00 from A\/c X1248 on 22-JUN-2025\nUPI\/DR\/106894418163\/WAGLE DEVDAS VASUDEV\nBal INR 9,481.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 20:05:32",
+    "BATTERY": "92",
+    "ID": "415"
   }
 ]
