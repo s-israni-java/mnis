@@ -15110,5 +15110,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:24:05",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya kha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:05",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya khan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:05",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya khana",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:05",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya khana ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:06",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya khana h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:06",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya khana h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:06",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Kya khana h ?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:07",
+    "BATTERY": "11"
   }
 ]
