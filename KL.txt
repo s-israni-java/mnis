@@ -6726,5 +6726,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:20:24",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:24",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:24",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:24",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh papa ne bola he wants to m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:20:25",
+    "BATTERY": "70"
   }
 ]
