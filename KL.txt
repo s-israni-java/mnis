@@ -8326,5 +8326,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:23:45",
     "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vohi ki",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:45",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vohi kia",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:45",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vohi kia ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:46",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vohi kia m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:46",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vohi kia me",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:46",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vohi kia men",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:23:46",
+    "BATTERY": "69"
   }
 ]
