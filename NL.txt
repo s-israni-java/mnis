@@ -18588,5 +18588,15 @@
     "CDATE": "2025-06-22 21:56:06",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 260.00 from A\/c X1248 on 22-JUN-2025\nUPI\/DR\/106901520809\/PRIYANKA AJIT GUPTA\/\nBal INR 9,221.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:57:42",
+    "BATTERY": "84",
+    "ID": "415"
   }
 ]
