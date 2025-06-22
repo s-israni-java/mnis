@@ -15334,5 +15334,77 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:24:41",
     "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje nh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje nhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje nhi p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:42",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje nhi pt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:43",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Muje nhi pta ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:43",
+    "BATTERY": "11"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:24:44",
+    "BATTERY": "11"
   }
 ]
