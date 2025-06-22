@@ -5286,5 +5286,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:22",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage krva rhi h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:23",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Massage krva rhi hu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:23",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "M",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:24",
+    "BATTERY": "74"
   }
 ]
