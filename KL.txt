@@ -14046,5 +14046,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 16:22:05",
     "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ca",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:06",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Car",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:06",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Card",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:06",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Cardi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:06",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Cardio",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:06",
+    "BATTERY": "12"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Cardio ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 16:22:07",
+    "BATTERY": "12"
   }
 ]
