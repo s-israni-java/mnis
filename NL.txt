@@ -12688,5 +12688,25 @@
     "CDATE": "2025-06-22 13:01:32",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:01:33",
+    "BATTERY": "72",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "If you don’t want Calculator to use this feature, tap to open settings and turn it off.",
+    "TITLE": "Calculator is displaying over other apps",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:08:10",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
