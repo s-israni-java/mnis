@@ -12658,5 +12658,35 @@
     "CDATE": "2025-06-22 12:58:31",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:58:42",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Sent using Paytm UPI",
+    "TITLE": "Sagar Israni paid you ₹100.00",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:58:42",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:01:32",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
