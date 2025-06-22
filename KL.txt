@@ -10182,5 +10182,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:55:58",
     "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bdme jaungi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:58",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bdme jaungi n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:58",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bdme jaungi na",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:58",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bdme jaungi nahan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:58",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bdme jaungi nahane ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:55:59",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "F",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:56:04",
+    "BATTERY": "60"
   }
 ]
