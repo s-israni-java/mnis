@@ -14388,5 +14388,25 @@
     "CDATE": "2025-06-22 13:56:48",
     "BATTERY": "60",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:56:48",
+    "BATTERY": "60",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.ludo.king",
+    "SERVICE": "NL",
+    "MSG": "Play",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:00:10",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
