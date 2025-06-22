@@ -12278,5 +12278,15 @@
     "CDATE": "2025-06-22 12:31:39",
     "BATTERY": "75",
     "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:36:22",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
