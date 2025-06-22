@@ -14468,5 +14468,35 @@
     "CDATE": "2025-06-22 14:18:08",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Use data without worrying because now you can get 1GB data loan at no extra cost. Data validity- 1 day. Dial *567*3# or click i.airtel.in\/get_data_loan to avail. Get 1GB less with your next data top-up.",
+    "TITLE": "56321",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:18:09",
+    "BATTERY": "52",
+    "ID": "487"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:18:09",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by rvcjinsta",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 14:26:52",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
