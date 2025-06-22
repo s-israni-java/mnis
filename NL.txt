@@ -18468,5 +18468,25 @@
     "CDATE": "2025-06-22 21:17:12",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:23:10",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "You can check your transaction history easily on Google Pay",
+    "TITLE": "Check your spends in just a few taps",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:23:10",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
