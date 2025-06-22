@@ -7062,5 +7062,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:21:18",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Aise hi baat krn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:18",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Aise hi baat krne",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:18",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Aise hi baat krne ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:18",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Aise hi baat krne k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:19",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:21:20",
+    "BATTERY": "70"
   }
 ]
