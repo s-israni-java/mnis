@@ -5534,5 +5534,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 12:38:31",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi h vc ke o",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:31",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi h vc ke oi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:31",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi h vc ke oiye",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:32",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Mummy mana kr rhi h vc ke liye ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:38:32",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "K",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 12:39:47",
+    "BATTERY": "74"
   }
 ]
