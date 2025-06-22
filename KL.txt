@@ -9006,5 +9006,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:42:21",
     "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:21",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse pu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:22",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puc",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:22",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:22",
+    "BATTERY": "64"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tujse puch ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:42:22",
+    "BATTERY": "64"
   }
 ]
