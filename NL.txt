@@ -14708,5 +14708,25 @@
     "CDATE": "2025-06-22 15:18:04",
     "BATTERY": "34",
     "ID": "415"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "TITLE": "Kamariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:18:44",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "TITLE": "Kamariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 15:18:44",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
