@@ -9894,5 +9894,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:50:15",
     "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 mim",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:15",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 mim ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:16",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 mim",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:16",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 mi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:16",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 min",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:17",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Jaaungi 5 min ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:50:17",
+    "BATTERY": "60"
   }
 ]
