@@ -18498,5 +18498,25 @@
     "CDATE": "2025-06-22 21:36:21",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:36:22",
+    "BATTERY": "86",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-22 21:43:02",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
