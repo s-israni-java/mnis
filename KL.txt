@@ -7662,5 +7662,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-22 13:22:02",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey they r confused about we will",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:03",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-22 13:22:05",
+    "BATTERY": "70"
   }
 ]
