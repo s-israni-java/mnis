@@ -21898,5 +21898,55 @@
     "CDATE": "2025-06-23 08:00:25",
     "BATTERY": "67",
     "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tc",
+    "TITLE": "Diva's (2 messages): Nisha Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 08:00:25",
+    "BATTERY": "67",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Diva's",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 08:00:25",
+    "BATTERY": "67",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:06:54",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:06:55",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:06:55",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
