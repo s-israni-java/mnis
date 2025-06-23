@@ -43578,5 +43578,75 @@
     "CDATE": "2025-06-23 18:00:39",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:00:40",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:00:40",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:01:02",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:01:03",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:01:03",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:01:03",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Tata Consultancy Services Netherlands - Payroll Services_Invoice Draft for your approval_May 2025 External Email : Be cautious while opening any links or attachments. Dear Simriti, Thank you for you approval. Please find attached the final invoice issued. Should you have any questions, don´t hesitate to contact us. Best regards",
+    "TITLE": "Eva Paulusova",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:02:12",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
