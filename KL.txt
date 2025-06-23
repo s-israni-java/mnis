@@ -20454,5 +20454,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 12:30:19",
     "BATTERY": "56"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Oi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:19",
+    "BATTERY": "56"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Oii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:19",
+    "BATTERY": "56"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "N",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:54",
+    "BATTERY": "55"
   }
 ]
