@@ -19118,5 +19118,25 @@
     "CDATE": "2025-06-23 05:47:32",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Anjali ❤️Nidhi parwani sent a reel by giaguptaaa 1 day ago.",
+    "TITLE": "Hum 4🤗❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:47:32",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:48:23",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
