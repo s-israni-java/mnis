@@ -43538,5 +43538,15 @@
     "CDATE": "2025-06-23 17:59:40",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "So use your FREE Zepto Cash now to shop",
+    "TITLE": "Up to ₹150 vanishing soon! 😳",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:00:07",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
