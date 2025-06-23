@@ -23728,5 +23728,45 @@
     "CDATE": "2025-06-23 09:55:57",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:55:58",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:55:58",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:55:58",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky",
+    "TITLE": "Softly",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:56:14",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
