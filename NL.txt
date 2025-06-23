@@ -22008,5 +22008,15 @@
     "CDATE": "2025-06-23 08:34:34",
     "BATTERY": "89",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:34:43",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
