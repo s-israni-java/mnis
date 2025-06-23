@@ -42998,5 +42998,45 @@
     "CDATE": "2025-06-23 17:48:44",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:48:44",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:48:45",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:48:45",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:50:47",
+    "BATTERY": "96",
+    "ID": "No ID"
   }
 ]
