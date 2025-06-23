@@ -34388,5 +34388,35 @@
     "CDATE": "2025-06-23 13:12:43",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai",
+    "TITLE": "Qatal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 13:12:43",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai",
+    "TITLE": "Qatal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 13:15:23",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai",
+    "TITLE": "Qatal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 13:15:23",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
