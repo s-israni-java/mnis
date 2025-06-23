@@ -44178,5 +44178,55 @@
     "CDATE": "2025-06-23 18:21:01",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:01",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:01",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:01",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:01",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:03",
+    "BATTERY": "99",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
   }
 ]
