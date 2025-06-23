@@ -19268,5 +19268,35 @@
     "CDATE": "2025-06-23 06:06:55",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 06:08:51",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 75% · Rain showers · See full forecast",
+    "TITLE": "Today in Thane",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 06:08:51",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:13:52",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
