@@ -43738,5 +43738,35 @@
     "CDATE": "2025-06-23 18:11:29",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:11:32",
+    "BATTERY": "100",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:13:04",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Outstanding Entries in NAC 23410 - India AL • Hello Simriti , Please check below entry and take necessary action. Thanks & Regards, Aishwarya Dhere. Finance, Overseas Payroll Tata Consultancy Services Limited From: Harsh Vora <h.vora@tcs.co",
+    "TITLE": "Aishwarya Dhere",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:13:04",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
