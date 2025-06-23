@@ -19048,5 +19048,65 @@
     "CDATE": "2025-06-23 05:45:06",
     "BATTERY": "76",
     "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:06",
+    "BATTERY": "76",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:06",
+    "BATTERY": "76",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:06",
+    "BATTERY": "76",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:07",
+    "BATTERY": "76",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:12",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "Page is ready to view",
+    "TITLE": "Doodle Jump Toys!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:37",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
