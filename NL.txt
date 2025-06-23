@@ -41768,5 +41768,95 @@
     "CDATE": "2025-06-23 17:16:29",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:29",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:30",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:30",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:30",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:30",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:30",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:16:30",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:17:25",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:17:26",
+    "BATTERY": "61",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
   }
 ]
