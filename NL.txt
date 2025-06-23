@@ -41868,5 +41868,45 @@
     "CDATE": "2025-06-23 17:17:40",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:24:28",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:24:28",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:24:28",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Shafqat Amanat Ali",
+    "TITLE": "Teri Jhuki Nazar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:24:29",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
