@@ -25174,5 +25174,125 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 19:14:28",
     "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "St",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:28",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sto",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:28",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:28",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:30",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi g ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:30",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi g v",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:30",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi g ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:31",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:31",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:31",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Stop nhi h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:31",
+    "BATTERY": "84"
   }
 ]
