@@ -39998,5 +39998,55 @@
     "CDATE": "2025-06-23 16:25:27",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:25:27",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:25:27",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:25:27",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Tata Consultancy Services Netherlands - Payroll Services_Invoice Draft for your approval_May 2025 External Email : Be cautious while opening any links or attachments. Dear Simriti, Please find attached the draft of the invoice for May 2025 payroll services. Could you please approved the attached Draft invoice? Thank you for your respon",
+    "TITLE": "Eva Paulusova",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:26:08",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Tata Consultancy Services Netherlands - Payroll Services_Invoice Draft for your approval_May 2025 • External Email : Be cautious while opening any links or attachments. Dear Simriti, Please find attached the draft of the invoice for May 2025 payroll services. Could you please approved the attached Draft invoice? Thank you for your respon",
+    "TITLE": "Eva Paulusova",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:26:08",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
