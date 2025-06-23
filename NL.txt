@@ -40048,5 +40048,15 @@
     "CDATE": "2025-06-23 16:26:08",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "Now pay all your bills on time, hassle free with AU 0101 App. Tap to make a payment now.",
+    "TITLE": "Easy as 1-2-3 🙂",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:35:29",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
