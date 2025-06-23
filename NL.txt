@@ -19438,5 +19438,275 @@
     "CDATE": "2025-06-23 06:14:13",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (15%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:14",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (16%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:14",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (18%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:15",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (20%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:15",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (21%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:17",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (22%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:17",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (24%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (25%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (26%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (27%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:19",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (28%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:19",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (30%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:19",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (31%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:20",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (34%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:20",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (36%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:20",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (39%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:20",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (42%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:21",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (43%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:21",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (45%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:21",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (48%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:21",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (50%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:22",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (53%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:22",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (55%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:22",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (56%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:24",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (57%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:24",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (58%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:24",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup (62%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:14:24",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
