@@ -24870,5 +24870,85 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 19:12:52",
     "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dig",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:52",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:52",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:52",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:53",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:53",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:53",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:53",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:53",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se mk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:54",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se mkl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:54",
+    "BATTERY": "85"
   }
 ]
