@@ -22058,5 +22058,25 @@
     "CDATE": "2025-06-23 08:44:51",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:44:52",
+    "BATTERY": "88",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:53:42",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
