@@ -31448,5 +31448,25 @@
     "CDATE": "2025-06-23 12:35:16",
     "BATTERY": "54",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Khana kab khayegi?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:35:16",
+    "BATTERY": "54",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shubh",
+    "TITLE": "Still Rollin",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:36:02",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
