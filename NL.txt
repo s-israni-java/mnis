@@ -19978,5 +19978,35 @@
     "CDATE": "2025-06-23 06:15:12",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:15:12",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:15:13",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with BT V09",
+    "TITLE": "Pairing request",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:15:25",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
