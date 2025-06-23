@@ -24868,5 +24868,435 @@
     "CDATE": "2025-06-23 10:15:37",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:15:38",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:15:38",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:15:38",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 28.00 from A\/c X1248 on 23-JUN-2025\nUPI\/DR\/106912798389\/HungerBox\/YESB\/21107\nBal INR 9,993.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:08",
+    "BATTERY": "73",
+    "ID": "384"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Your order from 79 Chinese has been received",
+    "TITLE": "Order Received!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:09",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "You earned a reward!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Your order for Double Omelette has been confirmed!",
+    "TITLE": "Order confirmed!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:24",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:24",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Double Omelette is ready!",
+    "TITLE": "Your food is ready!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:26",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:58",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:58",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:58",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:17:58",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:18:49",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:18:49",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:18:49",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:18:49",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:19:16",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:19:16",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:19:16",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:19:16",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:06",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:07",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:07",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:07",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:07",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:07",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:35",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:35",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:35",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:35",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Double Omelette from your order has been delivered!",
+    "TITLE": "Order Delivered!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:20:52",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
