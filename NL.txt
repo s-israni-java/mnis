@@ -47278,5 +47278,245 @@
     "CDATE": "2025-06-23 19:10:42",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:10:45",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:10:45",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:10:47",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:45",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:45",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:45",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:45",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:51",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:52",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:52",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:11:52",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 82914 18946‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:57",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:58",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:58",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:58",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:58",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
