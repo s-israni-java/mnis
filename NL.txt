@@ -18958,5 +18958,25 @@
     "CDATE": "2025-06-23 05:44:57",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Girls i am not coming tomorrow",
+    "TITLE": "Diva's (2 messages): Nayan Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:44:59",
+    "BATTERY": "76",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Nayan Tcs: Girls i am not coming tomorrow",
+    "TITLE": "Diva's",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:45:00",
+    "BATTERY": "76",
+    "ID": "120363382492371416@g.us"
   }
 ]
