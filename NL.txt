@@ -46718,5 +46718,55 @@
     "CDATE": "2025-06-23 19:00:53",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:00:53",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:00:53",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:00:53",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Grab your free sugar now with Zepto Cash🥳",
+    "TITLE": "Yay! FREE Sugar🥳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:01:46",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:02:49",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
