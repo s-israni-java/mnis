@@ -22378,5 +22378,105 @@
     "CDATE": "2025-06-23 09:26:43",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:49",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:49",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:49",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:50",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:55",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:55",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:55",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:26:55",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:29:08",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:29:08",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
