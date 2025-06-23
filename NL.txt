@@ -41858,5 +41858,15 @@
     "CDATE": "2025-06-23 17:17:26",
     "BATTERY": "61",
     "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NL",
+    "MSG": "Level up your vibe with just one tap! 🔥 🎶",
+    "TITLE": "New Sound, Who Dis?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:17:40",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
