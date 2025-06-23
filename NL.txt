@@ -23558,5 +23558,45 @@
     "CDATE": "2025-06-23 09:48:34",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:48:34",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:48:34",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gms",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Google Contacts backing up 1 of 1 contact",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:49:33",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gms",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Google Contacts backing up 1 of 1 contact",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:49:33",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
