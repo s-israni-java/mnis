@@ -20342,5 +20342,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 05:54:01",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take ca",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:01",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take car",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:01",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:02",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:02",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:03",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care gir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:03",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:03",
+    "BATTERY": "74"
   }
 ]
