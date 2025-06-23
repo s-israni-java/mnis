@@ -43648,5 +43648,25 @@
     "CDATE": "2025-06-23 18:02:12",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Tata Consultancy Services Netherlands - Payroll Services_Invoice Draft for your approval_May 2025 • External Email : Be cautious while opening any links or attachments. Dear Simriti, Thank you for you approval. Please find attached the final invoice issued. Should you have any questions, don´t hesitate to contact us. Best regards",
+    "TITLE": "Eva Paulusova",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:02:12",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.battery",
+    "SERVICE": "NL",
+    "MSG": "\"WhatsApp\" is draining battery in the background. Optimise it now.",
+    "TITLE": "Optimise battery use",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:04:49",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
