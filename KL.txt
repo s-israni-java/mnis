@@ -20398,5 +20398,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 05:54:03",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:40:57",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "sh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:40:57",
+    "BATTERY": "88"
   }
 ]
