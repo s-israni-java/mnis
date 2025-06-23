@@ -20898,5 +20898,45 @@
     "CDATE": "2025-06-23 06:18:15",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:18:15",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:21:21",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:21:21",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 06:21:21",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
