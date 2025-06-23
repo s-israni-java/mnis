@@ -22078,5 +22078,35 @@
     "CDATE": "2025-06-23 08:53:42",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:53:43",
+    "BATTERY": "87",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap to order with the Zepto Cash 💸💸",
+    "TITLE": "FREE ₹125, still here 🫷",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:53:44",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "Simi, Pins picked for you",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:04:14",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
