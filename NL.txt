@@ -41198,5 +41198,55 @@
     "CDATE": "2025-06-23 16:59:36",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:59:36",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:59:36",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:59:36",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:00:11",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:00:12",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
