@@ -23718,5 +23718,15 @@
     "CDATE": "2025-06-23 09:50:34",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 09:55:57",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
