@@ -47518,5 +47518,735 @@
     "CDATE": "2025-06-23 19:12:58",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:58",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:01",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:02",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by ms_fysti",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:06",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yes",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:08",
+    "BATTERY": "84",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Wohi late hau",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:09",
+    "BATTERY": "84",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:09",
+    "BATTERY": "84",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🥺",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:09",
+    "BATTERY": "84",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:09",
+    "BATTERY": "84",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:17",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:24",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:24",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:24",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:24",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yes",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:26",
+    "BATTERY": "84",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📄 Shweta Gulabani June 2025.pdf (1 page)",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:27",
+    "BATTERY": "84",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:27",
+    "BATTERY": "84",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 90%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:36",
+    "BATTERY": "84",
+    "ID": "486"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:15",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Papon, Irshad Kamil",
+    "TITLE": "Bulleya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:15",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:15",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:15",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:18:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📄 Shweta Gulabani June 2025.pdf (1 page)",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:19:05",
+    "BATTERY": "82",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bye",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:19:05",
+    "BATTERY": "82",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:19:06",
+    "BATTERY": "82",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:12",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:12",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:12",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:12",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:12",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:21:14",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "TITLE": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:21",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:21",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:21",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:21",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:21",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "TITLE": "Teri Deewani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:28",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:28",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:28",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:28",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:30",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:30",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:30",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:30",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Jyotica Tangri",
+    "TITLE": "O Meri Laila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:25:30",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
