@@ -45968,5 +45968,45 @@
     "CDATE": "2025-06-23 18:45:49",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+    "TITLE": "Kesariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:45:49",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+    "TITLE": "Kesariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:46:15",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+    "TITLE": "Kesariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:46:16",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+    "TITLE": "Kesariya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:46:16",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
