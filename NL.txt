@@ -31468,5 +31468,25 @@
     "CDATE": "2025-06-23 12:36:02",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shubh",
+    "TITLE": "Still Rollin",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:36:03",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "1. Chat & chill \n2. Catch FLAT 65% OFF on fav lunch.",
+    "TITLE": "Simriti’s plan: 👇",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:37:22",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
