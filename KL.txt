@@ -20518,5 +20518,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 12:30:55",
     "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini co",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:57",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini com",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:57",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini comi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:57",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini comin",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:57",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini coming",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:58",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini coming🥺",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:59",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😘",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:31:02",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😘😘",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:31:02",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "D",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:31:11",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Do",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:31:11",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Don",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:31:11",
+    "BATTERY": "55"
   }
 ]
