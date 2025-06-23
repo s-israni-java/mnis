@@ -45048,5 +45048,45 @@
     "CDATE": "2025-06-23 18:34:35",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:34:35",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:34:35",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 6 Dear Approvers, Please approve and release TBSD Local Salary payment as per attached sheet Prashant Yadav Corporate Finance Overseas Payroll TATA Consultancy Services",
+    "TITLE": "Prashant Yadav",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:34:42",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 6 • Dear Approvers, Please approve and release TBSD Local Salary payment as per attached sheet Prashant Yadav Corporate Finance Overseas Payroll TATA Consultancy Services",
+    "TITLE": "Prashant Yadav",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:34:43",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
