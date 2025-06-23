@@ -55908,5 +55908,35 @@
     "CDATE": "2025-06-23 20:43:25",
     "BATTERY": "65",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:25",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:25",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:58",
+    "BATTERY": "65",
+    "ID": "No ID"
   }
 ]
