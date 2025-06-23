@@ -32378,5 +32378,45 @@
     "CDATE": "2025-06-23 12:43:42",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📷 Elevate your Banking Experience with ChatBanking!!\n\nExperience seamless:\n-Account Management\n-Credit Card Services\n-Loan Services\nClick or type to begin.",
+    "TITLE": "HDFC WHATSAPP BANKING",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:44:01",
+    "BATTERY": "50",
+    "ID": "917070022222@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📷 Elevate your Banking Experience with ChatBanking!!\n\nExperience seamless:\n-Account Management\n-Credit Card Services\n-Loan Services\nClick or type to begin.",
+    "TITLE": "HDFC WHATSAPP BANKING",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:44:01",
+    "BATTERY": "50",
+    "ID": "917070022222@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Ik Tera",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:45:10",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam",
+    "TITLE": "Dil Diyan Gallan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:45:10",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
