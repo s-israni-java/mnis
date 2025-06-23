@@ -44228,5 +44228,25 @@
     "CDATE": "2025-06-23 18:21:03",
     "BATTERY": "99",
     "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 4 Approved Thank you and kind regards Shivkumar Naicker TCS Europe - Finance Tata Consultancy Services Switzerland Ltd Thurgauerstrasse 36\/38 8050 Zürich Phone: +41 44 832 47 55 From: Prashant Yadav <prashanty.yadav@tcs.com> Sent: Monday, J",
+    "TITLE": "SHIVKUMAR KRISHNASWAMY NAICKER",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:45",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 4 • Approved Thank you and kind regards Shivkumar Naicker TCS Europe - Finance Tata Consultancy Services Switzerland Ltd Thurgauerstrasse 36\/38 8050 Zürich Phone: +41 44 832 47 55 From: Prashant Yadav <prashanty.yadav@tcs.com> Sent: Monday, J",
+    "TITLE": "SHIVKUMAR KRISHNASWAMY NAICKER",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:21:46",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
