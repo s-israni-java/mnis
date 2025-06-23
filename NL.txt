@@ -43718,5 +43718,25 @@
     "CDATE": "2025-06-23 18:08:04",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "New memory for you",
+    "TITLE": "Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:08:04",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:11:29",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
