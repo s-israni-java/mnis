@@ -43188,5 +43188,95 @@
     "CDATE": "2025-06-23 17:53:50",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:53:50",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:11",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:11",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Chidiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:54:11",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "The battery is full",
+    "TITLE": "Charging Complete",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:55:11",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
