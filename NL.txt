@@ -21868,5 +21868,35 @@
     "CDATE": "2025-06-23 07:21:19",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "Email Account Statement of your HDFC Bank Account  ***4829 for the period 23-May-2025 TO 22-Jun-2025",
+    "TITLE": "HDFC Bank Smart Statement",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 07:21:19",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Arey bapre",
+    "TITLE": "Diva's (2 messages): Nisha Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 08:00:25",
+    "BATTERY": "67",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Nisha Tcs: Arey bapre",
+    "TITLE": "Diva's",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 08:00:25",
+    "BATTERY": "67",
+    "ID": "120363382492371416@g.us"
   }
 ]
