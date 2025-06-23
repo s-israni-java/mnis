@@ -35298,5 +35298,35 @@
     "CDATE": "2025-06-23 14:14:51",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 14:14:53",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 14:14:56",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 4 Dear Approvers, Please approve and release Switzerland local salary payment as per attached sheet. Prashant Yadav Corporate Finance Overseas Payroll TATA Consultancy Services",
+    "TITLE": "Prashant Yadav",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 14:20:27",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
