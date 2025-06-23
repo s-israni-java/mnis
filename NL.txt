@@ -44248,5 +44248,15 @@
     "CDATE": "2025-06-23 18:21:46",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:22:08",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
