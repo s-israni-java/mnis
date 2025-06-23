@@ -38968,5 +38968,145 @@
     "CDATE": "2025-06-23 16:04:18",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:18",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:18",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:19",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "🔸One-time Setup Fee: ₹318\n🔸Monthly fee: As low as ₹1*\nOrder Now →",
+    "TITLE": "Deal on SmartSpeaker!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:21",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:29",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:29",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap to use the Zepto Cash and order 💵💵",
+    "TITLE": "Up to ₹125 FREE for smriti 🥳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:30",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:32",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:34",
+    "BATTERY": "37",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:35",
+    "BATTERY": "37",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:35",
+    "BATTERY": "37",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:37",
+    "BATTERY": "37",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:04:38",
+    "BATTERY": "37",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:05:10",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
