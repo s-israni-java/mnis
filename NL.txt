@@ -19238,5 +19238,25 @@
     "CDATE": "2025-06-23 05:54:19",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 05:54:19",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credited INR 800.00 to A\/c X1248 on 23-JUN-2025 Ref NEFT CR-UTIBN62025062389341458 -PHONEPE. Bal INR 10,021.65.\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 06:04:20",
+    "BATTERY": "74",
+    "ID": "415"
   }
 ]
