@@ -55668,5 +55668,95 @@
     "CDATE": "2025-06-23 20:42:37",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:42:40",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Look back at 23 Jun 2024",
+    "TITLE": "One year ago, today…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:42:40",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:42:59",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:00",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:00",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:00",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:00",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:01",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 20:43:01",
+    "BATTERY": "65",
+    "ID": "No ID"
   }
 ]
