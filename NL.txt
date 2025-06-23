@@ -40198,5 +40198,55 @@
     "CDATE": "2025-06-23 16:38:46",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:38:46",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:38:46",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:38:46",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:38:51",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 16:38:51",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
