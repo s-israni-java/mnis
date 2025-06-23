@@ -25298,5 +25298,95 @@
     "CDATE": "2025-06-23 10:20:52",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:21:30",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "free digital bank account with cashback upto ₹5000!\n",
+    "TITLE": "Congrats! You're eligible for",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:22:26",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "free digital bank account with cashback upto ₹5000!\n",
+    "TITLE": "Congrats! You're eligible for",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:22:26",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by corporate.womaniya",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:22:47",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 10:23:06",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 10:23:06",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 10:23:06",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 10:23:06",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 10:23:35",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
