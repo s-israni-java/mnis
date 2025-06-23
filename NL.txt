@@ -40058,5 +40058,15 @@
     "CDATE": "2025-06-23 16:35:29",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with realme Buds Air 2 Neo",
+    "TITLE": "Pairing request",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:36:52",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
