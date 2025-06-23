@@ -39818,5 +39818,25 @@
     "CDATE": "2025-06-23 16:10:54",
     "BATTERY": "48",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:10:57",
+    "BATTERY": "48",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Asees Kaur, Vishal Shelke",
+    "TITLE": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 16:12:55",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
