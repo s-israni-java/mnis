@@ -23230,5 +23230,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 18:37:24",
     "BATTERY": "94"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "vi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:37:24",
+    "BATTERY": "94"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:37:52",
+    "BATTERY": "94"
   }
 ]
