@@ -43668,5 +43668,15 @@
     "CDATE": "2025-06-23 18:04:49",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 18:05:46",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
