@@ -46898,5 +46898,55 @@
     "CDATE": "2025-06-23 19:05:48",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:05:49",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:05:49",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman",
+    "TITLE": "Maahi Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:05:49",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yes",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:06:46",
+    "BATTERY": "87",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "At digha",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:06:46",
+    "BATTERY": "87",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
