@@ -46168,5 +46168,55 @@
     "CDATE": "2025-06-23 18:52:51",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:52:52",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:52:52",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:52:52",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:54:15",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:54:15",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
