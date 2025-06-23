@@ -21948,5 +21948,15 @@
     "CDATE": "2025-06-23 08:06:55",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:07:13",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
