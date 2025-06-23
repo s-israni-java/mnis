@@ -20478,5 +20478,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 12:30:54",
     "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:54",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nin",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:54",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:54",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:55",
+    "BATTERY": "55"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nini c",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 12:30:55",
+    "BATTERY": "55"
   }
 ]
