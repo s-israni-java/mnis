@@ -35198,5 +35198,35 @@
     "CDATE": "2025-06-23 13:42:30",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Paneer Combo with Paratha from your order has been delivered!",
+    "TITLE": "Order Delivered!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 13:43:00",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 13:43:01",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "PURA TRIP BARBAAD HO GAYA | EP 1 | ALIBAUG 2025",
+    "TITLE": "Sambhavna Seth Entertainment",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 13:53:29",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
