@@ -46668,5 +46668,45 @@
     "CDATE": "2025-06-23 18:59:17",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:59:17",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:59:17",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:59:17",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "You have a notification from Lokesh Mahajan and 21 other updates on LinkedIn",
+    "TITLE": "Lokesh Mahajan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:59:49",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
