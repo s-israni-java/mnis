@@ -46708,5 +46708,15 @@
     "CDATE": "2025-06-23 18:59:49",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akshath",
+    "TITLE": "nadaaniyan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:00:53",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
