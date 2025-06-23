@@ -45218,5 +45218,25 @@
     "CDATE": "2025-06-23 18:39:43",
     "BATTERY": "93",
     "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:41:16",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:41:16",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
