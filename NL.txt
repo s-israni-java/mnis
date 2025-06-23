@@ -21958,5 +21958,55 @@
     "CDATE": "2025-06-23 08:07:13",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 08:10:58",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 08:10:58",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-23 08:11:06",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Reacted ❤️ to \"Chlo good night \nTake care \nSweet dreams \nI love you💕\"",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:34:34",
+    "BATTERY": "89",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️: Reacted ❤️ to \"Chlo good night \nTake care \nSweet dreams \nI love you💕\"",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 08:34:34",
+    "BATTERY": "89",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
