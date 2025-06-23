@@ -35398,5 +35398,35 @@
     "CDATE": "2025-06-23 14:25:11",
     "BATTERY": "29",
     "ID": "486"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 14:25:11",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is processing an incoming message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 14:25:12",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 14:25:18",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
