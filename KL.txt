@@ -24950,5 +24950,85 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 19:12:54",
     "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se mkli",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:54",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se mili ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:54",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Digha se mili?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:12:55",
+    "BATTERY": "85"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "☹️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:13:30",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:06",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:06",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:07",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abou",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:07",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "About",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:07",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "About ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:07",
+    "BATTERY": "84"
   }
 ]
