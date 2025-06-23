@@ -44388,5 +44388,55 @@
     "CDATE": "2025-06-23 18:22:10",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh",
+    "TITLE": "Shayad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:22:10",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh",
+    "TITLE": "Shayad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:22:10",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh",
+    "TITLE": "Shayad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:25:15",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh",
+    "TITLE": "Shayad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:25:15",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh",
+    "TITLE": "Shayad",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 18:25:15",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
