@@ -43468,5 +43468,25 @@
     "CDATE": "2025-06-23 17:58:21",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "TITLE": "Mitwa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:58:21",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hie Massiii kaisi hai?",
+    "TITLE": "Shwetu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-23 17:58:48",
+    "BATTERY": "100",
+    "ID": "918805388855@s.whatsapp.net"
   }
 ]
