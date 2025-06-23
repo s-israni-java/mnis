@@ -25150,5 +25150,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-23 19:14:13",
     "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "About to reach mulun",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:13",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "About to reach mulund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:13",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-23 19:14:28",
+    "BATTERY": "84"
   }
 ]
