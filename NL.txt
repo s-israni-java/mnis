@@ -62678,5 +62678,25 @@
     "CDATE": "2025-06-24 10:05:07",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use Zepto Cash to get Mother Dairy Milk now🤑",
+    "TITLE": "FREE milk alert🥛🚨",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:09",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap",
+    "TITLE": "Giraffe 🦒😂",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:12",
+    "BATTERY": "47",
+    "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674"
   }
 ]
