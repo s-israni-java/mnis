@@ -29750,5 +29750,541 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 08:41:06",
     "BATTERY": "58"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "sh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 08:41:06",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:49",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:49",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuj",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:49",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:49",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:50",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje pu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:50",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje pur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:50",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje put",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puth",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya v",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:51",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya va",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:52",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya var",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:52",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:52",
+    "BATTERY": "51"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:52",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:52",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari kh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:52",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari kho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:53",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khol",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:53",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khola",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:53",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khol",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:53",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari kho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:53",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari kh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:54",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:54",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khila",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:54",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:54",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:55",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:55",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:55",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile x",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:55",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:56",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khiles",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:56",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khilesh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:56",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khiles",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:57",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:57",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile s",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:57",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile sh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:57",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile sho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:57",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile shot",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:58",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile sho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:58",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile sho ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:58",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile sho t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:59",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tuje puthya vari khile sho ti",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:36:59",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:08",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:08",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:08",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:09",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "T",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:09",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:09",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:09",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:10",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:10",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:10",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:10",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:11",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu be",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:12",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu bel",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:12",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:12",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:12",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:13",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt ah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:13",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt aho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:13",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt ah",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:13",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:14",
+    "BATTERY": "50"
   }
 ]
