@@ -77708,5 +77708,25 @@
     "CDATE": "2025-06-24 18:20:35",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:21:14",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:21:15",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
