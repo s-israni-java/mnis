@@ -71148,5 +71148,15 @@
     "CDATE": "2025-06-24 13:05:04",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah",
+    "TITLE": "She Move It Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:09:26",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
