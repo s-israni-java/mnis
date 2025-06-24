@@ -58038,5 +58038,25 @@
     "CDATE": "2025-06-24 06:17:52",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 20 MB of 20 MB (100%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 06:17:54",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 06:40:59",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
