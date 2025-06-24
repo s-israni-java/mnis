@@ -81838,5 +81838,15 @@
     "CDATE": "2025-06-24 20:35:00",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:36:08",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
