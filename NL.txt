@@ -71988,5 +71988,25 @@
     "CDATE": "2025-06-24 14:13:01",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:13:01",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:13:23",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
