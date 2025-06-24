@@ -31038,5 +31038,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 10:35:15",
     "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate kha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:15",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khaeg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:15",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khaegi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:16",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khaeg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:16",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khaega ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:16",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khaega",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:17",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khaeg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:17",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khae",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:17",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate kha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:17",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:18",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khayeg",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:18",
+    "BATTERY": "35"
   }
 ]
