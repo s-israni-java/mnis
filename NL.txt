@@ -71898,5 +71898,35 @@
     "CDATE": "2025-06-24 13:53:02",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Thomas Cook - Card encashment letter - DK - 1969130 • Dear Radha Kindly forward the below email to TC bangalore office as the Finance team needs the pending Invoice for the same. Rashna On Tue, Jun 24, 2025 at 12:21 PM Simriti Basantani <simriti.basantani@tcs.com> wrote: > > TCS Confidential >",
+    "TITLE": "Rashna Gowadia",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:53:03",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 14:12:17",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 14:12:18",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
