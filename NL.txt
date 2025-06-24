@@ -75908,5 +75908,35 @@
     "CDATE": "2025-06-24 17:48:35",
     "BATTERY": "76",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Retirement malum tha phle se he?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:48:35",
+    "BATTERY": "76",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:49:02",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Diljit Dosanjh, Aastha Gill",
+    "TITLE": "Proper Patola",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:49:02",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
