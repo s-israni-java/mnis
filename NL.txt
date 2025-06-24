@@ -62698,5 +62698,55 @@
     "CDATE": "2025-06-24 10:05:12",
     "BATTERY": "47",
     "ID": "false|Giraffe 🦒😂|e9ff0d52-df70-43a9-a878-11d45600e674"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:25",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:26",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:28",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:32",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:32",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
