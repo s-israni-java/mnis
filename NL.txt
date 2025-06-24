@@ -59488,5 +59488,25 @@
     "CDATE": "2025-06-24 09:12:52",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:12:55",
+    "BATTERY": "54",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "And save more on under ₹199 kitchen essentials 🍽",
+    "TITLE": "Use your ₹125 FREE Cash 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:14:35",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
