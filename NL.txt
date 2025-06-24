@@ -84498,5 +84498,55 @@
     "CDATE": "2025-06-24 21:14:14",
     "BATTERY": "41",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:14:15",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:14:22",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:14:22",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:14:25",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 160.00 from A\/c X1248 on 24-JUN-2025\nUPI\/DR\/107001264344\/SHANKAR H MOTWANI\/SR\nBal INR 9,664.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VA-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:16:27",
+    "BATTERY": "40",
+    "ID": "419"
   }
 ]
