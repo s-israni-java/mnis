@@ -69218,5 +69218,25 @@
     "CDATE": "2025-06-24 12:10:05",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Payment of Tax withheld on employee payments • Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Payment of Tax withheld on employee payments Co",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:10:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akhil",
+    "TITLE": "Khaab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:10:37",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
