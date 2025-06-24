@@ -63818,5 +63818,45 @@
     "CDATE": "2025-06-24 10:22:20",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:22:20",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:22:21",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:24:16",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Prabh Singh, Jay Trak, Rooh Sandhu",
+    "TITLE": "9:45",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:24:16",
+    "BATTERY": "39",
+    "ID": "No ID"
   }
 ]
