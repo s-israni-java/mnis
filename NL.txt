@@ -62638,5 +62638,45 @@
     "CDATE": "2025-06-24 10:05:04",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:07",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
