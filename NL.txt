@@ -75468,5 +75468,55 @@
     "CDATE": "2025-06-24 16:14:51",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Block them all on Thanks App\n",
+    "TITLE": "Spam calls got you stressed?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:14:51",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Nordea Final Bank statements DKK and USD 1-June-2025to 24-June-2025 Hi, Please find attached Nordea bank statements. Regards, Ronak Furia. Tata Consultancy Services Mail to: ronak.furia@tcs.com",
+    "TITLE": "Ronak Furia",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:17:59",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Nordea Final Bank statements DKK and USD 1-June-2025to 24-June-2025 • Hi, Please find attached Nordea bank statements. Regards, Ronak Furia. Tata Consultancy Services Mail to: ronak.furia@tcs.com",
+    "TITLE": "Ronak Furia",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:18:00",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:29:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 10 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:29:30",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
