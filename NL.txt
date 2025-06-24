@@ -76948,5 +76948,75 @@
     "CDATE": "2025-06-24 18:13:04",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "TITLE": "Kar Gayi Chull",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:13:04",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "TITLE": "Kar Gayi Chull",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:13:04",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "TITLE": "Kar Gayi Chull",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:13:05",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:13:49",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Ulhasnagar",
+    "TITLE": "4 years ago…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:13:49",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:15:08",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 12 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:15:08",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
