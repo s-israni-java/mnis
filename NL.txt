@@ -84698,5 +84698,25 @@
     "CDATE": "2025-06-24 21:24:58",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Simriti and Simriti’s late night cravings. 😉",
+    "TITLE": "Ordering for two?? 🍨🧁",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:30:35",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:38:10",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
