@@ -69848,5 +69848,65 @@
     "CDATE": "2025-06-24 12:26:11",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bablu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:14",
+    "BATTERY": "80",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Bablu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:15",
+    "BATTERY": "80",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Iam being full setup to fail",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:15",
+    "BATTERY": "80",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:15",
+    "BATTERY": "80",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:19",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:39",
+    "BATTERY": "80",
+    "ID": "No ID"
   }
 ]
