@@ -77618,5 +77618,55 @@
     "CDATE": "2025-06-24 18:18:08",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:18:08",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 12 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:18:08",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:18:09",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 13 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.c",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:18:09",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:19:57",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
