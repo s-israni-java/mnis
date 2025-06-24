@@ -68858,5 +68858,75 @@
     "CDATE": "2025-06-24 11:57:56",
     "BATTERY": "25",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 11:59:24",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 11:59:24",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 11:59:24",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 11:59:24",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:00:09",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 9 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:00:10",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "…unlocking corporate perks. Feast now. 🥳",
+    "TITLE": "Simriti is the CEO of…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:01:16",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
