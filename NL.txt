@@ -75448,5 +75448,25 @@
     "CDATE": "2025-06-24 16:13:36",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Console Reco_Europe branches_Citibank (Jun 25)  • Dear all, Please find attached herewith console Reco for Europe branches Citibank. Kindly check updated remarks in the \"Remarks column\" and account your respective entries on priority. If not pertains to you please confirm on mail. Thanks",
+    "TITLE": "Lokesh Mahajan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:13:36",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Block them all on Thanks App\n",
+    "TITLE": "Spam calls got you stressed?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 16:14:51",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
