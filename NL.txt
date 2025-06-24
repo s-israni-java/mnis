@@ -78518,5 +78518,15 @@
     "CDATE": "2025-06-24 18:35:35",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Amit Trivedi",
+    "TITLE": "Naina Da Kya Kasoor",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:37:59",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
