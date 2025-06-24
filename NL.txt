@@ -76498,5 +76498,45 @@
     "CDATE": "2025-06-24 17:59:30",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:00:09",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 11 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:00:10",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:04:27",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Kamal Khan",
+    "TITLE": "Ishq Sufiyana (Male)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:04:27",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
