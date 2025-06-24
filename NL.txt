@@ -84588,5 +84588,15 @@
     "CDATE": "2025-06-24 21:23:02",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "You Have a New Message from JioMart",
+    "TITLE": "JioMart",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:23:09",
+    "BATTERY": "40",
+    "ID": "355"
   }
 ]
