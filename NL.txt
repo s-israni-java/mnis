@@ -70558,5 +70558,55 @@
     "CDATE": "2025-06-24 12:36:35",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Neha Kakkar",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:36:36",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Neha Kakkar",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:36:36",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Neha Kakkar",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:36:36",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 External Email : Be cautious while opening any links or attachments. Dear Simriti, Great. Thanks for the feedback and approval. We'll finalize the payroll and return with final files soon. Best regards, Alexander PwC | DK Payroll team | CF",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:41:29",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 • External Email : Be cautious while opening any links or attachments. Dear Simriti, Great. Thanks for the feedback and approval. We'll finalize the payroll and return with final files soon. Best regards, Alexander PwC | DK Payroll team | CF",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:41:29",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
