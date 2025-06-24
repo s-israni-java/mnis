@@ -71928,5 +71928,55 @@
     "CDATE": "2025-06-24 14:12:18",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 14:12:21",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 14:12:27",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: GT - TCS Romania Expats Payroll Information Jun 2025 Dear Team, Please find attached the timesheet for Jun25 and the night hours evidence. Thank you & Regards, Madalina From: Camelia Curechian <camelia.curechian@ro.gt.com> Sent: Tuesday, June 24, 2025 9:53 AM To: Simriti Basantani <simriti.basanta",
+    "TITLE": "Carpuci Madalina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 14:12:45",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: GT - TCS Romania Expats Payroll Information Jun 2025 • Dear Team, Please find attached the timesheet for Jun25 and the night hours evidence. Thank you & Regards, Madalina From: Camelia Curechian <camelia.curechian@ro.gt.com> Sent: Tuesday, June 24, 2025 9:53 AM To: Simriti Basantani <simriti.basanta",
+    "TITLE": "Carpuci Madalina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 14:12:45",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:12:58",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
