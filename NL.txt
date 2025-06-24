@@ -68938,5 +68938,45 @@
     "CDATE": "2025-06-24 12:05:38",
     "BATTERY": "38",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:05:38",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:05:38",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:05:38",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Filing of return for social security contributions and income tax withheld Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Filing of return for social security contributio",
+    "TITLE": "iComply Alert",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:07:07",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
