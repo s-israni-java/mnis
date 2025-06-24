@@ -81768,5 +81768,55 @@
     "CDATE": "2025-06-24 20:34:35",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:37",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:37",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:48",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:49",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:49",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
