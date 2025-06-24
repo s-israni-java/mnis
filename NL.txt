@@ -76328,5 +76328,25 @@
     "CDATE": "2025-06-24 17:57:20",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 11 • Dear Approvers, Please approve and release Netherlands Locals Salary payment as per attached sheet. Thanks & Regards, Nayan Wanjare, Finance – Overseas Payroll Tata Consultancy Services Plant No. 12 Godrej & Boyce Complex, LBS Ma",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:57:20",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:58:25",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
