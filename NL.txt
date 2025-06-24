@@ -63348,5 +63348,55 @@
     "CDATE": "2025-06-24 10:16:44",
     "BATTERY": "41",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Diljit Dosanjh, thiarajxtt",
+    "TITLE": "Kinni Kinni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:16:44",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Diljit Dosanjh, thiarajxtt",
+    "TITLE": "Kinni Kinni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:16:45",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Diljit Dosanjh, thiarajxtt",
+    "TITLE": "Kinni Kinni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:16:45",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:18:22",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Enjoy this spotlight",
+    "TITLE": "Your memories are waiting",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:18:23",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
