@@ -71308,5 +71308,65 @@
     "CDATE": "2025-06-24 13:11:22",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah",
+    "TITLE": "She Move It Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:11:22",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah",
+    "TITLE": "She Move It Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:11:22",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:11:23",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing Wi‑Fi call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:11:24",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: TNDL JE Seldom Users Apr - May'25 Dear Chirag, Please confirm the Entries reference which you are mentioning about. Thanks & Regards, Vignesh M Finance -Expense Reimbursement Tata Consultancy Services. From: Paliwal, Chirag <chirag",
+    "TITLE": "Vignesh Magesh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:12:40",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: TNDL JE Seldom Users Apr - May'25 • Dear Chirag, Please confirm the Entries reference which you are mentioning about. Thanks & Regards, Vignesh M Finance -Expense Reimbursement Tata Consultancy Services. From: Paliwal, Chirag <chirag",
+    "TITLE": "Vignesh Magesh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:12:40",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
