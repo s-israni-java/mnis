@@ -71578,5 +71578,65 @@
     "CDATE": "2025-06-24 13:16:05",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: TNDL JE Seldom Users Apr - May'25 • External Email : Be cautious while opening any links or attachments. HI Vignesh, PFA entries for your reference From: Vignesh Magesh <vignesh.magesh@tcs.com> Sent: Tuesday, June 24, 2025 1:13 PM To: Paliwal, Chirag <chiragpaliwal@bsraffiliates.co",
+    "TITLE": "Paliwal, Chirag",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:16:05",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 13:23:20",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 13:23:20",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 13:23:20",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 13:23:20",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "FINALLY BHAGWAAN NE HAMAARI SUN LI | EP 2 | ALIBAUG 2025",
+    "TITLE": "Sambhavna Seth Entertainment",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:23:25",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
