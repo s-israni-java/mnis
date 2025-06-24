@@ -84598,5 +84598,55 @@
     "CDATE": "2025-06-24 21:23:09",
     "BATTERY": "40",
     "ID": "355"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:23:10",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 160.00 from A\/c X1248 on 24-JUN-2025\nUPI\/DR\/107001264344\/SHANKAR H MOTWANI\/SR\nBal INR 9,664.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VA-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:23:10",
+    "BATTERY": "39",
+    "ID": "419"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "You Have a New Message from JioMart",
+    "TITLE": "JioMart",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:23:11",
+    "BATTERY": "39",
+    "ID": "355"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:23:11",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:23:41",
+    "BATTERY": "39",
+    "ID": "No ID"
   }
 ]
