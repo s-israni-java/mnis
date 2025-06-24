@@ -31126,5 +31126,85 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 10:35:18",
     "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khayegi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:18",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khayegi?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:18",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khayegi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:19",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate khayegi?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:20",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "R",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:38:08",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Re",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:38:08",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Reh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:38:08",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Rehne",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:38:08",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Send message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:38:09",
+    "BATTERY": "32"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "O",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:55:23",
+    "BATTERY": "25"
   }
 ]
