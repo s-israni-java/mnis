@@ -84458,5 +84458,45 @@
     "CDATE": "2025-06-24 21:06:17",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:06:18",
+    "BATTERY": "42",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "For your next haul🛒\nStock up, save with Zepto Cash",
+    "TITLE": "Up to ₹150 free cash",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:10:02",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "📜 Inspirational Quotes for Simi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:10:26",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93234 74737‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:14:14",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
