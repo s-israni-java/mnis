@@ -70988,5 +70988,45 @@
     "CDATE": "2025-06-24 13:02:30",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+    "TITLE": "Brown Munde",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:02:30",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+    "TITLE": "Brown Munde",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:02:30",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+    "TITLE": "Brown Munde",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:02:31",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:46",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
