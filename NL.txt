@@ -68928,5 +68928,15 @@
     "CDATE": "2025-06-24 12:01:16",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Param Singh, Kamal Kahlon, Pratik Studio",
+    "TITLE": "Daru Badnaam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:05:38",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
