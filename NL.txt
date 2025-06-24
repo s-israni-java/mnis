@@ -72678,5 +72678,35 @@
     "CDATE": "2025-06-24 14:26:41",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 20.00 from A\/c X1248 on 24-JUN-2025\nUPI\/DR\/106976060137\/Mr VIJAY SAKHARAM KH\nBal INR 9,824.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JD-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:26:42",
+    "BATTERY": "89",
+    "ID": "370"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:26:42",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:27:12",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
