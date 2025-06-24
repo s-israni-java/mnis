@@ -70618,5 +70618,15 @@
     "CDATE": "2025-06-24 12:44:48",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Neha Kakkar",
+    "TITLE": "Morni Banke (From \"Badhaai Ho\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:44:53",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
