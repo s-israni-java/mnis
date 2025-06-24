@@ -33350,5 +33350,93 @@
     "NETWORK": "W",
     "CDATE": "2025-06-24 17:46:09",
     "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha ru",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:09",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha run",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:10",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha rune",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:10",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha rune?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:10",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha rne?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:15",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha ne?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:15",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha tne?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:15",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ye pdha tune?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:46:15",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "H",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:47:54",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ha",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:47:55",
+    "BATTERY": "76"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Haa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:47:55",
+    "BATTERY": "76"
   }
 ]
