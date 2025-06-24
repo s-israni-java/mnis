@@ -66058,5 +66058,35 @@
     "CDATE": "2025-06-24 10:47:14",
     "BATTERY": "27",
     "ID": "490"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:47:14",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:48:13",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:48:13",
+    "BATTERY": "27",
+    "ID": "No ID"
   }
 ]
