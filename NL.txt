@@ -71498,5 +71498,85 @@
     "CDATE": "2025-06-24 13:15:16",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:16",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:16",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:17",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:17",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:17",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:18",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:15:18",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:16:05",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
