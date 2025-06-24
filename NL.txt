@@ -58058,5 +58058,25 @@
     "CDATE": "2025-06-24 06:40:59",
     "BATTERY": "38",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 06:41:00",
+    "BATTERY": "38",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "For you: Movie Un Fact News • 1.6M views • 2 hours ago...",
+    "TITLE": "K.G.F: Chapter 3 - Official Trailer | Yash | Kgf 3 Movie | Prashanth Neel | Kgf 3 Teaser Trailer",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 07:03:05",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
