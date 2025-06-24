@@ -31422,5 +31422,165 @@
     "NETWORK": "W",
     "CDATE": "2025-06-24 12:32:57",
     "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bo",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:57",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:57",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:58",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:58",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol b ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:58",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol b",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:59",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:59",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:59",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:59",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n f",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:59",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:00",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fir",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:00",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fir ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:00",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fir u",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:00",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fir un",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:00",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fir unk",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:01",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bol n fir unko",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:33:04",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:38:28",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●3",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:38:28",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●1",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:38:28",
+    "BATTERY": "97"
   }
 ]
