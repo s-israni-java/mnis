@@ -66018,5 +66018,45 @@
     "CDATE": "2025-06-24 10:46:43",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:46:44",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:46:44",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Danny, Avvy Sra, Sagar",
+    "TITLE": "Ve Haaniyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:46:44",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "संचार साथी मोबाईल अॅप वापरून तुमचा हरवलेला\/चोरी झालेला फोन ब्लॉक करा आणि त्याचा सोप्या पद्धतीने शोध घ्या. मोबाईल अॅप येथून डाउनलोड करा:  Android: https:\/\/play.google.com\/store\/apps\/details?id=com.dot.app.sancharsaathi iOS: https:\/\/apps.apple.com\/in\/app\/sanchar-saathi\/id6739700695 दूरसंचार विभाग",
+    "TITLE": "JZ-DOTGOI-G",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:47:14",
+    "BATTERY": "27",
+    "ID": "490"
   }
 ]
