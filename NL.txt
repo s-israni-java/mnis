@@ -69908,5 +69908,135 @@
     "CDATE": "2025-06-24 12:26:39",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:49",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🥺",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:57",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:26:57",
+    "BATTERY": "81",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:05",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga",
+    "TITLE": "Daku",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga",
+    "TITLE": "Daku",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga",
+    "TITLE": "Daku",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga",
+    "TITLE": "Daku",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:20",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga",
+    "TITLE": "Daku",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:23",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Backbone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:23",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Backbone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:24",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Backbone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:24",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Backbone",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:27:24",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
