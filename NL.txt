@@ -70358,5 +70358,25 @@
     "CDATE": "2025-06-24 12:31:53",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:39",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Get Amul Masti Dahi now with your Zepto Cash😋🛵",
+    "TITLE": "FREE curd for you😇",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:32:41",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
