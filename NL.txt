@@ -77018,5 +77018,75 @@
     "CDATE": "2025-06-24 18:15:08",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:03",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "TITLE": "Kar Gayi Chull",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:03",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:04",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:04",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:04",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:04",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:16:04",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
