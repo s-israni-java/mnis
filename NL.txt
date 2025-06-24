@@ -77668,5 +77668,45 @@
     "CDATE": "2025-06-24 18:19:57",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:19:57",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:19:57",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:19:58",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy Malkist Cheese Crunchy Layered Crackers (144 gm) @ ₹57",
+    "TITLE": "Built to break...deliciously 😋",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:20:35",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
