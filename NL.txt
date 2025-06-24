@@ -69478,5 +69478,45 @@
     "CDATE": "2025-06-24 12:20:08",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akhil",
+    "TITLE": "Khaab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:20:08",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akhil",
+    "TITLE": "Khaab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:20:08",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akhil",
+    "TITLE": "Khaab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:20:08",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akhil",
+    "TITLE": "Khaab",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:22:17",
+    "BATTERY": "73",
+    "ID": "No ID"
   }
 ]
