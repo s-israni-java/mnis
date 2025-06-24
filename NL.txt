@@ -75378,5 +75378,45 @@
     "CDATE": "2025-06-24 15:42:58",
     "BATTERY": "84",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:42:58",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:42:58",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:42:58",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Always there for the snack squad! 🍔🍟",
+    "TITLE": "Be a friend like ketchup…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:44:06",
+    "BATTERY": "84",
+    "ID": "No ID"
   }
 ]
