@@ -67908,5 +67908,25 @@
     "CDATE": "2025-06-24 11:43:36",
     "BATTERY": "16",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 11:43:39",
+    "BATTERY": "16",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 9 Dear Approvers, Please approve and release Italy Locals payment as per attached sheet. Best Regards, Aisha Zuber Naik Tata Consultancy Services",
+    "TITLE": "Aisha Naik",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 11:44:34",
+    "BATTERY": "16",
+    "ID": "No ID"
   }
 ]
