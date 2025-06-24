@@ -68588,45 +68588,5 @@
     "CDATE": "2025-06-24 11:55:03",
     "BATTERY": "19",
     "ID": "No ID"
-  },
-  {
-    "APP": "com.spotify.music",
-    "SERVICE": "NL",
-    "MSG": "Harrdy Sandhu",
-    "TITLE": "Bijlee Bijlee",
-    "NETWORK": "W",
-    "CDATE": "2025-06-24 11:55:03",
-    "BATTERY": "19",
-    "ID": "No ID"
-  },
-  {
-    "APP": "com.spotify.music",
-    "SERVICE": "NL",
-    "MSG": "Harrdy Sandhu",
-    "TITLE": "Bijlee Bijlee",
-    "NETWORK": "W",
-    "CDATE": "2025-06-24 11:55:04",
-    "BATTERY": "19",
-    "ID": "No ID"
-  },
-  {
-    "APP": "com.spotify.music",
-    "SERVICE": "NL",
-    "MSG": "Harrdy Sandhu",
-    "TITLE": "Bijlee Bijlee",
-    "NETWORK": "W",
-    "CDATE": "2025-06-24 11:55:04",
-    "BATTERY": "19",
-    "ID": "No ID"
-  },
-  {
-    "APP": "com.spotify.music",
-    "SERVICE": "NL",
-    "MSG": "Harrdy Sandhu",
-    "TITLE": "Bijlee Bijlee",
-    "NETWORK": "W",
-    "CDATE": "2025-06-24 11:55:04",
-    "BATTERY": "19",
-    "ID": "No ID"
   }
 ]
