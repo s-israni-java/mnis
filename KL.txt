@@ -31630,5 +31630,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 14:26:31",
     "BATTERY": "89"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●3",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:26:32",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:26:32",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "●●●9",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:26:32",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "😂",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:25:57",
+    "BATTERY": "85"
   }
 ]
