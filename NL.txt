@@ -66458,5 +66458,1405 @@
     "CDATE": "2025-06-24 10:55:48",
     "BATTERY": "25",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:55:48",
+    "BATTERY": "25",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:57:18",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:57:18",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:57:18",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:57:19",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View Authcode",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:58:11",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:32",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:32",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:32",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:32",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 82914 18946‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:36",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:36",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:37",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:37",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:37",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:37",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:41",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:41",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:58:41",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:59:25",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:59:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:59:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 10:59:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:00:55",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:00:55",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:00:56",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:00:56",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:00:56",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:23",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:23",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:23",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:23",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:24",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:24",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:24",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:24",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:25",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:25",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:25",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:25",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:25",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:26",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:27",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:27",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:27",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:27",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:27",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:28",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:28",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:28",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:04:28",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Amplifier",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:16",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:16",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:17",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:17",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:17",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:17",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:18",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:18",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:18",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:18",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:18",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:08:19",
+    "BATTERY": "23",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:10:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:10:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:10:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:10:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:07",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Brown Rang",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:07",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:07",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:07",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:07",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:14:08",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:17:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:17:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:17:03",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:17:04",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:20:44",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:20:45",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:20:46",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:20:47",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:20:47",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:20:50",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:44",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:44",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:44",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:45",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:45",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:45",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:45",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:46",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:46",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:46",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:46",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 11:21:46",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:37",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:37",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:38",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:38",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap now to order with your Zepto Cash 🤑🤑",
+    "TITLE": "This ₹125 FREE cash is all yours 💵",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:40",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:48",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:22:49",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Power Saving Mode?",
+    "TITLE": "20% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:24:23",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:24:25",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:24:26",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🔗 Devine thoughts AG on Instagram: \"Comment below 2025: ग्रहों का प्रकोप या इत्तेफाक? | Ahmedabad Plane Crash & Astrology Predictions 🔮✈️ ⸻ 2025 की शुरुआत से ही दुखद घटनाओं की बारिश हो रही है… Ahmedabad Plane Crash, ट्रेन दुर्घटनाएं, आगजनी, और रहस्यमयी मौतें — क्या ये सब सिर्फ इत्तेफाक है या ब्रह्मांड हमें कोई संकेत दे रहा है? 🔮 प्रसिद्ध ज्योतिषाचार्य ने पहले ही चेताया था — “2025 में शनि-राहु की युति बड़े संकट लाएगी।” क्या आप तैयार हैं आने वाले समय के लिए? 👉 इस reel को पूरा देखें और सोचें — क्या ये divine warning है या astrology का सच? #जागो_भारत #AhmedabadPlaneCrash #2025Predictions #AstrologyWarning #AstrologerPrediction #DivineSignals #IndianAstrology #BreakingNewsIndia #AIReel #PlaneCrashPrediction #ShaniEffect #RahuKaal #SpiritualReels #KalyugSigns #HorrorNews #AccidentReel #NewsReelsIndia #JyotishVani #Prophecy2025 #AstrologyIndia #IndianPodcast #Mystery2025 #AIExplained\" (www.instagram.com)",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:24:41",
+    "BATTERY": "20",
+    "ID": "917620495477@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🔗 Devine thoughts AG on Instagram: \"Comment below 2025: ग्रहों का प्रकोप या इत्तेफाक? | Ahmedabad Plane Crash & Astrology Predictions 🔮✈️ ⸻ 2025 की शुरुआत से ही दुखद घटनाओं की बारिश हो रही है… Ahmedabad Plane Crash, ट्रेन दुर्घटनाएं, आगजनी, और रहस्यमयी मौतें — क्या ये सब सिर्फ इत्तेफाक है या ब्रह्मांड हमें कोई संकेत दे रहा है? 🔮 प्रसिद्ध ज्योतिषाचार्य ने पहले ही चेताया था — “2025 में शनि-राहु की युति बड़े संकट लाएगी।” क्या आप तैयार हैं आने वाले समय के लिए? 👉 इस reel को पूरा देखें और सोचें — क्या ये divine warning है या astrology का सच? #जागो_भारत #AhmedabadPlaneCrash #2025Predictions #AstrologyWarning #AstrologerPrediction #DivineSignals #IndianAstrology #BreakingNewsIndia #AIReel #PlaneCrashPrediction #ShaniEffect #RahuKaal #SpiritualReels #KalyugSigns #HorrorNews #AccidentReel #NewsReelsIndia #JyotishVani #Prophecy2025 #AstrologyIndia #IndianPodcast #Mystery2025 #AIExplained\" (www.instagram.com)",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:24:41",
+    "BATTERY": "20",
+    "ID": "917620495477@s.whatsapp.net"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 8 Approved Get Outlook for Android From: Sumit Kalelkar <sumit.kalelkar1@tcs.com> Sent: Tuesday, June 24, 2025 6:33:42 AM To: Dagmar Wolak <dagmar.wolak@tcs.com>; NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kant",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:36",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 8 • Approved Get Outlook for Android From: Sumit Kalelkar <sumit.kalelkar1@tcs.com> Sent: Tuesday, June 24, 2025 6:33:42 AM To: Dagmar Wolak <dagmar.wolak@tcs.com>; NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kant",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:36",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:37",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Employer to deduct and remit withholding tax • Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Employer to deduct and remit withholding tax Co",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:37",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:37",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Payment of Insurance premium to Social Security Administration • Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Payment of Insurance premium to Social Security",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:37",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:37",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Employer to submit report • Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Employer to submit report Compliance By TCSL-",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:38",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:38",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Pay premium contribution • Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Pay premium contribution Compliance By TCSL-E",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:38",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:38",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert: Evidence for Payment of Health insurance premium • Dear Associate, You are assigned to perform the following Compliance Task. The task is visible under Compliance Obligations -> My Compliance Tasks in iComply. Compliance Task Details: Task Name Payment of Health insurance premium Compliance",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:38",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:39",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 8 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:25:39",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:27:27",
+    "BATTERY": "19",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:27:27",
+    "BATTERY": "19",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:28:42",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "saved your Snap in Chat",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:28:46",
+    "BATTERY": "19",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:30:09",
+    "BATTERY": "18",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:30:09",
+    "BATTERY": "18",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:30:09",
+    "BATTERY": "18",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Maninder Buttar",
+    "TITLE": "Sakhiyaan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:30:09",
+    "BATTERY": "18",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 11:31:49",
+    "BATTERY": "17",
+    "ID": "No ID"
   }
 ]
