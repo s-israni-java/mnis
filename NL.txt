@@ -84558,5 +84558,25 @@
     "CDATE": "2025-06-24 21:16:57",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "New reward earned!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:16:58",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 21:21:08",
+    "BATTERY": "40",
+    "ID": "No ID"
   }
 ]
