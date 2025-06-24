@@ -71638,5 +71638,15 @@
     "CDATE": "2025-06-24 13:23:25",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Chani Nattan, Inderpal Moga, J-Statik",
+    "TITLE": "Noormahal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:26:25",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
