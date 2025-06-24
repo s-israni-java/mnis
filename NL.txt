@@ -76098,5 +76098,115 @@
     "CDATE": "2025-06-24 17:52:01",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:02",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:02",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:02",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:02",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:03",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:03",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:03",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:03",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:04",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "King",
+    "TITLE": "Maan Meri Jaan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:52:04",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:55:16",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
