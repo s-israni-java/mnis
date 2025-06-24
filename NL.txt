@@ -71858,5 +71858,35 @@
     "CDATE": "2025-06-24 13:39:36",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Chapati (40 gms), Vegetable of the day (DRY) (150 gms) from your order have been delivered!",
+    "TITLE": "Order Delivered!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:39:36",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:39:36",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Amul Cup Icecream 25 Rs from your order has been delivered!",
+    "TITLE": "Order Delivered!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:40:02",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
