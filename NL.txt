@@ -81738,5 +81738,35 @@
     "CDATE": "2025-06-24 20:34:27",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:27",
+    "BATTERY": "46",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 97633 61076‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:35",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:34:35",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
