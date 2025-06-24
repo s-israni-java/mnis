@@ -30286,5 +30286,165 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 09:37:14",
     "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:14",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:15",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:15",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:15",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:15",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:15",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:16",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:16",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati ta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:16",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati tay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:16",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati ta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:16",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ae tu belt sho na pati tai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:37:17",
+    "BATTERY": "50"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "p",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 09:43:23",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "pg",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 09:43:24",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.android.launcher_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "p",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 09:43:25",
+    "BATTERY": "49"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:30:41",
+    "BATTERY": "37"
   }
 ]
