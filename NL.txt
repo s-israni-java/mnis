@@ -60038,5 +60038,45 @@
     "CDATE": "2025-06-24 09:22:33",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:22:33",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:22:34",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:22:34",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:24:30",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
