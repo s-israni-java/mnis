@@ -62748,5 +62748,75 @@
     "CDATE": "2025-06-24 10:05:32",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:32",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:33",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:05:33",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 8 Dear Approvers, Please approve and release Norway Locals payment as per attached sheet. Thanks and Regards Sumit Kalelkar TCS Finance",
+    "TITLE": "Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:06:45",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 8 • Dear Approvers, Please approve and release Norway Locals payment as per attached sheet. Thanks and Regards Sumit Kalelkar TCS Finance",
+    "TITLE": "Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:06:45",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:06:45",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 7 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:06:45",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
