@@ -30894,5 +30894,149 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 10:35:10",
     "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Good",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:10",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Good ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:11",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Good morning ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:11",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "F",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:12",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ft",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:13",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:13",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fru",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:13",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Frui",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:13",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:14",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:14",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:14",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit pl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:14",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit pla",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:14",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:14",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:15",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:15",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:15",
+    "BATTERY": "35"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fruit plate kh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:35:15",
+    "BATTERY": "35"
   }
 ]
