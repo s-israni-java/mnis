@@ -71028,5 +71028,125 @@
     "CDATE": "2025-06-24 13:04:46",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+    "TITLE": "Brown Munde",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:47",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:47",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:47",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:47",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:48",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:48",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:48",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:49",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:49",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:49",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anand Raj Anand, Chorus",
+    "TITLE": "Ucha Lamba Kad",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:04:49",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:05:04",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
