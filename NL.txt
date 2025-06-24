@@ -62998,5 +62998,15 @@
     "CDATE": "2025-06-24 10:14:46",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Riar Saab, Abhijay Sharma",
+    "TITLE": "Obsessed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:14:51",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
