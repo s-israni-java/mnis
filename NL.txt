@@ -66378,5 +66378,45 @@
     "CDATE": "2025-06-24 10:54:49",
     "BATTERY": "26",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:54:49",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:54:49",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:54:49",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 10:55:11",
+    "BATTERY": "25",
+    "ID": "No ID"
   }
 ]
