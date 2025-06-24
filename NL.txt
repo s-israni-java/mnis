@@ -82348,5 +82348,55 @@
     "CDATE": "2025-06-24 20:37:47",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "36%",
+    "TITLE": "Ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:37:49",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "37%",
+    "TITLE": "Ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:37:51",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "38%",
+    "TITLE": "Ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:37:53",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "39%",
+    "TITLE": "Ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:37:55",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "41%",
+    "TITLE": "Ozark",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 20:37:57",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
