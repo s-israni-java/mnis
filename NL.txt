@@ -71828,5 +71828,35 @@
     "CDATE": "2025-06-24 13:28:00",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC",
+    "TITLE": "Kina Chir",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:28:00",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 64.00 from A\/c X1248 on 24-JUN-2025\nUPI\/DR\/106973678789\/HungerBox\/YESB\/21107\nBal INR 9,844.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JD-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:39:13",
+    "BATTERY": "97",
+    "ID": "370"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Vegetable of the day (DRY) (150 gms), Amul Cup Icecream 25 Rs & 1 other are ready!",
+    "TITLE": "Your food is ready!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 13:39:36",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
