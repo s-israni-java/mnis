@@ -33662,5 +33662,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-24 18:35:14",
     "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:35:14",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:35:14",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:35:14",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In bu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:35:15",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In bus",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:35:15",
+    "BATTERY": "69"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "v",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:38:07",
+    "BATTERY": "68"
+  },
+  {
+    "APP": "com.mobond.mindicator_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "vi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 18:38:07",
+    "BATTERY": "68"
   }
 ]
