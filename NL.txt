@@ -58798,5 +58798,45 @@
     "CDATE": "2025-06-24 09:02:27",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:02:28",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:02:29",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:02:29",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "🫴 ₹125 free cash\nOrder now with your Zepto Cash 💵",
+    "TITLE": "🤜🤜🤜 It's yours...",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 09:02:36",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
