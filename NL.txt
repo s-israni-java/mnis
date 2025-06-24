@@ -69638,5 +69638,45 @@
     "CDATE": "2025-06-24 12:25:05",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Aaja We Mahiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:25:05",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Aaja We Mahiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:25:06",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Aaja We Mahiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:25:06",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Imran Khan",
+    "TITLE": "Aaja We Mahiya",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 12:25:19",
+    "BATTERY": "79",
+    "ID": "No ID"
   }
 ]
