@@ -77728,5 +77728,45 @@
     "CDATE": "2025-06-24 18:21:15",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:21:15",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:21:16",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "A.R. Rahman, Javed Ali, KIRTI SAGATHIA, Pooja AV",
+    "TITLE": "Tum Tak (From \"Raanjhanaa\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:22:29",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arko",
+    "TITLE": "Nazm Nazm",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 18:22:30",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
