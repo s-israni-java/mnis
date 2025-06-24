@@ -84718,5 +84718,285 @@
     "CDATE": "2025-06-24 21:38:10",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:38:11",
+    "BATTERY": "47",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:38:14",
+    "BATTERY": "47",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by thepetsclub.ae",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:44:13",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by nr_rashidovich",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:44:28",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by learningstorywith_ts",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:48:06",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:59:52",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:59:53",
+    "BATTERY": "67",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 21:59:54",
+    "BATTERY": "67",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Coz this cash is FREE 💵\nUse ₹125 Zepto Cash now!",
+    "TITLE": "Save while you spend 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:05:37",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:14",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:14",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:14",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:14",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:14",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:15",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:15",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:11:35",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "100%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:12:33",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "100%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 22:12:34",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "liked your story.",
+    "TITLE": "urvashi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:13:23",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:13:23",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Replied to your story: ha",
+    "TITLE": "urvashi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:13:26",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Story uploaded!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:13:26",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu ek baar apna whatsapp clean kr",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:15:00",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu ek baar apna whatsapp clean kr",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:15:00",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:15:11",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Delete alll chats ..and delete. Full backup",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:15:15",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:15:16",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
