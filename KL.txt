@@ -35534,5 +35534,69 @@
     "NETWORK": "W",
     "CDATE": "2025-06-24 22:20:51",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dekhte h bdme",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:20:51",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "N",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:20:58",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:20:58",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nin",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:20:58",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nind",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:20:59",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nind🥺",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:21:01",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "D",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:25:29",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "De",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 22:25:29",
+    "BATTERY": "70"
   }
 ]
