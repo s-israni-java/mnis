@@ -76348,5 +76348,35 @@
     "CDATE": "2025-06-24 17:58:25",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 11 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:58:25",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vishal-Shekhar, Kamal Khan",
+    "TITLE": "Ishq Sufiyana (Male)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:59:01",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 17:59:01",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
