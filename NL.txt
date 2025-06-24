@@ -72558,5 +72558,45 @@
     "CDATE": "2025-06-24 14:24:53",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:24:55",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:24:55",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:24:55",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 14:25:16",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
