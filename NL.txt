@@ -57178,5 +57178,145 @@
     "CDATE": "2025-06-24 05:42:57",
     "BATTERY": "44",
     "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:42:58",
+    "BATTERY": "44",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by design_aqua_studio",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:43:10",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by mainlyme.1",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:26",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin Click here to view all: - https:\/\/knome.ultimatix.net\/app\/blogposts\/944688",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:34",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click here to view all: - https:\/\/knome.ultimatix.net\/app\/blogposts\/944688",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:34",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:35",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "#LearningCalendar: Participate in TCS AWS Elevate Days | Earn your Google Cloud GenAI Expert Badge | Join the Domain Advisory Foundation session this learning week! • Stay in Touch! Visit our E-Learning Platforms. Don't forget to click on the banners to enter the world of learning! For TD Catalog, Click Here For Global Calendar, Click Here Learning comes in all shapes and kinds, th",
+    "TITLE": "Talent Development",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:35",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:35",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 7 • Approved Get Outlook for Android From: Sumit Kalelkar <sumit.kalelkar1@tcs.com> Sent: Monday, June 23, 2025 7:36:21 PM To: Dagmar Wolak <dagmar.wolak@tcs.com>; NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kanta",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:35",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:35",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RFC Expiry Notification - 24726085: Grant Shared Drive Access-Privilege\/Profile Access || RFC Expiry date : 05-JUL-25 • Dear SIMRITI BASANTANI, The following RFC is due to expire in 10 days. RFC Number: 24726085 RFC Title: Grant Shared Drive Access-Privilege\/Profile Access RFC Description: Shared Drive Access RFC Start Date: 09-JAN-25 RFC End Date: 05-JUL-25 Req",
+    "TITLE": "NextGenGHD",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:36",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:36",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iEvolve Alert - Are your Competencies updated? • Dear Associate, You are receiving this email since you haven't added any competency in iEvolve for some time now. Please check your competency data (trained\/assigned\/assessed) that are not captured in iEvolve and self declare all your competencies t",
+    "TITLE": "Ultimatix.iEvolve@tcs.com",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:45:36",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-24 05:50:54",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
