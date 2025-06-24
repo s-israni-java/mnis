@@ -74588,5 +74588,65 @@
     "CDATE": "2025-06-24 15:18:24",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 • External Email : Be cautious while opening any links or attachments. Dear Simriti, Great, thanks for the feedback and approval. Confirming June expats payroll are now finalized and final files are uploaded in Connect. Please confirm when the pay",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:18:25",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 15:28:10",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 15:28:10",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 15:28:11",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-24 15:28:11",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 10 Dear Approvers, Please approve and release Poland Expat Salary payment as per attached sheet. Thanks & Regards, Saurabh Jamsutkar Finance,Overseas Payroll",
+    "TITLE": "Saurabh Jamsutkar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-24 15:34:51",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
