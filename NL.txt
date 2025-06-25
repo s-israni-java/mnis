@@ -100848,5 +100848,25 @@
     "CDATE": "2025-06-25 15:00:16",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:00:19",
+    "BATTERY": "20",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.azure.authenticator",
+    "SERVICE": "NL",
+    "MSG": "2740000@TCS.com",
+    "TITLE": "New sign-in request for your work or school account",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:07:58",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
