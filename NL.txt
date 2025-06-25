@@ -105398,5 +105398,135 @@
     "CDATE": "2025-06-25 16:24:09",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:09",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:10",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:11",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:11",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:11",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:12",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:24:12",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:26:56",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval",
+    "TITLE": "Hawa Banke",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:26:56",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:26:56",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Jay Trak",
+    "TITLE": "Wavy",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:26:57",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
