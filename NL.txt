@@ -90008,5 +90008,95 @@
     "CDATE": "2025-06-25 09:54:13",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:13",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:24",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:24",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:25",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:25",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:26",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:27",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:35",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:54:40",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
