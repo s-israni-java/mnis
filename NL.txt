@@ -100498,5 +100498,25 @@
     "CDATE": "2025-06-25 13:28:56",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Sv: DK_Payroll file_Jun25 • External Email : Be cautious while opening any links or attachments. Dear Simriti, Will do. Thanks for confirmation! Best regards, Alexander PwC | DK Payroll team | CFO Service Payroll Email: dk_tcs@pwc.com Milnersvej 43, DK-3400 Hillerød",
+    "TITLE": "DK tcs MBX",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:28:57",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:29:59",
+    "BATTERY": "33",
+    "ID": "No ID"
   }
 ]
