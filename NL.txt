@@ -92638,5 +92638,35 @@
     "CDATE": "2025-06-25 10:41:06",
     "BATTERY": "52",
     "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Mera Mann",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:42:34",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:42:34",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Mera Mann",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:42:34",
+    "BATTERY": "51",
+    "ID": "No ID"
   }
 ]
