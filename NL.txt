@@ -328,5 +328,25 @@
     "CDATE": "2025-06-25 18:50:56",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:50:56",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:53:32",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
