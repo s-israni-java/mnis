@@ -105208,5 +105208,25 @@
     "CDATE": "2025-06-25 16:19:45",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:20:51",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain, AP Dhillon",
+    "TITLE": "Afsos",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:20:51",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
