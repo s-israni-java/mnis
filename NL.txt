@@ -96658,5 +96658,155 @@
     "CDATE": "2025-06-25 11:53:09",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:10",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "₹4,250.00 due on Jul 15, 2025.",
+    "TITLE": "New bill from Mahavitaran - Maharashtra Electricity (MSEDCL)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:13",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "New bill from Mahavitaran - Maharashtra Electricity (MSEDCL). Pay now on Google Pay",
+    "TITLE": "Google Pay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:13",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "New bill from Mahavitaran - Maharashtra Electricity (MSEDCL). Pay now on Google Pay",
+    "TITLE": "Google Pay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:13",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:53:57",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:54:51",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "saved your Snap in Chat",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 11:54:54",
+    "BATTERY": "44",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:23",
+    "BATTERY": "43",
+    "ID": "No ID"
   }
 ]
