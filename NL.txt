@@ -3538,5 +3538,25 @@
     "CDATE": "2025-06-25 20:21:05",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 40% · Light rain · See full forecast",
+    "TITLE": "Tomorrow in Ulhasnagar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 20:21:05",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "Just published: June 2025",
+    "TITLE": "Microsoft",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 20:25:19",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
