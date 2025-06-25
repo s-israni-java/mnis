@@ -3728,5 +3728,15 @@
     "CDATE": "2025-06-25 21:10:29",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Manifested💫\nYour wallet just got lucky—claim it on your order🍀",
+    "TITLE": "Up to ₹150 FREE?💵",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 21:19:59",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
