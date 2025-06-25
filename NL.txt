@@ -89788,5 +89788,75 @@
     "CDATE": "2025-06-25 09:50:51",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:50:52",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:50:52",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:51:59",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:51:59",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:52:00",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Zain Zohaib",
+    "TITLE": "Ranjheya Ve",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:52:00",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Order now with your Zepto Cash😋",
+    "TITLE": "🖐️Stop🖐️ Here's some FREE sugar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:53:01",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
