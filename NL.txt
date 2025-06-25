@@ -578,5 +578,25 @@
     "CDATE": "2025-06-25 19:06:07",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:06:07",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:06:56",
+    "BATTERY": "86",
+    "ID": "No ID"
   }
 ]
