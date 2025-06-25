@@ -102698,5 +102698,35 @@
     "CDATE": "2025-06-25 15:39:44",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Order now with your Zepto Cash 🥳",
+    "TITLE": "Up to ₹125: Made FREE 🤑🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:40:37",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Neeti Mohan",
+    "TITLE": "Kaun Nachdi (From \"Sonu Ke Titu Ki Sweety\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:42:47",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Bilal Saeed, Kumaar",
+    "TITLE": "Teri Khair Mangdi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:42:47",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
