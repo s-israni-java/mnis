@@ -101668,5 +101668,15 @@
     "CDATE": "2025-06-25 15:22:21",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:24:27",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
