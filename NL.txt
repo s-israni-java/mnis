@@ -90098,5 +90098,15 @@
     "CDATE": "2025-06-25 09:54:40",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Hello Simi",
+    "TITLE": "HARSHITA🎀",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 09:56:12",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
