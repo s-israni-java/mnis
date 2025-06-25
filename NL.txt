@@ -92588,5 +92588,15 @@
     "CDATE": "2025-06-25 10:40:20",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Late hogi mai",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:40:41",
+    "BATTERY": "52",
+    "ID": "918291418946@s.whatsapp.net"
   }
 ]
