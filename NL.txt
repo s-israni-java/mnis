@@ -3518,5 +3518,15 @@
     "CDATE": "2025-06-25 19:58:31",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy MyFitness Chocolate Peanut Butter (510 gm) @ ₹275 ₹̶3̶3̶9̶!",
+    "TITLE": "Stick with the good stuff 🥜",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 20:20:50",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
