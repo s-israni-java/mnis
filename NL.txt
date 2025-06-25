@@ -100718,5 +100718,15 @@
     "CDATE": "2025-06-25 14:27:41",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Bastian parties are calling you!\n🍸 Reserve your spot before it's gone!",
+    "TITLE": "✨ Put on your luxe, the night deserves it.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 14:31:52",
+    "BATTERY": "26",
+    "ID": "No ID"
   }
 ]
