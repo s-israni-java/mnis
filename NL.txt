@@ -86938,5 +86938,25 @@
     "CDATE": "2025-06-25 08:42:13",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Didi aage aa jati hai mere",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:45:59",
+    "BATTERY": "80",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Didi aage aa jati hai mere",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:45:59",
+    "BATTERY": "80",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
