@@ -100518,5 +100518,35 @@
     "CDATE": "2025-06-25 13:29:59",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Payment for Autopay of ₹119.00 to Spotify India was successful. Tap to view.",
+    "TITLE": "Payment successful",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:30:00",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 119.00 from A\/c X1248 on 25-JUN-2025\nUPI\/DR\/517648330661\/Spotify India\/ICIC\/0\nBal INR 9,522.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JM-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:30:14",
+    "BATTERY": "33",
+    "ID": "384"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🔗 For_Her_Tips__5694 on Instagram: \"4 Vaseline Hack For Glowing & Pigmentation Free Skin || Home Cream For Dark Spot, Dark Cricle#homemadecreamforpigmentation #homemadecreamforglowingskin #vaselinepetroleumjelly\" (www.instagram.com)",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:33:16",
+    "BATTERY": "33",
+    "ID": "917620495477@s.whatsapp.net"
   }
 ]
