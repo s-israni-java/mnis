@@ -3588,5 +3588,25 @@
     "CDATE": "2025-06-25 20:30:17",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Supercharge your internet with a quick 12 GB top-up at just ₹161 \n",
+    "TITLE": "Your data is 90% used up ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 20:30:17",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:32",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
