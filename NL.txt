@@ -85798,5 +85798,95 @@
     "CDATE": "2025-06-25 05:43:42",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:43:42",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by heart.in.frames",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:43:43",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by michaelandnikitaofficial",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:43:43",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin Click here to view all : - https:\/\/knome.ultimatix.net\/app\/blogposts\/945013",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:44:03",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click here to view all : - https:\/\/knome.ultimatix.net\/app\/blogposts\/945013",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:44:03",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Replied to your story: Simiiiii kaam hain call kar",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:44:37",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by lizawww_",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:44:38",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Replied to your story: I agree🥹",
+    "TITLE": "Shweta Gulabani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:44:38",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 05:50:02",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
