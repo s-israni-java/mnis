@@ -105048,5 +105048,25 @@
     "CDATE": "2025-06-25 16:14:29",
     "BATTERY": "98",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Juss, MixSingh",
+    "TITLE": "Suniyan Suniyan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:16:57",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:16:57",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
