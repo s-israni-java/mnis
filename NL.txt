@@ -98208,5 +98208,35 @@
     "CDATE": "2025-06-25 12:24:33",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:25:30",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pav Dharia",
+    "TITLE": "Na Ja",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:25:31",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, B Praak, Romy",
+    "TITLE": "Ranjha (From \"Shershaah\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:25:31",
+    "BATTERY": "39",
+    "ID": "No ID"
   }
 ]
