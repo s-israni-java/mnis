@@ -103768,5 +103768,105 @@
     "CDATE": "2025-06-25 15:53:37",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:37",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:38",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:38",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:38",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:39",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:39",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:39",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:40",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "STFU",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:53:40",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 15:55:52",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
