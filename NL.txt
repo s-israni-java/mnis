@@ -148,5 +148,15 @@
     "CDATE": "2025-06-25 18:35:57",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Why",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:35:58",
+    "BATTERY": "92",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
