@@ -3558,5 +3558,15 @@
     "CDATE": "2025-06-25 20:25:19",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "1️⃣Order favs starting at FLAT 65% OFF.\n2️⃣Binge watch. 📺",
+    "TITLE": "Your 7-10 plans after 10-7?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 20:27:28",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
