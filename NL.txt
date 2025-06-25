@@ -68,5 +68,35 @@
     "CDATE": "2025-06-25 18:09:45",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 20 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:09:45",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:14:21",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED][WARNING: MESSAGE ENCRYPTED]RE: GT - TCS Romania Expats Payroll Information Jun 2025 • External Email : Be cautious while opening any links or attachments. Dear Madalina, Please find attached the excel file with the night hours for June 2025. We used in our computation 19 working days for Mr. Jha Sushil, based on the timesheet provided.",
+    "TITLE": "Camelia Curechian",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:14:21",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
