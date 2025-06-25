@@ -458,5 +458,25 @@
     "CDATE": "2025-06-25 19:00:05",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "M also late",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:02:21",
+    "BATTERY": "87",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:02:21",
+    "BATTERY": "87",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
