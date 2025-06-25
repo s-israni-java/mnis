@@ -92478,5 +92478,115 @@
     "CDATE": "2025-06-25 10:38:52",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:38:52",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:38:52",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:38:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:38:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:38:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:38:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:40:01",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Late hogi mai",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:40:12",
+    "BATTERY": "52",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Girls working from home",
+    "TITLE": "Diva's: Nayan Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:40:12",
+    "BATTERY": "52",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:40:13",
+    "BATTERY": "52",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:40:20",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
