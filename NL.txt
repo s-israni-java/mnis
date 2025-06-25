@@ -100458,5 +100458,45 @@
     "CDATE": "2025-06-25 13:27:29",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 17 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:27:29",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:27:29",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Feriekonto_Local_Payment_Jun25 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.c",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:27:30",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 13:28:56",
+    "BATTERY": "33",
+    "ID": "No ID"
   }
 ]
