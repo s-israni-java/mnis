@@ -3828,5 +3828,15 @@
     "CDATE": "2025-06-25 22:30:59",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Syncing new emails",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:31:03",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
