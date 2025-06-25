@@ -104868,5 +104868,35 @@
     "CDATE": "2025-06-25 16:10:08",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:10:08",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:10:09",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by the_maniacdark",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:10:36",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
