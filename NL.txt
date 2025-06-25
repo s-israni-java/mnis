@@ -3778,5 +3778,25 @@
     "CDATE": "2025-06-25 21:22:28",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Mumma",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 21:22:36",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 21:22:47",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
