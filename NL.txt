@@ -3808,5 +3808,15 @@
     "CDATE": "2025-06-25 22:30:56",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:30:57",
+    "BATTERY": "77",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
   }
 ]
