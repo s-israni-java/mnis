@@ -3608,5 +3608,75 @@
     "CDATE": "2025-06-25 20:44:32",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:33",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:33",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:33",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "Discover the all new HDFC Bank App now",
+    "TITLE": "Your Banking Upgrade Awaits!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:42",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:42",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:44:45",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "🚨 Mega Hiring Drive – 28th June 2025! 🚨\nWe’re hiring for R2R | P2P | O2C | Collections\n\n📍 Venue:\nTCS Olympus A – First Floor, Security Block\nThane, Maharashtra – 400615\n\n🧑‍💼 Experience Required:\n1 to 5 Years in any of the above domains.\n\n\n\n💼 Looking for candidates who are ready to take the next step in their career! and can join in 30 to 40 days.\n\n📩 Interested? Share your CV via LinkedIn inbox only. or visit to mention venue \nLet’s connect and grow together! 💼✨\n\n#Hiring #JobAlert #ThaneJobs #FinanceJobs #Collections #P2P #O2C #R2R #TCSHiring #WalkInDrive #JobOpening",
+    "TITLE": "Abhishek Pandey reposted",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 20:59:48",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
