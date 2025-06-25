@@ -100698,5 +100698,25 @@
     "CDATE": "2025-06-25 14:27:09",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: NAC 39319_SCB payroll June 25 as of 24.06.25 • TCS Confidential Dear all, Sharing NAC 39319 - SCB Payroll BRS - as of 24.06.25 forwarding for your reference. Regards, Harsh Vora, Corporate Finance Payroll Dept., Wellsprings - Tata Consultancy Services, Plant No. 12, Godrej & Boyce Complex",
+    "TITLE": "Harsh Vora",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 14:27:09",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "Watch ‘Head Over Heels’, ‘We Were Liars’, ‘The Better Sister’ & more.",
+    "TITLE": "Thrills. Drama. Twists. 🎭",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 14:27:41",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
