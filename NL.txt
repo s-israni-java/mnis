@@ -98798,5 +98798,75 @@
     "CDATE": "2025-06-25 12:40:02",
     "BATTERY": "38",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:40:29",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, B Praak, Jaani",
+    "TITLE": "Yaarr Ni Milyaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:40:30",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:40:30",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:40:30",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:42:35",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:42:37",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 12:42:38",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
