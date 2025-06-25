@@ -3918,5 +3918,25 @@
     "CDATE": "2025-06-25 22:33:34",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:33:34",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Etna fast q chaba rhe h?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:35:31",
+    "BATTERY": "75",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
