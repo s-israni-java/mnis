@@ -348,5 +348,25 @@
     "CDATE": "2025-06-25 18:53:32",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 22 • Dear Approvers, Please approve and release Switzerland Expat salary payment as per attached sheet. Prashant Yadav Corporate Finance Overseas Payroll TATA Consultancy Services",
+    "TITLE": "Prashant Yadav",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:53:32",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 22 Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:54:55",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
