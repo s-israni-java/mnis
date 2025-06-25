@@ -318,5 +318,15 @@
     "CDATE": "2025-06-25 18:50:32",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "liked your story.",
+    "TITLE": "I.D Tamanna Makhija🧿⚫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:50:56",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
