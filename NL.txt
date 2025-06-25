@@ -90528,5 +90528,425 @@
     "CDATE": "2025-06-25 10:03:54",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 567 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:03:54",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:04",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:05",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:05",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:05",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:06",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:06",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:06",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:06",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Yo Yo Honey Singh",
+    "TITLE": "Love Dose",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:07",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:07",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:07",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:07",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:07",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:08",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:08",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:08",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:08",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:08",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:09",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:09",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sidhu Moose Wala, Jenny Johal, The Kidd",
+    "TITLE": "0008",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:11",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:11",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:13",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:47",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:47",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:47",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:04:48",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:05:17",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:05:17",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:05:18",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-25 10:05:18",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Karan Aujla, Hiten",
+    "TITLE": "God Damn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 10:05:31",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
