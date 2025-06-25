@@ -3278,5 +3278,35 @@
     "CDATE": "2025-06-25 19:56:02",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:56:05",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:56:05",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:56:05",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
