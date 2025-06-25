@@ -100778,5 +100778,25 @@
     "CDATE": "2025-06-25 14:37:35",
     "BATTERY": "23",
     "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 14:37:35",
+    "BATTERY": "23",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 14:43:14",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
