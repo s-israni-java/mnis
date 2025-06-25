@@ -18,5 +18,25 @@
     "CDATE": "2025-06-25 18:00:34",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Debit\/Credit Notes - Europe - Jun 2025 Dear All, We have raised Debit\/Credit Notes on Europe Subsidiaries for Jun 25. The same are enclosed along with Employee wise details for your reference. Country Currency Amount DN\/CN No Date Belgium EUR 119918.33 MHFD526004536 25-Jun-25 F",
+    "TITLE": "Amol Sakpal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:06:37",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Debit\/Credit Notes - Europe - Jun 2025 • Dear All, We have raised Debit\/Credit Notes on Europe Subsidiaries for Jun 25. The same are enclosed along with Employee wise details for your reference. Country Currency Amount DN\/CN No Date Belgium EUR 119918.33 MHFD526004536 25-Jun-25 F",
+    "TITLE": "Amol Sakpal",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:06:37",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
