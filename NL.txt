@@ -2688,5 +2688,15 @@
     "CDATE": "2025-06-25 19:54:16",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by scrawledstories",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:55:04",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
