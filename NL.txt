@@ -988,5 +988,25 @@
     "CDATE": "2025-06-25 19:25:56",
     "BATTERY": "82",
     "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:26:02",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Sapphire",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:26:02",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
