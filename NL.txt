@@ -3508,5 +3508,15 @@
     "CDATE": "2025-06-25 19:58:24",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:58:31",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
