@@ -100638,5 +100638,15 @@
     "CDATE": "2025-06-25 13:56:47",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by indiatimes",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 14:03:53",
+    "BATTERY": "30",
+    "ID": "No ID"
   }
 ]
