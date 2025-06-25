@@ -138,5 +138,15 @@
     "CDATE": "2025-06-25 18:34:24",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:35:57",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
