@@ -3688,5 +3688,25 @@
     "CDATE": "2025-06-25 21:05:11",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 21:05:12",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 21:05:13",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
