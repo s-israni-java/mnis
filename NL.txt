@@ -288,5 +288,15 @@
     "CDATE": "2025-06-25 18:40:38",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Call karna",
+    "TITLE": "hiteshlund",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 18:40:49",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
