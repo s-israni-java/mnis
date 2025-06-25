@@ -3838,5 +3838,45 @@
     "CDATE": "2025-06-25 22:31:03",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "June 2025",
+    "TITLE": "Microsoft via LinkedIn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:31:03",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "June 2025",
+    "TITLE": "Microsoft via LinkedIn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:31:04",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:33:03",
+    "BATTERY": "76",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:33:03",
+    "BATTERY": "76",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
