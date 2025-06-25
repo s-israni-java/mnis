@@ -96808,5 +96808,75 @@
     "CDATE": "2025-06-25 11:55:23",
     "BATTERY": "43",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:23",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:23",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:23",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:27",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:47",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:47",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Gurnazar, Chet Singh",
+    "TITLE": "Dil Tu Jaan Tu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 11:55:48",
+    "BATTERY": "43",
+    "ID": "No ID"
   }
 ]
