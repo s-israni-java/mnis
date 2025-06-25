@@ -104898,5 +104898,15 @@
     "CDATE": "2025-06-25 16:10:36",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 18 Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 16:10:49",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
