@@ -3078,5 +3078,15 @@
     "CDATE": "2025-06-25 19:55:44",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Galway Girl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 19:55:47",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
