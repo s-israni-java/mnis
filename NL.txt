@@ -3978,5 +3978,15 @@
     "CDATE": "2025-06-25 22:39:48",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Photo bjha hai upar😒",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:39:49",
+    "BATTERY": "74",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
