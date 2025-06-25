@@ -86898,5 +86898,45 @@
     "CDATE": "2025-06-25 08:42:10",
     "BATTERY": "81",
     "ID": "331"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:42:11",
+    "BATTERY": "81",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Every Day Exchange—Dear Simriti, \n\nAdd a touch of 𝐠𝐨𝐥𝐝  𝐚𝐧𝐝 𝐝𝐢𝐚𝐦𝐨𝐧𝐝 to your every day with Tanishq’s beautifully crafted earrings — from timeless studs to delicate drops. Versatile, elegant, and made to complement every look. 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐮𝐩𝐠𝐫𝐚𝐝𝐞 𝐭𝐨 𝐧𝐞𝐰 𝐝𝐞𝐬𝐢𝐠𝐧𝐬 𝐛𝐲 𝐞𝐱𝐜𝐡𝐚𝐧𝐠𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐨𝐥𝐝 𝐠𝐨𝐥𝐝  𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐠𝐨𝐥𝐝!\n\n𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐲𝐨𝐮𝐫 𝐨𝐥𝐝 𝐠𝐨𝐥𝐝 𝐛𝐨𝐮𝐠𝐡𝐭 𝐟𝐫𝐨𝐦 𝐨𝐭𝐡𝐞𝐫 𝐣𝐞𝐰𝐞𝐥𝐥𝐞𝐫𝐬 𝐚𝐧𝐝 𝐠𝐞𝐭 𝟏𝐊𝐓* 𝐞𝐱𝐭𝐫𝐚 𝐯𝐚𝐥𝐮𝐞 𝐨𝐧 𝐩𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝐨𝐟 𝐠𝐨𝐥𝐝 𝐣𝐞𝐰𝐞𝐥𝐥𝐞𝐫𝐲 𝐚𝐧𝐝 𝟐𝐊𝐓* 𝐞𝐱𝐭𝐫𝐚 𝐯𝐚𝐥𝐮𝐞 𝐨𝐧 𝐩𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝐨𝐟 𝐝𝐢𝐚𝐦𝐨𝐧𝐝 𝐣𝐞𝐰𝐞𝐥𝐥𝐞𝐫𝐲.",
+    "TITLE": "Tanishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:42:11",
+    "BATTERY": "81",
+    "ID": "331"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:42:13",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Look back at 25 Jun 2021",
+    "TITLE": "4 years ago, today…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:42:13",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
