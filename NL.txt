@@ -87008,5 +87008,45 @@
     "CDATE": "2025-06-25 08:46:05",
     "BATTERY": "80",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:48:23",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:48:23",
+    "BATTERY": "79",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:48:23",
+    "BATTERY": "79",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap now to shop with the Zepto Cash 💵",
+    "TITLE": "₹125 FREE cash to make your day 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 08:53:31",
+    "BATTERY": "79",
+    "ID": "No ID"
   }
 ]
