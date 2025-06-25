@@ -38,5 +38,25 @@
     "CDATE": "2025-06-25 18:06:37",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 20 Dear Approvers, Please approve and release Finland Local salary payment as per attached sheet. Best Regards, Aisha Zuber Naik Tata Consultancy Services",
+    "TITLE": "Aisha Naik",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:08:52",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 20 • Dear Approvers, Please approve and release Finland Local salary payment as per attached sheet. Best Regards, Aisha Zuber Naik Tata Consultancy Services",
+    "TITLE": "Aisha Naik",
+    "NETWORK": "W",
+    "CDATE": "2025-06-25 18:08:52",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
