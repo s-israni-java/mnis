@@ -17598,5 +17598,45 @@
     "CDATE": "2025-06-26 16:09:13",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Toshi Sabri",
+    "TITLE": "Maahi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:09:13",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Toshi Sabri",
+    "TITLE": "Maahi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:09:13",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:11:38",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 29 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.com",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:11:38",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
