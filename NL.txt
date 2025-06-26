@@ -1928,5 +1928,65 @@
     "CDATE": "2025-06-26 09:11:28",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Guru Randhawa, Sanjoy, Gill Machhrai",
+    "TITLE": "Qatal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:12:33",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:12:33",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:12:33",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:12:33",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:12:33",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "Dil Nu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:12:33",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
