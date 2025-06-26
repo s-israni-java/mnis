@@ -20688,5 +20688,25 @@
     "CDATE": "2025-06-26 17:40:54",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 30 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:40:54",
+    "BATTERY": "96",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "Your investment journey just got easier! Explore Mutual Funds on your dashboard now! 📈✨",
+    "TITLE": "💰 New! Invest in Mutual Funds on NetBanking! 🚀",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:41:49",
+    "BATTERY": "96",
+    "ID": "No ID"
   }
 ]
