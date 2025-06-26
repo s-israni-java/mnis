@@ -22348,5 +22348,25 @@
     "CDATE": "2025-06-26 18:33:44",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Arijit Singh",
+    "TITLE": "Saanson Ko (From \"Zid\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:36:28",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam",
+    "TITLE": "Dil Diyan Gallan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:36:28",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
