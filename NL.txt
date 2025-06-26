@@ -28008,5 +28008,55 @@
     "CDATE": "2025-06-26 21:55:34",
     "BATTERY": "51",
     "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📷 Photo",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:55:35",
+    "BATTERY": "51",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:55:35",
+    "BATTERY": "51",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ha",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:55:38",
+    "BATTERY": "51",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📷 Photo",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:55:38",
+    "BATTERY": "51",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:55:38",
+    "BATTERY": "51",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
