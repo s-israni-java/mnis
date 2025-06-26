@@ -19928,5 +19928,25 @@
     "CDATE": "2025-06-26 17:11:39",
     "BATTERY": "98",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:11:40",
+    "BATTERY": "98",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:12:22",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
