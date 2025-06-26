@@ -10958,5 +10958,15 @@
     "CDATE": "2025-06-26 13:02:25",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK, Sunidhi Chauhan",
+    "TITLE": "Sajde",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:02:53",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
