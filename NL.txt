@@ -23228,5 +23228,45 @@
     "CDATE": "2025-06-26 18:59:33",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Juthi",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:59:35",
+    "BATTERY": "86",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "You have a notification from Abhishek Pandey and 24 other updates on LinkedIn",
+    "TITLE": "Abhishek Pandey",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:59:35",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:59:36",
+    "BATTERY": "86",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "😒",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:00:09",
+    "BATTERY": "86",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
