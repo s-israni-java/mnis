@@ -23078,5 +23078,25 @@
     "CDATE": "2025-06-26 18:54:10",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 33 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:54:10",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Claim it now with your Zepto Cash🤩💵",
+    "TITLE": "Maggi bowl: full 😋 price: FREE",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:55:49",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
