@@ -17288,5 +17288,55 @@
     "CDATE": "2025-06-26 16:05:16",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:05:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:05:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:05:16",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:05:26",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval, Aditya Gadhvi, Hansika Pareek",
+    "TITLE": "Sajna",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:05:26",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
