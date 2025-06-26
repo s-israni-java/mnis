@@ -22818,5 +22818,25 @@
     "CDATE": "2025-06-26 18:42:28",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "It's been a while since your last check. Tap to view your latest score.",
+    "TITLE": "Your CIBIL score may have changed",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:42:28",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:45:02",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
