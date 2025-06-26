@@ -4228,5 +4228,125 @@
     "CDATE": "2025-06-26 06:08:27",
     "BATTERY": "60",
     "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:27",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:28",
+    "BATTERY": "60",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:28",
+    "BATTERY": "60",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:29",
+    "BATTERY": "60",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:29",
+    "BATTERY": "60",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:29",
+    "BATTERY": "60",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:29",
+    "BATTERY": "60",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:31",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Now you can create custom art for playlists. Give it a go. ",
+    "TITLE": "YOUR playlists, & now, YOUR covers",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:37",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Salman Khan",
+    "TITLE": "Main Hoon Hero Tera (Salman Khan Version)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:56",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Salman Khan",
+    "TITLE": "Main Hoon Hero Tera (Salman Khan Version)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:56",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Salman Khan",
+    "TITLE": "Main Hoon Hero Tera (Salman Khan Version)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:56",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
