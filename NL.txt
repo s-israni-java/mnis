@@ -27808,5 +27808,25 @@
     "CDATE": "2025-06-26 20:49:17",
     "BATTERY": "58",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Tax card validity expired - Jun25 payroll Hi Simriti, I have raised a request for SKAT. I hope from next month onwards it will be resolved. But I have one concern, today I received my first overseas salary. But it included only June month's salary; March, April and May are missing. I was",
+    "TITLE": "Nikita Ghosh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:51:09",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Tax card validity expired - Jun25 payroll • Hi Simriti, I have raised a request for SKAT. I hope from next month onwards it will be resolved. But I have one concern, today I received my first overseas salary. But it included only June month's salary; March, April and May are missing. I was",
+    "TITLE": "Nikita Ghosh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:51:09",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
