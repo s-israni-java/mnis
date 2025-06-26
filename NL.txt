@@ -16428,5 +16428,25 @@
     "CDATE": "2025-06-26 15:40:00",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Changing bank details, missing salary • External Email : Be cautious while opening any links or attachments. Hi Vasanti I understand. My active bank account is 2540 0727572252 Med venlig hilsen \/ Kind regards Stefan Kirkegaard Ramboll Tech, powered by TCS IT Specialist 1106713 - T",
+    "TITLE": "Stefan Vincens Kirkegaard (TCS)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:40:00",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "Help strengthen the security of your Google Account",
+    "TITLE": "Google",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:48:17",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
