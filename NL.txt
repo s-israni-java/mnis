@@ -24598,5 +24598,55 @@
     "CDATE": "2025-06-26 19:32:46",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:33:04",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Iqlipse Nova, Aditya A",
+    "TITLE": "Khwab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:34:36",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Iqlipse Nova, Aditya A",
+    "TITLE": "Khwab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:34:36",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Iqlipse Nova, Aditya A",
+    "TITLE": "Khwab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:34:36",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Iqlipse Nova, Aditya A",
+    "TITLE": "Khwab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:34:36",
+    "BATTERY": "79",
+    "ID": "No ID"
   }
 ]
