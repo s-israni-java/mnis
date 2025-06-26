@@ -21868,5 +21868,25 @@
     "CDATE": "2025-06-26 18:24:51",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: payroll June • Good Afternoon Sandeep, Thanks a lot. Regards, Vasanti More Europe Finance Tata Consultancy Services Limited Stockholm, Sweden Mailto: vp.more@tcs.com From: Sandeep Ghosh <sandeep.ghosh@tcs.com> Sent: Thursday, 26 June 2025 14:50 To: Sim",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:24:51",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:24:56",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
