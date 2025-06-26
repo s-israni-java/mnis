@@ -18368,5 +18368,15 @@
     "CDATE": "2025-06-26 16:35:00",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Tu Hi Meri Shab Hai - From \"Gangster\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:35:56",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
