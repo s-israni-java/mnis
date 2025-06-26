@@ -20748,5 +20748,15 @@
     "CDATE": "2025-06-26 17:50:12",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use code FLASH150 and get extra ₹150 off on your bill 🔥",
+    "TITLE": "₹125 FREE cash just dropped 💸",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:50:48",
+    "BATTERY": "96",
+    "ID": "No ID"
   }
 ]
