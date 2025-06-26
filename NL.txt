@@ -15118,5 +15118,15 @@
     "CDATE": "2025-06-26 14:49:37",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval, Rochak Kohli, R. D. Burman",
+    "TITLE": "Ek Ladki Ko Dekha Toh Aisa Laga - Title Track",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:55:38",
+    "BATTERY": "11",
+    "ID": "No ID"
   }
 ]
