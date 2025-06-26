@@ -25078,5 +25078,45 @@
     "CDATE": "2025-06-26 19:40:12",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Arijit Singh",
+    "TITLE": "Mareez - E - Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:40:12",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Arijit Singh",
+    "TITLE": "Mareez - E - Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:40:12",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Arijit Singh",
+    "TITLE": "Mareez - E - Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:40:12",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:40:26",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
