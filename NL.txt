@@ -23118,5 +23118,15 @@
     "CDATE": "2025-06-26 18:57:47",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments MAY-25 - LOT NO - 34 Dear Approvers, Please approve and release Italy Expats Salary payment as per attached sheet. Best Regards, Aisha Zuber Naik Tata Consultancy Services",
+    "TITLE": "Aisha Naik",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:57:59",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
