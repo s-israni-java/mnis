@@ -5718,5 +5718,55 @@
     "CDATE": "2025-06-26 08:03:17",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 08:34:45",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 08:34:45",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 08:34:45",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 08:34:53",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by seasons_of_june",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:40:32",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
