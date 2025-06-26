@@ -18338,5 +18338,35 @@
     "CDATE": "2025-06-26 16:34:49",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Czech Republic payroll June 2025 • Dear All, Please find attached: * Payroll File for June 2025 Note: * End of contract – Jan Beranek – LWD 31-July-2025, please ensure his vacation days are prorated accordingly. File is protected by standard-agreed password. In case",
+    "TITLE": "Dominika Wolfova",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:34:50",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:35:00",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: TCS Czech Expats Payroll Information -Jun25 • Dear Stepanka, Sent. Please let me know if you need anything else. Thank you Dominika Wolfova Country HR Manager Tata Consultancy Services Bulgaria, Czech Republic, Slovakia Email: dominika.tothova@tcs.com Phone: +421 948 131 221 www.tcs.com",
+    "TITLE": "Dominika Wolfova",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:35:00",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
