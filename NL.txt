@@ -23048,5 +23048,15 @@
     "CDATE": "2025-06-26 18:47:56",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 33 Dear Approvers, Please approve and release Norway Expats salary payment as per attached sheet. Thanks and Regards Sumit Kalelkar TCS Finance",
+    "TITLE": "Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:52:50",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
