@@ -4048,5 +4048,125 @@
     "CDATE": "2025-06-25 22:43:13",
     "BATTERY": "73",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Aare",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-25 22:43:13",
+    "BATTERY": "73",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:15 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:00:02",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:15 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:15:00",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:30 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:15:12",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:20:29",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:36:48",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned off",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:40:14",
+    "BATTERY": "62",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:42:19",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned off",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:47:55",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 05:54:56",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with BT V09",
+    "TITLE": "Pairing request",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 06:07:25",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:21",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
