@@ -5278,5 +5278,55 @@
     "CDATE": "2025-06-26 06:10:53",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by _sheecapturess_",
+    "TITLE": "Hum 4🤗❤️: Anjali ❤️Nidhi parwani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:10:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by piuuxeditzz",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:10:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.blockchainvault",
+    "SERVICE": "NL",
+    "MSG": "Your last mining session has ended. Come back to keep mining Pi!",
+    "TITLE": "Don't forget to mine Pi!",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 06:13:46",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sanam, R. D. Burman",
+    "TITLE": "O Mere Dil Ke Chain",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:14:05",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Salman Khan",
+    "TITLE": "Main Hoon Hero Tera (Salman Khan Version)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:14:05",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
