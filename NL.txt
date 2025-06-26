@@ -5158,5 +5158,15 @@
     "CDATE": "2025-06-26 10:10:15",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Shreya Ghoshal",
+    "TITLE": "Teri Yaadon Mein",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:10:26",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
