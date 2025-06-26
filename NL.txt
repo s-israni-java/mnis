@@ -27908,5 +27908,15 @@
     "CDATE": "2025-06-26 21:24:46",
     "BATTERY": "52",
     "ID": "422"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:46:45",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
