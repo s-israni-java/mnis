@@ -18618,5 +18618,45 @@
     "CDATE": "2025-06-26 16:39:23",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:39:23",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:39:23",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:39:24",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap and shop with your Zepto Cash now 💰",
+    "TITLE": "✉️ (1) : Up to ₹125 FREE cash 💵",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:39:34",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
