@@ -15028,5 +15028,25 @@
     "CDATE": "2025-06-26 14:37:02",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Darshan Raval, Rochak Kohli, R. D. Burman",
+    "TITLE": "Ek Ladki Ko Dekha Toh Aisa Laga - Title Track",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:37:02",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "🔸One-time Setup Fee: ₹318\n🔸Monthly fee: As low as ₹1*\nOrder Now →",
+    "TITLE": "Deal on SmartSpeaker!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:37:25",
+    "BATTERY": "19",
+    "ID": "No ID"
   }
 ]
