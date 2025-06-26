@@ -13918,5 +13918,35 @@
     "CDATE": "2025-06-26 13:29:19",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 24 • Approved Get Outlook for Android From: Saurabh Jamsutkar <saurabh.jamsutkar@tcs.com> Sent: Thursday, June 26, 2025 9:01:39 AM To: NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kantak <sachin.kantak@tcs.com>; Dag",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:29:19",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:30:13",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 26 • Approved Get Outlook for Android From: Aishwarya Dhere <aishwarya.dhere@tcs.com> Sent: Thursday, June 26, 2025 9:50:45 AM To: NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kantak <sachin.kantak@tcs.com>; Dagmar",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:30:13",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
