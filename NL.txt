@@ -28328,5 +28328,45 @@
     "CDATE": "2025-06-26 22:06:24",
     "BATTERY": "54",
     "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ha",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:06:26",
+    "BATTERY": "54",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Thank you 🫶🏻",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:06:26",
+    "BATTERY": "54",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:06:26",
+    "BATTERY": "54",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Shop now using your Zepto Cash 💸",
+    "TITLE": "Up to ₹150 cash, only for today 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:13:37",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
