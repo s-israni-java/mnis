@@ -13998,5 +13998,45 @@
     "CDATE": "2025-06-26 13:33:10",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 25 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.c",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:33:10",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:33:15",
+    "BATTERY": "30",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments JUNE-25 - LOT NO - 26 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.c",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:33:15",
+    "BATTERY": "30",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "LIFE IS FULL OF SURPRISES 🙌",
+    "TITLE": "Sambhavna Seth Entertainment",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:35:47",
+    "BATTERY": "30",
+    "ID": "No ID"
   }
 ]
