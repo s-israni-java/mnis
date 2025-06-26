@@ -17638,5 +17638,25 @@
     "CDATE": "2025-06-26 16:11:38",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:14:33",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: TCS Czech Expats Payroll Information -Jun25 • External Email : Be cautious while opening any links or attachments. Hi Simriti, We are waiting for personal data details for Jeelani Abdul Khadar from Dominika. Dear Dominika, Could you please respond to email from Martina on Monday regarding t",
+    "TITLE": "Stepanka Losenicka",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:14:33",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
