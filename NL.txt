@@ -27898,5 +27898,15 @@
     "CDATE": "2025-06-26 21:12:39",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 56.00 from A\/c X1248 on 26-JUN-2025\nUPI\/DR\/107103422084\/GOVIND ENTERPRISES\/Y\nBal INR 9,418.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JX-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:24:46",
+    "BATTERY": "52",
+    "ID": "422"
   }
 ]
