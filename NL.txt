@@ -4168,5 +4168,65 @@
     "CDATE": "2025-06-26 06:08:21",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:21",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Preparing backup…",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:21",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:24",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Refer kr tu",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:24",
+    "BATTERY": "60",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Refer kr tu",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:25",
+    "BATTERY": "60",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:08:27",
+    "BATTERY": "60",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
   }
 ]
