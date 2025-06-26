@@ -18688,5 +18688,55 @@
     "CDATE": "2025-06-26 16:43:19",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:43:19",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:43:19",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:43:19",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED][WARNING: MESSAGE ENCRYPTED]RE: payroll June External Email : Be cautious while opening any links or attachments. Dear Simriti, Please note that, according to the Romanian law, the salaries must be paid for each month, no exception, at the date stipulated under the employment contract. Therefore",
+    "TITLE": "Sorana Pintilie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:46:09",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED][WARNING: MESSAGE ENCRYPTED]RE: payroll June • External Email : Be cautious while opening any links or attachments. Dear Simriti, Please note that, according to the Romanian law, the salaries must be paid for each month, no exception, at the date stipulated under the employment contract. Therefore",
+    "TITLE": "Sorana Pintilie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:46:09",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
