@@ -19418,5 +19418,45 @@
     "CDATE": "2025-06-26 17:08:49",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Tulsi Kumar, KK",
+    "TITLE": "Humko Pyar Hua",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:08:49",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Tulsi Kumar, KK",
+    "TITLE": "Humko Pyar Hua",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:09:01",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Tulsi Kumar, KK",
+    "TITLE": "Humko Pyar Hua",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:09:01",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Tulsi Kumar, KK",
+    "TITLE": "Humko Pyar Hua",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:09:01",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
