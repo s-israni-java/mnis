@@ -13418,5 +13418,25 @@
     "CDATE": "2025-06-26 13:08:45",
     "BATTERY": "36",
     "ID": "917620495477@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Kausar Munir",
+    "TITLE": "Maiyya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:09:10",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK, Sunidhi Chauhan",
+    "TITLE": "Sajde",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:09:10",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
