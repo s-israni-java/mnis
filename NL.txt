@@ -21208,5 +21208,25 @@
     "CDATE": "2025-06-26 18:05:43",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:08:35",
+    "BATTERY": "94",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:08:35",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
