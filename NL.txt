@@ -25008,5 +25008,25 @@
     "CDATE": "2025-06-26 19:38:17",
     "BATTERY": "77",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:38:18",
+    "BATTERY": "77",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:39:58",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
