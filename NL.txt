@@ -24648,5 +24648,25 @@
     "CDATE": "2025-06-26 19:34:36",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:34:43",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:34:43",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
