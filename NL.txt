@@ -18798,5 +18798,45 @@
     "CDATE": "2025-06-26 16:52:25",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:52:25",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:52:25",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:52:54",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "omer inayat",
+    "TITLE": "Tennu Le",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:52:54",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
