@@ -10948,5 +10948,15 @@
     "CDATE": "2025-06-26 13:00:42",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by bhupinder_19",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:02:25",
+    "BATTERY": "39",
+    "ID": "No ID"
   }
 ]
