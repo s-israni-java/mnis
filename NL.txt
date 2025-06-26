@@ -15048,5 +15048,15 @@
     "CDATE": "2025-06-26 14:37:25",
     "BATTERY": "19",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Get ₹11,001* Shubh Welcome Bonus!—Dive into the thrilling world of RummyCircle and Win Exciting Cash Prizes *T&C Apply.\n\nTo opt out, reply with “STOP”",
+    "TITLE": "Rummycircle",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:39:52",
+    "BATTERY": "19",
+    "ID": "238"
   }
 ]
