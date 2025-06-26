@@ -4658,5 +4658,25 @@
     "CDATE": "2025-06-26 09:53:52",
     "BATTERY": "65",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Zara Sa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:01:05",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Zara Sa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:01:05",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
