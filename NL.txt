@@ -1128,5 +1128,35 @@
     "CDATE": "2025-06-26 08:57:53",
     "BATTERY": "75",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:58:16",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:58:16",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:58:16",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
