@@ -17658,5 +17658,25 @@
     "CDATE": "2025-06-26 16:14:33",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shaarib Toshi, Toshi Sabri",
+    "TITLE": "Maahi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:14:41",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK",
+    "TITLE": "Abhi Abhi (From \"Jism 2\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:14:41",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
