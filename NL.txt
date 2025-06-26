@@ -26018,5 +26018,25 @@
     "CDATE": "2025-06-26 19:55:44",
     "BATTERY": "71",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mohit Lalwani, Bharat Kamal",
+    "TITLE": "Tum Prem Ho - Reprise",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:56:02",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mohit Lalwani, Bharat Kamal",
+    "TITLE": "Tum Prem Ho - Reprise",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:56:02",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
