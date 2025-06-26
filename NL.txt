@@ -20838,5 +20838,45 @@
     "CDATE": "2025-06-26 18:01:29",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:01:29",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:01:29",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:01:29",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:03:31",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
