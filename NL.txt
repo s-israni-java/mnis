@@ -28598,5 +28598,25 @@
     "CDATE": "2025-06-26 22:50:40",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:50:42",
+    "BATTERY": "46",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by anmolgarg101",
+    "TITLE": "diya giri",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:56:56",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
