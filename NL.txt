@@ -19068,5 +19068,15 @@
     "CDATE": "2025-06-26 17:00:11",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Zaroorat (From \"Ek Villain\")",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:04:12",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
