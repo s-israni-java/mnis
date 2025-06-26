@@ -16308,5 +16308,45 @@
     "CDATE": "2025-06-26 15:17:27",
     "BATTERY": "29",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:17:27",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:17:27",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:17:27",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:22:57",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
