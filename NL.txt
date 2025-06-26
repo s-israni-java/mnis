@@ -26668,5 +26668,35 @@
     "CDATE": "2025-06-26 20:01:19",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:01:19",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:01:20",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by corporatevale",
+    "TITLE": "diya giri",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:02:38",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
