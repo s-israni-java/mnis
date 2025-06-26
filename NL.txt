@@ -14168,5 +14168,125 @@
     "CDATE": "2025-06-26 13:55:20",
     "BATTERY": "26",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 456 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:55:26",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 457 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 13:55:30",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 457 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-26 13:55:30",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:24",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:24",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Shop at Audible and redeem it now",
+    "TITLE": "You have an expiring reward",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:24",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:24",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:25",
+    "BATTERY": "24",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 27 Approved Get Outlook for Android From: Nisha Kadam <kadam.nisha@tcs.com> Sent: Thursday, June 26, 2025 10:13:24 AM To: NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kantak <sachin.kantak@tcs.com>; Dagmar Wolak <",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:29",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Re: Allowance Payments JUNE-25 - LOT NO - 27 • Approved Get Outlook for Android From: Nisha Kadam <kadam.nisha@tcs.com> Sent: Thursday, June 26, 2025 10:13:24 AM To: NEERAJ KALANTRI <neeraj.kalantri@tcs.com>; Sachin Kantak <sachin.kantak@tcs.com>; Dagmar Wolak <",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:29",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Slipped into your account\nUse your ₹125 Zepto Cash & order now 🤑",
+    "TITLE": "Some FREE cash 💵",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:31",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "added to their Story.",
+    "TITLE": "Varshu🦋",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:15:54",
+    "BATTERY": "24",
+    "ID": "false|varsha-paryani|25c05ecb-ee9e-43b4-91b7-95711c90fe0c"
   }
 ]
