@@ -10838,5 +10838,15 @@
     "CDATE": "2025-06-26 12:59:51",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "recently added to their Stories!",
+    "TITLE": "malvika and 3 others",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:56",
+    "BATTERY": "39",
+    "ID": "false|malvika and 3 others|bda6399e-75c8-428f-8cef-921c82f43ec7"
   }
 ]
