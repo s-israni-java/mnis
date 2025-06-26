@@ -1378,5 +1378,15 @@
     "CDATE": "2025-06-26 09:01:31",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla, Ikky, Preston Pablo",
+    "TITLE": "Admirin' You (feat. Preston Pablo)",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:01:31",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
