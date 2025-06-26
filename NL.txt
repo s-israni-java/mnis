@@ -10618,5 +10618,65 @@
     "CDATE": "2025-06-26 12:59:37",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:38",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:38",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ami Mishra, Kunaal Vermaa",
+    "TITLE": "Hasi - Male Version",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:38",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Get Amul Masti Dahi now with your Zepto Cash😋🛵",
+    "TITLE": "FREE curd for you😇",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:39",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:39",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 12:59:41",
+    "BATTERY": "39",
+    "ID": "918291418946@s.whatsapp.net"
   }
 ]
