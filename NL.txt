@@ -18658,5 +18658,25 @@
     "CDATE": "2025-06-26 16:39:34",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Expat pension payment_Jun25 Dear Simriti, PFA the upload receipt. Best regards \/ venlig hilsen Iman Nafie From: Simriti Basantani <simriti.basantani@tcs.com> Sent: Thursday, June 26, 2025 6:49 AM To: Iman Nafie <iman.nafie@tcs.com> Cc: Swapna Chaudankar <swapna.chauda",
+    "TITLE": "Iman Nafie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:42:36",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: DK_Expat pension payment_Jun25 • Dear Simriti, PFA the upload receipt. Best regards \/ venlig hilsen Iman Nafie From: Simriti Basantani <simriti.basantani@tcs.com> Sent: Thursday, June 26, 2025 6:49 AM To: Iman Nafie <iman.nafie@tcs.com> Cc: Swapna Chaudankar <swapna.chauda",
+    "TITLE": "Iman Nafie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:42:36",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
