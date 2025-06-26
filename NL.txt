@@ -22328,5 +22328,25 @@
     "CDATE": "2025-06-26 18:32:23",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:33:44",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 32 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:33:44",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
