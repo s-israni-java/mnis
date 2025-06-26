@@ -5738,5 +5738,35 @@
     "CDATE": "2025-06-26 10:21:02",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Your FREEEEE cash awaits!💵—We have credited FREE Zepto Cash only for you🤩\nShop anything you need with your ₹125 Zepto Cash now💸💸\nDon't miss the chance to save💥",
+    "TITLE": "Super Saver",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:21:02",
+    "BATTERY": "57",
+    "ID": "249"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:22:24",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 23.00 from A\/c X1248 on 26-JUN-2025\nUPI\/DR\/107066513649\/HungerBox\/YESB\/21107\nBal INR 9,499.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JD-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:22:25",
+    "BATTERY": "56",
+    "ID": "370"
   }
 ]
