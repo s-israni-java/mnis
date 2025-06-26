@@ -26698,5 +26698,35 @@
     "CDATE": "2025-06-26 20:02:38",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:02:49",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:02:49",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:02:50",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
