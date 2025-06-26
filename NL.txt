@@ -23758,5 +23758,25 @@
     "CDATE": "2025-06-26 19:14:01",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 34 • Approved and released Regards Neeraj Anil Kalantri Europe Finance Tata Consultancy Services Main Tower, 6th Floor Thurgauerstrasse 36\/38 8050 Zurich Switzerland Cell:- +41 79 5659579 Mailto: neeraj.kalantri@tcs.com Website: http:\/\/www.tcs.c",
+    "TITLE": "NEERAJ KALANTRI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:14:01",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:14:29",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
