@@ -23328,5 +23328,65 @@
     "CDATE": "2025-06-26 19:06:53",
     "BATTERY": "85",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:06:57",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:07:00",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:07:03",
+    "BATTERY": "85",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:08:07",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:08:08",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:08:08",
+    "BATTERY": "84",
+    "ID": "No ID"
   }
 ]
