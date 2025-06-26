@@ -14138,5 +14138,35 @@
     "CDATE": "2025-06-26 13:50:40",
     "BATTERY": "27",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 455 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:51:30",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by rvcjinsta",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:52:05",
+    "BATTERY": "26",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 456 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:55:20",
+    "BATTERY": "26",
+    "ID": "No ID"
   }
 ]
