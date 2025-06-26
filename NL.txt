@@ -26948,5 +26948,25 @@
     "CDATE": "2025-06-26 20:04:26",
     "BATTERY": "69",
     "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:04:37",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:04:37",
+    "BATTERY": "69",
+    "ID": "No ID"
   }
 ]
