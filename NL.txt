@@ -13878,5 +13878,25 @@
     "CDATE": "2025-06-26 13:24:45",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Payments JUNE-25 - LOT NO - 26 • Dear Approvers, Please approve and release Austria Expats salary payment as per attached sheet. Thanks & Regards, Aishwarya Dhere. Finance, Overseas Payroll Tata Consultancy Services Limited",
+    "TITLE": "Aishwarya Dhere",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:24:45",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:27:34",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
