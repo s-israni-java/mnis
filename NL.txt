@@ -21518,5 +21518,35 @@
     "CDATE": "2025-06-26 18:12:37",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:18:09",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:18:09",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:18:09",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
