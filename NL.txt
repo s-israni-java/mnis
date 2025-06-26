@@ -17218,5 +17218,25 @@
     "CDATE": "2025-06-26 16:01:55",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Add family numbers to your account & recharge in one go!\n",
+    "TITLE": "Say no to multiple recharges ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:55",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:04:05",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
