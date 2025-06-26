@@ -3728,5 +3728,25 @@
     "CDATE": "2025-06-26 09:35:09",
     "BATTERY": "68",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Sach m vo muskan k sath jati thi na...fir humare sath q aane lgi?",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:35:09",
+    "BATTERY": "68",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 09:36:22",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
