@@ -18,5 +18,35 @@
     "CDATE": "2025-06-26 08:46:48",
     "BATTERY": "76",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:46:48",
+    "BATTERY": "76",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:49:24",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 08:49:24",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
