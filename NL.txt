@@ -23818,5 +23818,75 @@
     "CDATE": "2025-06-26 19:14:31",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:14:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:14:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:14:31",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mitraz",
+    "TITLE": "Alfaazo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:18:09",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:18:09",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mitraz",
+    "TITLE": "Alfaazo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:18:09",
+    "BATTERY": "82",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mitraz",
+    "TITLE": "Alfaazo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:18:09",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
