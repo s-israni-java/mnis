@@ -4978,5 +4978,45 @@
     "CDATE": "2025-06-26 10:07:16",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Zara Sa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:07:16",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Zara Sa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:07:42",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Shreya Ghoshal",
+    "TITLE": "Teri Yaadon Mein",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:07:42",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Shreya Ghoshal",
+    "TITLE": "Teri Yaadon Mein",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:07:42",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
