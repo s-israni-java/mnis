@@ -25938,5 +25938,25 @@
     "CDATE": "2025-06-26 19:52:44",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Resume bhjeu",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:52:46",
+    "BATTERY": "72",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Enjoy",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:52:46",
+    "BATTERY": "72",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
