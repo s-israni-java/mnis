@@ -27858,5 +27858,15 @@
     "CDATE": "2025-06-26 21:11:36",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93736 58115‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:12:34",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
