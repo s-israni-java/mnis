@@ -25978,5 +25978,45 @@
     "CDATE": "2025-06-26 19:53:48",
     "BATTERY": "72",
     "ID": "370"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:53:48",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Resume bhjeu",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:55:44",
+    "BATTERY": "71",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Good",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:55:44",
+    "BATTERY": "71",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:55:44",
+    "BATTERY": "71",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
