@@ -21808,5 +21808,35 @@
     "CDATE": "2025-06-26 18:19:53",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: payroll June • Dear All, Madalina’s TCS Employee number has been generated. It is 2952624 Thank you With Best Regards Sandeep Sandeep Ghosh Head HR Eastern Europe, Italy & Switzerland Cell:- +41 797689902 From: Simriti Basantani <simriti.basantani@",
+    "TITLE": "Sandeep Ghosh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:19:53",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:21:39",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:21:39",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
