@@ -25188,5 +25188,35 @@
     "CDATE": "2025-06-26 19:42:58",
     "BATTERY": "76",
     "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa that is ok",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:42:58",
+    "BATTERY": "76",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:42:58",
+    "BATTERY": "76",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Us: Sending you love (and FLAT 65% OFF ) ♥️",
+    "TITLE": "🗣️ Find joy in lil’ things",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:43:04",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
