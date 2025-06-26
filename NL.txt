@@ -21508,5 +21508,15 @@
     "CDATE": "2025-06-26 18:12:14",
     "BATTERY": "94",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:12:37",
+    "BATTERY": "94",
+    "ID": "No ID"
   }
 ]
