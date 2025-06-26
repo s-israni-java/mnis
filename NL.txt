@@ -27978,5 +27978,25 @@
     "CDATE": "2025-06-26 21:47:09",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mumma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:47:10",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Wait, why imagine? That could be you! 🍰🍨",
+    "TITLE": "Imagine a cutie eatin’ cake…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 21:49:14",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
