@@ -14778,5 +14778,45 @@
     "CDATE": "2025-06-26 14:29:16",
     "BATTERY": "21",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK",
+    "TITLE": "Beete Lamhein (From \"The Train\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:29:16",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK",
+    "TITLE": "Beete Lamhein (From \"The Train\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:29:17",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK",
+    "TITLE": "Beete Lamhein (From \"The Train\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:29:17",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Power Saving Mode?",
+    "TITLE": "20% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:31:11",
+    "BATTERY": "20",
+    "ID": "No ID"
   }
 ]
