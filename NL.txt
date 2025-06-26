@@ -5628,5 +5628,115 @@
     "CDATE": "2025-06-26 10:20:51",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:51",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:52",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:52",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:52",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:52",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Mustafa Zahid",
+    "TITLE": "Toh Phir Aao",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:52",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:54",
+    "BATTERY": "57",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:20:54",
+    "BATTERY": "57",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 10:21:02",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
