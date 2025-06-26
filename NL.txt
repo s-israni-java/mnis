@@ -20798,5 +20798,35 @@
     "CDATE": "2025-06-26 17:52:53",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:52:53",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:52:54",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "Watch now: 'First Copy', starring Munawar Faruqui.",
+    "TITLE": "The real 90's masala",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:53:54",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
