@@ -4578,5 +4578,25 @@
     "CDATE": "2025-06-26 06:09:40",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Salman Khan",
+    "TITLE": "Main Hoon Hero Tera (Salman Khan Version)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:09:40",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Salman Khan",
+    "TITLE": "Main Hoon Hero Tera (Salman Khan Version)",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 06:09:40",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
