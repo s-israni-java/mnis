@@ -26528,5 +26528,35 @@
     "CDATE": "2025-06-26 20:01:14",
     "BATTERY": "70",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:01:18",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Jasleen Royal, Harshdeep Kaur, Siddharth Mahadevan, Aditya Sharma",
+    "TITLE": "Nachde Ne Saare",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:01:18",
+    "BATTERY": "70",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anuv Jain",
+    "TITLE": "Husn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 20:01:18",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
