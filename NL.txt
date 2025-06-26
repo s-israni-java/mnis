@@ -20628,5 +20628,45 @@
     "CDATE": "2025-06-26 17:26:30",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:26:30",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:26:30",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:26:30",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Buy Palekar Crispy Khari (200 gm) @ ₹68 ₹̶9̶0̶̶!",
+    "TITLE": "Chai sips need a crunch break ☕",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:36:34",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
