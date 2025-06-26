@@ -16448,5 +16448,45 @@
     "CDATE": "2025-06-26 15:48:17",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "Help strengthen the security of your Google Account",
+    "TITLE": "Google",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:48:17",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Get exclusive dining deals with 𝐮𝐩 𝐭𝐨 𝟓𝟎% 𝐎𝐅𝐅 at top restaurants.\nFrom: Swiggy Dineout",
+    "TITLE": "1 New Message 💬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:53:01",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:55:18",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED]FW: GT - TCS Romania Expats Payroll Information Jun 2025 • External Email : Be cautious while opening any links or attachments. Dear all, Please find attached the computation for June 2025. We updated the excel file with the night hours we sent previously. Kind regards, Alexandru Alexandru Simion Tax",
+    "TITLE": "Alexandru Simion",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 15:55:18",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
