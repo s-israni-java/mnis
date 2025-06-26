@@ -25348,5 +25348,15 @@
     "CDATE": "2025-06-26 19:44:53",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "saved your Snap in Chat",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 19:44:56",
+    "BATTERY": "75",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
   }
 ]
