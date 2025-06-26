@@ -22998,5 +22998,55 @@
     "CDATE": "2025-06-26 18:46:13",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:46:13",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:46:14",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Neeraj Shridhar",
+    "TITLE": "Tum Mile",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:46:14",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED][WARNING: MESSAGE ENCRYPTED]RE: payroll June External Email : Be cautious while opening any links or attachments. Thank you for providing the employee ID. Please find attached the payroll reports, which include Mădălina's TCS Employee number. Regards, Luminita Duta Senior Payroll & HR Admini",
+    "TITLE": "Luminita Duta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:47:56",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED][WARNING: MESSAGE ENCRYPTED]RE: payroll June • External Email : Be cautious while opening any links or attachments. Thank you for providing the employee ID. Please find attached the payroll reports, which include Mădălina's TCS Employee number. Regards, Luminita Duta Senior Payroll & HR Admini",
+    "TITLE": "Luminita Duta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:47:56",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
