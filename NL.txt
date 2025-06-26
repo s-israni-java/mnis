@@ -17148,5 +17148,75 @@
     "CDATE": "2025-06-26 16:01:29",
     "BATTERY": "79",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:29",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:29",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:34",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:34",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:34",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:34",
+    "BATTERY": "79",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Add family numbers to your account & recharge in one go!\n",
+    "TITLE": "Say no to multiple recharges ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:01:55",
+    "BATTERY": "80",
+    "ID": "No ID"
   }
 ]
