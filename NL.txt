@@ -13898,5 +13898,25 @@
     "CDATE": "2025-06-26 13:27:34",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "[WARNING: MESSAGE ENCRYPTED][WARNING: MESSAGE ENCRYPTED]RE: payroll June • External Email : Be cautious while opening any links or attachments. Dear Simriti, Please find attached the revised June reports, in accordance with the requirements from the email below. Kind regards, Luminita Duta Senior Payroll & HR Administ",
+    "TITLE": "Luminita Duta",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:27:34",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 13:29:19",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
