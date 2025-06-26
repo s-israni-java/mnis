@@ -22178,5 +22178,25 @@
     "CDATE": "2025-06-26 18:29:57",
     "BATTERY": "92",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:29:57",
+    "BATTERY": "92",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam",
+    "TITLE": "Dil Diyan Gallan",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:32:07",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
