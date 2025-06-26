@@ -19888,5 +19888,45 @@
     "CDATE": "2025-06-26 17:11:15",
     "BATTERY": "98",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:11:15",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:11:15",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:11:15",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:11:39",
+    "BATTERY": "98",
+    "ID": "No ID"
   }
 ]
