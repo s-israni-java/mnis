@@ -21838,5 +21838,35 @@
     "CDATE": "2025-06-26 18:21:39",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:21:39",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Antara Mitra",
+    "TITLE": "Janam Janam",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:21:39",
+    "BATTERY": "93",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 18:24:51",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
