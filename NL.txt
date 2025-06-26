@@ -28068,5 +28068,25 @@
     "CDATE": "2025-06-26 21:58:32",
     "BATTERY": "51",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ha",
+    "TITLE": "Harshita☮️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:03:49",
+    "BATTERY": "52",
+    "ID": "918999430306@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ek baar nisha ko bol",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:03:50",
+    "BATTERY": "52",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
