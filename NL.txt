@@ -17928,5 +17928,125 @@
     "CDATE": "2025-06-26 16:22:54",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:54",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:54",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:54",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:54",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Vilen",
+    "TITLE": "Ek Raat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:22:55",
+    "BATTERY": "99",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "The battery is full",
+    "TITLE": "Charging Complete",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 16:24:42",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
