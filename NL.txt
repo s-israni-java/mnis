@@ -15078,5 +15078,35 @@
     "CDATE": "2025-06-26 14:43:49",
     "BATTERY": "18",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:43:53",
+    "BATTERY": "18",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:43:58",
+    "BATTERY": "18",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.sos",
+    "SERVICE": "NL",
+    "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%.",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 14:48:09",
+    "BATTERY": "15",
+    "ID": "No ID"
   }
 ]
