@@ -23058,5 +23058,25 @@
     "CDATE": "2025-06-26 18:52:50",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 33 • Dear Approvers, Please approve and release Norway Expats salary payment as per attached sheet. Thanks and Regards Sumit Kalelkar TCS Finance",
+    "TITLE": "Sumit Kalelkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:52:50",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 33 Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 18:54:10",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
