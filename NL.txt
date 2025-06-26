@@ -28288,5 +28288,25 @@
     "CDATE": "2025-06-26 22:04:55",
     "BATTERY": "52",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "8 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:04:55",
+    "BATTERY": "52",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Aaj train mai laga",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-26 22:04:57",
+    "BATTERY": "52",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
