@@ -20248,5 +20248,35 @@
     "CDATE": "2025-06-26 17:17:22",
     "BATTERY": "98",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:17:23",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Gurinder Gill, Intense",
+    "TITLE": "Excuses",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:20:45",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sean Paul, Dua Lipa",
+    "TITLE": "No Lie",
+    "NETWORK": "W",
+    "CDATE": "2025-06-26 17:20:45",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
