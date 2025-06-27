@@ -28928,5 +28928,15 @@
     "CDATE": "2025-06-27 05:59:49",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:00:04",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
