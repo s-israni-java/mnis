@@ -44018,5 +44018,25 @@
     "CDATE": "2025-06-27 12:43:19",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Event: Expert Talk -  \"Data Privacy -Data Sharing\" by Hemalatha Vallam(Domain Consultant. CBG )| 27.06.2025; 3:00 pm -4.00 pm IST, via MS Teams) (Please ignore previous mail) • Dear Associate, Please join us on 27th June, Friday at 3:00 pm for the Expert Talk session on “Data Privacy- Data Sharing” by Hemlata Vallam(Domain Consultant. CBG ) Meeting Link: Click here to join this event Warm regards, Ruch",
+    "TITLE": "Wellspring Irc",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 12:43:19",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by explorerssaurus_",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 12:51:06",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
