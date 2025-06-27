@@ -43018,5 +43018,25 @@
     "CDATE": "2025-06-27 12:08:11",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 12:08:17",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 12:08:17",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
