@@ -57788,5 +57788,35 @@
     "CDATE": "2025-06-27 20:14:25",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:25",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Uska Hi Banana (From \"1920 Evil Returns\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:25",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use the Zepto Cash now to save on your order 😎",
+    "TITLE": "FREE ₹125 just got real 💸",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:35",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
