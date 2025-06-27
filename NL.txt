@@ -51858,5 +51858,35 @@
     "CDATE": "2025-06-27 18:19:21",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:19:24",
+    "BATTERY": "93",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:19:24",
+    "BATTERY": "93",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:862258 Emp#:715504 Dear Singh Paramhans<(>,<)> Emp No : 715504 Country : Czech Republic Settlement Request No : 862258 Travel Date out of \"Current Country\" : 29-APR-2025 Settlement Processed Da",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:19:58",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
