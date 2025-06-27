@@ -36558,5 +36558,25 @@
     "CDATE": "2025-06-27 10:26:08",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:27:35",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "₹2,070.00 due on Jul 1, 2025.",
+    "TITLE": "Due date for Mahavitaran - Maharashtra Electricity (MSEDCL) bill approaching",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:27:35",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
