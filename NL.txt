@@ -51228,5 +51228,35 @@
     "CDATE": "2025-06-27 17:31:38",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:38",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Automatic reply: Allowance Payments MAY-25 - LOT NO - 36 • not well . on leave today",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:38",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "Save regularly and earn great interest! Open a Recurring Deposit now! 🌟",
+    "TITLE": "💰 Start a Recurring Deposit Today! 🚀",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:34:57",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
