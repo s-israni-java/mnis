@@ -47548,5 +47548,35 @@
     "CDATE": "2025-06-27 15:15:52",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Add family numbers to your account & recharge for them easily!\n",
+    "TITLE": "Add, Recharge, Relax! ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:15:52",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:16:50",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:16:50",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
