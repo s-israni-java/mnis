@@ -35018,5 +35018,55 @@
     "CDATE": "2025-06-27 09:55:20",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:20",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:21",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:22",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:22",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:22",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
