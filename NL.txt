@@ -31608,5 +31608,35 @@
     "CDATE": "2025-06-27 08:31:22",
     "BATTERY": "96",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Utar",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 08:31:22",
+    "BATTERY": "96",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "wadhwa27 (wadhwa__27) has requested to follow you.",
+    "TITLE": "Follow request",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 08:40:56",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 08:40:56",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
