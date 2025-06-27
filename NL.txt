@@ -35238,5 +35238,25 @@
     "CDATE": "2025-06-27 09:55:33",
     "BATTERY": "87",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:33",
+    "BATTERY": "87",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Help hit today's order target & claim ₹50 FREE cash. 🏫",
+    "TITLE": "𝘾𝙞𝙩𝙮 𝙎𝙩𝙧𝙚𝙖𝙠𝙨 𝙗𝙚𝙜𝙞𝙣𝙨! ⚡",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:35",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
