@@ -28938,5 +28938,65 @@
     "CDATE": "2025-06-27 06:00:04",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching • Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:00:04",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:00:04",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click here to view all :- https:\/\/knome.ultimatix.net\/app\/blogposts\/945821",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:00:05",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:00:05",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RFC Expiry Notification - 24726085: Grant Shared Drive Access-Privilege\/Profile Access || RFC Expiry date : 05-JUL-25 • Dear SIMRITI BASANTANI, The following RFC is due to expire in 10 days. RFC Number: 24726085 RFC Title: Grant Shared Drive Access-Privilege\/Profile Access RFC Description: Shared Drive Access RFC Start Date: 09-JAN-25 RFC End Date: 05-JUL-25 Req",
+    "TITLE": "NextGenGHD",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:00:05",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "MOLIY, Silent Addy, Skillibeng, Shenseea",
+    "TITLE": "Shake It To The Max (FLY) - Remix",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 06:09:45",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
