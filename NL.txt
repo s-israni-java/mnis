@@ -57918,5 +57918,85 @@
     "CDATE": "2025-06-27 20:14:48",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 100%: for your daily high speed data limit. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:18:22",
+    "BATTERY": "69",
+    "ID": "486"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:18:27",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Data over? Get 1GB data loan at no extra cost. Data validity- 1 day. Dial *567*3# or reply 1 to avail. Get 1GB less with your next data recharge.",
+    "TITLE": "56321",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:18:28",
+    "BATTERY": "69",
+    "ID": "487"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:26:47",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 40% · Light rain · See full forecast",
+    "TITLE": "Tomorrow in Ulhasnagar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:26:48",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Wok away with this limited time deal at 8 pm! 🥢 😍",
+    "TITLE": "Noodles & Fried Rice at ₹1?",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 20:27:18",
+    "BATTERY": "68",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You know mai fees ki wajhe se",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 20:31:31",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You know mai fees ki wajhe se",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 20:31:32",
+    "BATTERY": "67",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
