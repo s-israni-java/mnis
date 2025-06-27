@@ -42838,5 +42838,105 @@
     "CDATE": "2025-06-27 11:58:48",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:58:48",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Mat Aazma Re",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:58:48",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:58:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:58:53",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:58:54",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:58:54",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:59:03",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hi Simi\n free h?",
+    "TITLE": "Shwetu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 12:05:05",
+    "BATTERY": "57",
+    "ID": "918805388855@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ek min",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 12:05:05",
+    "BATTERY": "57",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 messages from 2 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 12:05:05",
+    "BATTERY": "57",
+    "ID": "919920836844@s.whatsapp.net"
   }
 ]
