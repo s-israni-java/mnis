@@ -57818,5 +57818,25 @@
     "CDATE": "2025-06-27 20:14:35",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:39",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Enjoy this spotlight",
+    "TITLE": "Your memories are waiting",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:39",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
