@@ -45988,5 +45988,45 @@
     "CDATE": "2025-06-27 13:16:32",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Nikhil D'Souza",
+    "TITLE": "Mere Bina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:16:33",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Nikhil D'Souza",
+    "TITLE": "Mere Bina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:16:33",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Nikhil D'Souza",
+    "TITLE": "Mere Bina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:16:33",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:17:14",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
