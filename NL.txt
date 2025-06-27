@@ -58338,5 +58338,15 @@
     "CDATE": "2025-06-27 20:58:46",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hi, your number is ported-in to Airtel recently. Hope you are enjoying our network services. In case there is an unpaid amount against your number Reliance Jio (RJio) , we would request you to clear it. Please ignore if already paid.",
+    "TITLE": "AD-AIRMNP-P",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 20:59:18",
+    "BATTERY": "61",
+    "ID": "468"
   }
 ]
