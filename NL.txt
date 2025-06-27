@@ -31408,5 +31408,15 @@
     "CDATE": "2025-06-27 07:51:22",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "Vijay Mallya DESTROYED the youth",
+    "TITLE": "Abhi and Niyu",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 07:56:37",
+    "BATTERY": "99",
+    "ID": "No ID"
   }
 ]
