@@ -31388,5 +31388,25 @@
     "CDATE": "2025-06-27 07:51:19",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 70% · Rain showers · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 07:51:19",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use it to buy Jamun (250 gm) @ ₹115\nUse it to buy Litchi Muzaffarpur (250 gm) @ ₹106",
+    "TITLE": "Free ₹125 to fill your fridge 🤩",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 07:51:22",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
