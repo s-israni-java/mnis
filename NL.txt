@@ -37358,5 +37358,35 @@
     "CDATE": "2025-06-27 10:34:10",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 474 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:34:17",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 478 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:34:21",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 481 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:34:22",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
