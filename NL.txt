@@ -35528,5 +35528,55 @@
     "CDATE": "2025-06-27 10:02:58",
     "BATTERY": "84",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:02:58",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:02:58",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:02:58",
+    "BATTERY": "84",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Backbone",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:05:22",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:05:22",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
