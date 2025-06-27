@@ -48528,5 +48528,15 @@
     "CDATE": "2025-06-27 15:44:14",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Azizam",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 15:45:31",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
