@@ -35198,5 +35198,35 @@
     "CDATE": "2025-06-27 09:55:29",
     "BATTERY": "87",
     "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Diva's",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:30",
+    "BATTERY": "87",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "But I don't want to come to office",
+    "TITLE": "Diva's (2 messages): Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:30",
+    "BATTERY": "87",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Diva's",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:31",
+    "BATTERY": "87",
+    "ID": "120363382492371416@g.us"
   }
 ]
