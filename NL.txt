@@ -28838,5 +28838,35 @@
     "CDATE": "2025-06-27 05:59:21",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by shonalii11",
+    "TITLE": "diya giri",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 05:59:23",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 05:59:25",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 05:59:28",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
