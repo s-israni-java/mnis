@@ -58888,5 +58888,235 @@
     "CDATE": "2025-06-27 21:58:34",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "21%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:36",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "21%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:38",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:40",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:42",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "22%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:45",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "23%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "24%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:49",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "25%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:51",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "25%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "26%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:55",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "26%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:57",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "27%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:58:59",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "28%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:01",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "28%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:03",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "29%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:05",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "30%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:07",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "31%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:09",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "31%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:11",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "32%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:13",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "32%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:15",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "33%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:17",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "34%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:19",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "34%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:59:21",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
