@@ -31368,5 +31368,25 @@
     "CDATE": "2025-06-27 06:29:58",
     "BATTERY": "29",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "The battery is full",
+    "TITLE": "Charging Complete",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 07:35:13",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 07:51:19",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
