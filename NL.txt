@@ -35188,5 +35188,15 @@
     "CDATE": "2025-06-27 09:55:27",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Nisha Tcs: Yes",
+    "TITLE": "Diva's (2 messages): Replied to you",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:29",
+    "BATTERY": "87",
+    "ID": "120363382492371416@g.us"
   }
 ]
