@@ -46378,5 +46378,85 @@
     "CDATE": "2025-06-27 13:18:28",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:41",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:43",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:48",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:51",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:53",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:21:26",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:21:26",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Shankar Mahadevan, Alyssa Mendonsa",
+    "TITLE": "Uff Teri Adaa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:21:27",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
