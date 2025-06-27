@@ -31638,5 +31638,15 @@
     "CDATE": "2025-06-27 08:40:56",
     "BATTERY": "95",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Claim it!\nOrder now with Zepto Cash 💵",
+    "TITLE": "Woohoo! ₹125 FREE Cash 🥳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 08:54:44",
+    "BATTERY": "93",
+    "ID": "No ID"
   }
 ]
