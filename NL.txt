@@ -47418,5 +47418,85 @@
     "CDATE": "2025-06-27 14:55:45",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:05:36",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:05:36",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Missed video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:05:45",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:06:42",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:06:42",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:06:42",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:06:43",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 missed video calls",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:07:28",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
