@@ -45598,5 +45598,85 @@
     "CDATE": "2025-06-27 13:07:27",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:07:27",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:07:27",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:07:28",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:07:28",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Anand Raj Anand, Richa Sharma",
+    "TITLE": "Billo Rani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:07:28",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Reacted 😂 to your message.",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:10:06",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:864277 Emp#:2042798 Dear Nagaraju Maddila, Emp No : 2042798 Settlement Request No : 864277 Country : ROMANIA Settlement Processed Date : 27-JUN-2025 Travel Date : 28-JUN-2025 Your settlement has been processed",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:11:31",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:864277 Emp#:2042798 • Dear Nagaraju Maddila, Emp No : 2042798 Settlement Request No : 864277 Country : ROMANIA Settlement Processed Date : 27-JUN-2025 Travel Date : 28-JUN-2025 Your settlement has been processed",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:11:32",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
