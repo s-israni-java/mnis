@@ -51078,5 +51078,45 @@
     "CDATE": "2025-06-27 17:31:16",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:16",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:17",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:17",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:17",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
