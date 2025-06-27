@@ -51268,5 +51268,15 @@
     "CDATE": "2025-06-27 17:43:58",
     "BATTERY": "96",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 30.00 from A\/c X1248 on 27-JUN-2025\nUPI\/DR\/107139400172\/Vaishali Pratap Mohi\nBal INR 9,229.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JX-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:44:34",
+    "BATTERY": "95",
+    "ID": "422"
   }
 ]
