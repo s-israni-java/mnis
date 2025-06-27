@@ -46028,5 +46028,355 @@
     "CDATE": "2025-06-27 13:17:14",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "shared a Snap with you!",
+    "TITLE": "mayur886",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:17:15",
+    "BATTERY": "47",
+    "ID": "false|mayur886|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Nikhil D'Souza",
+    "TITLE": "Mere Bina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:04",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:04",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:04",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:04",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:04",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:05",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:06",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:13",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:14",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥⏳",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:14",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:16",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:18",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:18",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Pritam",
+    "TITLE": "Tu Jaane Na",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:19",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Arijit Singh",
+    "TITLE": "Tainu Khabar Nahi - From \"Munjya\"",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Gugu♥️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:20",
+    "BATTERY": "47",
+    "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:28",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages …",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:18:28",
+    "BATTERY": "47",
+    "ID": "No ID"
   }
 ]
