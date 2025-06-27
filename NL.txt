@@ -36718,5 +36718,25 @@
     "CDATE": "2025-06-27 10:32:08",
     "BATTERY": "75",
     "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Akhil",
+    "TITLE": "Khaab",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:32:37",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:32:37",
+    "BATTERY": "75",
+    "ID": "No ID"
   }
 ]
