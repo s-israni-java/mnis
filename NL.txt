@@ -36408,5 +36408,45 @@
     "CDATE": "2025-06-27 10:24:46",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:24:46",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:24:46",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:24:47",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AUR",
+    "TITLE": "Chal Diye Tum Kahan (From \"Kabhi Main Kabhi Tum\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:26:06",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
