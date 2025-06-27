@@ -47528,5 +47528,25 @@
     "CDATE": "2025-06-27 15:11:37",
     "BATTERY": "35",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: Task Overdue Report - FY 24-25 & FY 25-26 • Dear All, There are many overdue tasks for the ES team. The below is the overview of tasks which should have been completed by 15th June, there are some more pending for the 2nd half of June as well. Request you to clear these asap and latest by Mond",
+    "TITLE": "Sandra Ondunk - Van Der Meij",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:11:37",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Add family numbers to your account & recharge for them easily!\n",
+    "TITLE": "Add, Recharge, Relax! ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:15:52",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
