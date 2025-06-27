@@ -43988,5 +43988,25 @@
     "CDATE": "2025-06-27 12:39:08",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Cheers!—You've got FREE cash waiting in your JioMart wallet - use it NOW for your next order on JioMart!",
+    "TITLE": "JioMart",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 12:39:09",
+    "BATTERY": "54",
+    "ID": "504"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Cheers!—You've got FREE cash waiting in your JioMart wallet - use it NOW for your next order on JioMart!",
+    "TITLE": "JioMart",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 12:39:10",
+    "BATTERY": "54",
+    "ID": "504"
   }
 ]
