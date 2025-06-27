@@ -59818,5 +59818,625 @@
     "CDATE": "2025-06-27 22:01:35",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "83%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:37",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "84%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:39",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "85%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:41",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "86%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:43",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "87%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:45",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "87%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "87%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:49",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "88%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:51",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "88%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "89%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:55",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "90%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:57",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "90%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:59",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "91%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:01",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "92%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:03",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "93%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:05",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "93%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:07",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "94%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:09",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "95%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:11",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "95%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:13",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "96%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:15",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "96%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:17",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "97%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:19",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "98%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:21",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "99%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:23",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "Squid Game\nS3:E1 - Keys and Knives",
+    "TITLE": "Download completed",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:02:24",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "You should send goobye if you never ever want to see me again",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:30:40",
+    "BATTERY": "51",
+    "ID": "41"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:30:55",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Goodbye*",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:30:55",
+    "BATTERY": "51",
+    "ID": "41"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:33:53",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:33:54",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:33:55",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:34:09",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:37:51",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:37:52",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar Mom",
+    "TITLE": "Missed call",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:38:21",
+    "BATTERY": "51",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 22:38:21",
+    "BATTERY": "51",
+    "ID": "2673i5be8ebf70ce83257.3789r182-4E2A362A4C424642"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 76204 95477‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 23:01:45",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 23:01:45",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 23:01:46",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "2 missed calls",
+    "TITLE": "Missed calls",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 23:02:15",
+    "BATTERY": "50",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar Mom",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 23:02:15",
+    "BATTERY": "50",
+    "ID": "2673i5be8ebf70ce83257.3789r182-4E2A362A4C424642"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:38:50",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:38:50",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:38:51",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "3 missed calls",
+    "TITLE": "Missed calls",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:39:20",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:39:20",
+    "BATTERY": "49",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:39:36",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:39:37",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:39:37",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "4 missed calls",
+    "TITLE": "Missed calls",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:06",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:07",
+    "BATTERY": "49",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:17",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:17",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:18",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "5 missed calls",
+    "TITLE": "Missed calls",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:47",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:40:47",
+    "BATTERY": "48",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:45:50",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:45:50",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "6 missed calls",
+    "TITLE": "Missed calls",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:46:20",
+    "BATTERY": "48",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 00:46:20",
+    "BATTERY": "48",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 01:42:04",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You should send goobye if you never ever want to see me again",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 01:42:04",
+    "BATTERY": "47",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
