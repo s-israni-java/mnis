@@ -35308,5 +35308,15 @@
     "CDATE": "2025-06-27 09:55:48",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:53",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
