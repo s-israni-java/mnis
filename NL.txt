@@ -40428,5 +40428,105 @@
     "CDATE": "2025-06-27 11:10:57",
     "BATTERY": "66",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Azizam",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:10:57",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Azizam",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:10:57",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Ed Sheeran",
+    "TITLE": "Azizam",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:10:57",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "You've got a Memory to look back on",
+    "TITLE": "Team Snapchat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:11:03",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "You've got a Memory to look back on",
+    "TITLE": "Team Snapchat",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:11:03",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haan",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:11:06",
+    "BATTERY": "66",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yessss",
+    "TITLE": "Diva's (6 messages): Nayan Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:11:06",
+    "BATTERY": "66",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haaa",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:11:06",
+    "BATTERY": "66",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "9 messages from 3 chats",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:11:06",
+    "BATTERY": "66",
+    "ID": "918291418946@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 159.00 from A\/c X1248 on 27-JUN-2025\nUPI\/DR\/107119434990\/SUJATA ENTERPRISES P\nBal INR 9,259.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JD-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 11:12:15",
+    "BATTERY": "65",
+    "ID": "370"
   }
 ]
