@@ -47508,5 +47508,25 @@
     "CDATE": "2025-06-27 15:08:34",
     "BATTERY": "35",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:08:34",
+    "BATTERY": "35",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: Task Overdue Report - FY 24-25 & FY 25-26 Dear All, There are many overdue tasks for the ES team. The below is the overview of tasks which should have been completed by 15th June, there are some more pending for the 2nd half of June as well. Request you to clear these asap and latest by Mond",
+    "TITLE": "Sandra Ondunk - Van Der Meij",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 15:11:37",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
