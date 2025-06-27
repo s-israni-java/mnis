@@ -59538,5 +59538,285 @@
     "CDATE": "2025-06-27 22:00:41",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "68%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:43",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "69%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:45",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "70%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:47",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "70%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:49",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "70%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:51",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "70%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:53",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Wants to send you a message.",
+    "TITLE": "Deepak __72",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:54",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "70%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:55",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "71%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:57",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "71%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:00:59",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "71%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:01",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "72%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:03",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "72%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:05",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "72%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:07",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "73%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:09",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "73%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:11",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "75%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:13",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "76%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:15",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "76%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:17",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "77%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:19",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "77%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:21",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "79%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:23",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "80%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:25",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "80%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:27",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "81%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:29",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "81%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:31",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "82%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:33",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "82%",
+    "TITLE": "Squid Game",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 22:01:35",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
