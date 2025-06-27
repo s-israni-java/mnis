@@ -28618,5 +28618,95 @@
     "CDATE": "2025-06-26 22:56:56",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:15 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:01:01",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:15 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:15:02",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:20 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:15:08",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:30 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:18:19",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:19:31",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:20:39",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 05:31:13",
+    "BATTERY": "38",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 05:59:03",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 05:59:04",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
