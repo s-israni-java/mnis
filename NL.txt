@@ -57898,5 +57898,25 @@
     "CDATE": "2025-06-27 20:14:44",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Get up to 100% bonus UC, buy Google Play recharge code now",
+    "TITLE": "Don’t miss the cashback!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:44",
+    "BATTERY": "71",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "EXPOSING TRAITORS ft. @Puravjha_ @raftaarmusic",
+    "TITLE": "🔴 Tanmay Bhat: Premiere",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 20:14:48",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
