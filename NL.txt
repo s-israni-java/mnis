@@ -51118,5 +51118,45 @@
     "CDATE": "2025-06-27 17:31:17",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:18",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:18",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+    "TITLE": "Aaj Ki Raat (From \"Stree 2\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:18",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Thanks App shows calls you missed when you were offline \n",
+    "TITLE": "Did you know? 🤓 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:20",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
