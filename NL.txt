@@ -48918,5 +48918,35 @@
     "CDATE": "2025-06-27 15:53:39",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Fw: Urgent Assistance Required: Pending Frozen Holiday Fund Payment for 2020-2021 to Danish Tax Agency, MR. Saurav Sharma (1416137) • Dear Sachin, You have seriously forwarded my mail?! My mail was addressed to you, not to Saurav. The request was for you to draft an e-mail reiterating what has been communicated earlier. You cannot simply forward my mail! Best regards, Sandra O",
+    "TITLE": "Sandra Ondunk - Van Der Meij",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 15:53:39",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 15:54:39",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "David Guetta, OneRepublic",
+    "TITLE": "I Don't Wanna Wait",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 15:54:39",
+    "BATTERY": "65",
+    "ID": "No ID"
   }
 ]
