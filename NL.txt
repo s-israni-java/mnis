@@ -51158,5 +51158,55 @@
     "CDATE": "2025-06-27 17:31:20",
     "BATTERY": "97",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Thanks App shows calls you missed when you were offline \n",
+    "TITLE": "Did you know? 🤓 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:20",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Apply FLASH150 and get ₹150 off too 🪄",
+    "TITLE": "Yup, ₹125 FREE cash for you 😎",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:21",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "…and bills dropping faster. Coz 𝐅𝐥𝐚𝐭 𝟓𝟎% 𝐎𝐅𝐅 at 𝐚𝐛𝐜𝐨𝐟𝐟𝐞𝐞. Book now!",
+    "TITLE": "Tables filling fast… 🏃",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:22",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:28",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Recharge your mobile for ₹149+ and get 100% cashback up to ₹299 on Amazon Prime gift card",
+    "TITLE": "Recharge and get 100% cashback on Gift card",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 17:31:29",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
