@@ -60668,5 +60668,35 @@
     "CDATE": "2025-06-28 01:42:17",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "NARESH_NOVELTIES (naresh_novelties) has requested to follow you.",
+    "TITLE": "Follow request",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 01:42:29",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 01:42:30",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Compliance Tasks Due Date Approaching Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 01:44:20",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
