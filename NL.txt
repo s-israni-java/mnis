@@ -45678,5 +45678,15 @@
     "CDATE": "2025-06-27 13:11:32",
     "BATTERY": "48",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Nikhil D'Souza",
+    "TITLE": "Mere Bina",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 13:12:55",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
