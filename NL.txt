@@ -58348,5 +58348,325 @@
     "CDATE": "2025-06-27 20:59:18",
     "BATTERY": "61",
     "ID": "468"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 93234 74737‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:21:49",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:21:49",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Papa",
+    "TITLE": "Missed call",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:22:18",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:22:18",
+    "BATTERY": "58",
+    "ID": "2673i2cc7ee610f5d656e.2673i25c87b1b8e2cb48a.3789r194-482A482A.3789r224-482A482A"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "+91 93234 74737",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:23:14",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:23:14",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:23:14",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:37:13",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:37:13",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:37:14",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 21:37:38",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Syncing new emails",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 21:50:09",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Maine squid game s3 dekha",
+    "TITLE": "Diva's: Nayan Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 21:50:11",
+    "BATTERY": "55",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Nayan Tcs: Maine squid game s3 dekha",
+    "TITLE": "Diva's",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 21:50:11",
+    "BATTERY": "55",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tumlog bhi dekho jaldi",
+    "TITLE": "Diva's (2 messages): Nayan Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 21:50:11",
+    "BATTERY": "55",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Diva's",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 21:50:11",
+    "BATTERY": "55",
+    "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 21:50:11",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: ATP Hi Simriti, As discussed today on teams, please find attached ATP payment statement for Q1 2025 and kindly note this payment will be auto deducted on 1st Jul 2025 from TCS bank account. You need to checked the same in bank statement and once done ac",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:28",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: ATP • Hi Simriti, As discussed today on teams, please find attached ATP payment statement for Q1 2025 and kindly note this payment will be auto deducted on 1st Jul 2025 from TCS bank account. You need to checked the same in bank statement and once done ac",
+    "TITLE": "Vasanti More",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:28",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "So you can shop more and spend less with Zepto Cash🤑",
+    "TITLE": "Up to ₹150 FREE 💸",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:29",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "5 must reads for the weekend",
+    "TITLE": "EY via LinkedIn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "5 must reads for the weekend",
+    "TITLE": "EY via LinkedIn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "5 must reads for the weekend",
+    "TITLE": "EY via LinkedIn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "5 must reads for the weekend",
+    "TITLE": "EY via LinkedIn",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:30",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Yep, we're serious 😎\nOrder with ₹125 Zepto Cash",
+    "TITLE": "FREE cash? Buddy",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:34",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:34",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "Small tattoos for Simi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:50:34",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "M at thane",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:51:53",
+    "BATTERY": "54",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "M at thane",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:51:53",
+    "BATTERY": "54",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Calling…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:52:08",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:52:19",
+    "BATTERY": "54",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 21:52:19",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
