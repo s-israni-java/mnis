@@ -35068,5 +35068,35 @@
     "CDATE": "2025-06-27 09:55:22",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:22",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:22",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by 2am.nytdreamer",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:24",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
