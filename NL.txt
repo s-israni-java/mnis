@@ -37618,5 +37618,225 @@
     "CDATE": "2025-06-27 10:35:28",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:35:37",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:35:44",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:35:50",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:36:27",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:36:27",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:36:27",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:36:27",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:36:58",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:36:58",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "W",
+    "CDATE": "2025-06-27 10:37:01",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:08",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:08",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:08",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:08",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:08",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:08",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:09",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:09",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:09",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:09",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harrdy Sandhu, Jaani",
+    "TITLE": "Dance Like",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-27 10:37:09",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:37:11",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
