@@ -51888,5 +51888,85 @@
     "CDATE": "2025-06-27 18:19:58",
     "BATTERY": "92",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:862258 Emp#:715504 • Dear Singh Paramhans<(>,<)> Emp No : 715504 Country : Czech Republic Settlement Request No : 862258 Travel Date out of \"Current Country\" : 29-APR-2025 Settlement Processed Da",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:19:59",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:19:59",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Allowance Settlement Request:862879 Emp#:532383 • Dear MURALI NARESH KUMAR<(>,<)> Emp No : 532383 Country : Czech Republic Settlement Request No : 862879 Travel Date out of \"Current\" Country: 26-JUN-2025 Settlement Processed Da",
+    "TITLE": "Intpayroll Settlements",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:20:00",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:20:00",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: Allowance Payments MAY-25 - LOT NO - 36 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:20:00",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:20:01",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: CZ_Expat Tax Payment_Jun25 • Approved Thanx N Best Regards Sachin Kantak Head – Employee Services – Europe Region TCS Netherlands, Amsterdam c\/o Tata Consultancy Services Ltd. Symphony Office 20th -21st Floor Gustav Mahlerplein 85 - 91 Amsterdam - 1082 MS The Netherlan",
+    "TITLE": "Sachin Kantak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:20:01",
+    "BATTERY": "92",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:20:01",
+    "BATTERY": "92",
+    "ID": "No ID"
   }
 ]
