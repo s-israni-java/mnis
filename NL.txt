@@ -54368,5 +54368,45 @@
     "CDATE": "2025-06-27 18:40:14",
     "BATTERY": "86",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Sunanda Sharma",
+    "TITLE": "Tere Naal Nachna (From \"Nawabzaade\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:40:14",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Sunanda Sharma",
+    "TITLE": "Tere Naal Nachna (From \"Nawabzaade\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:40:14",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Badshah, Sunanda Sharma",
+    "TITLE": "Tere Naal Nachna (From \"Nawabzaade\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:40:14",
+    "BATTERY": "86",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Armaan Malik",
+    "TITLE": "Jab Tak",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:42:48",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
