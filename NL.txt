@@ -55308,5 +55308,55 @@
     "CDATE": "2025-06-27 18:49:40",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Neeraj Shridhar, Neeti Mohan",
+    "TITLE": "Caller Tune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:40",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Neeraj Shridhar, Neeti Mohan",
+    "TITLE": "Caller Tune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:40",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Ensure 1GB with a quick top-up, starting at ₹22\n",
+    "TITLE": "90% Data over ⚠️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:42",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Ensure 1GB with a quick top-up, starting at ₹22\n",
+    "TITLE": "90% Data over ⚠️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:42",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Neeraj Shridhar, Neeti Mohan",
+    "TITLE": "Caller Tune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:42",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
