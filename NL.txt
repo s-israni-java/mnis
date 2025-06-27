@@ -35318,5 +35318,55 @@
     "CDATE": "2025-06-27 09:55:53",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:54",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:54",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:54",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Karan Aujla",
+    "TITLE": "Tauba Tauba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:55:54",
+    "BATTERY": "87",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Order now with your Zepto Cash😋",
+    "TITLE": "🖐️Stop🖐️ Here's some FREE sugar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 09:56:47",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
