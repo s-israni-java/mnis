@@ -31528,5 +31528,25 @@
     "CDATE": "2025-06-27 08:20:23",
     "BATTERY": "98",
     "ID": "120363382492371416@g.us"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 08:20:25",
+    "BATTERY": "98",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 08:20:25",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
