@@ -36578,5 +36578,25 @@
     "CDATE": "2025-06-27 10:27:35",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Diljit Dosanjh",
+    "TITLE": "Lemonade",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:28:53",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "The PropheC, Ezu",
+    "TITLE": "Dilawara",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 10:28:53",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
