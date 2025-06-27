@@ -55358,5 +55358,55 @@
     "CDATE": "2025-06-27 18:49:42",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Neeraj Shridhar, Neeti Mohan",
+    "TITLE": "Caller Tune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:42",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Neeraj Shridhar, Neeti Mohan",
+    "TITLE": "Caller Tune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:43",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Neeraj Shridhar, Neeti Mohan",
+    "TITLE": "Caller Tune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:49:43",
+    "BATTERY": "83",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Now i understand why you dont tell ppl about your teeth...they will judge you",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:54:36",
+    "BATTERY": "82",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Now i understand why you dont tell ppl about your teeth...they will judge you",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-27 18:54:36",
+    "BATTERY": "82",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
