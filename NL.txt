@@ -868,5 +868,25 @@
     "CDATE": "2025-06-28 20:26:52",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:39",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "is typing ...",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:39",
+    "BATTERY": "67",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
   }
 ]
