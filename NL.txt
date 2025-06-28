@@ -2018,5 +2018,25 @@
     "CDATE": "2025-06-28 12:08:36",
     "BATTERY": "35",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ok...",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:08:36",
+    "BATTERY": "35",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:08:39",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
