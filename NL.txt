@@ -2708,5 +2708,25 @@
     "CDATE": "2025-06-28 12:28:52",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 missed video calls",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:28:54",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by loftinadventures",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:31:18",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
