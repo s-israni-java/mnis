@@ -63538,5 +63538,25 @@
     "CDATE": "2025-06-28 09:46:41",
     "BATTERY": "13",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Jo post dala hai vo hata",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:47:07",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Replied to your story: Actually this is mine....i do so much for ppl..but no once asks me...",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:49:19",
+    "BATTERY": "12",
+    "ID": "No ID"
   }
 ]
