@@ -5388,5 +5388,15 @@
     "CDATE": "2025-06-28 15:39:45",
     "BATTERY": "17",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 200.00 from A\/c X1248 on 28-JUN-2025\nUPI\/DR\/107185798377\/Sagar Israni\/IDFB\/10\nBal INR 9,029.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JK-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:39:53",
+    "BATTERY": "17",
+    "ID": "375"
   }
 ]
