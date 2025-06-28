@@ -19048,5 +19048,35 @@
     "CDATE": "2025-06-28 21:31:03",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Process Initiated!\nWe have started the process to verify your mobile number for HDFC Bank MobileBanking App.\nNot you? Call 18002586161",
+    "TITLE": "AD-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:31:03",
+    "BATTERY": "52",
+    "ID": "385"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is processing an incoming message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:31:04",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Process Initiated!\nWe have started the process to verify your mobile number for HDFC Bank MobileBanking App.\nNot you? Call 18002586161",
+    "TITLE": "AD-HDFCBK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:32:22",
+    "BATTERY": "52",
+    "ID": "385"
   }
 ]
