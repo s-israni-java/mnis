@@ -4198,5 +4198,15 @@
     "CDATE": "2025-06-28 14:01:55",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:06:52",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
