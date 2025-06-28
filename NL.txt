@@ -5848,5 +5848,15 @@
     "CDATE": "2025-06-28 17:14:11",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by kuldeepsinghlabana05",
+    "TITLE": "Tanvi Aakash Ahuja",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:26:44",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
