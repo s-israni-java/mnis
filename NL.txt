@@ -6068,5 +6068,15 @@
     "CDATE": "2025-06-28 17:56:49",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "Heartwarming, funny & relatable. Watch 'Panchayat'- new season on Prime Video.",
+    "TITLE": "Welcome to Phulera!🏡",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 18:03:43",
+    "BATTERY": "85",
+    "ID": "No ID"
   }
 ]
