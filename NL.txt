@@ -62088,5 +62088,15 @@
     "CDATE": "2025-06-28 09:16:41",
     "BATTERY": "22",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Power Saving Mode?",
+    "TITLE": "20% battery",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:20:11",
+    "BATTERY": "20",
+    "ID": "No ID"
   }
 ]
