@@ -5368,5 +5368,25 @@
     "CDATE": "2025-06-28 15:39:29",
     "BATTERY": "17",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:39:29",
+    "BATTERY": "17",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:39:45",
+    "BATTERY": "17",
+    "ID": "No ID"
   }
 ]
