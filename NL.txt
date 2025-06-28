@@ -60838,5 +60838,25 @@
     "CDATE": "2025-06-28 08:33:09",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 40% · Light rain · See full forecast",
+    "TITLE": "Today in Ulhasnagar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:09",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use it to buy \n>> Avocado Hass Imported @ ₹86\n>> Banana Robusta (4 pcs) @ ₹39",
+    "TITLE": "Got ₹125 FREE? 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:19",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
