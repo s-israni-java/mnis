@@ -1718,5 +1718,115 @@
     "CDATE": "2025-06-28 10:36:34",
     "BATTERY": "6",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "8% battery",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 10:39:08",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 10:44:55",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 10:44:55",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 10:44:57",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 10:45:08",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 10:45:08",
+    "BATTERY": "13",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 11:04:32",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 11:04:33",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 11:04:41",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 11:04:41",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 11:50:50",
+    "BATTERY": "34",
+    "ID": "No ID"
   }
 ]
