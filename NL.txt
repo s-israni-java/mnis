@@ -3848,5 +3848,15 @@
     "CDATE": "2025-06-28 13:46:02",
     "BATTERY": "41",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Downloading",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:46:04",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
