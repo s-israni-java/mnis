@@ -5638,5 +5638,25 @@
     "CDATE": "2025-06-28 16:03:44",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: TNDL JE Seldom Users Apr - May'25 External Email : Be cautious while opening any links or attachments. Dear Simriti, Please share the response for the below trail at its earliest. Regards, Chirag Paliwal From: Harshil Shah <harshil.dshah@tcs.com> Sent: Friday, June 20, 202",
+    "TITLE": "Paliwal, Chirag",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:15:06",
+    "BATTERY": "32",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: TNDL JE Seldom Users Apr - May'25 • External Email : Be cautious while opening any links or attachments. Dear Simriti, Please share the response for the below trail at its earliest. Regards, Chirag Paliwal From: Harshil Shah <harshil.dshah@tcs.com> Sent: Friday, June 20, 202",
+    "TITLE": "Paliwal, Chirag",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:15:06",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
