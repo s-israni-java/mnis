@@ -1408,5 +1408,15 @@
     "CDATE": "2025-06-28 09:56:50",
     "BATTERY": "10",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message: Hata chuki kbka",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:56:58",
+    "BATTERY": "10",
+    "ID": "No ID"
   }
 ]
