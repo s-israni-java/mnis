@@ -3478,5 +3478,25 @@
     "CDATE": "2025-06-28 13:36:24",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "📸 7 years ago, on 27 June 2018...",
+    "TITLE": "Simriti Basantani✨",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:36:24",
+    "BATTERY": "44",
+    "ID": "false|Simriti Basantani✨|7439e0fa-13e6-4f3d-a1a5-9634dd6dd43f"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:37:50",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
