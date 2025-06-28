@@ -5938,5 +5938,15 @@
     "CDATE": "2025-06-28 17:35:13",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "Quickly pay bills and recharge your mobile, DTH, or data card with NetBanking! It’s fast and secure! 🌟",
+    "TITLE": "🌟 Pay Bills & Recharge on NetBanking! 💰",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:40:31",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
