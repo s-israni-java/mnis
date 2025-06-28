@@ -60868,5 +60868,45 @@
     "CDATE": "2025-06-28 08:33:25",
     "BATTERY": "35",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RFC Open for Revocation: 24726085: Grant Shared Drive Access-Privilege\/Profile Access || RFC Expiry date : 05-JUL-25 Dear SIMRITI BASANTANI, This is to notify that the following RFC raised for 'Individual' is open for revocation. RFC Number: 24726085 RFC Title: Grant Shared Drive Access-Privilege\/Profile Access RFC Description: Shared Drive Access RFC Start Date:",
+    "TITLE": "NextGenGHD",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:28",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RFC Open for Revocation: 24726085: Grant Shared Drive Access-Privilege\/Profile Access || RFC Expiry date : 05-JUL-25 • Dear SIMRITI BASANTANI, This is to notify that the following RFC raised for 'Individual' is open for revocation. RFC Number: 24726085 RFC Title: Grant Shared Drive Access-Privilege\/Profile Access RFC Description: Shared Drive Access RFC Start Date:",
+    "TITLE": "NextGenGHD",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:28",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:28",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "TCS CSP SEED Hiring • Know more: https:\/\/on.tcs.com\/3TuLhhI",
+    "TITLE": "TCS Careers",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:28",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
