@@ -5418,5 +5418,25 @@
     "CDATE": "2025-06-28 15:45:00",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "recently added to their Stories!",
+    "TITLE": "Kashish C and 3 others",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:45:00",
+    "BATTERY": "20",
+    "ID": "false|Kashish C and 3 others|b13ebdac-376b-4dfa-bd15-dbb03173a4fc"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Unacceptable!!!\nTap to shop with Zepto Cash 🤑",
+    "TITLE": "Missing up to ₹125 free cash? 😱",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:51:37",
+    "BATTERY": "24",
+    "ID": "No ID"
   }
 ]
