@@ -4068,5 +4068,35 @@
     "CDATE": "2025-06-28 13:50:51",
     "BATTERY": "40",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:50:51",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:50:51",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "Close all Incognito tabs",
+    "TITLE": "Incognito Tabs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:57:15",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
