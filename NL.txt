@@ -5218,5 +5218,25 @@
     "CDATE": "2025-06-28 14:55:38",
     "BATTERY": "27",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "liked your story.",
+    "TITLE": "भविश दूरका",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:04:22",
+    "BATTERY": "24",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:04:22",
+    "BATTERY": "24",
+    "ID": "No ID"
   }
 ]
