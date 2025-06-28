@@ -3768,5 +3768,35 @@
     "CDATE": "2025-06-28 13:41:32",
     "BATTERY": "43",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:41:34",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:41:34",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Downloading",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:42:32",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
