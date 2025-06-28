@@ -1948,5 +1948,25 @@
     "CDATE": "2025-06-28 11:51:28",
     "BATTERY": "34",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 11:51:28",
+    "BATTERY": "34",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Story ",
+    "TITLE": "Dikshu Gurdasani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 11:52:05",
+    "BATTERY": "34",
+    "ID": "false|Dikshu Gurdasani|ad5671be-3b41-4769-ac56-b60240925b08"
   }
 ]
