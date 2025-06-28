@@ -1998,5 +1998,15 @@
     "CDATE": "2025-06-28 11:54:24",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Wraps & Shawarmas slashed to just ₹29! 🔥",
+    "TITLE": "Faasos Flash Offer! 🌯",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:05:24",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
