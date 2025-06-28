@@ -6138,5 +6138,35 @@
     "CDATE": "2025-06-28 18:31:22",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 18:31:25",
+    "BATTERY": "82",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 50%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 18:34:37",
+    "BATTERY": "82",
+    "ID": "486"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "Close all Incognito tabs",
+    "TITLE": "Incognito Tabs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 18:42:52",
+    "BATTERY": "80",
+    "ID": "No ID"
   }
 ]
