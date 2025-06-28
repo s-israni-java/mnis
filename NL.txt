@@ -19078,5 +19078,15 @@
     "CDATE": "2025-06-28 21:32:22",
     "BATTERY": "52",
     "ID": "385"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by sora_parayal",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:51:41",
+    "BATTERY": "50",
+    "ID": "No ID"
   }
 ]
