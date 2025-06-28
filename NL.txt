@@ -18688,5 +18688,35 @@
     "CDATE": "2025-06-28 21:21:35",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:21:35",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:21:38",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:21:38",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
