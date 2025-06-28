@@ -938,5 +938,25 @@
     "CDATE": "2025-06-28 20:28:46",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "🌧️ 35% · Light rain · See full forecast",
+    "TITLE": "Tomorrow in Thane",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:46",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:48",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
