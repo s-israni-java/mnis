@@ -5998,5 +5998,15 @@
     "CDATE": "2025-06-28 17:52:15",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:52:16",
+    "BATTERY": "87",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
   }
 ]
