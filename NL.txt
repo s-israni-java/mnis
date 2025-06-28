@@ -3428,5 +3428,45 @@
     "CDATE": "2025-06-28 13:35:55",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Downloading",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:35:57",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:35:57",
+    "BATTERY": "44",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Bhavna Tcs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:35:57",
+    "BATTERY": "44",
+    "ID": "false|Bhavna Tcs|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.netflix.mediaclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Downloading",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:36:06",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
