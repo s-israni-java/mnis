@@ -1478,5 +1478,25 @@
     "CDATE": "2025-06-28 09:57:30",
     "BATTERY": "10",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:57:30",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "5% battery",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:10:37",
+    "BATTERY": "5",
+    "ID": "No ID"
   }
 ]
