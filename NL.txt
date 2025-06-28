@@ -1598,5 +1598,25 @@
     "CDATE": "2025-06-28 10:20:05",
     "BATTERY": "3",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "4 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:20:05",
+    "BATTERY": "3",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haa mai 2 saal pahle ki baat kr rha hu",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:23:08",
+    "BATTERY": "2",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
