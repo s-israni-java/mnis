@@ -5978,5 +5978,15 @@
     "CDATE": "2025-06-28 17:44:07",
     "BATTERY": "88",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Flat 65% OFF. Order now!",
+    "TITLE": "Mood = Garma garam chai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:47:43",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
