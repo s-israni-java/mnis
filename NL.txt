@@ -818,5 +818,15 @@
     "CDATE": "2025-06-28 19:52:38",
     "BATTERY": "71",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use ₹125 Zepto Cash to shop now & save more 🤑",
+    "TITLE": "Your FREE CASH is ready💵Go go go!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 19:54:33",
+    "BATTERY": "71",
+    "ID": "No ID"
   }
 ]
