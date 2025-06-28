@@ -5458,5 +5458,15 @@
     "CDATE": "2025-06-28 15:52:55",
     "BATTERY": "25",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:53:38",
+    "BATTERY": "26",
+    "ID": "No ID"
   }
 ]
