@@ -19128,5 +19128,15 @@
     "CDATE": "2025-06-28 21:53:22",
     "BATTERY": "50",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 380.00 from A\/c X1248 on 28-JUN-2025\nUPI\/DR\/107210614546\/AJIT PYARELAL GUPTA\/\nBal INR 8,649.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:53:50",
+    "BATTERY": "50",
+    "ID": "415"
   }
 ]
