@@ -3868,5 +3868,15 @@
     "CDATE": "2025-06-28 13:46:06",
     "BATTERY": "41",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use ₹125 Zepto Cash on your next order 💸💸",
+    "TITLE": "⚠️ UNCLAIMED CASH ⚠️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:46:46",
+    "BATTERY": "41",
+    "ID": "No ID"
   }
 ]
