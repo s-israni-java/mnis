@@ -6118,5 +6118,15 @@
     "CDATE": "2025-06-28 18:17:28",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.battery",
+    "SERVICE": "NL",
+    "MSG": "\"WhatsApp\" is draining battery in the background. Optimise it now.",
+    "TITLE": "Optimise battery use",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 18:24:34",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
