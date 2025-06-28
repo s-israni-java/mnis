@@ -5948,5 +5948,15 @@
     "CDATE": "2025-06-28 17:40:31",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Get Belgian Choco Crisps (1 pc) @ ₹120",
+    "TITLE": "Crispy? Always. Boring? Never 💥",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:41:48",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
