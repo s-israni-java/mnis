@@ -768,5 +768,15 @@
     "CDATE": "2025-06-28 18:59:42",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "liked your story.",
+    "TITLE": "Shweta Gulabani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 19:17:59",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
