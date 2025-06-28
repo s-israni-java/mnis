@@ -3358,5 +3358,15 @@
     "CDATE": "2025-06-28 20:42:01",
     "BATTERY": "64",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "98.19 MB\/3.92 GB",
+    "TITLE": "(Movies4u.Foo).Squid ….zip",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:42:02",
+    "BATTERY": "64",
+    "ID": "No ID"
   }
 ]
