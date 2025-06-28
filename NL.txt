@@ -1698,5 +1698,25 @@
     "CDATE": "2025-06-28 10:36:22",
     "BATTERY": "6",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:36:23",
+    "BATTERY": "6",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "Insure your shop inventory starting at ₹𝟮𝟲𝟬\/𝘆𝗿* – up to ₹𝟮𝟱 𝗟𝗮𝗸𝗵 cover.",
+    "TITLE": "365 days of security @ ₹260🛡️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:36:34",
+    "BATTERY": "6",
+    "ID": "No ID"
   }
 ]
