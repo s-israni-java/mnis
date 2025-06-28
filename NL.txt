@@ -5588,5 +5588,25 @@
     "CDATE": "2025-06-28 16:00:03",
     "BATTERY": "30",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:03:37",
+    "BATTERY": "33",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:03:37",
+    "BATTERY": "33",
+    "ID": "No ID"
   }
 ]
