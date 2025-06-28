@@ -6108,5 +6108,15 @@
     "CDATE": "2025-06-28 18:15:51",
     "BATTERY": "83",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "Credit Card, DTH, Education Fees, Electricity, FASTag, Gas, Insurance and many more, on AU 0101 App!",
+    "TITLE": "Pay 20+ types of bills like...",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 18:17:28",
+    "BATTERY": "83",
+    "ID": "No ID"
   }
 ]
