@@ -5958,5 +5958,25 @@
     "CDATE": "2025-06-28 17:41:48",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "Need a loan? Apply easily through NetBanking with instant approvals. Start now! 🔑",
+    "TITLE": "🌟 Fast Loans Now on NetBanking! 💸",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:44:07",
+    "BATTERY": "88",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapwork.hdfc",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:44:07",
+    "BATTERY": "88",
+    "ID": "No ID"
   }
 ]
