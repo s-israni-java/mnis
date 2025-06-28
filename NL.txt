@@ -1968,5 +1968,15 @@
     "CDATE": "2025-06-28 11:52:05",
     "BATTERY": "34",
     "ID": "false|Dikshu Gurdasani|ad5671be-3b41-4769-ac56-b60240925b08"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "You've ₹125 Zepto Cash!\nUse it now to shop 🛒",
+    "TITLE": "Bet this makes your day 😍💵",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 11:53:01",
+    "BATTERY": "33",
+    "ID": "No ID"
   }
 ]
