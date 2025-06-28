@@ -3818,5 +3818,15 @@
     "CDATE": "2025-06-28 13:43:00",
     "BATTERY": "42",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.phonepe.app.business",
+    "SERVICE": "NL",
+    "MSG": "Complete your Full KYC now! Accept unlimited payments & become our priority merchant.",
+    "TITLE": "Update your GST details✅",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:43:50",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
