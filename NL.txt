@@ -4188,5 +4188,15 @@
     "CDATE": "2025-06-28 14:00:46",
     "BATTERY": "37",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "Close all Incognito tabs",
+    "TITLE": "Incognito Tabs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:01:55",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
