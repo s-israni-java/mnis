@@ -5768,5 +5768,15 @@
     "CDATE": "2025-06-28 17:06:36",
     "BATTERY": "87",
     "ID": "507"
+  },
+  {
+    "APP": "com.ausmallfinancebank.amb",
+    "SERVICE": "NL",
+    "MSG": "The all new AU UPI brings you more speed, more security & no more failed payments. Don’t believe us? Tap to try on AU 0101 App. 📲",
+    "TITLE": "Failed payments? Not here❌",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:12:53",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
