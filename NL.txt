@@ -2648,5 +2648,65 @@
     "CDATE": "2025-06-28 12:24:44",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:24:44",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hi Simriti, Monsoon Splash Sale! Extra 10% off* on Laptops and Smartphones. Visit Croma store now http:\/\/m.tneu.in\/TNCRMA\/2X8DJ3m T&C",
+    "TITLE": "AD-TNCRMA-P",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:25:39",
+    "BATTERY": "37",
+    "ID": "408"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:25:47",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Hang hang",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:25:48",
+    "BATTERY": "37",
+    "ID": "41"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:25:48",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:28:52",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
