@@ -18988,5 +18988,25 @@
     "CDATE": "2025-06-28 21:22:03",
     "BATTERY": "55",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:22:03",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Google Pay registration is initiated for ICICI Bank. If not done by you, report to your bank. Card details\/OTP\/CVV are SECRET. DO NOT disclose it to anyone.",
+    "TITLE": "VM-ICICIT-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 21:29:12",
+    "BATTERY": "54",
+    "ID": "510"
   }
 ]
