@@ -60768,5 +60768,55 @@
     "CDATE": "2025-06-28 08:33:02",
     "BATTERY": "36",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:03",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin Click here to view all: - https:\/\/knome.ultimatix.net\/app\/blogposts\/946088",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:03",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Internal Broadcast Emailer Bulletin • Click here to view all: - https:\/\/knome.ultimatix.net\/app\/blogposts\/946088",
+    "TITLE": "Internal Broadcast",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:03",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:06",
+    "BATTERY": "36",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:06",
+    "BATTERY": "36",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
   }
 ]
