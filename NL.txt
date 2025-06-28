@@ -5758,5 +5758,15 @@
     "CDATE": "2025-06-28 16:54:43",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Offer unlocked: Get 100% cashback worth Rs. 2500 on your new Airtel Wi-Fi connection. Enjoy unlimited data, upto 1 Gbps speeds and 22+ OTTs. \nClaim now - https:\/\/i.airtel.in\/buy-wifi-9",
+    "TITLE": "AD-650025-P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:06:36",
+    "BATTERY": "87",
+    "ID": "507"
   }
 ]
