@@ -1528,5 +1528,15 @@
     "CDATE": "2025-06-28 10:19:31",
     "BATTERY": "3",
     "ID": "false|Kashish C|b13ebdac-376b-4dfa-bd15-dbb03173a4fc"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:19:51",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
