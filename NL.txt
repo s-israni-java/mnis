@@ -4968,5 +4968,25 @@
     "CDATE": "2025-06-28 14:25:29",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing Wi‑Fi call",
+    "TITLE": "Papa",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:25:29",
+    "BATTERY": "31",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "WE SURPRISED HER❤️",
+    "TITLE": "Sambhavna Seth Entertainment",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:34:56",
+    "BATTERY": "29",
+    "ID": "No ID"
   }
 ]
