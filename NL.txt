@@ -4998,5 +4998,25 @@
     "CDATE": "2025-06-28 14:39:55",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap 29 days ago",
+    "TITLE": "Divi🧸",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:39:56",
+    "BATTERY": "28",
+    "ID": "false|Divi🧸|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "The easiest way to save on your next shopping 🤩",
+    "TITLE": "Up to ₹150 free cash 💰",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:48:12",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
