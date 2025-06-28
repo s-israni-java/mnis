@@ -548,5 +548,15 @@
     "CDATE": "2025-06-28 18:52:00",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 126 kB of 1.4 MB (8%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 18:52:01",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
