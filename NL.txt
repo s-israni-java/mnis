@@ -61848,5 +61848,25 @@
     "CDATE": "2025-06-28 08:52:32",
     "BATTERY": "29",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:52:32",
+    "BATTERY": "29",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Tu abhi so rhi h kya",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:53:09",
+    "BATTERY": "29",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
