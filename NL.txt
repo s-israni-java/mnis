@@ -2108,5 +2108,35 @@
     "CDATE": "2025-06-28 12:08:59",
     "BATTERY": "35",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ongoing video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:09:00",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:10:20",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:10:20",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
