@@ -3368,5 +3368,35 @@
     "CDATE": "2025-06-28 13:18:25",
     "BATTERY": "46",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Actually aise time he crazy hota h😒",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 13:18:26",
+    "BATTERY": "46",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 13:18:26",
+    "BATTERY": "46",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by stephbooty_",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 13:25:46",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
