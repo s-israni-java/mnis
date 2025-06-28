@@ -2538,5 +2538,75 @@
     "CDATE": "2025-06-28 12:22:11",
     "BATTERY": "37",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:23:00",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:23:00",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:23:08",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:23:50",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:23:50",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 12:23:52",
+    "BATTERY": "37",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 missed video calls",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:24:24",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
