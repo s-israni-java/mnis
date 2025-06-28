@@ -3408,5 +3408,25 @@
     "CDATE": "2025-06-28 13:26:53",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a post by memestation_01",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 13:30:13",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:35:55",
+    "BATTERY": "44",
+    "ID": "No ID"
   }
 ]
