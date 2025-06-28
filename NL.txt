@@ -6128,5 +6128,15 @@
     "CDATE": "2025-06-28 20:56:06",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:56:07",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
