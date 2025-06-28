@@ -60718,5 +60718,55 @@
     "CDATE": "2025-06-28 01:46:29",
     "BATTERY": "45",
     "ID": "41"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:15 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 05:05:24",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:15 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 05:15:02",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:20 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 05:15:09",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:30 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 05:15:30",
+    "BATTERY": "40",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:02",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
