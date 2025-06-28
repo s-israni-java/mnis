@@ -19298,5 +19298,15 @@
     "CDATE": "2025-06-28 22:54:29",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "Account Statement",
+    "TITLE": "HDFC Bank Alerts",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 23:05:01",
+    "BATTERY": "42",
+    "ID": "No ID"
   }
 ]
