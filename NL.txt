@@ -2178,5 +2178,25 @@
     "CDATE": "2025-06-28 12:10:49",
     "BATTERY": "35",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Sagar❤️",
+    "TITLE": "Missed call",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:10:55",
+    "BATTERY": "35",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Missed call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:10:55",
+    "BATTERY": "35",
+    "ID": "2673i383e0b7d0bb473a1.3789r162-4E2A362A4C0CCC1F"
   }
 ]
