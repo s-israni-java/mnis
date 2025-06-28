@@ -5718,5 +5718,15 @@
     "CDATE": "2025-06-28 16:40:30",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Corporate rewards are live on Swiggy. \nTap to feast. 🥳",
+    "TITLE": "Work. Chill. Save. Repeat.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:51:24",
+    "BATTERY": "70",
+    "ID": "No ID"
   }
 ]
