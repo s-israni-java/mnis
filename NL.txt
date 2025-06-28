@@ -1548,5 +1548,25 @@
     "CDATE": "2025-06-28 10:19:53",
     "BATTERY": "3",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:19:53",
+    "BATTERY": "3",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Yeh march ka hai",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:19:54",
+    "BATTERY": "3",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
