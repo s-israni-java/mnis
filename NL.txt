@@ -5018,5 +5018,65 @@
     "CDATE": "2025-06-28 14:48:12",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:55:19",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:55:19",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Media uploading…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:55:19",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:55:19",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:55:19",
+    "BATTERY": "27",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "0%",
+    "TITLE": "Story uploading…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:55:19",
+    "BATTERY": "27",
+    "ID": "No ID"
   }
 ]
