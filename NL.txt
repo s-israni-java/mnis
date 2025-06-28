@@ -61048,5 +61048,25 @@
     "CDATE": "2025-06-28 08:48:47",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🎤 Voice message (1:16)",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:48:54",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "🎤 Voice message (1:16)",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:48:54",
+    "BATTERY": "31",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
