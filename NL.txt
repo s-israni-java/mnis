@@ -60818,5 +60818,25 @@
     "CDATE": "2025-06-28 08:33:06",
     "BATTERY": "36",
     "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:07",
+    "BATTERY": "36",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.googlequicksearchbox",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:33:09",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
