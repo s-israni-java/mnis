@@ -5778,5 +5778,15 @@
     "CDATE": "2025-06-28 17:12:53",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Mukesh Joshi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 17:13:48",
+    "BATTERY": "91",
+    "ID": "No ID"
   }
 ]
