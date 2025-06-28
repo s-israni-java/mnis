@@ -61018,5 +61018,35 @@
     "CDATE": "2025-06-28 08:42:40",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Meko aise nind nhi aati..",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:42:41",
+    "BATTERY": "33",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:42:41",
+    "BATTERY": "33",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Shop your favorites with Zepto Cash now 😁",
+    "TITLE": "Use FREE ₹125 before it’s gone 💸",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 08:48:47",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
