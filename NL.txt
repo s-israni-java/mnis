@@ -838,5 +838,25 @@
     "CDATE": "2025-06-28 20:08:41",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 20:08:41",
+    "BATTERY": "69",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mentioned you in their story.",
+    "TITLE": "sadhana_group_tuitions",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:26:42",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
