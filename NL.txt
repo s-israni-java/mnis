@@ -63558,5 +63558,15 @@
     "CDATE": "2025-06-28 09:49:19",
     "BATTERY": "12",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:50:13",
+    "BATTERY": "12",
+    "ID": "No ID"
   }
 ]
