@@ -62048,5 +62048,45 @@
     "CDATE": "2025-06-28 09:15:19",
     "BATTERY": "22",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 456 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 09:15:21",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 456 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 09:15:21",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 456 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-28 09:15:22",
+    "BATTERY": "22",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "Easiest: Saying YES to treats at great offers! 😍",
+    "TITLE": "Easy: Saying YES to treats!",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:16:41",
+    "BATTERY": "22",
+    "ID": "No ID"
   }
 ]
