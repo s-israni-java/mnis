@@ -3718,5 +3718,35 @@
     "CDATE": "2025-06-28 13:41:27",
     "BATTERY": "43",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:41:27",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:41:32",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.chrome",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "A site is playing media",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 13:41:32",
+    "BATTERY": "43",
+    "ID": "No ID"
   }
 ]
