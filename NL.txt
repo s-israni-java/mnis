@@ -63568,5 +63568,65 @@
     "CDATE": "2025-06-28 09:50:13",
     "BATTERY": "12",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:50:13",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:50:20",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:50:23",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:50:24",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing Wi‑Fi call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:50:24",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Ppl will think its you boyfriend",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:51:55",
+    "BATTERY": "11",
+    "ID": "No ID"
   }
 ]
