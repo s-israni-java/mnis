@@ -4208,5 +4208,15 @@
     "CDATE": "2025-06-28 14:06:52",
     "BATTERY": "35",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "I love you bhi nahi bol rhi kal se",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 14:07:03",
+    "BATTERY": "35",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
