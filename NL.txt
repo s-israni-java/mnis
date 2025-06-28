@@ -63498,5 +63498,45 @@
     "CDATE": "2025-06-28 09:39:32",
     "BATTERY": "15",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Save Big on 70+ brands: McDonalds, AJIO, etc. \n",
+    "TITLE": " ₹15,000 For You",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:39:32",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Mai apni problems bata rha hu..jo obvious you dont have ears for that",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:41:09",
+    "BATTERY": "14",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Q ki tu toh samjhegi nahi..meri majburi ko as a pointers tu use karegi no matter if they are valid in discussions..",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:46:13",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Tune kabi mera point of view se kuch dekha he nahi hai kabi kuch",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 09:46:41",
+    "BATTERY": "13",
+    "ID": "No ID"
   }
 ]
