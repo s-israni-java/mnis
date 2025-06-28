@@ -758,5 +758,15 @@
     "CDATE": "2025-06-28 18:52:26",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.linkedin.android",
+    "SERVICE": "NL",
+    "MSG": "You have a notification from Siddharth Sharma and 24 other updates on LinkedIn",
+    "TITLE": "Siddharth Sharma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 18:59:42",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
