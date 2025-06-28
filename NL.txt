@@ -1588,5 +1588,15 @@
     "CDATE": "2025-06-28 10:20:03",
     "BATTERY": "3",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Gng poty",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 10:20:05",
+    "BATTERY": "3",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
