@@ -5438,5 +5438,15 @@
     "CDATE": "2025-06-28 15:51:37",
     "BATTERY": "24",
     "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "𝐚𝐛𝐜𝐨𝐟𝐟𝐞𝐞 is serving  𝐁𝐈𝐆 & 𝐅𝐥𝐚𝐭 𝟓𝟎% 𝐎𝐅 on dining bills. Explore now!",
+    "TITLE": "We’re spillin’ the tea! 👀",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 15:51:59",
+    "BATTERY": "24",
+    "ID": "No ID"
   }
 ]
