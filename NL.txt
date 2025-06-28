@@ -4328,5 +4328,15 @@
     "CDATE": "2025-06-28 20:53:11",
     "BATTERY": "62",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "Mumma",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:53:12",
+    "BATTERY": "62",
+    "ID": "No ID"
   }
 ]
