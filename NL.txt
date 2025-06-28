@@ -918,5 +918,15 @@
     "CDATE": "2025-06-28 20:28:43",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "replied to your Chat",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:44",
+    "BATTERY": "67",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
   }
 ]
