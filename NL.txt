@@ -5628,5 +5628,15 @@
     "CDATE": "2025-06-28 16:03:39",
     "BATTERY": "33",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:03:44",
+    "BATTERY": "33",
+    "ID": "No ID"
   }
 ]
