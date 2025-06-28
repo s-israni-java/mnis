@@ -2638,5 +2638,15 @@
     "CDATE": "2025-06-28 12:24:42",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "📹 Incoming video call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 12:24:44",
+    "BATTERY": "37",
+    "ID": "No ID"
   }
 ]
