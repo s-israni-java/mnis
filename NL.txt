@@ -898,5 +898,25 @@
     "CDATE": "2025-06-28 20:28:42",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Look back at 28 Jun 2022",
+    "TITLE": "3 years ago, today…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:42",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 20:28:43",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
