@@ -5688,5 +5688,35 @@
     "CDATE": "2025-06-28 16:30:07",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:30:07",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Liked your message.",
+    "TITLE": "NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:30:08",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by hungry__traveller_",
+    "TITLE": "Diva's: NAYAN 🌻",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:40:30",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
