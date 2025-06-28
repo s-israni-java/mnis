@@ -15468,5 +15468,25 @@
     "CDATE": "2025-06-28 21:11:03",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "3 Queued",
+    "TITLE": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 21:11:03",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-28 21:11:04",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
