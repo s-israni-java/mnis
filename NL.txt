@@ -5738,5 +5738,25 @@
     "CDATE": "2025-06-28 16:54:04",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "📸 Lens Snap from 24 February",
+    "TITLE": "Simriti, remember this?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:54:04",
+    "BATTERY": "73",
+    "ID": "false|Simriti, remember this?|7439e0fa-13e6-4f3d-a1a5-9634dd6dd43f"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Step 2: Use SAVE150 for extra ₹150 off 💥",
+    "TITLE": "FREE ₹125? That’s step 1 😉",
+    "NETWORK": "M",
+    "CDATE": "2025-06-28 16:54:43",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
