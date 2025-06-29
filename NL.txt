@@ -22028,5 +22028,15 @@
     "CDATE": "2025-06-29 11:23:23",
     "BATTERY": "74",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 11:23:26",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
