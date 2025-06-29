@@ -20888,5 +20888,15 @@
     "CDATE": "2025-06-29 09:42:49",
     "BATTERY": "3",
     "ID": "false|malvika|bda6399e-75c8-428f-8cef-921c82f43ec7"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:43:29",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
