@@ -33968,5 +33968,15 @@
     "CDATE": "2025-06-29 20:29:02",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 110.00 from A\/c X1248 on 29-JUN-2025\nUPI\/DR\/107256640007\/Egg Adda\/UTIB\/918020\nBal INR 8,539.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "AD-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:29:23",
+    "BATTERY": "72",
+    "ID": "369"
   }
 ]
