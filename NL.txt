@@ -20918,5 +20918,25 @@
     "CDATE": "2025-06-29 09:43:37",
     "BATTERY": "3",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:43:37",
+    "BATTERY": "3",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:43:40",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
