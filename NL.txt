@@ -33938,5 +33938,35 @@
     "CDATE": "2025-06-29 20:29:00",
     "BATTERY": "72",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Totally FREE!\nUse the Zepto Cash to shop now 🤩",
+    "TITLE": "₹125 added 👈😁👈",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:29:01",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Enjoy the lowest price on\nTata Sampann Unpolished Toor Dal (1 kg) @ ₹179 ₹̶2̶2̶4̶!",
+    "TITLE": "Universal comfort food 🥘",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:29:02",
+    "BATTERY": "72",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:29:02",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
