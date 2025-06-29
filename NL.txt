@@ -23958,5 +23958,45 @@
     "CDATE": "2025-06-29 17:00:54",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:00:54",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "An extra ₹150 off with code SAVE150! Claim both! ⚡",
+    "TITLE": "What’s better than ₹125 FREE? 😏",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:00:56",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by propertymitraa",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:01:01",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by avikagram",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:01:01",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
