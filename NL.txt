@@ -24308,5 +24308,15 @@
     "CDATE": "2025-06-29 18:42:58",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "7 Queued",
+    "TITLE": "Waiting",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:46:28",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
