@@ -24288,5 +24288,25 @@
     "CDATE": "2025-06-29 18:26:38",
     "BATTERY": "82",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 18:42:58",
+    "BATTERY": "80",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "Pump you up",
+    "TITLE": "New memory for you",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 18:42:58",
+    "BATTERY": "80",
+    "ID": "No ID"
   }
 ]
