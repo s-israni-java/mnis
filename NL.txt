@@ -21058,5 +21058,25 @@
     "CDATE": "2025-06-29 10:58:43",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "SonyLiv, Hoichoi, Aha, SunNXT, Lionsgateplay & more\n",
+    "TITLE": "FREE Access - 25+ OTTs ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:58:43",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Story ",
+    "TITLE": "Jeevesh Khatri",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:09",
+    "BATTERY": "78",
+    "ID": "false|Jeevesh Khatri|c8698794-fc55-4e5b-b6b9-43259c0244b7"
   }
 ]
