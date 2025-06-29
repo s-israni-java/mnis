@@ -21098,5 +21098,305 @@
     "CDATE": "2025-06-29 10:59:17",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/UtxAuthErrorReport\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Subtitles\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Ringtones\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Recordings\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Podcasts\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Pictures\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Pictures\/WhatsApp\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:17",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Pictures\/Screenshots\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Pictures\/Instagram\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Pictures\/100PINT\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Pictures\/100PINT\/Pins\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/oua_classifier\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/oua_classifier\/debug\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Notifications\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Notifications\/zedge\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Notifications\/zedge\/f44bb78a-e8fe-4365-807e-dde9c5f98bbb\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Notifications\/zedge\/a8e2a06e-581b-4fae-9581-2df607242b6b\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Notifications\/zedge\/62c97da5-c70b-4fa9-b4b4-e34bc4856c7b\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/MX File Transfer\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/MX File Transfer\/Late Night With The Devil (2023) [1080p] [WEBRip] [5.1] [YTS.MX]\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/MX File Transfer\/Late Night With The Devil (2023) [1080p] [WEBRip] [5.1] [YTS.MX]\/Subs\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Music\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Music\/Recordings\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Music\/Recordings\/Standard Recordings\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Music\/Recordings\/Meeting Recordings\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Music\/Recordings\/Interview Recordings\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Movies\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:18",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Movies\/WhatsApp\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Movies\/Instagram\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
