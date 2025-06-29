@@ -34048,5 +34048,25 @@
     "CDATE": "2025-06-29 21:27:20",
     "BATTERY": "68",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 21:27:21",
+    "BATTERY": "68",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "LOVE TEST with boyfriend",
+    "TITLE": "Aileen and Deven",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 21:29:22",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
