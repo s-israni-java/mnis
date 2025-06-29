@@ -21398,5 +21398,155 @@
     "CDATE": "2025-06-29 10:59:19",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/MIUI\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/MIUI\/ShareMe\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/mFrameErrorReport\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/Xo.Kitty.S02.720p.x264.Hindi.English.Msubs.MoviesMod.org\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/Xo.Kitty.S02.720p.x264.Hindi.English.Msubs.MoviesMod.org\/720p x264\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/XO.Kitty.S01.1080p.NF.WEB-DL.DDP5.1.Vegamovies.to (1)\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/XO.Kitty.S01.1080p.NF.WEB-DL.DDP5.1.Vegamovies.to\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/update\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/update\/downloads\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/HdfcDoc\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:19",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/Game of Thrones S01 E01-10 BluRay 720p Hindi English ESub - mkvCinemas\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Download\/Game of Thrones S01 E01-10 BluRay 720p Hindi English ESub - mkvCinemas\/Game of Thrones S01 E01-10 BluRay 720p Hindi English ESub - mkvCinemas\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Documents\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Documents\/PDF Reader\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
