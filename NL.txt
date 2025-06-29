@@ -30328,5 +30328,35 @@
     "CDATE": "2025-06-29 18:56:06",
     "BATTERY": "76",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Claim it now with your Zepto Cash🤩💵",
+    "TITLE": "Maggi bowl: full 😋 price: FREE",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:56:08",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:56:08",
+    "BATTERY": "76",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "2 Queued",
+    "TITLE": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:56:08",
+    "BATTERY": "76",
+    "ID": "No ID"
   }
 ]
