@@ -35808,5 +35808,125 @@
     "CDATE": "2025-06-29 22:19:53",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.52 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:19:53",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.54 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:19:56",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.54 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:19:56",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.56 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:19:59",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.56 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:19:59",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.58 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:02",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.58 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:02",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.58 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:05",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.58 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:05",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.60 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:08",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.60 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:08",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.65 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:11",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
