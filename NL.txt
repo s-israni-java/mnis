@@ -20898,5 +20898,25 @@
     "CDATE": "2025-06-29 09:43:29",
     "BATTERY": "3",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:43:29",
+    "BATTERY": "3",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Papa",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:43:37",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
