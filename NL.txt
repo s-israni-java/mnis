@@ -23818,5 +23818,35 @@
     "CDATE": "2025-06-29 15:28:16",
     "BATTERY": "19",
     "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:28:16",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Apply for Axis Ace credit card to enjoy a flat cashback from Swiggy & Zomato.",
+    "TITLE": "Your 4% cashback awaits ⏳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:28:16",
+    "BATTERY": "19",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Alert 50%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck",
+    "TITLE": "AZ-AIRTEL-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:30:49",
+    "BATTERY": "19",
+    "ID": "486"
   }
 ]
