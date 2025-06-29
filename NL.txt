@@ -35118,5 +35118,15 @@
     "CDATE": "2025-06-29 22:18:03",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 6.52 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:18:06",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
