@@ -23018,5 +23018,15 @@
     "CDATE": "2025-06-29 13:52:33",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.ludo.king",
+    "SERVICE": "NL",
+    "MSG": "Play",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 14:05:09",
+    "BATTERY": "38",
+    "ID": "No ID"
   }
 ]
