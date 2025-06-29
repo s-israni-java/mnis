@@ -22368,5 +22368,15 @@
     "CDATE": "2025-06-29 12:16:18",
     "BATTERY": "63",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "We know you don't wanna miss it!\nUse the Zepto Cash now 🤑",
+    "TITLE": "You've got up to ₹150 free 🤩",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 12:16:33",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
