@@ -22818,5 +22818,25 @@
     "CDATE": "2025-06-29 12:39:01",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 461 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 12:39:02",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Harpic Floral Bathroom Cleaner Liquid | Removes Bathroom Stains is waiting in your cart. Order now at just ₹115 ",
+    "TITLE": "Did you forget?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 12:50:35",
+    "BATTERY": "54",
+    "ID": "No ID"
   }
 ]
