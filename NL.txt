@@ -23888,5 +23888,35 @@
     "CDATE": "2025-06-29 17:00:46",
     "BATTERY": "90",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:00:47",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "✅ 2 GB extra data\n✅ 0 platform fee on recharges\n",
+    "TITLE": "Unlock more with Thanks App 🎁",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:00:49",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "✅ 2 GB extra data\n✅ 0 platform fee on recharges\n",
+    "TITLE": "Unlock more with Thanks App 🎁",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:00:49",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
