@@ -21028,5 +21028,35 @@
     "CDATE": "2025-06-29 10:58:42",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Make it yours 🤑\nTap to shop with Zepto Cash",
+    "TITLE": "FREE ₹125 has no takers 💸",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:58:42",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:58:43",
+    "BATTERY": "78",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "SonyLiv, Hoichoi, Aha, SunNXT, Lionsgateplay & more\n",
+    "TITLE": "FREE Access - 25+ OTTs ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:58:43",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
