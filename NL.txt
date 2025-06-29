@@ -19668,5 +19668,1205 @@
     "CDATE": "2025-06-29 08:17:31",
     "BATTERY": "20",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.pinterest",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "🎂 Birthday for Simi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:33:02",
+    "BATTERY": "17",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with SFD BT-456",
+    "TITLE": "Pairing request",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:36:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:08",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:08",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:08",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:37:09",
+    "BATTERY": "16",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.sos",
+    "SERVICE": "NL",
+    "MSG": "Turning on the low battery message service in Emergency SOS will allow you to send messages to selected contacts when your phone battery drops to 15%.",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-29 08:37:55",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:38:04",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:38:04",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:38:04",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:38:04",
+    "BATTERY": "15",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sunil Kamath, Mithoon, Amitabh Varma",
+    "TITLE": "Kinna Sona",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:11",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:11",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:42:12",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:43:05",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:43:05",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:43:05",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:43:05",
+    "BATTERY": "13",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "AP Dhillon, Shinda Kahlon",
+    "TITLE": "True Stories",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:44:10",
+    "BATTERY": "12",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:46:20",
+    "BATTERY": "11",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:46:20",
+    "BATTERY": "11",
+    "ID": "false|Nisha Tcs|d83c883c-166c-48b0-9086-e690be3c0223"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "10% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:46:54",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Otilia",
+    "TITLE": "Bilionera - Radio Edit",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:47:16",
+    "BATTERY": "10",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Cartoon, Jéja, Daniel Levi",
+    "TITLE": "On & On",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:43",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:43",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:43",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:43",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:43",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:50:44",
+    "BATTERY": "8",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:52:12",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:52:12",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:52:12",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:52:12",
+    "BATTERY": "7",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Turn on Super power saving mode?",
+    "TITLE": "5% battery",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:14",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:50",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Roop Kumar Rathod",
+    "TITLE": "Maula Mere Maula",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:51",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:53",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:53",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:53",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:53",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:55",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:55",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:55",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 08:56:55",
+    "BATTERY": "5",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Kushagra, Bharath, Saaheal",
+    "TITLE": "Finding Her",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:17",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:24",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:24",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:24",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Anurag Saikia, Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast",
+    "TITLE": "Ishq Hai",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:00:24",
+    "BATTERY": "4",
+    "ID": "No ID"
+  },
+  {
+    "APP": "in.swiggy.android",
+    "SERVICE": "NL",
+    "MSG": "You prep your mood - we’ll deliver your favs. 😀",
+    "TITLE": "Brekkie prep? For real? 😮",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:41:05",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
