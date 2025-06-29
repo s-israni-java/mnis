@@ -35928,5 +35928,35 @@
     "CDATE": "2025-06-29 22:20:11",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Mobile data used: 7.65 MB",
+    "TITLE": "1 device is connected to your mobile data hotspot.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:11",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Tap to set up.",
+    "TITLE": "Mobile data hotspot turned on",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:20:14",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "No devices connected. Tap to modify.",
+    "TITLE": "Hotspot turned off",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:30:15",
+    "BATTERY": "56",
+    "ID": "No ID"
   }
 ]
