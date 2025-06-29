@@ -24018,5 +24018,15 @@
     "CDATE": "2025-06-29 17:03:23",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:13:01",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
