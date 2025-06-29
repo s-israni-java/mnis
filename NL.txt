@@ -20938,5 +20938,15 @@
     "CDATE": "2025-06-29 09:43:40",
     "BATTERY": "3",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by cuterose612",
+    "TITLE": "Sagar Israni",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:43:54",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
