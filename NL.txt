@@ -21548,5 +21548,105 @@
     "CDATE": "2025-06-29 10:59:20",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Documents\/DigiLocker\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Documents\/DigiLocker\/Issued\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/Snapchat\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:20",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/Camera\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/Camera\/Cshot\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/Camera\/Cshot\/1736844942789\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/Camera\/Cshot\/1730700170405\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/100PINT\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/DCIM\/100PINT\/Pins\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
