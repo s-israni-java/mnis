@@ -33858,5 +33858,35 @@
     "CDATE": "2025-06-29 19:03:38",
     "BATTERY": "75",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 19:03:38",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 19:03:39",
+    "BATTERY": "75",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 19:26:42",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
