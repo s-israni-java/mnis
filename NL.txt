@@ -24268,5 +24268,25 @@
     "CDATE": "2025-06-29 17:58:34",
     "BATTERY": "84",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 17:58:34",
+    "BATTERY": "84",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Lies Tata Simply Better Cold Pressed Mustard Oil (1 L) @ ₹239 ₹̶3̶5̶0̶!",
+    "TITLE": "Behind every great meal 🥘",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 18:26:38",
+    "BATTERY": "82",
+    "ID": "No ID"
   }
 ]
