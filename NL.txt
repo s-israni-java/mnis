@@ -22998,5 +22998,15 @@
     "CDATE": "2025-06-29 13:37:26",
     "BATTERY": "43",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by vaaku.ai",
+    "TITLE": "Anjali ❤️Nidhi parwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:38:20",
+    "BATTERY": "43",
+    "ID": "No ID"
   }
 ]
