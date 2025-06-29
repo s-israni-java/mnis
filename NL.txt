@@ -19618,5 +19618,15 @@
     "CDATE": "2025-06-29 07:53:55",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "My boyfriend and his DAD HAIRCUT",
+    "TITLE": "Aileen and Deven",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 07:53:58",
+    "BATTERY": "28",
+    "ID": "No ID"
   }
 ]
