@@ -62,5 +62,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-29 20:34:59",
     "BATTERY": "71"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_Unknown",
+    "SERVICE": "KL",
+    "MSG": "₹60",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:34:59",
+    "BATTERY": "71"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:35:02",
+    "BATTERY": "71"
   }
 ]
