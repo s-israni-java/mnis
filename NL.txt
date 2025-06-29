@@ -21648,5 +21648,135 @@
     "CDATE": "2025-06-29 10:59:21",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Audiobooks\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/org.telegram.messenger\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/org.telegram.messenger\/Telegram\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/org.telegram.messenger\/Telegram\/Telegram Video\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/org.telegram.messenger\/Telegram\/Telegram Images\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/com.whatsapp\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:21",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/com.whatsapp\/WhatsApp\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:22",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/com.whatsapp\/WhatsApp\/Media\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:22",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/com.whatsapp\/WhatsApp\/Media\/WhatsApp Video\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:22",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/com.whatsapp\/WhatsApp\/Media\/WhatsApp Profile Photos\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:22",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Discovering \/storage\/emulated\/0\/Android\/media\/com.heytap.mcs\/",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:26",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
