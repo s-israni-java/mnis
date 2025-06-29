@@ -22858,5 +22858,25 @@
     "CDATE": "2025-06-29 12:53:16",
     "BATTERY": "54",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:01:58",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap 9 days ago",
+    "TITLE": "Aditya Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:01:59",
+    "BATTERY": "52",
+    "ID": "false|Aditya Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
   }
 ]
