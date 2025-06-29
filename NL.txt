@@ -22178,5 +22178,15 @@
     "CDATE": "2025-06-29 12:07:30",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Free cash goes poof tonight!💸💨—₹125 Zepto cash is waiting but not for long⌛\nUse it now or miss out forever — no second chances😲\nThis free Zepto Cash officially vanishes by midnight!!!!!💸",
+    "TITLE": "Super Saver",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 12:07:33",
+    "BATTERY": "66",
+    "ID": "249"
   }
 ]
