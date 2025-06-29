@@ -22958,5 +22958,25 @@
     "CDATE": "2025-06-29 13:27:52",
     "BATTERY": "45",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:27:52",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:27:55",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
