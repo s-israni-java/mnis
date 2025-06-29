@@ -23278,5 +23278,25 @@
     "CDATE": "2025-06-29 15:17:14",
     "BATTERY": "22",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Divii",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:17:15",
+    "BATTERY": "22",
+    "ID": "false|Divii|f3455384-2873-472a-b907-154802e7e5d7"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:18:42",
+    "BATTERY": "22",
+    "ID": "No ID"
   }
 ]
