@@ -23038,5 +23038,25 @@
     "CDATE": "2025-06-29 14:11:06",
     "BATTERY": "37",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "📸 6 years ago, on 29 June 2019...",
+    "TITLE": "Simriti Basantani✨",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 14:11:07",
+    "BATTERY": "37",
+    "ID": "false|Simriti Basantani✨|7439e0fa-13e6-4f3d-a1a5-9634dd6dd43f"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 14:23:48",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
