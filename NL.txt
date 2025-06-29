@@ -21778,5 +21778,25 @@
     "CDATE": "2025-06-29 10:59:26",
     "BATTERY": "78",
     "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Parsing media 100.00% · -1\/-1",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:27",
+    "BATTERY": "78",
+    "ID": "No ID"
+  },
+  {
+    "APP": "org.videolan.vlc",
+    "SERVICE": "NL",
+    "MSG": "Parsing media 100.00% · -1\/-1",
+    "TITLE": "Scanning for media files",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 10:59:27",
+    "BATTERY": "78",
+    "ID": "No ID"
   }
 ]
