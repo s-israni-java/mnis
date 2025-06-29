@@ -22878,5 +22878,15 @@
     "CDATE": "2025-06-29 13:01:59",
     "BATTERY": "52",
     "ID": "false|Aditya Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "तुम्ही तुमच्या नावावर असलेले मोबाईल कनेक्शन जाणून घेऊ शकता आणि  आवश्यक नसलेले किंवा तुम्ही घेतले नसलेले  मोबाईल कनेक्शन संचार साथी मोबाईल अॅपद्वारे त्वरित नोंदवू शकता. मोबाईल अॅप येथून डाउनलोड करा:  अँड्रॉइड: https:\/\/play.google.com\/store\/apps\/details?id=com.dot.app.sancharsaathi iOS: https:\/\/apps.apple.com\/in\/app\/sanchar-saathi\/id6739700695 दूरसंचार विभाग",
+    "TITLE": "JZ-DOTGOI-G",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:06:23",
+    "BATTERY": "51",
+    "ID": "490"
   }
 ]
