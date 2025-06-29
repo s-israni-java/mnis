@@ -26928,5 +26928,55 @@
     "CDATE": "2025-06-29 18:50:19",
     "BATTERY": "77",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:50:22",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "6 Queued",
+    "TITLE": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:50:22",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:50:23",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "6 Queued",
+    "TITLE": "",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:50:23",
+    "BATTERY": "77",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.amazon.avod.thirdpartyclient",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-29 18:50:24",
+    "BATTERY": "77",
+    "ID": "No ID"
   }
 ]
