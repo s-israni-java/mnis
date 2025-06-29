@@ -34018,5 +34018,25 @@
     "CDATE": "2025-06-29 20:57:42",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.nbu.paisa.user",
+    "SERVICE": "NL",
+    "MSG": "Tap to reveal",
+    "TITLE": "New reward earned!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 20:57:42",
+    "BATTERY": "69",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "So use your FREE Zepto Cash now to shop",
+    "TITLE": "Up to ₹150 vanishing soon! 😳",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 21:23:37",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
