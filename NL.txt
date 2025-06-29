@@ -22888,5 +22888,15 @@
     "CDATE": "2025-06-29 13:06:23",
     "BATTERY": "51",
     "ID": "490"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "We did, for you! 💰\nGrab the Zepto Cash and shop with it 🤩",
+    "TITLE": "Who left FREE ₹125 here? 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 13:14:33",
+    "BATTERY": "48",
+    "ID": "No ID"
   }
 ]
