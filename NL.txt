@@ -20958,5 +20958,25 @@
     "CDATE": "2025-06-29 09:44:00",
     "BATTERY": "3",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Oii",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:44:00",
+    "BATTERY": "3",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 09:44:08",
+    "BATTERY": "3",
+    "ID": "No ID"
   }
 ]
