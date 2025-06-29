@@ -34108,5 +34108,15 @@
     "CDATE": "2025-06-29 22:15:07",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "Tap to set up.",
+    "TITLE": "Mobile data hotspot turned on",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 22:15:15",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
