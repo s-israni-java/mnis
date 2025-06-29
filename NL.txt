@@ -23508,5 +23508,25 @@
     "CDATE": "2025-06-29 15:21:29",
     "BATTERY": "21",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:21:30",
+    "BATTERY": "21",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 15:21:32",
+    "BATTERY": "21",
+    "ID": "No ID"
   }
 ]
