@@ -19628,5 +19628,15 @@
     "CDATE": "2025-06-29 07:53:58",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.oplus.wirelesssettings",
+    "SERVICE": "NL",
+    "MSG": "Tap to pair with BT V09",
+    "TITLE": "Pairing request",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 07:54:30",
+    "BATTERY": "27",
+    "ID": "No ID"
   }
 ]
