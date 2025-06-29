@@ -22158,5 +22158,25 @@
     "CDATE": "2025-06-29 12:07:27",
     "BATTERY": "67",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "𝓐𝓪𝓼𝓽𝓱𝓪💫",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 12:07:27",
+    "BATTERY": "67",
+    "ID": "false|𝓐𝓪𝓼𝓽𝓱𝓪💫|8382c943-d369-41e5-90d1-80e8777f8107"
+  },
+  {
+    "APP": "net.zedge.android",
+    "SERVICE": "NL",
+    "MSG": "Show your colors with wallpapers that celebrate love! 🌈📱",
+    "TITLE": "Love Always Wins!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-29 12:07:30",
+    "BATTERY": "67",
+    "ID": "No ID"
   }
 ]
