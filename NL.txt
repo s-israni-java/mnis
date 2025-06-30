@@ -41698,5 +41698,75 @@
     "CDATE": "2025-06-30 10:38:51",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Save Big on 70+ brands: McDonalds, AJIO, etc. \n",
+    "TITLE": " ₹15,000 For You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:39:19",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.myairtelapp",
+    "SERVICE": "NL",
+    "MSG": "Save Big on 70+ brands: McDonalds, AJIO, etc. \n",
+    "TITLE": " ₹15,000 For You",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:39:19",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 10:39:55",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 10:39:55",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 10:39:55",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 10:39:56",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.instagram.android",
+    "SERVICE": "NL",
+    "MSG": "Sent a reel by infoscion_dude",
+    "TITLE": "Diva's: Nisha ❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:41:24",
+    "BATTERY": "55",
+    "ID": "No ID"
   }
 ]
