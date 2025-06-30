@@ -10286,5 +10286,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:46:19",
     "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok I'm sorr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:19",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok I'm sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:19",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:21",
+    "BATTERY": "89"
   }
 ]
