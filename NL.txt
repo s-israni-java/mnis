@@ -43418,5 +43418,45 @@
     "CDATE": "2025-06-30 12:44:54",
     "BATTERY": "55",
     "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:17",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Train ke breed se darr lagta hai",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:19",
+    "BATTERY": "56",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "3 new messages",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:19",
+    "BATTERY": "56",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Isliye avoid kiya",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:19",
+    "BATTERY": "56",
+    "ID": "919920836844@s.whatsapp.net"
   }
 ]
