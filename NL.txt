@@ -43498,5 +43498,15 @@
     "CDATE": "2025-06-30 12:47:34",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "recently added to their Stories!",
+    "TITLE": "Kunal💜 and 4 others",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:47:55",
+    "BATTERY": "58",
+    "ID": "false|Kunal💜 and 4 others|3e94029d-ffcd-4f42-bb6a-3e203d4de654"
   }
 ]
