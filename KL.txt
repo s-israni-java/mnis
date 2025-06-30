@@ -6830,5 +6830,69 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:52:17",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open go",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:17",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open goo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:17",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open goog",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:17",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open googl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:17",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:18",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:18",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google p",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:18",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google ph",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:19",
+    "BATTERY": "98"
   }
 ]
