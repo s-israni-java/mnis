@@ -46028,5 +46028,25 @@
     "CDATE": "2025-06-30 14:53:57",
     "BATTERY": "88",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You don't fit.\nInsted of saying sorry you are turning everything on me text by text..",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:53:57",
+    "BATTERY": "88",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:42",
+    "BATTERY": "87",
+    "ID": "No ID"
   }
 ]
