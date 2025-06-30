@@ -1470,5 +1470,125 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 11:02:15",
     "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi ut",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uth",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi utha",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthay",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:15",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:16",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya tuj",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:16",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya tuje",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:16",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc nhi uthaya tune ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:17",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "@",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:25",
+    "BATTERY": "46"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "@⁨Nayan Tcs⁩ ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:26",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "@⁨Nayan Tcs⁩ h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:27",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "@⁨Nayan Tcs⁩ hid",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:27",
+    "BATTERY": "45"
   }
 ]
