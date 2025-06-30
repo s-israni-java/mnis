@@ -10414,5 +10414,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:52:13",
     "BATTERY": "88"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you are g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:52:14",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you are go",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:52:14",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you are good",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:52:14",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you are good ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:52:14",
+    "BATTERY": "88"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you are good a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:52:15",
+    "BATTERY": "88"
   }
 ]
