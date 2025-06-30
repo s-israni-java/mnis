@@ -5566,5 +5566,77 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:50:40",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I said the reason",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:40",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I said the reason ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:40",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:42",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Af",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:43",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Afte",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:43",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:43",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:43",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:43",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After th",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:43",
+    "BATTERY": "98"
   }
 ]
