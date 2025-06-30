@@ -5846,5 +5846,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:50:53",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After this u just have to observe.",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:53",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After this u just have to observe..",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:53",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After this u just have to observe...",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:53",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "After this u just have to observe...i",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:50:55",
+    "BATTERY": "98"
   }
 ]
