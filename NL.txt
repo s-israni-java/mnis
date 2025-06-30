@@ -43528,5 +43528,25 @@
     "CDATE": "2025-06-30 12:49:16",
     "BATTERY": "61",
     "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haan",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:16",
+    "BATTERY": "61",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Haan Tu Hain",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:49",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
