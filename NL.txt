@@ -37198,5 +37198,15 @@
     "CDATE": "2025-06-30 06:34:06",
     "BATTERY": "27",
     "ID": "388"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Is for you to save -\n>> get Avocado Hass Imported @ ₹86\n>> get Watermelon @ ₹83",
+    "TITLE": "This FREE ₹125 cash...",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 07:17:45",
+    "BATTERY": "45",
+    "ID": "No ID"
   }
 ]
