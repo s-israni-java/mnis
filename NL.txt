@@ -38768,5 +38768,65 @@
     "CDATE": "2025-06-30 09:35:37",
     "BATTERY": "67",
     "ID": "false|Kunal💜|3e94029d-ffcd-4f42-bb6a-3e203d4de654"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:36:15",
+    "BATTERY": "67",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shilpa Rao",
+    "TITLE": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:38:44",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Alka Yagnik, Arijit Singh",
+    "TITLE": "Agar Tum Saath Ho",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:38:44",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shilpa Rao",
+    "TITLE": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:38:44",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shilpa Rao",
+    "TITLE": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:38:44",
+    "BATTERY": "66",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Arijit Singh, Shilpa Rao",
+    "TITLE": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:38:44",
+    "BATTERY": "66",
+    "ID": "No ID"
   }
 ]
