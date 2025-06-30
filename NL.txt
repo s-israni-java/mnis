@@ -36308,5 +36308,115 @@
     "CDATE": "2025-06-30 05:46:53",
     "BATTERY": "41",
     "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:54",
+    "BATTERY": "41",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Comply Action to be performed Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:47:57",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Comply Action to be performed • Dear Associate, You can perform the Comply Action for the following Compliance task(s). The tasks will be visible under Compliance Obligations -> My Compliance Tasks in iComply from tomorrow. S. No. Jurisdiction Law Name Task Name A",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:47:57",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:47:58",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "iComply Alert : Over Due Compliance Tasks • Dear Associate, The following Compliance Task(s) are due in iComply under Compliance Obligations -> My Compliance Tasks as per details given below. Request you to complete these tasks. Compliance Task Details: S. No. Task Name Action By CMU",
+    "TITLE": "iComply Alert",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:47:58",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "simriti.basantani@tcs.com",
+    "TITLE": "New message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:47:58",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "Pay-Slip for the Month of JUN 2025 • Dear TCSer Please find INR payslip for the month of JUN 2025 attached herewith. The attach file is password protected and the default password for the same is in the form of 'EmpID@ddmmyyyy' where EmpID is associate's own EMPID and ddmmyyyy is your D",
+    "TITLE": "India Payroll",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:47:58",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "2 new messages",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:48:06",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "ICICI Bank Retail Card R040625011578",
+    "TITLE": "creditcard",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:48:06",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.gm",
+    "SERVICE": "NL",
+    "MSG": "ICICI Bank Credit Card R040625011578",
+    "TITLE": "creditcard",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:48:06",
+    "BATTERY": "39",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:51:56",
+    "BATTERY": "36",
+    "ID": "No ID"
   }
 ]
