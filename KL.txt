@@ -11670,5 +11670,61 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:56:09",
     "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:09",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:09",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad at",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:09",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad at ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:09",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad at o",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:10",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad at oy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:10",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "U r bad at oyhe",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:56:10",
+    "BATTERY": "87"
   }
 ]
