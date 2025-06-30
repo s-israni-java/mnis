@@ -45058,5 +45058,25 @@
     "CDATE": "2025-06-30 13:48:10",
     "BATTERY": "99",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "So i dont know now",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:48:11",
+    "BATTERY": "99",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:48:11",
+    "BATTERY": "99",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
