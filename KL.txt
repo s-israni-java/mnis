@@ -4446,5 +4446,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:46:02",
     "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:02",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:03",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:03",
+    "BATTERY": "99"
   }
 ]
