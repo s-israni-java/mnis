@@ -40678,5 +40678,45 @@
     "CDATE": "2025-06-30 10:13:39",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Alisha Chinai, Pritam",
+    "TITLE": "Tera Hone Laga Hoon",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:13:40",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Alisha Chinai, Pritam",
+    "TITLE": "Tera Hone Laga Hoon",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:13:40",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Atif Aslam, Alisha Chinai, Pritam",
+    "TITLE": "Tera Hone Laga Hoon",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:13:40",
+    "BATTERY": "61",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Order now with your Zepto Cash😋",
+    "TITLE": "🖐️Stop🖐️ Here's some FREE sugar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:13:43",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
