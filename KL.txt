@@ -10894,5 +10894,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:55:13",
     "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you too",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:13",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you to",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:14",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:14",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you th",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:14",
+    "BATTERY": "87"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "And you thi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:14",
+    "BATTERY": "87"
   }
 ]
