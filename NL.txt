@@ -49818,5 +49818,35 @@
     "CDATE": "2025-06-30 21:32:25",
     "BATTERY": "48",
     "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hello",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 21:32:26",
+    "BATTERY": "48",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Boot cut. Me colors. Aaye. Hai",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 21:32:26",
+    "BATTERY": "48",
+    "ID": "917972168273@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Bhavisha Mam Gym",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 21:32:26",
+    "BATTERY": "48",
+    "ID": "917972168273@s.whatsapp.net"
   }
 ]
