@@ -45788,5 +45788,45 @@
     "CDATE": "2025-06-30 14:46:36",
     "BATTERY": "89",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:36",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:36",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:36",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "You should say it if you feel sorry",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:46:40",
+    "BATTERY": "89",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
