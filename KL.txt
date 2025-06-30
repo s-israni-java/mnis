@@ -4470,5 +4470,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:46:03",
     "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:03",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:03",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:04",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:04",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:06",
+    "BATTERY": "99"
   }
 ]
