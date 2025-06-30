@@ -45688,5 +45688,15 @@
     "CDATE": "2025-06-30 14:44:26",
     "BATTERY": "90",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Messages is doing work in the background",
+    "TITLE": "No title",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:45:37",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
