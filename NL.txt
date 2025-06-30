@@ -41308,5 +41308,125 @@
     "CDATE": "2025-06-30 10:34:38",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 28.00 from A\/c X1248 on 30-JUN-2025\nUPI\/DR\/107274303394\/HungerBox\/YESB\/21107\nBal INR 8,451.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "JM-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:34:39",
+    "BATTERY": "58",
+    "ID": "384"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:09",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:09",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:09",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:09",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, Javed Bashir",
+    "TITLE": "Ye Tune Kya Kiya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:10",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:10",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:11",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:11",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:11",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:11",
+    "BATTERY": "58",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:35:11",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
