@@ -37908,5 +37908,15 @@
     "CDATE": "2025-06-30 09:23:43",
     "BATTERY": "69",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Religious India",
+    "TITLE": "Namami Shamishan",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:29:05",
+    "BATTERY": "68",
+    "ID": "No ID"
   }
 ]
