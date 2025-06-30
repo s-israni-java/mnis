@@ -366,5 +366,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 08:26:31",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey serie",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:32",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey series",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:32",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey series ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:32",
+    "BATTERY": "74"
   }
 ]
