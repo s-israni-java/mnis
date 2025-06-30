@@ -1974,5 +1974,157 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 11:02:40",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nisha eno leke aa rhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:41",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nisha eno leke aa rhi g ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:41",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nisha eno leke aa rhi g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:42",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nisha eno leke aa rhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:42",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nisha eno leke aa rhi h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:42",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Nisha eno leke aa rhi h ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:42",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "To",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:45",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:45",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:45",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh c",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:45",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh cal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:46",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Toh call",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:46",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Message",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:47",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:47",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1 ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:48",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1 m",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:48",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1 mi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:48",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1 min",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:48",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "1 min ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:02:48",
+    "BATTERY": "45"
   }
 ]
