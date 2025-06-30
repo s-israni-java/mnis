@@ -9798,5 +9798,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:44:36",
     "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi ma",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:36",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi maar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:37",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi maara ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:37",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi maara n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:37",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi maara na ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:37",
+    "BATTERY": "90"
   }
 ]
