@@ -42418,5 +42418,45 @@
     "CDATE": "2025-06-30 11:05:11",
     "BATTERY": "44",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:05:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet-Parampara, Parampara Tandon, Kausar Munir",
+    "TITLE": "Raanjhan (From \"Do Patti\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:08:06",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet-Parampara, Parampara Tandon, Kausar Munir",
+    "TITLE": "Raanjhan (From \"Do Patti\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:08:06",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:08:06",
+    "BATTERY": "43",
+    "ID": "No ID"
   }
 ]
