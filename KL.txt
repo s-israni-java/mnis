@@ -2966,5 +2966,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 12:47:51",
     "BATTERY": "58"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:47:51",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Take care ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:47:52",
+    "BATTERY": "58"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:48:08",
+    "BATTERY": "60"
   }
 ]
