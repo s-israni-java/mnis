@@ -37308,5 +37308,55 @@
     "CDATE": "2025-06-30 07:44:45",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 07:45:26",
+    "BATTERY": "57",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "",
+    "TITLE": "",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 07:49:37",
+    "BATTERY": "56",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "0.0 MB \/ 105 MB",
+    "TITLE": "श्री हनुमान चालीसा 🙏🌹| Shree Hanuman Chalisha Original Video | 🌹🙏  | GULSHAN KUMAR",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:32",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "0.0 MB \/ 105 MB",
+    "TITLE": "श्री हनुमान चालीसा 🙏🌹| Shree Hanuman Chalisha Original Video | 🌹🙏  | GULSHAN KUMAR",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:33",
+    "BATTERY": "74",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "1 MB \/ 105 MB",
+    "TITLE": "श्री हनुमान चालीसा 🙏🌹| Shree Hanuman Chalisha Original Video | 🌹🙏  | GULSHAN KUMAR",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:33",
+    "BATTERY": "74",
+    "ID": "No ID"
   }
 ]
