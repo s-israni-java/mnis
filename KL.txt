@@ -302,5 +302,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 08:26:30",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:30",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Are",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:30",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:30",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Arey ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:31",
+    "BATTERY": "74"
   }
 ]
