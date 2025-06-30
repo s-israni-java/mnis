@@ -45428,5 +45428,15 @@
     "CDATE": "2025-06-30 14:34:06",
     "BATTERY": "93",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Credit Card without income proof? YES! Book a Rs.15K FD & apply for a HDFC Bank Credit Card + get a Rs.1500 Voucher: https:\/\/hdfcbk.io\/HDFCBN\/JFFJ6DFB9I4Q T&C",
+    "TITLE": "JM-HDFCBN-P",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:09",
+    "BATTERY": "90",
+    "ID": "435"
   }
 ]
