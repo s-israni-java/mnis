@@ -41908,5 +41908,25 @@
     "CDATE": "2025-06-30 10:52:45",
     "BATTERY": "49",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:52:46",
+    "BATTERY": "49",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Calling",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:52:55",
+    "BATTERY": "49",
+    "ID": "No ID"
   }
 ]
