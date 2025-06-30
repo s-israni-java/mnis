@@ -44088,5 +44088,55 @@
     "CDATE": "2025-06-30 13:16:39",
     "BATTERY": "91",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:16:39",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:16:39",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:16:40",
+    "BATTERY": "91",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:19:59",
+    "BATTERY": "95",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:19:59",
+    "BATTERY": "95",
+    "ID": "No ID"
   }
 ]
