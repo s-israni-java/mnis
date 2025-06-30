@@ -42238,5 +42238,65 @@
     "CDATE": "2025-06-30 11:00:17",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:00:17",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:00:17",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Harshit Saxena",
+    "TITLE": "Hale Dil",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:00:17",
+    "BATTERY": "47",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "‪+91 82914 18946‬",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:01:18",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:01:19",
+    "BATTERY": "46",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming call",
+    "TITLE": "Nisha Tcs",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:01:20",
+    "BATTERY": "46",
+    "ID": "No ID"
   }
 ]
