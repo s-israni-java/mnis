@@ -622,5 +622,21 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 09:18:58",
     "BATTERY": "70"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "anup ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:18:59",
+    "BATTERY": "70"
+  },
+  {
+    "APP": "com.snapchat.android_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "A",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:20:51",
+    "BATTERY": "70"
   }
 ]
