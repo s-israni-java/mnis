@@ -47858,5 +47858,25 @@
     "CDATE": "2025-06-30 15:29:39",
     "BATTERY": "80",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:29:39",
+    "BATTERY": "80",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Dil Ibaadat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:32:48",
+    "BATTERY": "80",
+    "ID": "No ID"
   }
 ]
