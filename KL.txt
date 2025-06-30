@@ -8934,5 +8934,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:42:58",
     "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bcz whenever i say so",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:42:58",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bcz whenever i say sos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:42:58",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bcz whenever i say sor",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:42:59",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bcz whenever i say sorr",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:42:59",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bcz whenever i say sorry",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:42:59",
+    "BATTERY": "90"
   }
 ]
