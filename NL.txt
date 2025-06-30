@@ -41808,5 +41808,25 @@
     "CDATE": "2025-06-30 10:44:10",
     "BATTERY": "52",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Ringing…",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:44:19",
+    "BATTERY": "52",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:46:06",
+    "BATTERY": "52",
+    "ID": "No ID"
   }
 ]
