@@ -262,5 +262,29 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 08:26:27",
     "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm re",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:27",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm rea",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:27",
+    "BATTERY": "74"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I'm read",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:26:27",
+    "BATTERY": "74"
   }
 ]
