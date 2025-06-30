@@ -9934,5 +9934,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:45:30",
     "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dek",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:45:31",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dekh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:45:31",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dekh ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:45:31",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dekh a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:45:31",
+    "BATTERY": "89"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dekh ais",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:45:31",
+    "BATTERY": "89"
   }
 ]
