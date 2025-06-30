@@ -4558,5 +4558,77 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:46:07",
     "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:07",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:08",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:08",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i ne",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:08",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i nee",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:08",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i need",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:08",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i need ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:08",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i need to",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:09",
+    "BATTERY": "99"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "In mrng u said i need to ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:46:09",
+    "BATTERY": "99"
   }
 ]
