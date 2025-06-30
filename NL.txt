@@ -43458,5 +43458,45 @@
     "CDATE": "2025-06-30 12:45:19",
     "BATTERY": "56",
     "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 new messages",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:19",
+    "BATTERY": "56",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Waise fever nahi hai ab",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:19",
+    "BATTERY": "56",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "5 new messages",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:45:20",
+    "BATTERY": "56",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:47:34",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
