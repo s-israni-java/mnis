@@ -47798,5 +47798,45 @@
     "CDATE": "2025-06-30 15:26:29",
     "BATTERY": "81",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Dil Ibaadat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:26:29",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Dil Ibaadat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:26:30",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Dil Ibaadat",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:26:30",
+    "BATTERY": "81",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.photos",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:28:05",
+    "BATTERY": "81",
+    "ID": "No ID"
   }
 ]
