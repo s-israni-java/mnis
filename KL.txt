@@ -9750,5 +9750,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:44:35",
     "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taun",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:35",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:35",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:36",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:36",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:36",
+    "BATTERY": "90"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Abi b taunt hi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:36",
+    "BATTERY": "90"
   }
 ]
