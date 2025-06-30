@@ -37268,5 +37268,15 @@
     "CDATE": "2025-06-30 07:43:18",
     "BATTERY": "57",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Ongoing call",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 07:44:34",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
