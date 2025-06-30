@@ -37648,5 +37648,25 @@
     "CDATE": "2025-06-30 08:43:46",
     "BATTERY": "73",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "FW: Global Provisioning Report - June 2025 • Password : Jun@25 Thanks & Regards, Amit Bandekar Finance, Overseas Payroll Tata Consultancy Services Limited Plant No. 12 Godrej & Boyce Complex, LBS Marg Vikhroli (West) Mumbai - 400079,Maharashtra India. Email : amit.rbandekar@tcs.com F",
+    "TITLE": "Amit Bandekar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:43:46",
+    "BATTERY": "73",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use the Zepto Cash at checkout 🤩",
+    "TITLE": "₹125 FREE cash = yours! 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 08:51:52",
+    "BATTERY": "72",
+    "ID": "No ID"
   }
 ]
