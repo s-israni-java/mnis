@@ -36448,5 +36448,15 @@
     "CDATE": "2025-06-30 06:08:19",
     "BATTERY": "32",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 06:14:41",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
