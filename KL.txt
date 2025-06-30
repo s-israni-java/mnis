@@ -1054,5 +1054,93 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 10:53:50",
     "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi en",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:51",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:51",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:51",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno a",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:52",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno au",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:52",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno aur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:52",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno aur ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:52",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno aur h",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:52",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno aur hi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:53",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno aur hid",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:53",
+    "BATTERY": "48"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": " Koi eno aur hide",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:53:53",
+    "BATTERY": "48"
   }
 ]
