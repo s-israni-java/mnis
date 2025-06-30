@@ -44918,5 +44918,25 @@
     "CDATE": "2025-06-30 13:30:49",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Haan Tu Hain",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:30:49",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.youtube",
+    "SERVICE": "NL",
+    "MSG": "DARR KE MAARE HAALAT KHARAAB😳",
+    "TITLE": "Sambhavna Seth Entertainment",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:43:31",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
