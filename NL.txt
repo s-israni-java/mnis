@@ -42718,5 +42718,15 @@
     "CDATE": "2025-06-30 11:29:50",
     "BATTERY": "39",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use it to save more at the B.I.G Sale 🤩🤩",
+    "TITLE": "FREE ₹125 cash for you 🤑",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:55:38",
+    "BATTERY": "35",
+    "ID": "No ID"
   }
 ]
