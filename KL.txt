@@ -6894,5 +6894,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:52:19",
     "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google phot",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:19",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google photo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:19",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google photos",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:19",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't open google photos ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:20",
+    "BATTERY": "98"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "N",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:52:20",
+    "BATTERY": "98"
   }
 ]
