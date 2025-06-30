@@ -41888,5 +41888,15 @@
     "CDATE": "2025-06-30 10:49:33",
     "BATTERY": "50",
     "ID": "false|Gugu♥️|e00cd163-c319-4812-8ef7-7a58287d3329"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Tap to use the Zepto Cash before it's gone 💵",
+    "TITLE": "Up to ₹150 FREE Cash is expiring 💸",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:52:09",
+    "BATTERY": "49",
+    "ID": "No ID"
   }
 ]
