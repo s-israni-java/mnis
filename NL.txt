@@ -42678,5 +42678,45 @@
     "CDATE": "2025-06-30 11:16:46",
     "BATTERY": "41",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet Tandon, Kunaal Vermaa, The Fusion Project",
+    "TITLE": "Humraah (From \"Malang - Unleash The Madness\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:16:46",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet Tandon, Kunaal Vermaa, The Fusion Project",
+    "TITLE": "Humraah (From \"Malang - Unleash The Madness\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:16:46",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet Tandon, Kunaal Vermaa, The Fusion Project",
+    "TITLE": "Humraah (From \"Malang - Unleash The Madness\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:16:46",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:29:50",
+    "BATTERY": "39",
+    "ID": "No ID"
   }
 ]
