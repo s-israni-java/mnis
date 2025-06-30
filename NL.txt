@@ -44888,5 +44888,35 @@
     "CDATE": "2025-06-30 13:26:08",
     "BATTERY": "100",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Haan Tu Hain",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:30:48",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Haan Tu Hain",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:30:49",
+    "BATTERY": "100",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Pritam, KK",
+    "TITLE": "Haan Tu Hain",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 13:30:49",
+    "BATTERY": "100",
+    "ID": "No ID"
   }
 ]
