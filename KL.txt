@@ -4230,5 +4230,53 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:43:58",
     "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dont want to ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:43:58",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dont want to t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:43:58",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dont want to tal",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:43:59",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dont want to talk",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:43:59",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Dont want to talk?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:43:59",
+    "BATTERY": "100"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "?",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:44:57",
+    "BATTERY": "100"
   }
 ]
