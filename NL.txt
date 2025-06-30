@@ -40238,5 +40238,25 @@
     "CDATE": "2025-06-30 10:01:19",
     "BATTERY": "63",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Kausar Munir",
+    "TITLE": "Maiyya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:01:19",
+    "BATTERY": "63",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Kausar Munir",
+    "TITLE": "Maiyya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:04:52",
+    "BATTERY": "63",
+    "ID": "No ID"
   }
 ]
