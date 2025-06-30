@@ -35958,5 +35958,355 @@
     "CDATE": "2025-06-29 22:30:15",
     "BATTERY": "56",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Your ICICI Bank Credit Card application R040625011578 could not be approved. For details visit https:\/\/icici.co\/ICICIT\/ar\/b37oMz or contact your Sales Manager",
+    "TITLE": "AD-ICICIT-S",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 00:07:06",
+    "BATTERY": "52",
+    "ID": "434"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:15 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:03:03",
+    "BATTERY": "45",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:15 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:15:02",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:20 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:15:14",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:20 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:20:01",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:20:02",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:25 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:20:11",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:20:12",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:25 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:25:00",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:30 am alarm will ring soon.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:25:06",
+    "BATTERY": "44",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:30 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:30:00",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:35 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:30:06",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm ringing",
+    "TITLE": "5:35 am",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:35:00",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:35:01",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "Alarm will ring again at 5:40 am.",
+    "TITLE": "Wake up",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:35:05",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "No title",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:35:05",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.coloros.alarmclock",
+    "SERVICE": "NL",
+    "MSG": "The 5:45 am alarm will ring soon.",
+    "TITLE": "Alarm",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:35:31",
+    "BATTERY": "43",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.android.systemui",
+    "SERVICE": "NL",
+    "MSG": "Torch turned on",
+    "TITLE": "Torch",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 05:36:19",
+    "BATTERY": "42",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:41",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hey universe... may me and my girlfriend be husband and wife soon...and all the problems within us be resolved soon...and we have a best married life together..and our Love increase",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:44",
+    "BATTERY": "41",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:44",
+    "BATTERY": "41",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Chl bablu I'm sleeping \nGood night.\nSweet dreams.\nTake care \nI love you 💖",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:44",
+    "BATTERY": "41",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:44",
+    "BATTERY": "41",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Taniya Thakur 🤍",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:44",
+    "BATTERY": "41",
+    "ID": "false|Taniya Thakur 🤍|cb017ba2-5a09-42ea-8664-693c04288ffd"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Yogesh Chandwani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:45",
+    "BATTERY": "41",
+    "ID": "false|Yogesh Chandwani|841ff96e-44a9-4266-8dfb-b1315a05c54d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Aadi Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:45",
+    "BATTERY": "41",
+    "ID": "false|Aadi Ochani|2004a20d-c384-4a25-bb6c-052f3d0fc8e1"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Mayur",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:46",
+    "BATTERY": "41",
+    "ID": "false|Mayur|098cc409-35c7-4687-bfbf-cdedb9fbfc16"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a Snap • 🔥",
+    "TITLE": "Nayan Wanjare",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:46",
+    "BATTERY": "41",
+    "ID": "false|Nayan Wanjare|5224105e-144f-4f2c-b95e-19742682b66d"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "New Snap from Mayur",
+    "TITLE": "Mayur,Ritika",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:47",
+    "BATTERY": "41",
+    "ID": "true|Mayur,Ritika|192e4bd4-d370-42e0-94a9-34a5088c4876"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:47",
+    "BATTERY": "41",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: EUROPE  SUB USD,EUR,GBP,SEK,CHF,CZK,RON  - Switzerland, Luxemburg, Austria, Italy, Sweden, France ,Germany,CZK, Romania & Spain  CITI Bank Reconciliation_as on_29_June-2025_2nd Cut Dear All, Please find attached EUROPE USD,EUR,GBP,SEK,CHF,CZK,RON - Switzerland, Luxemburg, Austria, Italy, Sweden, France, Germany, CZK, Romania, Estonia & Spain CITI Bank Reconciliation as on 29-June-25. Please account all open items on priority",
+    "TITLE": "DURGESH  BHANDARI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:51",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.microsoft.office.outlook",
+    "SERVICE": "NL",
+    "MSG": "RE: EUROPE  SUB USD,EUR,GBP,SEK,CHF,CZK,RON  - Switzerland, Luxemburg, Austria, Italy, Sweden, France ,Germany,CZK, Romania & Spain  CITI Bank Reconciliation_as on_29_June-2025_2nd Cut • Dear All, Please find attached EUROPE USD,EUR,GBP,SEK,CHF,CZK,RON - Switzerland, Luxemburg, Austria, Italy, Sweden, France, Germany, CZK, Romania, Estonia & Spain CITI Bank Reconciliation as on 29-June-25. Please account all open items on priority",
+    "TITLE": "DURGESH  BHANDARI",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:51",
+    "BATTERY": "41",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:53",
+    "BATTERY": "41",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "replied to your Chat",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:53",
+    "BATTERY": "41",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "sent you a chat • 🔥",
+    "TITLE": "Anjali Ochani",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 05:46:53",
+    "BATTERY": "41",
+    "ID": "false|Anjali Ochani|bab8a053-bee8-4664-b568-b662bc934bc9"
   }
 ]
