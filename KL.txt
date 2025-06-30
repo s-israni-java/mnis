@@ -2350,5 +2350,117 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 11:03:04",
     "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad rep",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:04",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad repl",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:05",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:05",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:05",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:05",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:05",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:05",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia t",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:06",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia tu",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:06",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia tuj",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:06",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia tuje ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:06",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia tuje",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:07",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Vc ke 1 min baad reply kia tune ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:07",
+    "BATTERY": "45"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "O",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 11:03:42",
+    "BATTERY": "45"
   }
 ]
