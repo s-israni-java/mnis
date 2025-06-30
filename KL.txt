@@ -7462,5 +7462,45 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 14:39:13",
     "BATTERY": "91"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Hello sis",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:39:13",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Hello sist",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:39:13",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Hello siste",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:39:13",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Hello sister",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:39:13",
+    "BATTERY": "91"
+  },
+  {
+    "APP": "com.instagram.android_android.widget.AutoCompleteTextView",
+    "SERVICE": "KL",
+    "MSG": "Hello sisters",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:39:14",
+    "BATTERY": "91"
   }
 ]
