@@ -37168,5 +37168,35 @@
     "CDATE": "2025-06-30 06:29:29",
     "BATTERY": "28",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 19 MB of 20 MB (95%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 06:29:29",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Uploading: 20 MB of 20 MB (100%)",
+    "TITLE": "Backup in progress",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 06:29:31",
+    "BATTERY": "28",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Update! INR 20,509.00 deposited in HDFC Bank A\/c XX4829 on 30-JUN-25 for NEFT Cr-CITI0100000-TATA CONSULTANCY SERVICES LIMITED-SIMRITI VIJAYKUMAR BASANTANI-CITIN52025063085999702.Avl bal INR 68,747.00. Cheque deposits in A\/C are subject to clearing",
+    "TITLE": "JM-HDFCBK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 06:34:06",
+    "BATTERY": "27",
+    "ID": "388"
   }
 ]
