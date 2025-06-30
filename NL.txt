@@ -45348,5 +45348,25 @@
     "CDATE": "2025-06-30 13:55:20",
     "BATTERY": "97",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.zeptoconsumerapp",
+    "SERVICE": "NL",
+    "MSG": "Use the ₹125 free wallet cash before it expires.",
+    "TITLE": "🔔 REMINDER",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:55:32",
+    "BATTERY": "97",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:55:32",
+    "BATTERY": "97",
+    "ID": "No ID"
   }
 ]
