@@ -12782,5 +12782,133 @@
     "NETWORK": "W",
     "CDATE": "2025-06-30 15:06:24",
     "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u sto",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:25",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:25",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:25",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop g",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:26",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop gi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:27",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giv",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:27",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop givi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:27",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giving",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:27",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giving ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:27",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giving t",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:28",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giving tau",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:28",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giving taunt",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:28",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u stop giving taunts ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "L",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Le",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:29",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Let",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:30",
+    "BATTERY": "84"
   }
 ]
