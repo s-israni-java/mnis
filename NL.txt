@@ -39608,5 +39608,295 @@
     "CDATE": "2025-06-30 09:52:38",
     "BATTERY": "65",
     "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 482 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:52:45",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 484 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:52:51",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 487 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:52:58",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 489 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:08",
+    "BATTERY": "65",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 491 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:18",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 493 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:27",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 496 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:37",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:41",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:41",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:41",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:42",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 498 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:48",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:55",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:55",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:55",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:56",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 501 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:53:57",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 503 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:54:01",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 505 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:54:05",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "android",
+    "SERVICE": "NL",
+    "MSG": "You've used 507 MB of mobile data today.",
+    "TITLE": "Daily data limit exceeded",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:54:06",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:19",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:19",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:20",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:20",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:20",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:20",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:20",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 09:54:20",
+    "BATTERY": "64",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "TITLE": "Ishq",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 09:55:23",
+    "BATTERY": "64",
+    "ID": "No ID"
   }
 ]
