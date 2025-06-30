@@ -49878,5 +49878,15 @@
     "CDATE": "2025-06-30 21:43:58",
     "BATTERY": "47",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 240.00 from A\/c X1248 on 30-JUN-2025\nUPI\/DR\/107316685910\/Paaji Malai Chaap Wa\nBal INR 8,171.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "VM-AUBANK-S",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 21:52:10",
+    "BATTERY": "46",
+    "ID": "415"
   }
 ]
