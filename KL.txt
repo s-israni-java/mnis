@@ -3710,5 +3710,189 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 12:49:57",
     "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:57",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:57",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok ba",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:58",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok bas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:58",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok basm",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:58",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok basme",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:58",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok basme ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:58",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok basme",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:59",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:59",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme e",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:00",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme ea",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:00",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme eas",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:00",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easy",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:00",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easya",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:01",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyau",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:01",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyaut",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:01",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:01",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:01",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth k",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:05",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth ka",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:05",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth kar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:06",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth kar ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:06",
+    "BATTERY": "61"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Ok badme easyauth kar d",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:50:07",
+    "BATTERY": "61"
   }
 ]
