@@ -41008,5 +41008,25 @@
     "CDATE": "2025-06-30 10:22:43",
     "BATTERY": "60",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
+    "TITLE": "Saibo",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 10:25:06",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
+    "TITLE": "Saibo",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:25:06",
+    "BATTERY": "60",
+    "ID": "No ID"
   }
 ]
