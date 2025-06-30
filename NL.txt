@@ -45448,5 +45448,35 @@
     "CDATE": "2025-06-30 14:44:13",
     "BATTERY": "90",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Genuine hota hai toh wapis same galti q hoti h",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:13",
+    "BATTERY": "90",
+    "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:13",
+    "BATTERY": "90",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:44:14",
+    "BATTERY": "90",
+    "ID": "No ID"
   }
 ]
