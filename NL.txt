@@ -43378,5 +43378,45 @@
     "CDATE": "2025-06-30 12:44:36",
     "BATTERY": "55",
     "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Hi",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:44:37",
+    "BATTERY": "55",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:44:53",
+    "BATTERY": "55",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Actually weakness lag raha hai bahut",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:44:54",
+    "BATTERY": "55",
+    "ID": "919920836844@s.whatsapp.net"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "2 new messages",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:44:54",
+    "BATTERY": "55",
+    "ID": "919920836844@s.whatsapp.net"
   }
 ]
