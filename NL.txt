@@ -37228,5 +37228,15 @@
     "CDATE": "2025-06-30 07:37:11",
     "BATTERY": "55",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.google.android.dialer",
+    "SERVICE": "NL",
+    "MSG": "Incoming Wi‑Fi call",
+    "TITLE": "‪+91 86984 23278‬",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 07:43:14",
+    "BATTERY": "57",
+    "ID": "No ID"
   }
 ]
