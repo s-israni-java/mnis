@@ -7198,5 +7198,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 13:53:34",
     "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't g",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:53:35",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't ga",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:53:35",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't gave",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:53:36",
+    "BATTERY": "97"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "I don't have ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 13:53:36",
+    "BATTERY": "97"
   }
 ]
