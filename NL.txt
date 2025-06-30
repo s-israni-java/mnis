@@ -41298,5 +41298,15 @@
     "CDATE": "2025-06-30 10:32:05",
     "BATTERY": "58",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Your order from 79 Chinese has been received",
+    "TITLE": "Order Received!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:34:38",
+    "BATTERY": "58",
+    "ID": "No ID"
   }
 ]
