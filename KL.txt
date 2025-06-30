@@ -2990,5 +2990,37 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 12:48:08",
     "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Si",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:48:08",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:48:08",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sir ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:48:08",
+    "BATTERY": "60"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Sir ek",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:48:09",
+    "BATTERY": "60"
   }
 ]
