@@ -42768,5 +42768,15 @@
     "CDATE": "2025-06-30 12:27:16",
     "BATTERY": "31",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:27:47",
+    "BATTERY": "32",
+    "ID": "No ID"
   }
 ]
