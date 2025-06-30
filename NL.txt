@@ -45938,5 +45938,55 @@
     "CDATE": "2025-06-30 14:47:02",
     "BATTERY": "89",
     "ID": "918698423278@s.whatsapp.net"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 14:47:11",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 14:47:11",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 14:47:11",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "KK, Suzanne",
+    "TITLE": "Tum Ho Mera Pyar",
+    "NETWORK": "NA",
+    "CDATE": "2025-06-30 14:47:11",
+    "BATTERY": "89",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Checking for new messages",
+    "TITLE": "WhatsApp",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:47:19",
+    "BATTERY": "89",
+    "ID": "No ID"
   }
 ]
