@@ -758,5 +758,125 @@
     "NETWORK": "M",
     "CDATE": "2025-06-30 10:42:07",
     "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snapn",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:07",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:08",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:08",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap n",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:08",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:08",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:09",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:09",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi b",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:09",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bh",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:09",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bhej",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:09",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bheja ",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:10",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bheja r",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:10",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bheja ru",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:10",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bheja run",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:10",
+    "BATTERY": "54"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Snap nhi bheja rune",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:42:10",
+    "BATTERY": "54"
   }
 ]
