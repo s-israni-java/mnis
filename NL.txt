@@ -46048,5 +46048,25 @@
     "CDATE": "2025-06-30 14:55:42",
     "BATTERY": "87",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "shared some Snaps with you!",
+    "TITLE": "Bhavana Basutkar",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:43",
+    "BATTERY": "87",
+    "ID": "false|Bhavana Basutkar|3c676d44-a856-4765-ade2-9e6c6c11bbe6"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "No iam not....i know that...but iam not bat at above things",
+    "TITLE": "Sagar❤️",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 14:55:59",
+    "BATTERY": "87",
+    "ID": "918698423278@s.whatsapp.net"
   }
 ]
