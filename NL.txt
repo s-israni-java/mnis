@@ -40758,5 +40758,15 @@
     "CDATE": "2025-06-30 10:14:35",
     "BATTERY": "61",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.spotify.music",
+    "SERVICE": "NL",
+    "MSG": "Arijit Singh",
+    "TITLE": "Humdard (From \"Ek Villain\")",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 10:18:20",
+    "BATTERY": "61",
+    "ID": "No ID"
   }
 ]
