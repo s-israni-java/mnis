@@ -15262,5 +15262,85 @@
     "NETWORK": "W",
     "CDATE": "2025-06-30 15:33:17",
     "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:18",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:18",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas d",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:18",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dh",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:18",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dham",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:18",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dhamk",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:18",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dhamki",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:19",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dhamki ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:19",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dhamki h",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:19",
+    "BATTERY": "80"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Bas dhamki hi",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:33:19",
+    "BATTERY": "80"
   }
 ]
