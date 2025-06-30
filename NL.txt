@@ -43508,5 +43508,25 @@
     "CDATE": "2025-06-30 12:47:55",
     "BATTERY": "58",
     "ID": "false|Kunal💜 and 4 others|3e94029d-ffcd-4f42-bb6a-3e203d4de654"
+  },
+  {
+    "APP": "com.snapchat.android",
+    "SERVICE": "NL",
+    "MSG": "No message",
+    "TITLE": "Updating messages…",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:48:33",
+    "BATTERY": "60",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.whatsapp",
+    "SERVICE": "NL",
+    "MSG": "Haan",
+    "TITLE": "Amit Sir",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:49:16",
+    "BATTERY": "61",
+    "ID": "919920836844@s.whatsapp.net"
   }
 ]
