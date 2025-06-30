@@ -12718,5 +12718,69 @@
     "NETWORK": "W",
     "CDATE": "2025-06-30 15:06:23",
     "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Fir",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:23",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "Firs",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:23",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:23",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:24",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:24",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u ",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:24",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u s",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:24",
+    "BATTERY": "84"
+  },
+  {
+    "APP": "com.whatsapp_android.widget.EditText",
+    "SERVICE": "KL",
+    "MSG": "First u st",
+    "NETWORK": "W",
+    "CDATE": "2025-06-30 15:06:24",
+    "BATTERY": "84"
   }
 ]
