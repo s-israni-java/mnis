@@ -42728,5 +42728,45 @@
     "CDATE": "2025-06-30 11:55:38",
     "BATTERY": "35",
     "ID": "No ID"
+  },
+  {
+    "APP": "com.google.android.apps.messaging",
+    "SERVICE": "NL",
+    "MSG": "Debited INR 40.00 from A\/c X1248 on 30-JUN-2025\nUPI\/DR\/107279840784\/HungerBox\/YESB\/21107\nBal INR 8,411.65\nNot you? Call 180012001200 & dial 0\n-AU Bank",
+    "TITLE": "AX-AUBANK-S",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:21:22",
+    "BATTERY": "30",
+    "ID": "389"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Haldirams Moong Dal, Amul Cup Icecream 30 Rs are ready!",
+    "TITLE": "Your food is ready!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:21:26",
+    "BATTERY": "30",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.hungerbox.customer.common",
+    "SERVICE": "NL",
+    "MSG": "Haldirams Moong Dal, Amul Cup Icecream 30 Rs from your order have been delivered!",
+    "TITLE": "Order Delivered!",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:21:56",
+    "BATTERY": "29",
+    "ID": "No ID"
+  },
+  {
+    "APP": "com.tcs.totp",
+    "SERVICE": "NL",
+    "MSG": "View EasyAuth",
+    "TITLE": "New Ultimatix Login",
+    "NETWORK": "M",
+    "CDATE": "2025-06-30 12:27:16",
+    "BATTERY": "31",
+    "ID": "No ID"
   }
 ]
